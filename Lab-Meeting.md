@@ -7,7 +7,7 @@
 * Oct 14:
 * Oct 21: (Morgan gone)
 * Oct 28: (WEC Faculty Retreat)
-* Nov 4:
+* Nov 4:  Ellen
 * Nov 11: UF Holiday - No Lab Meeting
 * Nov 18: Erica
 * Nov 25: Thanksgiving - No Lab Meeting

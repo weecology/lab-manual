@@ -1,4 +1,4 @@
-* Sept 2: 
+* Sept 2: Intro
 * Sept 9: (Ethan gone)
 * Sept 16: Dave
 * Sept 23:

@@ -9,7 +9,7 @@
 * Oct 28: (WEC Faculty Retreat)
 * Nov 4:
 * Nov 11: UF Holiday - No Lab Meeting
-* Nov 18:
+* Nov 18: Erica
 * Nov 25: Thanksgiving - No Lab Meeting
 * Dec 2:
 * Dec 9:

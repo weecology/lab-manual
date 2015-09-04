@@ -1,6 +1,6 @@
 * Sept 2: 
 * Sept 9: (Ethan gone)
-* Sept 16:
+* Sept 16: Dave
 * Sept 23:
 * Sept 30:
 * Oct 7: (Ethan gone)

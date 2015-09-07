@@ -4,8 +4,8 @@
 * Sept 23:
 * Sept 30:
 * Oct 7: (Ethan gone)
-* Oct 14:
-* Oct 21: (Morgan gone)
+* Oct 14: 
+* Oct 21: (Morgan gone) Shawn
 * Oct 28: (WEC Faculty Retreat)
 * Nov 4:  Ellen
 * Nov 11: UF Holiday - No Lab Meeting

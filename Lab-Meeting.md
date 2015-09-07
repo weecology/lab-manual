@@ -11,5 +11,5 @@
 * Nov 11: UF Holiday - No Lab Meeting
 * Nov 18: Erica
 * Nov 25: Thanksgiving - No Lab Meeting
-* Dec 2:
+* Dec 2: Zack - Defense Prep
 * Dec 9:

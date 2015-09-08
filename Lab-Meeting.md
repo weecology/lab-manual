@@ -4,7 +4,7 @@
 * Sept 23:
 * Sept 30:
 * Oct 7: (Ethan gone)
-* Oct 14: 
+* Oct 14: Kristina -- manuscript draft
 * Oct 21: (Morgan gone) Shawn
 * Oct 28: (WEC Faculty Retreat)
 * Nov 4:  Ellen

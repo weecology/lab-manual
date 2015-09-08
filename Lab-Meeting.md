@@ -12,4 +12,4 @@
 * Nov 18: Erica
 * Nov 25: Thanksgiving - No Lab Meeting
 * Dec 2: Zack - Defense Prep
-* Dec 9:
+* Dec 9: Kari

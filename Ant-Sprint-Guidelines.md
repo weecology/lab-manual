@@ -1,9 +1,24 @@
 # Data Entry
 
 * Use Template file
-* Stake data: enter as one unit (c-1 is c1)
+* Month, Day, Year Columns:
+   * Split the date into the appropriate column
+   * Keep an eye on the date. Different plots will be surveyed on different days
+* Plot:
+ * Plot # (sometimes called pen #) will usually be at top of page. Sometimes two plots are recorded per page
+* Stake data:
+   * Depending on the year, stake is recorded as a letter/number combo or numbers.
    * Do not hyphenate or capitalize stakes (e.g. c1 not c-1 or C1, 11 not 1-1)
-* Species names: enter first 4 letters of genus and species names (e.g. Pheidole xyloni = Phei xylo)
-* Parentheses: the number in the parentheses (not always present) should be entered in the Parentheses column
-* Ask: This is old eccentric data. Ask Erica or Morgan if you have questions
+* Species names: 
+ * Displayed either across top or in column titled 'other' (some years do not have the other column)
+ * If displayed as full species name (Genus species): enter first 4 letters of genus and species names (e.g. Pheidole xyloni = Phei xylo)
+ * If already shortened, enter the shortened version (Ph.x.) but do not include . (e.g. Ph.x. = Phx)
+* Number:
+ * This is the number of colonies. Enter the number given.
+* Notes in parentheses need to be dealt with differently depending on what they are: 
+ * Either records the number of openings seen (e.g., (3)) or location (3m NW G1).
+ * (number): enter under Parentheses column
+ * (location): enter under Notes
+
+* **Ask**: This is old eccentric data. Ask Erica or Morgan if you have any questions
 

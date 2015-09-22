@@ -28,5 +28,5 @@
  * only records prescence. So no numbers just stakes
  * stakes make be records as a1-a7
  * when entering, enter each stake number separately and put count as 1
- * Count looks like: 1(3);1(2): combine the values into one entry: count = 2, parenthese = 5
+* Count looks like: 1(3);1(2): combine the values into one entry: count = 2, parenthese = 5
  

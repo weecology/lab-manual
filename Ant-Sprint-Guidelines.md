@@ -22,3 +22,9 @@
 
 * **Ask**: This is old eccentric data. Ask Erica or Morgan if you have any questions
 
+## Weird(er) Things
+
+* Solenopsis/solA/solB
+ * only records prescence. So no numbers just stakes
+ * stakes make be records as a1-a7
+ * when entering, enter each stake number separately and put count as 1

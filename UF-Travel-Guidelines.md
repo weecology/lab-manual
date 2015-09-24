@@ -2,8 +2,8 @@
 
 Do I need to read this?
 Is your traveling being paid for by UF (either Morgan, Ethan, or some other source)?
-           * Yes? Then read on.
-            * No? Coordinate with whomever is paying your travel.
+Yes? Then read on.
+No? Coordinate with whomever is paying your travel.
 
 The travel reimbursement process at UF can be broken down into 2 major steps: 1) Approval of pending travel (TAR), 2) Being reimbursed for travel (TER)
  

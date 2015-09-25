@@ -1,6 +1,5 @@
 # Portal Trips
 
-![](https://www.flickr.com/photos/92510729@N02/16623633304/in/datetaken/)
 
 This page will (hopefully) remain an up-to-date list of future Portal trip dates: consider this an open invitation to lab members to come down and get involved in the data-collection process, as we always need one volunteer per trip.  Generally we fly out of Gainesville on a Thursday afternoon and return the following Monday afternoon.  If you see an open volunteer spot you would like to take, just email either Ellen or Erica to claim it!
 

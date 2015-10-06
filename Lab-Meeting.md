@@ -3,7 +3,7 @@
 * Sept 16: Dave
 * Sept 23: Morgan ([Ant Sprint](https://github.com/weecology/lab-wiki/wiki/Ant-Sprint-Guidelines))
 * Sept 30: Sergio
-* Oct 7: (Ethan gone)
+* Oct 7: (Ethan gone) Ant Sprint part 2! 
 * Oct 14: Kristina -- manuscript draft
 * Oct 21: (Morgan gone) Shawn
 * Oct 28: (WEC Faculty Retreat)

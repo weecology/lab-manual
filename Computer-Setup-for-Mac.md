@@ -98,3 +98,4 @@ The repository that was created above is the remote repository. This can be acce
 
 Adding files, pushing and pulling:
 
+Good, in-depth resource on how to write good git commits [here] (http://chris.beams.io/posts/git-commit/) 

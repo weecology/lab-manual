@@ -68,7 +68,7 @@ Creating a GitHub repository:
 
 3. In the upper right hand corner, click on the green "New" button. 
 
-4. In this page, name the repo, preferably something short and succinct that uniquely describes the project. 
+4. In this page, name the repo, preferably something short and succinct that uniquely describes the project. Also, there should be no spaces in repository names. If the name consists of multiple words, separate them by an underscore, dash, or camel case, e.g., mammal_community_dynamics, mammal-community-dynamics, MammalCommunityDynamics. 
 
 5. Select if the repo will be public or private. Keep in mind that you have a limited number of private repos for free, so most of your repos will likely be public. Having your research publicly available also makes for better science. 
 
@@ -96,6 +96,24 @@ The repository that was created above is the remote repository. This can be acce
 
 7. Hit enter. This should create a new folder in the chosen directory that has the same name as the remote repo. This is your local repository. 
 
-Adding files, pushing and pulling:
+Adding files and commits to local repository: 
 
-Good, in-depth resource on how to write good git commits [here] (http://chris.beams.io/posts/git-commit/) 
+An important aspect of git/GitHub is version control. As you change scripts, you can use git to save all the different versions of scripts and then use GitHub later on to easily look at each of these versions. Then, if you mess up your code or don't like the direction it's heading in, you can access and use a previous version of your script very easily. 
+
+The way that you save these versions using git is by doing something called a commit. Each commit represents a different version of a script. Because you choose when to do a commit, you get to choose how different all of the versions of the script are. You should definitely make a commit for every major change in the code that you make, but you can never commit too often. When in doubt, commit. 
+
+Another important, and confusing, step in this process is adding the script. Before you can commit the newest version of a script, you have to add that script to the stage. This means that if you've changed several of the scripts within one local repository, you can add all of these scripts to the stage and commit them together, or you can add one script to the stage and commit it at a time. 
+
+1. Create a new script (in Python, R, or whatever language) and save the script in the folder for the local repository you've just created. Similar to the names of repositories, there should be no spaces in script names. See the fourth bullet point in the "Creating a GitHub Repository" section for naming conventions. 
+
+2. If you are not already there, open up the Terminal and navigate to the local repository folder using the "cd" command. 
+
+3. To add the script, type in "git add " and then the name of the script, and then hit enter. (There should be a space between the add command and the script name). The script is now on the stage. Optional: You can repeat this multiple times in a row with different script names if you're adding multiple scripts to the stage at the same time. 
+
+4. Now you want to commit this version of the script. In the Terminal, type in "git commit -m "_message_" and hit enter. The _message_ is where you will insert a succinct, informative description of what changed between the last version and this newest version of the script. Writing good commit messages is a bit of an art, but there is some good information [here] (http://chris.beams.io/posts/git-commit/) on good commit messages. 
+
+TODO: add in information about using git status and git log to check out what's going on
+
+Pushing and pulling:
+
+TODO: add summary here (about getting changes up to GitHub repository)

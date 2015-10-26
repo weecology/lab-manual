@@ -9,7 +9,7 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
 * Oct 8-12 (Erica)
   * _Volunteer: Maya from UA_
-* Nov 5-9 (Ellen)
+* Nov 12-15 (Ellen)
   * _Volunteer: Jessica from Stanford_
 * **Dec 10-14** (Erica)
   * _Volunteer:_

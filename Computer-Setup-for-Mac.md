@@ -108,11 +108,17 @@ Another important, and confusing, step in this process is adding the script. Bef
 
 2. If you are not already there, open up the Terminal and navigate to the local repository folder using the "cd" command. 
 
-3. To add the script, type in "git add " and then the name of the script, and then hit enter. (There should be a space between the add command and the script name). The script is now on the stage. Optional: You can repeat this multiple times in a row with different script names if you're adding multiple scripts to the stage at the same time. 
+3. To add the script, type in "git add " and then the name of the script, and then hit enter. (There should be a space between the add command and the script name). The script is now on the stage. Optional: You can repeat this multiple times in a row with different script names if you're adding multiple scripts to the stage at the same time.
 
-4. Now you want to commit this version of the script. In the Terminal, type in "git commit -m "_message_" and hit enter. The _message_ is where you will insert a succinct, informative description of what changed between the last version and this newest version of the script. Writing good commit messages is a bit of an art, but there is some good information [here] (http://chris.beams.io/posts/git-commit/) on good commit messages. 
+4. To make sure that the script has been added, type in "git status" and hit Enter. This will bring up information about the repo that you are currently looking at. If you've correctly added the script, under the "Changes to be committed:" header, there should be an indented bit of text that will be formatted as "modified: " and the name of the script you've added.  
 
-TODO: add in information about using git status and git log to check out what's going on
+5. Now you want to commit this version of the script. In the Terminal, type in "git commit -m "_message_" and hit enter. The _message_ is where you will insert a succinct, informative description of what changed between the last version and this newest version of the script. Writing good commit messages is a bit of an art, but there is some information [here] (http://chris.beams.io/posts/git-commit/) on good commit messages. 
+
+6. You can use git status again to check that the commit worked. Type in "git status" and hit Enter. Now the entire "Changes to be committed:" section should be gone, because there should no longer be any changes that haven't been committed in this repo. 
+
+7. You can look at this commit, and all previous commits, by typing in "git log" and hitting Enter. This will bring up a list of the commits, with the most recent commit at the top. The information about each commit includes the author, date, and message of the commit. At the top of each commit, there is a long string of letters and numbers. This is the hash, or unique identifier, for each commit. 
+
+8. You will do this add and commit workflow (steps 2-7) each time you make a substantial change to this script, or when you want to add another script. 
 
 Pushing and pulling:
 

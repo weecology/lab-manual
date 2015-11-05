@@ -34,7 +34,7 @@ _Using git/GitHub_
 
 **Git/GitHub**
 
-Resources: [Software Carpentry] (http://swcarpentry.github.io/git-novice/), [Jenny Bryan's course website](http://stat545-ubc.github.io/git00_index.html)
+Resources: [Software Carpentry] (http://swcarpentry.github.io/git-novice/), [Jenny Bryan's course website](http://stat545-ubc.github.io/git00_index.html), [Roger Dudler cheatsheet] (http://rogerdudler.github.io/git-guide/) 
 
 _Installing git_
 

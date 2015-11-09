@@ -11,8 +11,8 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
   * _Volunteer: Maya from UA_
 * Nov 12-15 (Ellen)
   * _Volunteer: Jessica from Stanford_
-* **Dec 10-14** (Erica)
-  * _Volunteer:_
+* Dec 10-14 (Erica)
+  * _Volunteer: Noah_
 * **Jan 7-11** (Ellen)
   * _Volunteer:_
 * **Feb 4-8** (Erica)

@@ -35,3 +35,8 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 * It will definitely be quite hot in May - August
 * There may or may not be cell reception at the site (Verizon seems to do ok, although no 3G)
 * If you love plants, consider coming down for our week-long plant censuses in March and August
+
+### All the forms
+* Travel Authorization - to be turned in prior to trip
+* Travel Expense Report - to be turned in after trip
+* [P-card invoice record](http://www.wec.ufl.edu/resources/fiscal/Invoice%20Record.pdf) - to be attached to each p-card purchase

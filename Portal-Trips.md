@@ -37,6 +37,8 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 * If you love plants, consider coming down for our week-long plant censuses in March and August
 
 ### All the forms
-* Travel Authorization - to be turned in prior to trip
-* Travel Expense Report - to be turned in after trip
+* [Travel Authorization](http://www.wec.ufl.edu/resources/travel/Travel%20Authorization%201.2.pdf) - to be turned in prior to trip
+* [Travel Expense Report](http://www.wec.ufl.edu/resources/travel/Travel%20Expense%20Report%201.2.pdf) - to be turned in after trip
 * [P-card invoice record](http://www.wec.ufl.edu/resources/fiscal/Invoice%20Record.pdf) - to be attached to each p-card purchase
+* [Record of Volunteer Service](http://hr.ufl.edu/wp-content/uploads/forms/emp_relations/volunteer.pdf) - to be turned in prior to trip, for every volunteer whether or not they will be handling animals
+* [Supervisor Checklist](http://webfiles.ehs.ufl.edu/jobduty.pdf) - also has to be done for each volunteer.  This is where you declare if the volunteer will be handling animals or not

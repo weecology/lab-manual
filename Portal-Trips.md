@@ -42,3 +42,4 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 * [P-card invoice record](http://www.wec.ufl.edu/resources/fiscal/Invoice%20Record.pdf) - to be attached to each p-card purchase
 * [Record of Volunteer Service](http://hr.ufl.edu/wp-content/uploads/forms/emp_relations/volunteer.pdf) - to be turned in prior to trip, for every volunteer whether or not they will be handling animals
 * [Supervisor Checklist](http://webfiles.ehs.ufl.edu/jobduty.pdf) - also has to be done for each volunteer.  This is where you declare if the volunteer will be handling animals or not
+* [Animal Contact Form](http://webfiles.ehs.ufl.edu/ACForm.pdf) - only needed if volunteer will be handling the animals.  Tetanus shot required.

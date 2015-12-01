@@ -14,7 +14,7 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 * Dec 10-14 (Erica)
   * _Volunteer: Noah_
 * **Jan 7-11** (Ellen)
-  * _Volunteer:_
+  * _Volunteer: Iliya_
 * **Feb 4-8** (Erica)
   * _Volunteer:_
 

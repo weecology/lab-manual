@@ -12,7 +12,7 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 * **Feb 4-8** (Erica)
   * _Volunteer:_
 * **March** (Plants, dates TBD)
-  * _Volunteer:_ Shawn
+  * _Volunteers:_ Shawn
 * **April 8-10** 
   * _Volunteer:_
 * **May 6-8**

@@ -13,9 +13,12 @@ Projects:
 
 ### To Buy: 
 * spray paint to mark stakes (two colors)
-* hardware cloth?
-* flashing?
-* 
+* hardware cloth? - we have one or two 10ft rolls already. 1/4" mesh
+* flashing? - there is some floating around the ramada
+* steel cable?
+* fence stretcher?
+* pop rivets for attaching flashing to hardware cloth
+* hole punch to punch holes in flashing
 
 
  

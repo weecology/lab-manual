@@ -4,7 +4,7 @@
 * Feb 3: 
 * Feb 10: 
 * Feb 17: 
-* Feb 24: 
+* Feb 24: Kristina
 * Mar 2: SPRING BREAK/Morgan out of town
 * Mar 9: 
 * Mar 16: Erica

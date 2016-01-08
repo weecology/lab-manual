@@ -7,7 +7,7 @@
 * Feb 24: 
 * Mar 2: SPRING BREAK/Morgan out of town
 * Mar 9: 
-* Mar 16:  
+* Mar 16: Erica
 * Mar 23: PLANT CENSUS/(Portal Crew out of town)
 * Mar 30: 
 * Apr 6: 

@@ -1,15 +1,16 @@
-* Sept 2: Intro
-* Sept 9: (Ethan gone)
-* Sept 16: Dave
-* Sept 23: Morgan ([Ant Sprint](https://github.com/weecology/lab-wiki/wiki/Ant-Sprint-Guidelines))
-* Sept 30: Sergio
-* Oct 7: (Ethan gone) Ant Sprint part 2! 
-* Oct 14: Kristina -- manuscript draft
-* Oct 21: (Morgan gone) Shawn
-* Oct 28: (WEC Faculty Retreat)
-* Nov 4:  Ellen
-* Nov 11: UF Holiday - No Lab Meeting
-* Nov 18: Erica
-* Nov 25: Thanksgiving - No Lab Meeting
-* Dec 2: Joan -- practice talk for MS defense
-* Dec 9: Kari
+* Jan 13: 
+* Jan 20: 
+* Jan 27: 
+* Feb 3: 
+* Feb 10: 
+* Feb 17: 
+* Feb 24: 
+* Mar 2: SPRING BREAK/Morgan out of town
+* Mar 9: 
+* Mar 16:  
+* Mar 23: PLANT CENSUS/(Portal Crew out of town)
+* Mar 30: 
+* Apr 6: 
+* Apr 13: (Ethan out of town)
+* Apr 20:
+* Apr 27: 

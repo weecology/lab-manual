@@ -12,5 +12,5 @@
 * Mar 30: 
 * Apr 6: Joan (but I'm flexible if someone wants this date)
 * Apr 13: (Ethan out of town)
-* Apr 20:
+* Apr 20: Sergio (I am flexible too)
 * Apr 27: 

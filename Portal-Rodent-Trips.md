@@ -15,7 +15,7 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
   * _Volunteers: Erica, Ellen, Shawn, Kristina_
 * **April 8-10** (Ellen)
   * _Volunteer:_
-* **May 6-8** 
+* **May 6-8** (Erica)
   * _Volunteer:_
 * **June 3-5**
   * _Volunteer:_

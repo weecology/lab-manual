@@ -13,4 +13,4 @@
 * Apr 6: Joan (but I'm flexible if someone wants this date)
 * Apr 13: (Ethan out of town)
 * Apr 20: Kari
-* Apr 27: Sergio: again, super flexible if anyone else'd likes the date! :)
+* Apr 27: Sergio: again, super flexible if anyone else'd like the date! :)

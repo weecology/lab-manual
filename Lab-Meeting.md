@@ -14,3 +14,12 @@
 * Apr 13: (Ethan out of town)
 * Apr 20: Kari
 * Apr 27: Sergio: again, super flexible if anyone else'd like the date! :)
+
+## Discussion topics
+
+* Grants
+    * Proposals
+    * Budgets
+    * Management
+    * Funding Agencies/IDing solicitations
+* Academic Lineage

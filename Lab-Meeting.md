@@ -23,3 +23,4 @@
     * Management
     * Funding Agencies/IDing solicitations
 * Academic Lineage
+* Paper submission process

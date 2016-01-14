@@ -1,5 +1,5 @@
 * Jan 13: 
-* Jan 20: 
+* Jan 20: Dave
 * Jan 27: 
 * Feb 3: 
 * Feb 10: 

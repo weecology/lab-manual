@@ -9,6 +9,7 @@ Projects:
 * plant census
 * reconstruct plots 23 and 24  
 * tag plant quadrat stakes
+* plot 2 south side fence extension?
 * other site maintenance?
 
 ### To Buy: 

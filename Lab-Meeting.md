@@ -24,3 +24,4 @@
     * Funding Agencies/IDing solicitations
 * Academic Lineage
 * Paper submission process
+* What's the process for reviewing papers? Does it differ by journal?

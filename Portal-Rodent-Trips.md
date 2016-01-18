@@ -11,12 +11,12 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
   * _Volunteer: Iliya_
 * *Feb 12-14* (Erica)
   * _Volunteer: Maya_
-* **March 18-25/6** (Plant Survey)
+* *March 18-25/6* (Plant Survey)
   * _Volunteers: Erica, Ellen, Shawn, Kristina_
 * **April 8-10** (Ellen)
   * _Volunteer:_
-* **May 6-8** (Erica)
-  * _Volunteer:_
+* *May 6-8* (Erica)
+  * _Volunteer: Heidi (maybe?)_
 * **June 3-5**
   * _Volunteer:_
 * **July 1-3**

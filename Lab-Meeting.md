@@ -1,6 +1,6 @@
 * Jan 13: 
 * Jan 20: Dave
-* Jan 27: 
+* Jan 27: Funding Agencies/Proposals
 * Feb 3: 
 * Feb 10: EcoData Wiki Update Testing
 * Feb 17: 

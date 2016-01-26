@@ -1,7 +1,7 @@
 * Jan 13: 
 * Jan 20: Dave
-* Jan 27: Funding Agencies/Proposals
-* Feb 3: 
+* Jan 27: Conferences/Paper Submission Process
+* Feb 3: Job Candidate Discussion
 * Feb 10: EcoData Wiki Update Testing
 * Feb 17: 
 * Feb 24: Kristina

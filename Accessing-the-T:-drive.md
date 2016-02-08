@@ -5,7 +5,7 @@ Windows:
 Mac: 
 
 * If off campus, turn on the virtual private network (VPN) using the instructions here https://vpn.ufl.edu/
-* Open the Finder, and from the menu bar select **GO > Connect to Server**.
+* Open the Finder, and from the menu bar select **Go > Connect to Server**.
 * Enter `cifs://ad.ufl.edu/clas/share` as the "server address.
 * If you'd like to keep this URL stored as a "favorite", click the `+` next to the address bar
 * Click "Connect"

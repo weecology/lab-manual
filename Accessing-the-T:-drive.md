@@ -13,7 +13,7 @@ Mac:
 
 Linux: 
 
-Assuming your running Ubuntu. Install the cifs-utils package, create a folder called /media/T for a mount point, then run the mount command, replacing <your-ufid> with your ufid (the same one used for email). You will be prompted for your password.
+Assuming your running Ubuntu. Install the cifs-utils package, create a folder called /media/T for a mount point, then run the mount command, replacing `<your-ufid>` with your ufid (the same one used for email). You will be prompted for your password.
 
     sudo apt-get install cifs-utils
     sudo mkdir /media/T

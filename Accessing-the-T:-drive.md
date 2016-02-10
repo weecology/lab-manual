@@ -11,7 +11,7 @@
 * Click "Connect"
 * Lab materials are in the `lab-white-ernest` folder.
 
-**Linux: **
+**Linux:**
 
 Assuming you're running Ubuntu. Install the cifs-utils package, create a folder called /media/T for a mount point, then run the mount command, replacing `<your-ufid>` with your ufid (the same one used for email). You will be prompted for your password.
 

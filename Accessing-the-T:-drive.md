@@ -1,8 +1,8 @@
-Windows:
+**Windows:**
 
 * Follow the instructions here: http://www.wec.ufl.edu/resources/IT/network_drives.php
 
-Mac: 
+**Mac:**
 
 * If off campus, turn on the virtual private network (VPN) using the instructions here: https://vpn.ufl.edu/
 * Open the Finder, and from the menu bar select **Go > Connect to Server**.
@@ -11,9 +11,9 @@ Mac:
 * Click "Connect"
 * Lab materials are in the `lab-white-ernest` folder.
 
-Linux: 
+**Linux: **
 
-Assuming your running Ubuntu. Install the cifs-utils package, create a folder called /media/T for a mount point, then run the mount command, replacing `<your-ufid>` with your ufid (the same one used for email). You will be prompted for your password.
+Assuming you're running Ubuntu. Install the cifs-utils package, create a folder called /media/T for a mount point, then run the mount command, replacing `<your-ufid>` with your ufid (the same one used for email). You will be prompted for your password.
 
     sudo apt-get install cifs-utils
     sudo mkdir /media/T

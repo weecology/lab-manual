@@ -17,8 +17,10 @@ _Buying Silica_
   * https://www.deltaadsorbents.com/white-silica-gel-granular-03-0n-8/t101c37p295.aspx
 
 _UF Herbarium Links_
+  * [Collection Checklist](http://www.flmnh.ufl.edu/herbarium/policy/FLASAcquisitionChecklist.htm)
   * [Resource and Services Guide](http://www.flmnh.ufl.edu/herbarium/policy/HerbariumResourcesandServicesGuide.htm)
-
+  * [Costs of Services and Supplies](http://www.flmnh.ufl.edu/herbarium/acct/flascostofservices.htm)
+  * [Plant Collecting Regulations](http://www.flmnh.ufl.edu/herbarium/collperm/)
 
 **March Plant Collection**
 

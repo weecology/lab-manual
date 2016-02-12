@@ -11,10 +11,9 @@ _Plant Collection Protocals_
   * http://plantarum.ca/botany/silica/
 
 _Buying Silica_
-  * Mark suggests 80% small grain white (non-indicating) and 20% orange (indicating)
   * https://silicagelpackets.com/ (bulk)
   * https://www.deltaadsorbents.com/sorbead-orange-chameleon-basf/t101c39.aspx (orange)
-  * https://www.deltaadsorbents.com/white-silica-gel-granular-03-0n-8/t101c37p295.aspx
+  * https://www.deltaadsorbents.com/white-silica-gel-granular-03-0n-8/t101c37p295.aspx (white)
 
 _UF Herbarium Links_
   * [Collection Checklist](http://www.flmnh.ufl.edu/herbarium/policy/FLASAcquisitionChecklist.htm)
@@ -22,9 +21,12 @@ _UF Herbarium Links_
   * [Costs of Services and Supplies](http://www.flmnh.ufl.edu/herbarium/acct/flascostofservices.htm)
   * [Plant Collecting Regulations](http://www.flmnh.ufl.edu/herbarium/collperm/)
 
+_Contacts_
+  * [Lucas Majure](https://www.dbg.org/biologist-new-world-succulents)
+
 **March Plant Collection**
 
-  * buy silica
+  * buy silica (Mark suggests 80% small grain white (non-indicating) and 20% orange (indicating))
   * additional plant press and cardboard
   * ziplock bags (most suggest one ziplock for the silica + sample then putting that in another ziplock)
   * food canister with rubber gasket

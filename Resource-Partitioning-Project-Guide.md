@@ -32,3 +32,4 @@ _Contacts_
   * food canister with rubber gasket
   * collection datasheets
   * labels (preprinted?)
+  * check if a collections permit is needed

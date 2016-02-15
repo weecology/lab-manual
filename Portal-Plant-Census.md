@@ -8,6 +8,7 @@ Projects:
 * rodent census
 * plant census
 * reconstruct plots 23 and 24  
+* collect plant material for DNA and voucher specimens for as many species as humanly possible
 * tag plant quadrat stakes
 * plot 3 needs checking out
 * plot 2 south side fence extension?

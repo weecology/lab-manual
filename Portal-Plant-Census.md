@@ -10,7 +10,7 @@ Projects:
 * reconstruct plots 23 and 24  
 * collect plant material for DNA and voucher specimens for as many species as humanly possible
 * tag plant quadrat stakes
-* general maintenance: plot 3, 15, 16, 9, 2, 18
+* general maintenance: plot 3, 15, 16, 9, 2 (missing a gate divider), 18
 * plot 2 south side fence extension?
 * other site maintenance?
 

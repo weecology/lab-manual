@@ -10,7 +10,7 @@ Projects:
 * reconstruct plots 23 and 24  
 * collect plant material for DNA and voucher specimens for as many species as humanly possible
 * tag plant quadrat stakes
-* plot 3 needs checking out
+* general maintenance: plot 3, 15, 16, 9, 2
 * plot 2 south side fence extension?
 * other site maintenance?
 
@@ -20,7 +20,7 @@ Projects:
 * flashing? - there is some floating around the ramada
 * steel cable?
 * fence stretcher?
-* pop rivets for attaching flashing to hardware cloth
+* pop rivets for attaching flashing to hardware cloth: 1/4" x 3/16"
 * hole punch to punch holes in flashing
 
 

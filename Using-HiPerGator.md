@@ -86,7 +86,7 @@ From R, type `install.packages("MY_PACKAGE") and select a CRAN mirror.  If you g
 
 I (Dave) don't know if the following method of getting R packages installed is officially sanctioned, but it's worked for me and I haven't gotten in trouble for using it.
 
-First, type `export R_LIBS="~/R"` at the login server's command line.  This will tell R to put new packages in the `R` folder of your home directory. You may need to create this directory manually, with `mkdir ~/R`.
+First, type `export R_LIBS="~/R/x86_64-unknown-linux-gnu-library/R_VERSION/"` at the login server's command line (where `R_VERSION` is the version of R you'll be using (currently 3.2).  This will tell R to put new packages in the `R` folder of your home directory. You may need to create this directory manually, with `mkdir ~/R/x86_64-unknown-linux-gnu-library/R_VERSION/`.
 
 Next, make sure you have a source file for the package.  For CRAN packages, these can be found online under the heading "Package source:".  For other packages, you can create them with `R CMD build FOLDER_CONTAINING_MY_PACKAGE`.  Either way, you should end up with a file whose name follows the format `MY_PACKAGE_version.tar.gz`.
 

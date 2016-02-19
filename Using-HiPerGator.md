@@ -6,8 +6,7 @@
 
 4. You can start a job using a file like the one below (based on a file from Shawn, updated by Dave). Once this information is in a job file on the server, you can start it with `qsub <your job script>`. If it works, you'll get a one-line response with your job ID and will then be returned to the terminal of the login server.
 
-5. You can check on your job's status at http://rc.ufl.edu/jobstatus/ or with `qstat [-u <username>]`
-`
+5. You can check on your job's status at http://rc.ufl.edu/jobstatus/ or with `qstat [-u <username>]`. The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores
 
 
 ```
@@ -41,6 +40,7 @@
 #PBS -l nodes=1:ppn=N_CORES_PER_NODE
 
 #The amount of memory that your script will require. This can be just a rough guess with some buffer added on.
+#8192mb is a reasonable starting value, if you're not sure and you think your script could run on a laptop.
 #PBS -l pmem=MEMORYmb
 
 #The length of time your script will run. again this can be a rough guess with some buffer time added.

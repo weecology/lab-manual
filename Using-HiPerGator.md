@@ -38,7 +38,7 @@
 #Using more than 1 node requires your script to have cross server communication built into it, so for most work we'll
 #probably just use single nodes.
 #ppn should match the number of threads/cores you setup in your script. Our max for the lab at the moment is 32.
-#PBS -l nodes=1:ppn=N_NODES
+#PBS -l nodes=1:ppn=N_CORES_PER_NODE
 
 #The amount of memory that your script will require. This can be just a rough guess with some buffer added on.
 #PBS -l pmem=MEMORYmb

@@ -6,7 +6,7 @@
 
 4. You can start a job using a file like the one below (based on a file from Shawn, updated by Dave). Once this information is in a job file on the server, you can start it with `qsub <your job script>`. If it works, you'll get a one-line response with your job ID and will then be returned to the terminal of the login server.
 
-5. You can check on your job's status at rc.ufl.edu/jobstatus/ or with `qstat [-u <username>]`
+5. You can check on your job's status at http://rc.ufl.edu/jobstatus/ or with `qstat [-u <username>]`
 `
 
 

@@ -1,3 +1,7 @@
+##Prerequisites
+* Hipergator usage is thru a Linux command line, so you should first become familiar with command line usage. A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/02-create.html). 
+
+##Getting started
 1. [Request an account](http://www.rc.ufl.edu/help/account-request/)
 
 2. connect to the server with `ssh <YOUR_USERNAME>@gator.hpc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](http://wiki.hpc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.

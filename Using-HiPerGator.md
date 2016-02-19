@@ -2,13 +2,24 @@
 
 2. connect to the server with `ssh <YOUR_USERNAME>@gator.hpc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](http://wiki.hpc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
 
-3. This will take you to a Unix terminal on the login server.  This is where you can upload files and start larger jobs on other servers. You're not supposed to run big computations on this server. Often, the easiest way to transfer files is using `git clone`; you can also use other methods, including FTP or `scp`. [More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
+3. This will take you to a Unix terminal on the login server.  This is where you can upload files and start larger jobs on other servers. You're not supposed to run big computations on this server. See the section on file transfer below. 
 
 4. You can start a job using a file like the one below (based on a file from Shawn, updated by Dave). Once this information is in a job file on the server, you can start it with `qsub <your job script>`. If it works, you'll get a one-line response with your job ID and will then be returned to the terminal of the login server.
 
 5. You can check on your job's status at http://rc.ufl.edu/jobstatus/ or with `qstat -u <username>`. The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores
 
 6. Once your job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
+
+## File transfer
+
+* Often, the easiest way to transfer files to the server is using `git clone`.
+
+* If your files aren't in a git repository, you can use FTP or `scp`.  FTP has graphical user interfaces that allow you to drag and drop files to the server.
+
+* If you use `scp`, the syntax for copying one file from your user folder on the server to your local folder is is `scp MY_USER_NAME@gator.hpc.ufl.edu:/home/MY_USER_NAME/PATH_TO_MY_FILE MY_LOCAL_FILENAME`. Note the space between the remote path and your local filename. If you want to  send a file in the other direction, switch the order of the local file and the remote location.  You can copy whole folders with the `-r` flag.
+
+[More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
+
 
 ## Sample job script
 

@@ -4,9 +4,10 @@
 
 3. This will take you to a Unix terminal on the login server.  This is where you can upload files and start larger jobs on other servers. You're not supposed to run big computations on this server. Often, the easiest way to transfer files is using `git clone`; you can also use other methods, including FTP or `scp`. [More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
 
-4. You can start a job using a file like the one below (based on a file from Shawn, updated by Dave)
+4. You can start a job using a file like the one below (based on a file from Shawn, updated by Dave). Once this information is in a job file on the server, you can start it with `qsub <your job script>`.
 
-5. You can check on your job's status at rc.ufl.edu/jobstatus/
+5. You can check on your job's status at rc.ufl.edu/jobstatus/ or with `qstat [-u <username>]`
+`
 
 
 ```

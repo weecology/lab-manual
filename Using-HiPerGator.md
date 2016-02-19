@@ -69,3 +69,13 @@ module load R
 #The actual command to run your script like you would from the command line.
 Rscript "MY_FILE.R"
 ```
+
+## Installing R packages
+
+HiPerGator has a lot of packages installed already, but you might need to install your own.  I (Dave) don't know if the following method of getting R packages installed is officially sanctioned, but it's worked for me and I haven't gotten in trouble for using it.
+
+First, type `export R_LIBS="~/R"` at the login server's command line.  This will tell R to put new packages in the `R` folder of your home directory. You may need to create this directory manually, with `mkdir ~/R`.
+
+Next, make sure you have a source file for the package.  For CRAN packages, these can be found online under the heading "Package source:".  For other packages, you can create them with `R CMD build FOLDER_CONTAINING_MY_PACKAGE`.  Either way, you should end up with a file whose name follows the format `MY_PACKAGE_version.tar.gz`.
+
+Finally, type `R CMD install MY_PACKAGE_version.tar.gz`.  The package will be built, along with any dependencies, and should be accessible the next time you run R.

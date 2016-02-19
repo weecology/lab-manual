@@ -10,6 +10,8 @@
 
 6. Once your job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
 
+## Sample job script
+
 ```
 #!/bin/sh
 #These are variables to pass to the job handler, see http://wiki.rc.ufl.edu/doc/Annotated_PBS_Script and

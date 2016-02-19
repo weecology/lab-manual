@@ -72,7 +72,15 @@ Rscript "MY_FILE.R"
 
 ## Installing R packages
 
-HiPerGator has a lot of packages installed already, but you might need to install your own.  I (Dave) don't know if the following method of getting R packages installed is officially sanctioned, but it's worked for me and I haven't gotten in trouble for using it.
+HiPerGator has a lot of packages installed already, but you might need to install your own.
+
+### If the package is on CRAN
+
+From R, type `install.packages("MY_PACKAGE") and select a CRAN mirror.  If you get an error saying "Warning: unable to access index for repository..." try another CRAN mirror instead.
+
+### Non-CRAN packages
+
+I (Dave) don't know if the following method of getting R packages installed is officially sanctioned, but it's worked for me and I haven't gotten in trouble for using it.
 
 First, type `export R_LIBS="~/R"` at the login server's command line.  This will tell R to put new packages in the `R` folder of your home directory. You may need to create this directory manually, with `mkdir ~/R`.
 

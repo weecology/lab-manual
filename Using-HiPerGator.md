@@ -8,6 +8,7 @@
 
 5. You can check on your job's status at http://rc.ufl.edu/jobstatus/ or with `qstat -u <username>`. The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores
 
+6. Once your job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
 
 ```
 #!/bin/sh

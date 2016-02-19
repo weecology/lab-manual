@@ -17,11 +17,14 @@ Projects:
 ### To Buy: 
 * spray paint to mark stakes (two colors)
 * hardware cloth?  -- we have one or two 2'x10' rolls already. 1/4" mesh. will need 3'x10' rolls for burying 
-* flashing? - there is some floating around the ramada
-* steel cable?
-* fence stretcher?
+* flashing
+* steel cable
+* fence stretcher
 * pop rivets for attaching flashing to hardware cloth: 1/4" x 3/16"
 * hole punch to punch holes in flashing
+* post pounder
+* trench hoe
+* work gloves
 
 
  

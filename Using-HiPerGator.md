@@ -62,6 +62,7 @@
 #PBS -l pmem=MEMORYmb
 
 #The length of time your script will run. again this can be a rough guess with some buffer time added.
+#If your script goes over this amount of time it will be killed. 
 #PBS -l walltime=HOURS:MINUTES:SECONDS
 
 #Set the working directory of the job to your current working directory

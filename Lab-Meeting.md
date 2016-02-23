@@ -27,3 +27,4 @@
 * What's the process for reviewing papers? Does it differ by journal?
 * Determining authorship
 * Contract and salary negotiation (academic or otherwise)
+* Qualifying Exams

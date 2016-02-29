@@ -24,7 +24,7 @@ Projects:
 * hole punch to punch holes in flashing
 * post pounder
 * trench hoe
-* work gloves
+* work gloves - we have I think 4 pairs in the truck
 
 
  

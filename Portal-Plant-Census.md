@@ -21,6 +21,7 @@ Projects:
 * steel cable
 * fence stretcher
 * pop rivets for attaching flashing to hardware cloth: 1/4" x 3/16"
+* washers (for back of pop rivets)
 * hole punch to punch holes in flashing
 * post pounder
 * trench hoe

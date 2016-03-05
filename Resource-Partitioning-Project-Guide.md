@@ -33,3 +33,6 @@ _Contacts_
   * collection datasheets
   * labels (preprinted?)
   * check if a collections permit is needed
+
+* most plants collected during a winter survey is 75 (others in 60s), calculated for 100 to be extra safe
+* 7 lbs (5 white, nonindicated; 2 orange, indicating)

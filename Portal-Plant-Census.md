@@ -2,7 +2,9 @@
  
 ### Winter 2016: March 18 - 25
 
-Adventurers: Erica, Ellen, Glenda, Morgan, Shawn, Kristina, Joan, Tom, Tom's student
+Adventurers: Erica, Ellen, Glenda, Shawn, Kristina, Joan
+Morgan - March 21 - 25
+Tom, Tom's student - March 19, 20
 
 Projects:
 * rodent census

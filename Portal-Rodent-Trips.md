@@ -12,9 +12,9 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 * **April 8-10** (Ellen)
   * _Volunteer: Carole and Rick_
 * *May 6-8* (Erica)
-  * _Volunteer: Heidi (maybe?)_
+  * _Volunteer: Maya_
 * **June 3-5**
-  * _Volunteer:_
+  * _Volunteer: Heidi (maybe), plus Jessica + parasite crew_
 * **July 1-3**
   * _Volunteer: Joy (potentially)_
 

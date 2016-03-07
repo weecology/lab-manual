@@ -1,3 +1,6 @@
+##Note
+Sometime between April 15 and June 15 2016 the hipergator will be switching to a new command system, which will replace things here like the qsub commands and $PBS_ references. See details [here](http://wiki.rc.ufl.edu/doc/PBS2SLURM_Command_Reference). I'll update this page accordingly when I work it out for myself. -Shawn
+
 ##Prerequisites
 * Hipergator usage is thru a Linux command line, so you should first become familiar with command line usage. A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/02-create.html). 
 

@@ -26,12 +26,12 @@ _Contacts_
 
 **March Plant Collection**
 
-  * buy silica (Mark suggests 80% small grain white (non-indicating) and 20% orange (indicating))
-  * additional plant press and cardboard
-  * ziplock bags (most suggest one ziplock for the silica + sample then putting that in another ziplock)
+  * buy silica (Mark suggests 80% small grain white (non-indicating) and 20% orange (indicating)) **DONE**
+  * additional plant press and cardboard **DONE**
+  * ziplock bags (most suggest one ziplock for the silica + sample then putting that in another ziplock) **DONE**
   * food canister with rubber gasket
   * collection datasheets
-  * labels (preprinted?)
+  * labels (preprinted?) **labels have been purchased**
   * check if a collections permit is needed
 
 **Notes:**

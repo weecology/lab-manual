@@ -30,6 +30,7 @@ Projects:
 * post pounder
 * trench hoe
 * work gloves - we have I think 4 pairs in the truck
+* square?
 * water jug
 * >100 gallon freezer ziplocs
 * >100 sandwich ziplocs

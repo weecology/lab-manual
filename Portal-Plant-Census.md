@@ -20,7 +20,7 @@ Projects:
 
 ### To Buy: 
 * spray paint to mark stakes (two colors)
-* hardware cloth?  -- we have one or two 2'x10' rolls already. 1/4" mesh. will need 3'x10' rolls for burying 
+* hardware cloth -- we have one or two 2'x10' rolls already. 1/4" mesh. will need 3'x10' rolls for burying 
 * flashing
 * steel cable
 * fence stretcher
@@ -30,7 +30,9 @@ Projects:
 * post pounder
 * trench hoe
 * work gloves - we have I think 4 pairs in the truck
-* water jug? - the lid on one of the 3 we have is broken (and it always leaked anyway)
-
+* water jug
+* >100 gallon freezer ziplocs
+* >100 sandwich ziplocs
+* airtight storage container(s)
 
  

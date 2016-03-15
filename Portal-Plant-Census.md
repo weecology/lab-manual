@@ -30,6 +30,7 @@ Projects:
 * post pounder
 * trench hoe
 * work gloves - we have I think 4 pairs in the truck
+* water jug? - the lid on one of the 3 we have is broken (and it always leaked anyway)
 
 
  

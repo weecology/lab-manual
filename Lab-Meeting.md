@@ -10,10 +10,10 @@
 * Mar 16: Erica
 * Mar 23: PLANT CENSUS/(Portal Crew out of town)
 * Mar 30: Ellen
-* Apr 6: Joan (but I'm flexible if someone wants this date)
+* Apr 6: Joan (Sergio stole your spot!)
 * Apr 13: (Ethan out of town)
 * Apr 20: Kari
-* Apr 27: Sergio: again, super flexible if anyone else'd like the date! :)
+* Apr 27: 
 
 ## Discussion topics
 

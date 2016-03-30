@@ -13,7 +13,7 @@
 * Apr 6: Joan (Sergio stole your spot!)
 * Apr 13: (Ethan out of town)
 * Apr 20: Kari
-* Apr 27: 
+* Apr 27: Joan
 
 ## Discussion topics
 

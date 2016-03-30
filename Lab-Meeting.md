@@ -10,7 +10,7 @@
 * Mar 16: Erica
 * Mar 23: PLANT CENSUS/(Portal Crew out of town)
 * Mar 30: Ellen
-* Apr 6: Joan (Sergio stole your spot!)
+* Apr 6: (Sergio stole Joan's your spot!)
 * Apr 13: (Ethan out of town)
 * Apr 20: Kari
 * Apr 27: Joan

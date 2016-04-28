@@ -1,10 +1,33 @@
 ##Note
 Sometime between April 15 and June 15 2016 the hipergator will be switching to a new command system, which will replace things here like the qsub commands and $PBS_ references. See details [here](http://wiki.rc.ufl.edu/doc/PBS2SLURM_Command_Reference). I'll update this page accordingly when I work it out for myself. -Shawn
 
-##Prerequisites
+# Overview
+Making your code run on the hipergator, and take advantage of parallel processing, takes a few steps.
+
+1. Modifying your code to take advantage of multiple processors (not as bad as it sounds!)
+2. Accessing the hipergator via ssh to run commands and transfer files
+3. Testing your scripts on the dev servers.
+4. Submitting your scripts as jobs
+
+# Step 1 
+## Re-writing your code to take advantage of multiple cores. 
+By default R runs on a single processor. Most computers today have 4-8 processors. If you spread the work out to multiple processors you can decrease the amount of time it takes to run by significantly. For example: a script that takes 1 hour to run can potentially take 0.5 hours with 2 processors, or 15 minutes with 4 processors. To make your scripts run across multiple processors, you'll have to make some slight adjustments to your code. Here are 2 short tutorials that go over this. 
+
+[A brief foray into parallel processing with R](https://beckmw.wordpress.com/2014/01/21/a-brief-foray-into-parallel-processing-with-r/)
+
+[Software Carpentry Parallel Processing in R](http://resbaz.github.io/r-intermediate-gapminder/19-foreach.html)
+
+Some quick notes: 
+* If your code already uses funtions and for loops, it should be very easy to make it parallel.
+* On your own computer, never set the amount of processors used to the max available. This will take away all the processing power needed to run the operating system, browser, and other programs, and could potentially crash your computer. To test out parallell code on my computer I set the number of processors to use at 2 (out of 8 available). 
+
+# Step 2: 
+### Accessing the hipergator. 
+
+### Prerequisites
 * Hipergator usage is thru a Linux command line, so you should first become familiar with command line usage. A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/02-create.html). 
 
-##Getting started
+### Getting started
 1. [Request an account](http://www.rc.ufl.edu/help/account-request/)
 
 2. connect to the server with `ssh <YOUR_USERNAME>@gator.hpc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](http://wiki.hpc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
@@ -17,7 +40,7 @@ Sometime between April 15 and June 15 2016 the hipergator will be switching to a
 
 6. Once your job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
 
-## File transfer
+### File transfer
 
 * Often, the easiest way to transfer files to the server is using `git clone`.
 
@@ -27,8 +50,22 @@ Sometime between April 15 and June 15 2016 the hipergator will be switching to a
 
 [More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
 
+# Step 3: 
+## Testing your code on the dev servers.
+When logged into the hipergator server, you can ssh to either dev1 or dev2 to test out your scripts. 
 
-## Sample job script
+---more later---
+
+Things to outline:
+
+-making sure scripts can be run via command line using Rscript. Unlike in rstudio, scripts need to be able to run from beginning to end and produce a results file.
+-using the dev server to estimate the amount of ram needed
+
+# Step 4 
+## Submitting jobs
+Since 100's of people are using the hipergator cluster, access to it is organized around jobs. The idea is that your script will run for a certain time and use a certain amount of resources (RAM and processors/cores). Your jobs (with info on the script to run and the resources it will use) is submitted to a queue with this information, where it waits for those resources to free up before being run. 
+
+### Sample job script
 
 ```
 #!/bin/sh
@@ -77,6 +114,8 @@ module load R
 #The actual command to run your script like you would from the command line.
 Rscript "MY_FILE.R"
 ```
+
+# Misc. 
 
 ## Installing R packages
 

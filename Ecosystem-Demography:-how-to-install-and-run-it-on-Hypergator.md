@@ -45,8 +45,8 @@ Here comes the most complicated part. For the HyperGator I'd suggest to use the 
 
     `USE_INTERF=0`
 
-    `F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -
-ftrapuv -fp-stack-check -implicitnone -assume byterecl -warn unused -warn uncalled -warn usage -gen-interfaces`
+`    F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -`
+`ftrapuv -fp-stack-check -implicitnone -assume byterecl -warn unused -warn uncalled -warn usage -gen-interfaces`
 
     `C_OPTS= -O0 -DLITTLE  -g -traceback`
 

@@ -8,65 +8,42 @@ The HyperGator comes with the possibility to load Intel Compilers, which I would
 The whole project is on github. To fork the master, follow this guide: https://github.com/EDmodel/ED2/wiki/Using-Github-with-ED2
 ## Create your include.mk file
 Here comes the most complicated part. For the HyperGator I'd suggest to use the following platform file:
-`#----- Define make (gnu make works best). -------------------------------------------------#
+
+`
 MAKE=/usr/bin/make
-#------------------------------------------------------------------------------------------#
-
-
-
-#----- Main path for compilation. ---------------------------------------------------------#
 BASE=$(ED_ROOT)/build/
-#------------------------------------------------------------------------------------------#
-
-
 USE_HDF5=1
 HDF5_PATH=/apps/intel/2013.sp1.3.174/hdf5/1.8.15
 HDF5_INCS=-I$(HDF5_PATH)/include
 HDF5_LIBS= -lz -lm -L$(HDF5_PATH)/lib -lhdf5 -lhdf5_fortran -lhdf5_hl
-#------------------------------------------------------------------------------------------#
-
 USE_COLLECTIVE_MPIO=0
-#------------------------------------------------------------------------------------------#
-
-#################################### COMPILER SETTINGS #####################################
 CMACH=PC_LINUX1
 F_COMP=mpifort
 C_COMP=mpicc
 LOADER=mpifort
 LIBS=
 MOD_EXT=mod
-#------------------------------------------------------------------------------------------#
-
 ifeq ($(KIND_COMP),)
    KIND_COMP=E
 endif
-#------------------------------------------------------------------------------------------#
 ifeq ($(KIND_COMP),A)
    USE_INTERF=0
-   F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used        \
-           -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone                 \
-           -assume byterecl -warn unused -warn uncalled -warn usage -gen-interfaces
+   F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone -assume byterecl -warn unused -warn uncalled -warn usage -gen-interfaces
    C_OPTS= -O0 -DLITTLE  -g -traceback
    LOADER_OPTS=$(F_OPTS)
-   #---------------------------------------------------------------------------------------#
+
 endif
 ifeq ($(KIND_COMP),B)
    USE_INTERF=0
-   F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used        \
-           -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone                 \
-           -assume byterecl -warn unused -warn uncalled -warn usage -warn interfaces
+   F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone -assume byterecl -warn unused -warn uncalled -warn usage -warn interfaces
    C_OPTS= -O0 -DLITTLE  -g -traceback
    LOADER_OPTS=$(F_OPTS)
-   #---------------------------------------------------------------------------------------#
 endif
 ifeq ($(KIND_COMP),C)
    USE_INTERF=1
-   F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used        \
-           -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone                 \
-           -assume byterecl
+   F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone  -assume byterecl
    C_OPTS= -O0 -DLITTLE  -g -traceback
    LOADER_OPTS=$(F_OPTS)
-   #---------------------------------------------------------------------------------------#
 endif
 ifeq ($(KIND_COMP),D)
    USE_INTERF=1
@@ -74,7 +51,6 @@ ifeq ($(KIND_COMP),D)
            -implicitnone -assume byterecl
    C_OPTS= -O0 -DLITTLE  -g -traceback
    LOADER_OPTS=$(F_OPTS)
-   #---------------------------------------------------------------------------------------#
 endif
 ifeq ($(KIND_COMP),E)
    USE_INTERF=1
@@ -82,21 +58,11 @@ ifeq ($(KIND_COMP),E)
    C_OPTS= -O3 -DLITTLE -traceback
    F_LOWO_OPTS=-FR -O2 -recursive -traceback -assume byterecl
    LOADER_OPTS=$(F_OPTS)
-   #---------------------------------------------------------------------------------------#
    endif
-   #------------------------------------------------------------------------------------------#
 MPI_PATH=
 PAR_INCS=
 PAR_LIBS=
 PAR_DEFS=-DRAMS_MPI
-#------------------------------------------------------------------------------------------#
-
-
-
-#------------------------------------------------------------------------------------------#
-#     Archive options.                                                                     #
-#------------------------------------------------------------------------------------------#
-#------ For IBM, HP, SGI, ALPHA, LINUX, and MAC_OS_X use these. ---------------------------#
 ARCHIVE=ar rs`
 
 ## Compile the beast

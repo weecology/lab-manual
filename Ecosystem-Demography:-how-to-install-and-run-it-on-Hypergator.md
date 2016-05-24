@@ -37,20 +37,20 @@ Here comes the most complicated part. For the HyperGator I'd suggest to use the 
 
 `ifeq ($(KIND_COMP),)`
 
-   `KIND_COMP=E`
+    `KIND_COMP=E`
 
 `endif`
 
 `ifeq ($(KIND_COMP),A)`
 
-   `USE_INTERF=0`
+    `USE_INTERF=0`
 
-   `F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -
+    `F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -
 ftrapuv -fp-stack-check -implicitnone -assume byterecl -warn unused -warn uncalled -warn usage -gen-interfaces`
 
-   `C_OPTS= -O0 -DLITTLE  -g -traceback`
+    `C_OPTS= -O0 -DLITTLE  -g -traceback`
 
-   `LOADER_OPTS=$(F_OPTS)`
+    `LOADER_OPTS=$(F_OPTS)`
 
 `endif`
 

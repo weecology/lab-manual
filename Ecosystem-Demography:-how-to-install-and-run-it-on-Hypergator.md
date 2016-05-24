@@ -56,54 +56,54 @@ ftrapuv -fp-stack-check -implicitnone -assume byterecl -warn unused -warn uncall
 
 `ifeq ($(KIND_COMP),B)`
 
-   `USE_INTERF=0`
+    `USE_INTERF=0`
 
-   `F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone -assume byterecl -warn unused -warn uncalled -warn usage -warn interfaces`
+    `F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone -assume byterecl -warn unused -warn uncalled -warn usage -warn interfaces`
 
-   `C_OPTS= -O0 -DLITTLE  -g -traceback`
+    `C_OPTS= -O0 -DLITTLE  -g -traceback`
 
-   `LOADER_OPTS=$(F_OPTS)`
+    `LOADER_OPTS=$(F_OPTS)`
 
 `endif`
 
 `ifeq ($(KIND_COMP),C)`
 
-   `USE_INTERF=1`
+    `USE_INTERF=1`
 
-   `F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone  -assume byterecl`
+    `F_OPTS= -FR -O0 -recursive  -check all -g -debug extended -debug-parameters used -fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check -implicitnone  -assume byterecl`
 
-   `C_OPTS= -O0 -DLITTLE  -g -traceback`
+    `C_OPTS= -O0 -DLITTLE  -g -traceback`
 
-   `LOADER_OPTS=$(F_OPTS)`
+    `LOADER_OPTS=$(F_OPTS)`
 
 `endif`
 
 `ifeq ($(KIND_COMP),D)`
 
-   `USE_INTERF=1`
+    `USE_INTERF=1`
 
-   `F_OPTS= -FR -O0 -recursive -check all-fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check  \`
+    `F_OPTS= -FR -O0 -recursive -check all-fpe0 -no-ftz -traceback -ftrapuv -fp-stack-check  \`
            `-implicitnone -assume byterecl`
 
-   `C_OPTS= -O0 -DLITTLE  -g -traceback`
+    `C_OPTS= -O0 -DLITTLE  -g -traceback`
 
-   `LOADER_OPTS=$(F_OPTS)`
+    `LOADER_OPTS=$(F_OPTS)`
 
 `endif`
 
 `ifeq ($(KIND_COMP),E)`
 
-   `USE_INTERF=1`
+    `USE_INTERF=1`
 
-   `F_OPTS= -FR -O3 -recursive -traceback -assume byterecl`
+    `F_OPTS= -FR -O3 -recursive -traceback -assume byterecl`
 
-   `C_OPTS= -O3 -DLITTLE -traceback`
+    `C_OPTS= -O3 -DLITTLE -traceback`
 
-   `F_LOWO_OPTS=-FR -O2 -recursive -traceback -assume byterecl`
+    `F_LOWO_OPTS=-FR -O2 -recursive -traceback -assume byterecl`
 
-   `LOADER_OPTS=$(F_OPTS)`
+    `LOADER_OPTS=$(F_OPTS)`
 
-   `endif`
+`endif`
 
 `MPI_PATH=`
 

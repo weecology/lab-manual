@@ -9,9 +9,9 @@ The whole project is on github. To fork the master, follow this guide: https://g
 ## Create your include.mk file
 Here comes the most complicated part. For the HyperGator I'd suggest to use the following platform file:
 
-`MAKE=/usr/bin/make
-BASE=$(ED_ROOT)/build/`
-`USE_HDF5=1`
+`    MAKE=/usr/bin/make`
+     BASE=$(ED_ROOT)/build/
+     USE_HDF5=1`
 `HDF5_PATH=/apps/intel/2013.sp1.3.174/hdf5/1.8.15`
 `HDF5_INCS=-I$(HDF5_PATH)/include`
 `HDF5_LIBS= -lz -lm -L$(HDF5_PATH)/lib -lhdf5 -lhdf5_fortran -lhdf5_hl`

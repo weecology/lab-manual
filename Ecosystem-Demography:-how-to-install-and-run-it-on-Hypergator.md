@@ -1,5 +1,5 @@
 # What is Ecosystem Demography (ED2.1)?
-ED is a process oriented deterministic model aiming at scaling vegetation dynamics (Moorcroft et al., 2001, Medvigy et al., 2012). The ecosystem structure is simulated by quantifying ecophysiological processes occurring on plant functional type level (i.e. fake species whose physiological and allometric parameters are kept constant in space and time). Detailed information about ED can be found in the github project https://github.com/EDmodel
+ED is a process oriented deterministic model aiming at scaling vegetation dynamics (Moorcroft et al., 2001, Medvigy et al., 2009). The ecosystem structure is simulated by quantifying ecophysiological processes occurring on plant functional type level (i.e. fake species whose physiological and allometric parameters are kept constant in space and time). Detailed information about ED can be found in the github project https://github.com/EDmodel
 
 # How to compile it on the Hypergator
 The HyperGator comes with the possibility to load Intel Compilers, which I would suggest to use to get rid of some retro-compatibility issues found in gfortran. 

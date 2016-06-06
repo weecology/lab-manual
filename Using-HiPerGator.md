@@ -1,5 +1,18 @@
-##Note
-Sometime between April 15 and June 15 2016 the hipergator will be switching to a new command system, which will replace things here like the qsub commands and $PBS_ references. See details [here](http://wiki.rc.ufl.edu/doc/PBS2SLURM_Command_Reference). I'll update this page accordingly when I work it out for myself. -Shawn
+#Hipergator 2.0 notes.
+
+-Transferring seems very straightforward as long as your hipergator login name is the same as your gatorlink name (also the same as your ufl email). If it isn't for some reason you'll need to submit a support ticket to get the login sorted out on hipergator2. If it is then using HP2 only involves
+
+-We do not have to move as a group. Each person can do so individually.
+
+-Read more about transferring here https://www.rc.ufl.edu/services/computation/hipergator/user-information/. But in general you must.
+
+1. Login into the new login node `hpg2.rc.ufl.edu` 
+2. From there login to the data transfer node `dtn1`
+3. cp your data out of `/scratch/lfs/<your username>` to `/ufrc/ewhite/<your username>`
+    -Note you don't have to transfer things that were in your home folder. (the folder you're in when you login to either hipergator1 or 2 login nodes.).
+4. `/ufrc/ewhite/<your username>` is your new folder to store large amounts of data. 
+5. The old job scripts used a cluster computer software called MOAB. Which handled the scheduling of all the users and computer nodes on the system.
+   Hipergator 2 will use a similar software called SLURM, which uses all the same basic ideas but some of the job script details will change. See the details of how to change job scripts [here](http://wiki.rc.ufl.edu/doc/PBS2SLURM_Command_Reference).
 
 # Overview
 Making your code run on the hipergator, and take advantage of parallel processing, takes a few steps.

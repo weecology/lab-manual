@@ -14,6 +14,18 @@
 5. The old job scripts used a cluster computer software called MOAB. Which handled the scheduling of all the users and computer nodes on the system.
    Hipergator 2 will use a similar software called SLURM, which uses all the same basic ideas but some of the job script details will change. See the details of how to change job scripts [here](http://wiki.rc.ufl.edu/doc/PBS2SLURM_Command_Reference).
 
+# Little aside: transferring data from Hypergator 1 to Hypergator 2 using rsync
+As suggested in the Hypergator2.0 wiki page, transferring files from `/scratch/lfs/<your username>` to `/ufrc/ewhite/yourUser` is pretty easy. Just follow these steps:
+
+`[yourUser@yourComputer]$ ssh yourUser@hpg2.rc.ufl.edu`
+
+`<Enter password>`
+
+`[yourUser@gator4 ~]$ ssh dtn1`
+
+`[yourUser@dtn1 ~]$ rsync -av /scratch/lfs/yourName/important_data/ /ufrc/ewhite/yourUser`
+
+
 # Overview
 Making your code run on the hipergator, and take advantage of parallel processing, takes a few steps.
 

@@ -54,4 +54,18 @@ Did you lose your receipt? Sigh. Proceed to step 5.
 
 > I have no idea what happens to you now. When this happens to someone (and it inevitably will), let us know.
 
+## Temporarily increasing purchasing limit
 
+It is possible to temporarily increase the purchasing limit on your card if needed. To do this contact your budget manager (I think this is Heather Bradley <hbradley@ufl.edu>) (Cc'ing the relevant PI) to get approval and then send the following information to jenimiller@ufl.edu.
+
+Cardholder Name:
+Cardholder UFID:
+Business Unit (4 digits):
+Vendor Name:
+Amount:
+What is being purchased:  
+Business Purpose:
+Fund Code (3 digits) :
+Has your budget manager approved this expense (yes or no):
+Justification for why a PO can't be done:
+PCard Approver’s Name: Jen Miller

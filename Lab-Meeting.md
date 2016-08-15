@@ -12,7 +12,7 @@
 * Nov 9:
 * Nov 16:
 * Nov 23: THANKSGIVING - NO LAB MEETING
-* Nov 30:
+* Nov 30: Sergio
 * Dec 7
 
 ## Discussion topics

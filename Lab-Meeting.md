@@ -1,19 +1,19 @@
-* Jan 13: 
-* Jan 20: Dave
-* Jan 27: Conferences/Paper Submission Process
-* Feb 3: Job Candidate Discussion
-* Feb 10: Grant proposals
-* Feb 17: EcoData Wiki Update Testing
-* Feb 24: Kristina
-* Mar 2: SPRING BREAK/Morgan out of town
-* Mar 9:  Intro to lab informatics resources
-* Mar 16: Erica
-* Mar 23: PLANT CENSUS/(Portal Crew out of town)
-* Mar 30: Ellen
-* Apr 6: (Sergio stole Joan's your spot!)
-* Apr 13: (Ethan out of town)
-* Apr 20: Joan
-* Apr 27: Kari
+* Aug 24:
+* Aug 31:
+* Sep 7: (plant census; several folks out of town)
+* Sep 14: (Ethan & Henry out of town)
+* Sep 21:
+* Sep 28:
+* Oct 5:
+* Oct 12:
+* Oct 19:
+* Oct 26: (Ethan & Kristina out of town)
+* Nov 2:
+* Nov 9:
+* Nov 16:
+* Nov 23: THANKSGIVING - NO LAB MEETING
+* Nov 30:
+* Dec 7
 
 ## Discussion topics
 

@@ -66,6 +66,43 @@ Since 100's of people are using the hipergator cluster, access to it is organize
 
 ***Script for Hipergator Version 1 removed. Archived [here](https://github.com/weecology/lab-wiki/wiki/Using-HiPerGator/f0d2ed8d33a91476ad7515d3c3486ccab91f3b01).***
 
+Hipergator 2 job scripts look like the one below.  More information at https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script and https://wiki.rc.ufl.edu/doc/SLURM_Commands
+
+```
+#!/bin/bash
+
+# Job name and who to send updates to
+#SBATCH --job-name=<JOBNAME>
+##SBATCH --mail-user=<EMAIL>
+#SBATCH --mail-type=FAIL,END
+
+# Where to put the outputs. %j expands into the job number
+#SBATCH --output <my_job-%j.out>
+#SBATCH --error <my_job-%j.err>
+
+# Number of nodes to use
+#SBATCH --nodes=1
+
+# Number of tasks (usually translate to processor cores) to use
+#SBATCH --ntasks=1
+
+# Memory per cpu core. Default is megabytes, but units can be specified with M 
+# or G for megabytes or Gigabytes.
+#SBATCH --mem-per-cpu=2G
+
+# Job run time in [DAYS]
+# HOURS:MINUTES:SECONDS
+# [DAYS] are optional, use when it is convenient
+#SBATCH --time=72:00:00
+
+# Save some useful information to the "output" file
+date;hostname;pwd
+
+# Load R and run a script
+module load R
+Rscript my_R_script.R
+```
+
 Instructions for making a SLURM job script for hipergator 2 are [here](https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script)
 
 # Misc. 

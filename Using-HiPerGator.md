@@ -1,31 +1,3 @@
-#Hipergator 2.0 notes.
-
--Transferring seems very straightforward as long as your hipergator login name is the same as your gatorlink name (also the same as your ufl email). If it isn't for some reason you'll need to submit a support ticket to get the login sorted out on hipergator2. If it is then using HP2 only involves
-
--We do not have to move as a group. Each person can do so individually.
-
--Read more about transferring here https://www.rc.ufl.edu/services/computation/hipergator/user-information/. But in general you must.
-
-1. Login into the new login node `hpg2.rc.ufl.edu` 
-2. From there login to the data transfer node `dtn1`
-3. cp your data out of `/scratch/lfs/<your username>` to `/ufrc/ewhite/<your username>`
-    -Note you don't have to transfer things that were in your home folder. (the folder you're in when you login to either hipergator1 or 2 login nodes.).
-4. `/ufrc/ewhite/<your username>` is your new folder to store large amounts of data. 
-5. The old job scripts used a cluster computer software called MOAB. Which handled the scheduling of all the users and computer nodes on the system.
-   Hipergator 2 will use a similar software called SLURM, which uses all the same basic ideas but some of the job script details will change. See the details of how to change job scripts [here](http://wiki.rc.ufl.edu/doc/PBS2SLURM_Command_Reference).
-
-# Little aside: transferring data from Hypergator 1 to Hypergator 2 using rsync
-As suggested in the Hypergator2.0 wiki page, transferring files from `/scratch/lfs/<your username>` to `/ufrc/ewhite/yourUser` is pretty easy. Just follow these steps:
-
-`[yourUser@yourComputer]$ ssh yourUser@hpg2.rc.ufl.edu`
-
-`<Enter password>`
-
-`[yourUser@gator4 ~]$ ssh dtn1`
-
-`[yourUser@dtn1 ~]$ rsync -av /scratch/lfs/yourName/important_data/ /ufrc/ewhite/yourUser`
-
-
 # Overview
 Making your code run on the hipergator, and take advantage of parallel processing, takes a few steps.
 
@@ -161,3 +133,32 @@ First, type `export R_LIBS="~/R/x86_64-unknown-linux-gnu-library/R_VERSION/"` at
 Next, make sure you have a source file for the package.  For CRAN packages, these can be found online under the heading "Package source:".  For other packages, you can create them with `R CMD build FOLDER_CONTAINING_MY_PACKAGE`.  Either way, you should end up with a file whose name follows the format `MY_PACKAGE_version.tar.gz`.
 
 Finally, type `R CMD install MY_PACKAGE_version.tar.gz`.  The package will be built, along with any dependencies, and should be accessible the next time you run R.
+
+-----------------------------
+#Hipergator 2.0 notes.
+
+-Transferring seems very straightforward as long as your hipergator login name is the same as your gatorlink name (also the same as your ufl email). If it isn't for some reason you'll need to submit a support ticket to get the login sorted out on hipergator2. If it is then using HP2 only involves
+
+-We do not have to move as a group. Each person can do so individually.
+
+-Read more about transferring here https://www.rc.ufl.edu/services/computation/hipergator/user-information/. But in general you must.
+
+1. Login into the new login node `hpg2.rc.ufl.edu` 
+2. From there login to the data transfer node `dtn1`
+3. cp your data out of `/scratch/lfs/<your username>` to `/ufrc/ewhite/<your username>`
+    -Note you don't have to transfer things that were in your home folder. (the folder you're in when you login to either hipergator1 or 2 login nodes.).
+4. `/ufrc/ewhite/<your username>` is your new folder to store large amounts of data. 
+5. The old job scripts used a cluster computer software called MOAB. Which handled the scheduling of all the users and computer nodes on the system.
+   Hipergator 2 will use a similar software called SLURM, which uses all the same basic ideas but some of the job script details will change. See the details of how to change job scripts [here](http://wiki.rc.ufl.edu/doc/PBS2SLURM_Command_Reference).
+
+# Little aside: transferring data from Hypergator 1 to Hypergator 2 using rsync
+As suggested in the Hypergator2.0 wiki page, transferring files from `/scratch/lfs/<your username>` to `/ufrc/ewhite/yourUser` is pretty easy. Just follow these steps:
+
+`[yourUser@yourComputer]$ ssh yourUser@hpg2.rc.ufl.edu`
+
+`<Enter password>`
+
+`[yourUser@gator4 ~]$ ssh dtn1`
+
+`[yourUser@dtn1 ~]$ rsync -av /scratch/lfs/yourName/important_data/ /ufrc/ewhite/yourUser`
+

@@ -73,7 +73,7 @@ Hipergator 2 job scripts look like the one below.  More information at https://w
 
 # Job name and who to send updates to
 #SBATCH --job-name=<JOBNAME>
-##SBATCH --mail-user=<EMAIL>
+#SBATCH --mail-user=<EMAIL>
 #SBATCH --mail-type=FAIL,END
 
 # Where to put the outputs. %j expands into the job number

@@ -7,9 +7,9 @@
 * Oct 5:
 * Oct 12:
 * Oct 19:
-* Oct 26: (Ethan & Kristina out of town)
+* Oct 26: (Ethan & Kristina out of town, Joan also out of town)
 * Nov 2:
-* Nov 9:
+* Nov 9: (Erica's birthday)
 * Nov 16:
 * Nov 23: THANKSGIVING - NO LAB MEETING
 * Nov 30: Sergio

@@ -64,55 +64,9 @@ Things to outline:
 ## Submitting jobs
 Since 100's of people are using the hipergator cluster, access to it is organized around jobs. The idea is that your script will run for a certain time and use a certain amount of resources (RAM and processors/cores). Your jobs (with info on the script to run and the resources it will use) is submitted to a queue with this information, where it waits for those resources to free up before being run. 
 
-### Sample job script
+***Script for Hipergator Version 1 removed. Archived [here](https://github.com/weecology/lab-wiki/wiki/Using-HiPerGator/f0d2ed8d33a91476ad7515d3c3486ccab91f3b01).***
 
-```
-#!/bin/sh
-#These are variables to pass to the job handler, see http://wiki.rc.ufl.edu/doc/Annotated_PBS_Script and
-#http://wiki.rc.ufl.edu/doc/PBS_Directives for more details
-
-#Do not rerun the job if it fails
-#PBS -r n
-
-#The name of the job
-#PBS -N JOBNAME
-
-#The file that output will be written to
-#PBS -o JOBNAME.out
-
-#The file that errors will be written to
-#PBS -e JOBNAME.err
-
-#Notifications options. a=notify when job is aborted, b=notify when job begins, e=notify when job terminates
-#PBS -m abe
-
-#Email to send notifications to
-#PBS -M YOUR.EMAIL@ufl.edu
-
-#These are the important ones, the amount of resources you want to use.
-#Nodes are the number of seperate servers that you want to use. ppn is processors per node.
-#Using more than 1 node requires your script to have cross server communication built into it, so for most work we'll
-#probably just use single nodes.
-#ppn should match the number of threads/cores you setup in your script. Our max for the lab at the moment is 32.
-#PBS -l nodes=1:ppn=N_CORES_PER_NODE
-
-#The amount of memory that your script will require. This can be just a rough guess with some buffer added on.
-#8192mb is a reasonable starting value, if you're not sure and you think your script could run on a laptop.
-#PBS -l pmem=MEMORYmb
-
-#The length of time your script will run. again this can be a rough guess with some buffer time added.
-#If your script goes over this amount of time it will be killed. 
-#PBS -l walltime=HOURS:MINUTES:SECONDS
-
-#Set the working directory of the job to your current working directory
-cd $PBS_O_WORKDIR
-
-#Loads R
-module load R
-
-#The actual command to run your script like you would from the command line.
-Rscript "MY_FILE.R"
-```
+Instructions for making a SLURM job script for hipergator 2 are [here](https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script)
 
 # Misc. 
 

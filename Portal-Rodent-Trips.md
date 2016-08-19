@@ -7,7 +7,7 @@ This page will (hopefully) remain an up-to-date list of future Portal trip dates
 
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
-* *March 18-25/6* (Plant Survey)
+-* *March 18-25/6* (Plant Survey)
   * _Volunteers: Erica, Ellen, Shawn, Kristina, Joan_
 * *April 8-10* (Ellen)
   * _Volunteer: Carole and Rick_
@@ -20,7 +20,13 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 * *Aug 5-7* (Erica)
   * _Volunteer: Sergio
 * *Plant trip - Sept 1-7?*
-  * _Volunteers: Erica, Ellen, Glenda, Shawn, Jessica + parasite crew_
+  * _Volunteers: Erica, Ellen, Glenda, Shawn, Joan, Jessica + parasite crew_
+* *Sep 29-Oct 3* (Ellen)
+  *_Volunteer:_
+* *Oct 27-31*
+  *_Volunteer:_
+* *Dec 1-5* (Erica)
+  *_Volunteer:_
 
 
 ## Trip Description

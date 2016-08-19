@@ -18,7 +18,7 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 * *July 1-3* (Ellen)
   * _Volunteer: Joy (potentially)_
 * *Aug 5-7* (Erica)
-  * _Volunteer: Sergio
+  * _Volunteer: Sergio_
 * *Plant trip - Sept 1-7?*
   * _Volunteers: Erica, Ellen, Glenda, Shawn, Joan, Jessica + parasite crew_
 * *Sep 29-Oct 3* (Ellen)

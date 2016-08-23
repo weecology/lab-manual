@@ -6,7 +6,7 @@
 * Sep 28:
 * Oct 5:
 * Oct 12:
-* Oct 19:
+* Oct 19: Kristina
 * Oct 26: (Ethan & Kristina out of town, Joan also out of town)
 * Nov 2: Erica
 * Nov 9: (Erica's birthday)

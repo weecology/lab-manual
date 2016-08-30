@@ -45,7 +45,12 @@ This is a brain dump from shortly after I (Ethan) received the Moore Foundation 
 	* A central conclusion/synthesis paper discussing and comparing results
 	* F1000 or PeerJ would probably go for something like this, and would
 	support commenting and interaction among the authors of the different
-	forecasts 
+	forecasts
+* Paleo forecasting
+    * Can we do forecasting evaluation, and make actual forecasts, at longer time-
+      scales using paleo data
+    * Can we combine paleo and modern data to improve our forecasts at intermediate
+      time-scales
 
 * Obs:pred plots/R^2 equivalent to AUC, but how does this compare to statis
 * Look for spatial patterns in forecastability or performance of different

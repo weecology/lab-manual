@@ -2,7 +2,7 @@
 * Aug 31:
 * Sep 7: (plant census; several folks out of town)
 * Sep 14: (Ethan & Henry out of town)
-* Sep 21:
+* Sep 21: Data sprint: quadrat and transect data
 * Sep 28:
 * Oct 5:
 * Oct 12:

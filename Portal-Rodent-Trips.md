@@ -23,9 +23,9 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
   * _Volunteers: Erica, Ellen, Glenda, Shawn, Joan, Jessica + parasite crew_
 * *Sep 29-Oct 3* (Ellen)
   * _Volunteer:_
-* *Oct 27-31*
+* *Oct 27-31* (Ellen)
   * _Volunteer:_
-* *Dec 1-5* (Erica)
+* *Dec 1-5* (Ellen)
   * _Volunteer:_
 
 

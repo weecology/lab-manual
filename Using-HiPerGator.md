@@ -51,17 +51,19 @@ Some quick notes:
 
 # Step 3: 
 ## Testing your code on the dev servers.
-When logged into the hipergator server, you can ssh to either dev1 or dev2 to test out your scripts. 
+If planning on interacting with Hipergator to do anything time-consuming or resource-intensive, you should log into the development server. The development server is interactive (unlike a batch job) but can use a larger amount of computing power. You can switch to the dev server with commands like those below. The maximum is 12 hours.
 
----more later---
+```
+module load ufrc'
+srundev --time=480 --cpus-per-task=1 --mem-per-cpu=16gb
+```
 
-Things to outline:
+While you're on the dev server, you can do a test run of your code (perhaps with fewer cores) and see how much memory you'll need.
 
 -making sure scripts can be run via command line using Rscript. Unlike in rstudio, scripts need to be able to run from beginning to end and produce a results file.
--using the dev server to estimate the amount of ram needed
 
 # Step 4 
-## Submitting jobs
+## Submitting full batch jobs
 Since 100's of people are using the hipergator cluster, access to it is organized around jobs. The idea is that your script will run for a certain time and use a certain amount of resources (RAM and processors/cores). Your jobs (with info on the script to run and the resources it will use) is submitted to a queue with this information, where it waits for those resources to free up before being run. 
 
 ***Script for Hipergator Version 1 removed. Archived [here](https://github.com/weecology/lab-wiki/wiki/Using-HiPerGator/f0d2ed8d33a91476ad7515d3c3486ccab91f3b01).***

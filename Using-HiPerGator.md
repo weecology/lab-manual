@@ -78,9 +78,12 @@ Hipergator 2 job scripts look like the one below.  More information at https://w
 #SBATCH --mail-user=<EMAIL>
 #SBATCH --mail-type=FAIL,END
 
-# Where to put the outputs. %j expands into the job number
-#SBATCH --output <my_job-%j.out>
-#SBATCH --error <my_job-%j.err>
+
+# Where to put the outputs:
+#   %A expands to the job-name specified above
+#   %j expands into the job number (a unique identifier for this job)
+#SBATCH --output %A%j.out
+#SBATCH --error %A%j.err
 
 # Number of nodes to use
 #SBATCH --nodes=1

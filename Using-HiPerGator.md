@@ -127,7 +127,7 @@ Finally, type `R CMD install MY_PACKAGE_version.tar.gz`.  The package will be bu
 
 # Storage
 
-Your home folder only has a few gigabytes of disk space, but there is a large amount of space available under `/ufrc/ewhite/<your username>`
+Your home folder only has a few gigabytes of disk space, but there is a large amount of space available under `/ufrc/ewhite/<your username>`. If you prefer a Dropbox-like interface, you can also hook GatorBox up to HiperGator using [these instructions](https://wiki.rc.ufl.edu/doc/GatorBox:_Adding_external_storage).
 
 -----------------------------
 #Hipergator 2.0 notes.

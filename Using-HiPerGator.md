@@ -125,6 +125,10 @@ Next, make sure you have a source file for the package.  For CRAN packages, thes
 
 Finally, type `R CMD install MY_PACKAGE_version.tar.gz`.  The package will be built, along with any dependencies, and should be accessible the next time you run R.
 
+# Storage
+
+Your home folder only has a few gigabytes of disk space, but there is a large amount of space available under `/ufrc/ewhite/<your username>`
+
 -----------------------------
 #Hipergator 2.0 notes.
 

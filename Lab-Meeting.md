@@ -4,16 +4,16 @@
 * Sep 14: (Ethan & Henry out of town)
 * Sep 21: Data sprint: quadrat and transect data
 * Sep 28: Authorship
-* Oct 5: Journal selection
+* Oct 5:  Dave
 * Oct 12: Shawn
 * Oct 19: Kristina (Ellen out of town)
 * Oct 26: (Ethan & Kristina out of town, Joan also out of town)
-* Nov 2: Erica
-* Nov 9: Ellen
+* Nov 2:  Erica
+* Nov 9:  Ellen
 * Nov 16: Joan (flexible on dates)
 * Nov 23: THANKSGIVING - NO LAB MEETING
 * Nov 30: Sergio
-* Dec 7
+* Dec 7:  Journal selection
 
 ## Discussion topics
 

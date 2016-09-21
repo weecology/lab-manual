@@ -54,7 +54,7 @@ Some quick notes:
 If planning on interacting with Hipergator to do anything time-consuming or resource-intensive, you should log into the development server. The development server is interactive (unlike a batch job) but can use a larger amount of computing power. You can switch to the dev server with commands like those below. The maximum is 12 hours.
 
 ```
-module load ufrc'
+module load ufrc
 srundev --time=480 --cpus-per-task=1 --mem-per-cpu=16gb
 ```
 

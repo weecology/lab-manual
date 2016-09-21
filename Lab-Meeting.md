@@ -3,8 +3,8 @@
 * Sep 7: (plant census; several folks out of town)
 * Sep 14: (Ethan & Henry out of town)
 * Sep 21: Data sprint: quadrat and transect data
-* Sep 28:
-* Oct 5:
+* Sep 28: Authorship
+* Oct 5: Journal selection
 * Oct 12:
 * Oct 19: Kristina (Ellen out of town)
 * Oct 26: (Ethan & Kristina out of town, Joan also out of town)

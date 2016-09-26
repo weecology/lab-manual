@@ -10,7 +10,7 @@
 * Oct 26: (Ethan & Kristina out of town, Joan also out of town)
 * Nov 2:  Erica
 * Nov 9:  Ellen
-* Nov 16: Joan (flexible on dates)
+* Nov 16: Joan
 * Nov 23: THANKSGIVING - NO LAB MEETING
 * Nov 30: Sergio
 * Dec 7:  Journal selection

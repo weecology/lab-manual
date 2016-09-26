@@ -102,8 +102,10 @@ Hipergator 2 job scripts look like the one below.  More information at https://w
 date;hostname;pwd
 
 # Load R and run a script
+# Including `--default-packages=methods` is important because otherwise
+# you'll get cryptic errors where R and Rscript behave differently
 module load R
-Rscript my_R_script.R
+Rscript --default-packages=methods my_R_script.R
 ```
 
 Instructions for making a SLURM job script for hipergator 2 are [here](https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script)

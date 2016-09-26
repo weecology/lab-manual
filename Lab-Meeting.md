@@ -7,7 +7,7 @@
 * Oct 5:  Dave
 * Oct 12: Shawn
 * Oct 19: Kristina (Ellen out of town)
-* Oct 26: (Ethan & Kristina out of town, Joan also out of town)
+* Oct 26: (Ethan & Kristina out of town, Joan also out of town); data sprint?
 * Nov 2:  Erica
 * Nov 9:  Ellen
 * Nov 16: Joan

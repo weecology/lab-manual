@@ -112,21 +112,13 @@ Instructions for making a SLURM job script for hipergator 2 are [here](https://w
 
 ## Installing R packages
 
-HiPerGator has a lot of packages installed already, but you might need to install your own.
+HiPerGator has a lot of packages installed already, but you might need to install your own, or you might want an updated version of an existing package.
 
-### If the package is on CRAN
+You can tell R to prefer your personal library of R packages over the (possibly outdated) ones maintained for Hipergator by adding `libPaths(c("/home/YOUR_USER_NAME/R_libs", .libPaths()))` to your `.Rprofile`.  If you don't have one yet, you can create a new file with that name and put it in your home directory (e.g. in `/home/harris.d/.Rprofile`).
 
-From R, type `install.packages("MY_PACKAGE") and select a CRAN mirror.  If you get an error saying "Warning: unable to access index for repository..." try another CRAN mirror instead.
+Once this is set up, you can install or update packages the usual way (e.g. with `install.packages` or `devtools::install_github`).
 
-### Non-CRAN packages
-
-I (Dave) don't know if the following method of getting R packages installed is officially sanctioned, but it's worked for me and I haven't gotten in trouble for using it.
-
-First, type `export R_LIBS="~/R/x86_64-unknown-linux-gnu-library/R_VERSION/"` at the login server's command line (where `R_VERSION` is the version of R you'll be using (currently 3.2).  This will tell R to put new packages in the `R` folder of your home directory. You may need to create this directory manually, with `mkdir ~/R/x86_64-unknown-linux-gnu-library/R_VERSION/`.
-
-Next, make sure you have a source file for the package.  For CRAN packages, these can be found online under the heading "Package source:".  For other packages, you can create them with `R CMD build FOLDER_CONTAINING_MY_PACKAGE`.  Either way, you should end up with a file whose name follows the format `MY_PACKAGE_version.tar.gz`.
-
-Finally, type `R CMD install MY_PACKAGE_version.tar.gz`.  The package will be built, along with any dependencies, and should be accessible the next time you run R.
+If you need an R package from CRAN but can't install it yourself (e.g. because of dependencies or compiler issues), you can always [file a support request](https://support.rc.ufl.edu/enter_bug.cgi).
 
 # Storage
 

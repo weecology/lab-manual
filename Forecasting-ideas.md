@@ -51,6 +51,10 @@ This is a brain dump from shortly after I (Ethan) received the Moore Foundation 
       scales using paleo data
     * Can we combine paleo and modern data to improve our forecasts at intermediate
       time-scales
+* Iterative forecasting
+    * Assess benefits and approaches to iterative forecasting by starting with a
+      small chunk of time-series (in, say, BBS) and applying iterative tools as each
+      new year of data comes in.
 
 * Obs:pred plots/R^2 equivalent to AUC, but how does this compare to statis
 * Look for spatial patterns in forecastability or performance of different

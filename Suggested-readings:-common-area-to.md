@@ -7,3 +7,9 @@ For example, I'll start with a couple of nice machine learning references:
 {machine learning}: Book. James et al., **An Introduction to Statistical Learning**, {available at http://www-bcf.usc.edu/~gareth/ISL/}, Sergio Marconi
 
 {machine learning}: Slides. Nikolay Bliznyuk, **FALL 2016 ABE 6933 SEC 2080: Statistical (Machine) Learning**, {available on request to Sergio Marconi}, Sergio Marconi
+
+{machine learning}: Book. Hastie et al., **Elements of Statistical Learning**, {available on request to Sergio Marconi}, Sergio Marconi
+
+{Hyper-spectral remore sensing}: Book. Jones, **Remote Sensing of Vegetation: Principles, Techniques, and Applications**,  {Paper book available on request to Sergio}, Sergio Marconi
+
+{modeling in Ecology}: Book. Otto & Dai, **A Biologist's Guide to Mathematical Modeling in Ecology and Evolution**, {Paper book available on request to Sergio}, Sergio Marconi

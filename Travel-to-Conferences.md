@@ -24,11 +24,26 @@ UF needs to know if meals and housing are included in registration costs so they
 **Step 4**. Submit Travel Authorization
     When you send in your TA form, attach the registration documentation as well to the email
 
-**Step 5**: Share Registration Documentation.
+**After travel is completed**  
+
+**Step 6**: Submit a [WEC Travel expense report](http://www.wec.ufl.edu/resources/travel/Travel%20Expense%20Report%201.2.pdf)  
+    Email it to WECFiscal@ifas.ufl.edu
+
+**Step 7**: Confirm Travel Expense Report is in the system  
+    Login to my.ufl.edu and click on Main Menu -> My Self Service -> Travel and Expenses -> Expense Reports -> View  
+    Leave everything blank and click Search to view all expense reports.
+
+**Step 8**: Print the travel expense report signature page from my.ufl.edu and email signed version to WECFiscal@ifas.ufl.edu  
+    On the page for the expense report click View Printable Version -> Print Expense Report  
+    Current consensus is it only needs the Employee Signature
+
+**Step 9**: Share Registration Documentation.
     Be kind and share with your labmates. Email the documentation to the lab list or share on Slack
 
 
-#####
+***  
+Any issues or questions with the steps above can be resolved by asking [Fiona Hogan](fiona.hogan@ufl.edu)
+
 [UF Documentation on PCARDS and Registration](http://www.purchasing.ufl.edu/departments/pcard/transactions/default.asp)
 The PCard can only be used to pay registration fees for conferences, conventions, or seminars.
 

@@ -7,29 +7,16 @@ This page will (hopefully) remain an up-to-date list of future Portal trip dates
 
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
-* *March 18-25/6* (Plant Survey)
-  * _Volunteers: Erica, Ellen, Shawn, Kristina, Joan_
-* *April 8-10* (Ellen)
-  * _Volunteer: Carole and Rick_
-* *May 6-8* (Erica)
-  * _Volunteer: Isabel_
-* *June 3-5* (Erica)
-  * _Volunteer: Heidi, plus Jessica + parasite crew_
-* *July 1-3* (Ellen)
-  * _Volunteer: Joy (potentially)_
-* *Aug 5-7* (Erica)
-  * _Volunteer: Sergio_
-* *Plant trip - Sept 1-7?*
-  * _Volunteers: Erica, Ellen, Glenda, Shawn, Joan, Jessica + parasite crew_
-* *Sep 29-Oct 3* (Ellen & Iliya)
-  * _Volunteer:_
-* *Nov 3-7* (Ellen & Shawn)
-  * _Volunteer:_
 * *Dec 1-5* (Ellen)
-  * _Volunteer:_
+  * _Volunteer: Harry_
 * *Jan 5-9* (Erica)
   * _Volunteer:_
-
+* *Jan 26-30* (Erica)
+  * _Volunteer:_
+* *Feb 23-27* (Ellen)
+  * _Volunteer: Joan_
+* *March ?* (Plant Census)
+  * _Volunteers: Ellen, Erica, Glenda, Shawn?, Joan?, Kristina?_
 
 ## Trip Description
 For those of you not familiar with the procedure, a Portal weekend consists of two nights of rodent trapping.  We fly out Thursday and stay overnight in Tucson. Friday morning we pick up the field truck and any supplies we need, and drive 3 hours to the site.  Friday night just before sunset we'll set traps on half of the site's 24 plots -- this procedure takes about 2 hours.  Saturday morning we get up just before dawn and process animals in the full traps.  The rodent RA (Erica or Ellen) will be the one actually handling the animals while the volunteer records data and assists with equipment.  Saturday night we'll set traps on the other half of the plots, and Sunday morning will be the same as Saturday morning.  Sunday afternoon we'll break camp and head back to Tucson, stay in a hotel again and fly back to Gainesville Monday morning.  

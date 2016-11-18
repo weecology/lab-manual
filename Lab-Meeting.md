@@ -28,3 +28,4 @@
 * Determining authorship
 * Contract and salary negotiation (academic or otherwise)
 * Qualifying Exams
+* How to keep up on recent publications of interest

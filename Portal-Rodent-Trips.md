@@ -10,7 +10,7 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 * *Dec 1-5* (Ellen)
   * _Volunteer: Harry_
 * *Jan 5-9* (Erica)
-  * _Volunteer:_
+  * _Volunteer:Jen_
 * *Jan 26-30* (Erica)
   * _Volunteer:_
 * *Feb 23-27* (Ellen)

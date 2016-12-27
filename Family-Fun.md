@@ -14,3 +14,10 @@ A nice beach, historic fort & downtown.
 * Springs  
 Numerous springs around Gainesville worth a visit. Most are state parks and have an entrance fee. See a map [here](http://www.floridasprings.org/visit/map/).  
 
+# Food
+* East End Eatery - Great breakfast, closes after lunchtime.
+* Satchel's Pizza - 
+* The Top - Good food all around, large beer collection
+* Boca Fiesta - Good mexican food
+* La Tienda - **Really** good mexican food. 
+* Sweetberries - Great sandwiches and ice cream, close to campus. 

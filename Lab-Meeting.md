@@ -11,7 +11,7 @@
 * Mar 22: PORTAL SPRING PLANTS (I think) 
 * Mar 29:
 * Apr 5:
-* Apr 12:
+* Apr 12: Erica
 * Apr 19:
 
 ## Discussion topics

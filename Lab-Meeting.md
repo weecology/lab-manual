@@ -5,7 +5,7 @@
 * Feb 8: Dave
 * Feb 15: (Morgan out of town)
 * Feb 22:
-* Mar 1:
+* Mar 1: Kristina
 * Mar 8: SPRING BREAK
 * Mar 15: Ellen
 * Mar 22: PORTAL SPRING PLANTS (I think) 

@@ -12,7 +12,7 @@
 * Mar 29: Shawn
 * Apr 5: Joan
 * Apr 12: Erica
-* Apr 19:
+* Apr 19: Sergio
 
 ## Discussion topics
 

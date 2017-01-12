@@ -3,8 +3,8 @@ Once you have been a resident of Florida for a year, you can petition to be recl
 Here is UF's official website about this: http://www.admissions.ufl.edu/afford/establishres
 
 The documents that worked for me were: (everything should be a copy, they won't return these things to you)
--Florida drivers license
--Voter registration card
--Apartment lease (the whole thing, not just the cover page)
--Utility bills for past 12 months
--Renters insurance policy
+* Florida drivers license
+* Voter registration card
+* Apartment lease (the whole thing, not just the cover page)
+* Utility bills for past 12 months
+* Renters insurance policy

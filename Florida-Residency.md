@@ -2,9 +2,22 @@ Once you have been a resident of Florida for a year, you can petition to be recl
 
 Here is UF's official website about this: http://www.admissions.ufl.edu/afford/establishres
 
-The documents that worked for me were: (everything should be a copy, they won't return these things to you)
+The documents that worked for Erica were: (everything should be a copy, they won't return these things to you)
 * Florida drivers license
 * Voter registration card
 * Apartment lease (the whole thing, not just the cover page)
 * Utility bills for past 12 months
 * Renters insurance policy
+
+---
+The people checking this read the law to the letter, which is something like "Legal documents showing residency of 12 months prior to the start of the semester". After talking with a few people it seems the easiest way to do this is, as soon as you move to Gainesville and before your 1st semester starts go get your Florida drivers license, car registration, and register to vote. At the start of your 2nd  year here these will then be legal docs that are dated 12 months from the present.   If you really want to drive it home you can also do the Declaration of Domicile
+
+Shawn first submitted the following and got denied:
+* Florida DL (not 12 months old, I got it in October my 1st semester).
+* Most recent UFL paystub.
+* Graduate assistantship letter from Ethan (showing the beginning date of 1 year prior).
+* 1st page of my lease (dated more than 12 months prior).  
+
+He went thru the appeal process and got approved submitting the following:  
+* My *full* 12 page lease (My thinking was the 1st page was not a "legal document").  
+* 12 months of rent check copes that my bank saves online. 

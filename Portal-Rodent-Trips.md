@@ -15,8 +15,8 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
   * _Volunteer: Pablo_
 * *Feb 23-27* (Ellen)
   * _Volunteer: Joan_
-* *March ?* (Plant Census)
-  * _Volunteers: Ellen, Erica, Glenda, Shawn?, Joan?, Kristina?_
+* *March 27-April 3* (Plant Census)
+  * _Volunteers: Ellen, Erica, Glenda, Joan, Kristina_
 * *April 28-30* (Erica)
   * _Volunteer: Brandon et al?_
 

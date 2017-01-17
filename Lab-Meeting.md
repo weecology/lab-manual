@@ -9,7 +9,7 @@
 * Mar 8: SPRING BREAK
 * Mar 15: Ellen
 * Mar 22: Shawn
-* Mar 29: PORTAL SPRING PLANTS (I think) 
+* Mar 29: Plant Census - No meeting
 * Apr 5: Joan
 * Apr 12: Erica
 * Apr 19: Sergio

@@ -2,11 +2,11 @@
  
 ### Winter 2017: March 27 - April 2
 
-Adventurers: Erica, Ellen, Glenda, Shawn, Kristina, Joan
+Adventurers: Erica, Ellen, Glenda, Kristina, Joan
 
 Invite Tom
 
-Projects:
+### Projects:
 * rodent census
 * plant census
 * collect as much Erigeron and Lycium material as possible 

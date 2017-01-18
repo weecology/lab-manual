@@ -1,39 +1,22 @@
 ## Upcoming Plant Census
  
-### Winter 2016: March 18 - 25
+### Winter 2017: March 27 - April 2
 
 Adventurers: Erica, Ellen, Glenda, Shawn, Kristina, Joan
 
-Morgan - March 21 - 25
-
-Tom, Tom's student - March 19, 20
+Invite Tom
 
 Projects:
 * rodent census
 * plant census
-* reconstruct plots 23 and 24  
-* collect plant material for DNA and voucher specimens for as many species as humanly possible
-* tag plant quadrat stakes
-* general maintenance: plot 3, 15, 16, 9, 2 (missing a gate divider), 18
-* plot 2 south side fence extension?
-* other site maintenance?
+* collect as much Erigeron and Lycium material as possible 
+* collect plant material for DNA and voucher specimens for new winter species
+* reconstruct corner of plot 23
+* other maintenance: 
+
 
 ### To Buy: 
-* spray paint to mark stakes (two colors)
-* hardware cloth -- we have one or two 2'x10' rolls already. 1/4" mesh. will need 3'x10' rolls for burying 
-* flashing
-* steel cable
-* fence stretcher
-* pop rivets for attaching flashing to hardware cloth: 1/4" x 3/16"
-* washers (for back of pop rivets)
-* hole punch to punch holes in flashing
-* post pounder
-* trench hoe
-* work gloves - we have I think 4 pairs in the truck
-* square?
-* water jug
-* >100 gallon freezer ziplocs
-* >100 sandwich ziplocs
-* airtight storage container(s)
+* 
+* 
 
  

@@ -1,5 +1,5 @@
 * Jan 11:
-* Jan 18:
+* Jan 18: Retriever testing
 * Jan 25: 
 * Feb 1: (Ethan out of town)
 * Feb 8: Dave

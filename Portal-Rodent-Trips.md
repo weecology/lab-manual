@@ -7,10 +7,6 @@ This page will (hopefully) remain an up-to-date list of future Portal trip dates
 
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
-* *Dec 1-5* (Ellen)
-  * _Volunteer: Harry_
-* *Jan 5-9* (Erica)
-  * _Volunteer: Jen_
 * *Jan 26-30* (Erica)
   * _Volunteer: Pablo_
 * *Feb 23-27* (Ellen)

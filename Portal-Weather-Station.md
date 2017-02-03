@@ -9,4 +9,10 @@ These steps should be done every April and October (after the rainy seasons) to 
 
 ###Weather Station documentation and tips
 
+[2016 Weather Station Equipment Details](https://github.com/weecology/lab-wiki/blob/master/SOCF1.pdf)
+
+[2016 Weather Station Program](https://github.com/weecology/lab-wiki/blob/master/new_program2016.SCW)
+
+[2002 Weather Station Details and program](https://github.com/weecology/lab-wiki/blob/master/Weather_Access_DB_2004.doc)
+
 Some required reading when dealing with Campbell Sci's stupid serial connections: https://www.campbellsci.com/blog/communication-problems-serial-connections

@@ -1,6 +1,6 @@
 Based on this [Weather Station Maintenance guide](https://www.campbellsci.com/blog/et-station-components-to-maintain) from Campbell Scientific
 
-Every month:
+####Every April and October:
  
 -[ ] Inspect the solar radiation sensor. As needed, clean it using a soft, clean, damp cloth. If necessary, adjust the sensor to ensure it is level.
 
@@ -13,7 +13,7 @@ Every month:
 -[ ] Check desiccant packs, moisture sensor and sealing putty in enclosure, replace packs if necessary (write date replaced with sharpie).
 
 
-Infrequent calibration and checks (more info in link above)
+####Infrequent calibration and checks (more info in link above)
 
 -[ ] Check seal on enclosure
 

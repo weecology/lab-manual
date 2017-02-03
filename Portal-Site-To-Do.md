@@ -1,4 +1,5 @@
-If you've done something on this list, please move it to the site log.
+If you've done something on this list, please move it to the [site log]((https://github.com/weecology/lab-wiki/wiki/Portal-Site-Log)
+).
 
 
 - [ ] Reconfigure phenocam and check to see if pictures start uploading

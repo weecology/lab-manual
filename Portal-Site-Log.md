@@ -1,4 +1,4 @@
-Please keep a record, including your name and dates, of anything relevant you may have done at the site (newest records on top).
+Please keep a record, including your name and dates, of anything relevant you may have done at the site (newest records on top). If you've done something on the [To Do list](https://github.com/weecology/lab-wiki/wiki/Portal-Site-To-Do), remove it from there and put it here.
 
 - We've determined that the clogged funnel EMC replaced in March 2014 was most likely causing the low hourly precipitation values we see from 2009 - 2014. The beginning of this time was an extreme drought (2009 and 2010). So these values were likely unaffected by the clogged funnel. And the drought may be when the funnel clogged (mud wasp nest?).
 

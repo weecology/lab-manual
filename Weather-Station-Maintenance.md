@@ -17,9 +17,9 @@ Based on this [Weather Station Maintenance guide](https://www.campbellsci.com/bl
 
 - [ ] Check seal on enclosure
 
-- [ ] Recalibrate wind sensor
-
 - [ ] Replace sensor element on humidity probe
+
+- [ ] Recalibrate wind sensor (send to Campbell Sci)
 
 - [ ] Recalibrate pyronometer (send to Campbell Sci)
 

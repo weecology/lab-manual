@@ -9,4 +9,4 @@ If you've done something on this list, please move it to the [site log](https://
 - [ ] Set up email through LoggerNet
 - [ ] Try to determine what model the rain gauge is that is lying near the weather station
 - [ ] Reconstruct corner of plot 23
-- [ ] 
+- [ ] Get GPS coordinates for Plot 1 quadrat 17 and Plot 24 quadrat 17 and new corner

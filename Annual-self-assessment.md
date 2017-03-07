@@ -7,11 +7,12 @@ In academia, it is easy to get caught up in the day to day tasks and lose sight 
 How do you go about doing this?
 
 1. We recommend including the following components:
-    * For students/postdocs: When do you think you will be completing this phase of your training? (this puts in perspective how much time you have to complete your tasks to achieve your goals)
-    * What are your long-term career plans? (This helps focus in on what kind of things you should be doing)
-    * Given your long-term plans, what do you think you need to do to be successful? (These are what we will call your goals)
+    * For students/postdocs: When do you think you will be completing this phase of your training? (*This puts in perspective how much time you have to complete your tasks to achieve your goals*)
+    * What are your long-term career plans? (*This helps focus in on what kind of things you should be doing*)
+    * What parts of your current job do you like and not like and how does this related to your career plans? (*This helps make sure your career plans fit with your interests*)
+    * Given your long-term plans, what do you think you need to do to be successful? (*These are what we will call your goals*)
     * What did you accomplish this year towards accomplishing your goals?
-    * What are your plans for next year for working towards your goals? (Be as specific as you can be. Are there particular projects you plan to start/finish? Is there specific training or experiences you think you need to succeed in reaching your goals?)
+    * What are your plans for next year for working towards your goals? (*Be as specific as you can be. Are there particular projects you plan to start/finish? Is there specific training or experiences you think you need to succeed in reaching your goals?*)
 
 2. It should be written down. This gives you a record next year of what you thought you needed to be doing so you can compare what you did with what you wanted to do.
 

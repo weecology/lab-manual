@@ -18,6 +18,6 @@ Adventurers: Erica, Ellen, Glenda, Kristina, Joan
 ### To Buy: 
 * oatmeal
 * bleach
-* bucket for bleaching traps?
+* bucket for bleaching traps
 
  

@@ -4,16 +4,14 @@
 
 Adventurers: Erica, Ellen, Glenda, Kristina, Joan
 
-Invite Tom
-
 ### Projects:
 * rodent census
 * plant census
+* second rodent trapping for poopfest
 * collect as much Erigeron and Lycium material as possible 
 * collect plant material for DNA and voucher specimens for new winter species
-* reconstruct corner of plot 23
-* collect seeds?
-* other maintenance: 
+* GPS missing plot points (1 -17, 24 - 17 and new 24 corner)
+* other maintenance? 
 
 
 ### To Buy: 

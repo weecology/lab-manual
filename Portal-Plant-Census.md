@@ -12,6 +12,7 @@ Adventurers: Erica, Ellen, Glenda, Kristina, Joan
 * collect plant material for DNA and voucher specimens for new winter species
 * GPS missing plot points (1 -17, 24 - 17 and new 24 corner)
 * other maintenance? 
+* get the phenocam up and running
 
 
 ### To Buy: 

@@ -1,5 +1,21 @@
 Please keep a record, including your name and dates, of anything relevant you may have done at the site (newest records on top). If you've done something on the [To Do list](https://github.com/weecology/lab-wiki/wiki/Portal-Site-To-Do), remove it from there and put it here.
 
+
+- The rain gauges on both stations were compared to figure out why the data doesn't match up (3/29/2017).  
+  * The tipping buckets in both gauges are the same (thus, both equal 0.254 mm/tip).
+  * The old station's rain gauge is labeled model TR-525M, which is [TE-525MM-L](https://www.campbellsci.com/te525mm-l). Also confirm that the new station's gauge is labeled TR-525USW, which is 
+  [TE-525WS-L](https://www.campbellsci.com/te525ws-l).
+  * Both gauges currently have the same size funnel on them (206 mm). The funnel that was previously on the old 
+  gauge (until August 3 2014) was larger (244 mm). 
+  * The rain gauge from the 1989 station is still lying near the weather station, and is Weather Measure Corp 
+  model number P-501 (serial number 2363).
+ 
+- Phenocam is powered and taking pictures (3/29/2017)
+
+- GPS coordinates for Plot 1 quadrat 17 and Plot 24 quadrat 17 and new corner (taken on less-accurate handheld, flagged in data) (3/28/2017)
+
+- LoggerNet setup to remotely access new weather station (2/15/2017)
+
 - We've determined that the clogged funnel EMC replaced in March 2014 was most likely causing the low hourly precipitation values we see from 2009 - 2014. The beginning of this time was an extreme drought (2009 and 2010). So these values were likely unaffected by the clogged funnel. And the drought may be when the funnel clogged (mud wasp nest?).
 
 - We've determined that the rain gauge bucket size and funnel size are both wrong on the 2002 weather station (see calculations below) (2/1/2017)
@@ -12,7 +28,7 @@ Please keep a record, including your name and dates, of anything relevant you ma
 
 - November 2016 - Weather station collecting data
 
-- August 2016 - new weather station erected, but not yet collecting data
+- August 2016 - New weather station erected, but not yet collecting data
 
 - June 2016 - First new spectab caught in a while (EMC, Plot 11)
 

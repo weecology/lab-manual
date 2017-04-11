@@ -2,7 +2,7 @@ Please keep a record, including your name and dates, of anything relevant you ma
 
 
 - The rain gauges on both stations were compared to figure out why the data doesn't match up (3/29/2017).  
-  * The tipping buckets in both gauges are the same (thus, both equal 0.254 mm/tip).
+  * The tipping buckets in both gauges are the same size. But they apparently do not equate to the same ml/tip, according to their model numbers
   * The old station's rain gauge is labeled model TR-525M, which is [TE-525MM-L](https://www.campbellsci.com/te525mm-l). Also confirm that the new station's gauge is labeled TR-525USW, which is 
   [TE-525WS-L](https://www.campbellsci.com/te525ws-l).
   * Both gauges currently have the same size funnel on them (206 mm). The funnel that was previously on the old 

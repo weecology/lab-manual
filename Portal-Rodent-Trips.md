@@ -47,3 +47,7 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 * Katye Totten (Biology dept)
 * Elise Morton
 * Wes Boone
+* Karen Bailey
+* Annie Loggins
+* Adia Sovie
+* Katie Hooker

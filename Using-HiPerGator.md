@@ -31,11 +31,15 @@ Some quick notes:
 
 2. connect to the server with `ssh <YOUR_USERNAME>@hpg2.rc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](http://wiki.hpc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
 
-3. This will take you to a Unix terminal on the login server.  This is where you can upload files and start larger jobs on other servers. You're not supposed to run big computations on this server. See the section on file transfer below. 
+3. This will take you to a Unix terminal on the login server.  This is where you can upload files and start larger jobs on other servers. You're not supposed to run big computations on this server, which you can identify by looking for "gator" next to the command prompt.
 
-4. You can start a job using a file like the one below (based on a file from Shawn, updated by Dave). Once this information is in a job file on the server, you can start it with `sbatch <your job script>`. If it works, you'll get a one-line response with your job ID and will then be returned to the terminal of the login server.
+4. Starting a job:
 
-5. You can check on your job's status at http://rc.ufl.edu/jobstatus/ or with `squeue -u <username>`. The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores
+* You can start a **batch** job using a file like the one below (based on a file from Shawn, updated by Dave). This is how you should run everything big. Once this information is in a job file on the server, you can start it with `sbatch <your job script>`. If it works, you'll get a one-line response with your job ID and will then be returned to the terminal of the login server.
+
+* Alternatively, you can run work on the **development server** for a limited time. Dave uses this incantation to access it for 8 hours at a time with 2 CPUs: `ml ufrc; srundev --time=480 --nodes=1 --cpus-per-task=2 --mem-per-cpu=8gb`.
+
+5. You can check on your job's status with `squeue -u <username>`. The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores. Sometimes (but not always) the output will explain why you're still in the queue (e.g. QOSMEMLIMIT if you're using too much memory).
 
 6. Once your job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
 

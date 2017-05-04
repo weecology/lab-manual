@@ -37,11 +37,11 @@ Some quick notes:
 
 * You can start a **batch** job using a file like the one below (based on a file from Shawn, updated by Dave). This is how you should run everything big. Once this information is in a job file on the server, you can start it with `sbatch <your job script>`. If it works, you'll get a one-line response with your job ID and will then be returned to the terminal of the login server.
 
-* Alternatively, you can run work on the **development server** for a limited time. Dave uses this incantation to access it for 8 hours at a time with 2 CPUs: `ml ufrc; srundev --time=480 --nodes=1 --cpus-per-task=2 --mem-per-cpu=8gb`.
+* Alternatively, you can run work on the **development server** for a limited time, as described below. You can work interactively while on this server, unlike a batch job.
 
 5. You can check on your job's status with `squeue -u <username>`. The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores. Sometimes (but not always) the output will explain why you're still in the queue (e.g. QOSMEMLIMIT if you're using too much memory).
 
-6. Once your job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
+6. Once your batch job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
 
 ### File transfer
 
@@ -64,13 +64,11 @@ srundev --time=480 --cpus-per-task=1 --mem-per-cpu=16gb
 
 While you're on the dev server, you can do a test run of your code (perhaps with fewer cores) and see how much memory you'll need.
 
--making sure scripts can be run via command line using Rscript. Unlike in rstudio, scripts need to be able to run from beginning to end and produce a results file.
+-making sure scripts can be run via command line using Rscript. Unlike in rstudio, scripts need to be able to run from beginning to end and produce a results file. When you do call Rscript, make sure to explicitly load the `methods` package, as shown below (otherwise you can get very mysterious error messages).
 
 # Step 4 
 ## Submitting full batch jobs
 Since 100's of people are using the hipergator cluster, access to it is organized around jobs. The idea is that your script will run for a certain time and use a certain amount of resources (RAM and processors/cores). Your jobs (with info on the script to run and the resources it will use) is submitted to a queue with this information, where it waits for those resources to free up before being run. 
-
-***Script for Hipergator Version 1 removed. Archived [here](https://github.com/weecology/lab-wiki/wiki/Using-HiPerGator/f0d2ed8d33a91476ad7515d3c3486ccab91f3b01).***
 
 Hipergator 2 job scripts look like the one below.  More information at https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script and https://wiki.rc.ufl.edu/doc/SLURM_Commands
 
@@ -116,6 +114,8 @@ Instructions for making a SLURM job script for hipergator 2 are [here](https://w
 
 # Misc. 
 
+## 
+
 ## Installing R packages
 
 HiPerGator has a lot of packages installed already, but you might need to install your own, or you might want an updated version of an existing package.
@@ -129,32 +129,3 @@ If you need an R package from CRAN but can't install it yourself (e.g. because o
 # Storage
 
 Your home folder only has a few gigabytes of disk space, but there is a large amount of space available under `/ufrc/ewhite/<your username>`. If you prefer a Dropbox-like interface, you can also hook GatorBox up to HiperGator using [these instructions](https://wiki.rc.ufl.edu/doc/GatorBox:_Adding_external_storage).
-
------------------------------
-#Hipergator 2.0 notes.
-
--Transferring seems very straightforward as long as your hipergator login name is the same as your gatorlink name (also the same as your ufl email). If it isn't for some reason you'll need to submit a support ticket to get the login sorted out on hipergator2. If it is then using HP2 only involves
-
--We do not have to move as a group. Each person can do so individually.
-
--Read more about transferring here https://www.rc.ufl.edu/services/computation/hipergator/user-information/. But in general you must.
-
-1. Login into the new login node `hpg2.rc.ufl.edu` 
-2. From there login to the data transfer node `dtn1`
-3. cp your data out of `/scratch/lfs/<your username>` to `/ufrc/ewhite/<your username>`
-    -Note you don't have to transfer things that were in your home folder. (the folder you're in when you login to either hipergator1 or 2 login nodes.).
-4. `/ufrc/ewhite/<your username>` is your new folder to store large amounts of data. 
-5. The old job scripts used a cluster computer software called MOAB. Which handled the scheduling of all the users and computer nodes on the system.
-   Hipergator 2 will use a similar software called SLURM, which uses all the same basic ideas but some of the job script details will change. See the details of how to change job scripts [here](http://wiki.rc.ufl.edu/doc/PBS2SLURM_Command_Reference).
-
-# Little aside: transferring data from Hypergator 1 to Hypergator 2 using rsync
-As suggested in the Hypergator2.0 wiki page, transferring files from `/scratch/lfs/<your username>` to `/ufrc/ewhite/yourUser` is pretty easy. Just follow these steps:
-
-`[yourUser@yourComputer]$ ssh yourUser@hpg2.rc.ufl.edu`
-
-`<Enter password>`
-
-`[yourUser@gator4 ~]$ ssh dtn1`
-
-`[yourUser@dtn1 ~]$ rsync -av /scratch/lfs/yourName/important_data/ /ufrc/ewhite/yourUser`
-

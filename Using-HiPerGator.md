@@ -79,7 +79,8 @@ Hipergator 2 job scripts look like the one below.  More information at https://w
 #SBATCH --job-name=<JOBNAME>
 #SBATCH --mail-user=<EMAIL>
 #SBATCH --mail-type=FAIL,END
-
+#SBATCH --account=ewhite
+#SBATCH --qos=ewhite-b   # Remove the `-b` if the script will take more than 4 days; see "bursting" below
 
 # Where to put the outputs: %j expands into the job number (a unique identifier for this job)
 #SBATCH --output my_job%j.out
@@ -114,7 +115,9 @@ Instructions for making a SLURM job script for hipergator 2 are [here](https://w
 
 # Misc. 
 
-## 
+## Bursting
+
+If your jobs will take less than 4 days, you can use "burst" mode, which provides *ten times* as many cores and *ten times* as much memory as the default mode. If you cannot burst, just remove the `-b` from the line above about `qos`.
 
 ## Installing R packages
 

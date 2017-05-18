@@ -9,7 +9,7 @@ Ask Shawn or Henry for a username and initial password
 
 Open a terminal (or a git bash window) and type
 
-ssh <username>@serenity.ifas.ufl.edu
+ssh username@serenity.ifas.ufl.edu
 
 ### Using Rstudio
 Open a browser and go to http://serenity.ifas.ufl.edu:8787 and login with your serenity username and password  

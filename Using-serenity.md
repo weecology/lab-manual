@@ -11,6 +11,8 @@ Open a terminal (or a git bash window) and type
 
 ssh username@serenity.ifas.ufl.edu
 
+From here you can move to different folders in your home directory to run git commands, or clone a repo from github.  
+
 ### Using Rstudio
 Open a browser and go to http://serenity.ifas.ufl.edu:8787 and login with your serenity username and password  
 This runs exactly like Rstudio on your desktop. You'll have to re-install any packages that you need.

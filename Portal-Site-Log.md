@@ -1,9 +1,9 @@
 Please keep a record, including your name and dates, of anything relevant you may have done at the site (newest records on top). If you've done something on the [To Do list](https://github.com/weecology/lab-wiki/wiki/Portal-Site-To-Do), remove it from there and put it here.
 
-- (5/28/17) 12:15 pm Rain gauges tested
+- (5/28/17) 12:15 pm Rain gauges tested (EKB)
   First round: 4.5 mm: old: 3 tips, new: 5 tips
   Second round: 9 mm, old: 3 tips immediately followed by 3 tips, new: 4 tips followed by 5 tips
-- (5/27/17) Phenocam was drawing down battery power and preventing datalogger from collecting data. Phenocam power was moved to switched 12 V power on datalogger and programmed to only turn on from 12:00 to 13:30 each day.
+- (5/27/17) Phenocam was drawing down battery power and preventing datalogger from collecting data. Phenocam power was moved to switched 12 V power on datalogger and programmed to only turn on from 12:00 to 13:30 each day. (EKB)
 - The rain gauges on both stations were compared to figure out why the data doesn't match up (3/29/2017).  
   * The tipping buckets in both gauges are the same size. But they apparently do not equate to the same ml/tip, according to their model numbers
   * The old station's rain gauge is labeled model TR-525M, which is [TE-525MM-L](https://www.campbellsci.com/te525mm-l). Also confirm that the new station's gauge is labeled TR-525USW, which is 

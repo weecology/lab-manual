@@ -2,9 +2,9 @@ If you've done something on this list, please move it to the [site log](https://
 
 - [ ] Install surge protector on Phenocam (ground with hose clamp)
   1. Use short Ethernet cable to connect surge protector to camera
-  1. Connect PoE ethernet to surge protector
+  1. Connect ethernet from ethernet/power cable to surge protector
   1. Run green ground wire out of camera housing and attach to mast with hose clamp
-  1. Connect PoE power jack to camera
+  1. Connect power jack from ethernet/power cable to camera
 - [ ] Inspect wind monitor
   1. Check wiring diagram
   1. Check that wind vane spins freely

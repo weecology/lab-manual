@@ -8,9 +8,9 @@ This page will (hopefully) remain an up-to-date list of future Portal trip dates
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
 * *July 20-24* (Ellen, Renata)
-  * _Volunteer: _
+  * _Volunteer:_
 * *August 17-21 * (Ellen, Renata)
-  * _Volunteer: _
+  * _Volunteer:_
 * *September 9-15* (Plant Census)
   * _Volunteers: Ellen, Renata, Joan, Shawn, Glenda, Audrey, Erica(?)_
 * *October 28-30* (Joan)

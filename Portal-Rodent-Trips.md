@@ -9,7 +9,7 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
 * *July 20-24* (Ellen, Renata)
   * Volunteer:
-* *August 17-21 * (Ellen, Renata)
+* *August 17-21* (Ellen, Renata)
   * Volunteer:
 * *September 9-15* (Plant Census)
   * Volunteers: Ellen, Renata, Joan, Shawn, Glenda, Audrey, Erica(?)

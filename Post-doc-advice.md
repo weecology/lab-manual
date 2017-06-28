@@ -4,6 +4,12 @@ Advice when applying to and interviewing for post doc positions
 Allison Barner has very helpfully put together a google spreadsheet of postdoc fellowships (get your own money=freedom to do what you want):
 https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0
 
+There are also many sites where people who may already have money for a postdoc post ads (get paid from someone else's grant = you may have to do what they want):
+ECOLOG listserv https://listserv.umd.edu/archives/ecolog-l.html
+Texas A&M job board http://wfscjobs.tamu.edu/job-board/
+Society for Conservation Biology http://careers.conbio.org/jobs/
+ESA job board https://www.esa.org/esa/careers-and-certification/job-board/
+
 ### General advice
 
 ### Good questions to ask

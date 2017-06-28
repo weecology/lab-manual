@@ -7,8 +7,11 @@ https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_
 There are also many sites where people who may already have money for a postdoc post ads (get paid from someone else's grant = you may have to do what they want):
 
 ECOLOG listserv https://listserv.umd.edu/archives/ecolog-l.html
+
 Texas A&M job board http://wfscjobs.tamu.edu/job-board/
+
 Society for Conservation Biology http://careers.conbio.org/jobs/
+
 ESA job board https://www.esa.org/esa/careers-and-certification/job-board/
 
 ### General advice

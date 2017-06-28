@@ -1,5 +1,9 @@
 Advice when applying to and interviewing for post doc positions
 
+### Where to look
+Allison Barner has very helpfully put together a google spreadsheet of postdoc fellowships (get your own money=freedom to do what you want):
+https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0
+
 ### General advice
 
 ### Good questions to ask

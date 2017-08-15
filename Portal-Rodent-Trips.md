@@ -7,25 +7,23 @@ This page will (hopefully) remain an up-to-date list of future Portal trip dates
 
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
-* *July 20-24* (Ellen)
-  * Volunteer: Kelsey
-* *August 17-21* (Ellen, Renata?)
-  * Volunteer:
+* *August 17-21* (Ellen)
+  * Volunteer: Karen
 * *September 9-15* (Plant Census)
   * Volunteers: Ellen, Renata, Joan, Shawn, Glenda, Audrey, Erica(?)
 * *October 28-30* (Joan)
   * Volunteer: Ellen
 
 ## Trip Description
-For those of you not familiar with the procedure, a Portal weekend consists of two nights of rodent trapping.  We fly out Thursday and stay overnight in Tucson. Friday morning we pick up the field truck and any supplies we need, and drive 3 hours to the site.  Friday night just before sunset we'll set traps on half of the site's 24 plots -- this procedure takes about 2 hours.  Saturday morning we get up just before dawn and process animals in the full traps.  The rodent RA (Erica or Ellen) will be the one actually handling the animals while the volunteer records data and assists with equipment.  Saturday night we'll set traps on the other half of the plots, and Sunday morning will be the same as Saturday morning.  Sunday afternoon we'll break camp and head back to Tucson, stay in a hotel again and fly back to Gainesville Monday morning.  
+For those of you not familiar with the procedure, a Portal weekend consists of two nights of rodent trapping.  We fly out Thursday and stay overnight in Tucson. Friday morning we pick up the field truck and any supplies we need, and drive 3 hours to the site.  Friday night just before sunset we'll set traps on half of the site's 24 plots -- this procedure takes about 2 hours.  Saturday morning we get up just before dawn and process animals in the full traps.  The rodent RA (Ellen, Joan, or Renata) will be the one actually handling the animals while the volunteer records data and assists with equipment.  Saturday night we'll set traps on the other half of the plots, and Sunday morning will be the same as Saturday morning.  Sunday afternoon we'll break camp and head back to Tucson, stay in a hotel again and fly back to Gainesville Monday morning.  
 
 ### Things a volunteer should bring:
 * Sleeping bag
 * Headlamp
-* Hiking boots and thick field pants (lots of thorny plants at the site)
+* Hiking boots
+* Field pants (lots of thorny plants at the site)
 * Hat / long sleeve shirt for sun protection
 * Water bottle
-
 
 ### Some other things to keep in mind: 
 * This is a rustic camping situation, meaning no bathroom facilities and no water supply except what we bring in (we have several large jugs we can fill for drinking and washing dishes).  
@@ -47,7 +45,7 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 * Katye Totten (Biology dept)
 * Elise Morton
 * Wes Boone
-* Karen Bailey
 * Annie Loggins
 * Adia Sovie
 * Katie Hooker
+* Lauren Trotta

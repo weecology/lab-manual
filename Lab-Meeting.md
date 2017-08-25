@@ -6,7 +6,7 @@
 * Oct 2:
 * Oct 9:
 * Oct 16: Ellen
-* Oct 23:
+* Oct 23: Shawn
 * Oct 30:
 * Nov 6:
 * Nov 13: (Josie in town)

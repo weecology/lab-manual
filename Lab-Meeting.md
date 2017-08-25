@@ -1,6 +1,6 @@
 * Aug 28:
 * Sep 4: LABOR DAY
-* Sep 11: 
+* Sep 11: Portal Plant Census
 * Sep 18:
 * Sep 25: 
 * Oct 2:

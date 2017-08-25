@@ -5,7 +5,7 @@
 * Sep 25: 
 * Oct 2:
 * Oct 9:
-* Oct 16:
+* Oct 16: Ellen
 * Oct 23:
 * Oct 30:
 * Nov 6:

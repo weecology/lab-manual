@@ -1,18 +1,18 @@
-* Jan 11:
-* Jan 18: Retriever testing
-* Jan 25: 
-* Feb 1: (Ethan out of town)
-* Feb 8: Dave
-* Feb 15: (Morgan out of town)
-* Feb 22:
-* Mar 1: Kristina
-* Mar 8: SPRING BREAK
-* Mar 15: Ellen
-* Mar 22: Shawn
-* Mar 29: Plant Census - No meeting
-* Apr 5: Joan
-* Apr 12: Erica
-* Apr 19: Sergio
+* Aug 28:
+* Sep 4: LABOR DAY
+* Sep 11: 
+* Sep 18:
+* Sep 25: 
+* Oct 2:
+* Oct 9:
+* Oct 16:
+* Oct 23:
+* Oct 30:
+* Nov 6:
+* Nov 13: (Josie in town)
+* Nov 20: 
+* Nov 27: 
+* Dec 4: 
 
 ## Discussion topics
 

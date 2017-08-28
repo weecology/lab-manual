@@ -7,7 +7,7 @@
 * Oct 9:
 * Oct 16: Ellen
 * Oct 23: Shawn
-* Oct 30:
+* Oct 30: Sergio
 * Nov 6:
 * Nov 13: (Josie in town)
 * Nov 20: 

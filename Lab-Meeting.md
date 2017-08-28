@@ -2,7 +2,7 @@
 * Sep 4: LABOR DAY
 * Sep 11: Portal Plant Census
 * Sep 18: Kristina
-* Sep 25: 
+* Sep 25: Erica
 * Oct 2: Joan
 * Oct 9: 
 * Oct 16: Ellen

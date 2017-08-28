@@ -3,11 +3,11 @@
 * Sep 11: Portal Plant Census
 * Sep 18: Kristina
 * Sep 25: 
-* Oct 2:
-* Oct 9: Joan
+* Oct 2: Joan
+* Oct 9: 
 * Oct 16: Ellen
 * Oct 23: Shawn
-* Oct 30: Dave
+* Oct 30:
 * Nov 6:
 * Nov 13: (Josie in town)
 * Nov 20: 

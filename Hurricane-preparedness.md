@@ -6,4 +6,5 @@
 
 ## Safety
 
-https://emergency.ufl.edu/preparedness/
+* https://emergency.ufl.edu/preparedness/
+* Possibly-helpful shopping list http://thesweethome.com/reviews/emergency-preparedness/

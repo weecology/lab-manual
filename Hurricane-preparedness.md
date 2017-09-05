@@ -7,4 +7,5 @@
 ## Safety
 
 * https://emergency.ufl.edu/preparedness/
-* Possibly-helpful shopping list http://thesweethome.com/reviews/emergency-preparedness/
+* Preparedness kit suggestions from the US government: https://www.ready.gov/build-a-kit
+    *  Suggestions about specific products/brands http://thesweethome.com/reviews/emergency-preparedness/

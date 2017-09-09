@@ -3,8 +3,8 @@
 * Sep 11: Portal Plant Census
 * Sep 18: Kristina
 * Sep 25: Erica
-* Oct 2: Joan
-* Oct 9: 
+* Oct 2: 
+* Oct 9: Joan
 * Oct 16: Ellen
 * Oct 23: Shawn
 * Oct 30:

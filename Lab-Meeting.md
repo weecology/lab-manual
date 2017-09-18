@@ -2,7 +2,7 @@
 * Sep 4: LABOR DAY
 * Sep 11: Portal Plant Census
 * Sep 18: Kristina
-* Sep 25: Erica
+* Sep 25: enter plant data!
 * Oct 2: Sergio
 * Oct 9: Joan
 * Oct 16: Ellen
@@ -12,7 +12,7 @@
 * Nov 13: (Josie in town)
 * Nov 20: 
 * Nov 27: 
-* Dec 4: 
+* Dec 4: Erica
 
 ## Discussion topics
 

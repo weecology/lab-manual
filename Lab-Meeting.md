@@ -8,7 +8,7 @@
 * Oct 16: Ellen
 * Oct 23: Shawn
 * Oct 30: Dave
-* Nov 6:
+* Nov 6: more plant data!
 * Nov 13: (Josie in town)
 * Nov 20: 
 * Nov 27: 

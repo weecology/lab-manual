@@ -4,11 +4,11 @@
 * Sep 18: Kristina
 * Sep 25: enter plant data!
 * Oct 2: Sergio
-* Oct 9: Joan
+* Oct 9: more plant data!
 * Oct 16: Ellen
 * Oct 23: Shawn
 * Oct 30: Dave
-* Nov 6: more plant data!
+* Nov 6: Joan
 * Nov 13: (Josie in town)
 * Nov 20: 
 * Nov 27: 

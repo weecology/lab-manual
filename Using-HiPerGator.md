@@ -125,6 +125,19 @@ Your "usage" number is an exponentially-weighted moving average of the resources
 
 If your jobs will take less than 4 days, you can use "burst" mode, which provides *ten times* as many cores and *ten times* as much memory as the default mode. If you cannot burst, just remove the `-b` from the line above about `qos`.
 
+## Current usage  
+
+To see the current usage by our group, as well as overall hipergator usage, use the command  
+
+`slurmInfo -pu`  
+
+To see the total available resources use: 
+
+`sacctmgr show qos ewhite format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   
+for the normal queue, and    
+`sacctmgr show qos ewhite-b format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   
+for the "burst" queue.   
+
 ## Installing R packages
 
 HiPerGator has a lot of packages installed already, but you might need to install your own, or you might want an updated version of an existing package.

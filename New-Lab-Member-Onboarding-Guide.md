@@ -1,4 +1,4 @@
-[a](b)# Intro
+# Intro
 
 This guide is a general reference for being in the Weecology lab at UF. Some info is below, but much of it is actually located among the various lab-wiki pages, and linked to from here.
 
@@ -11,17 +11,17 @@ If you are a new member to the lab, please see the [issues](https://github.com/w
 ## Lab Philosophy
 
 ## Lab Code of Conduct
-[link to webpage with summary here]
+[link to webpage with summary here]()
 
 ## Calendars
 
-Once you have your weecology.org Google account, you will have access to the lab calendars. From a web browser, these are viewable at [https://calendar.google.com/]. (**Note that you may need to use the account management button in the upper-right corner if you are logged in with other Google accounts at the same time.**)
+Once you have your weecology.org Google account, you will have access to the lab calendars. You can access these from a web browser at [https://calendar.google.com/](https://calendar.google.com/). (**Note that you may need to use the account management button in the upper-right corner if you are logged in with other Google accounts at the same time.**)
 
 Please keep your personal calendar up to date on when you will be out of town to help with scheduling meetings. Ethan & Morgan will have viewing access to your calendar. Some calendars you might want to add to your view to stay informed are:
 * "ethan" (Ethan White)
 * "morgan" (Morgan Ernest)
 
-See [https://github.com/weecology/lab-wiki/wiki/Lab-Meeting] for the weekly(?) lab meeting schedule.
+See [here](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting) for the weekly(?) lab meeting schedule.
 ***TODO: need info on what this entails***
 
 # Day-to-Day Operations

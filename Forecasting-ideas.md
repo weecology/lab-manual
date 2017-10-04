@@ -35,6 +35,7 @@ This is a brain dump from shortly after I (Ethan) received the Moore Foundation 
       forecasting a particular outcome, coordinated via the modern web.
     * Could use or last allow an iterative system of model development like
       Mathworks uses.
+    * Could expand on work out of UW/NWFSC (see Ward et al. 2014 
 * Predicting BBS/CBC using eBird
   * this becomes an election (Nate Silver) style prediction. This was originally
   suggested by Andy Kleinhesselink
@@ -51,6 +52,8 @@ This is a brain dump from shortly after I (Ethan) received the Moore Foundation 
       scales using paleo data
     * Can we combine paleo and modern data to improve our forecasts at intermediate
       time-scales
+    * Neptune Sandbox Berlin (http://www.nsb-mfn-berlin.de/) has a database of paleo 
+      forams. Might only be occurrence data, though.
 * Iterative forecasting
     * Assess benefits and approaches to iterative forecasting by starting with a
       small chunk of time-series (in, say, BBS) and applying iterative tools as each

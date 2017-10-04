@@ -9,9 +9,10 @@ If you are a new member to the lab, please see the [issues](https://github.com/w
 # General Lab Policies
 
 ## Lab Philosophy
+***TODO: fill out***
 
 ## Lab Code of Conduct
-[link to webpage with summary here]()
+***TODO: make and link here***
 
 ## Calendars
 
@@ -30,19 +31,19 @@ See [here](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting) for the weekl
 
 ### Basic Software Setup
 
-See [https://github.com/weecology/lab-wiki/wiki/Computer-Setup-for-Mac] for info for Macs.
+[Programming setup for Macs](https://github.com/weecology/lab-wiki/wiki/Computer-Setup-for-Mac)
 ***TODO: Complete existing page***
 ***TODO: Info for other OSes***
 
-The lab is transitioning to use of [https://www.zotero.org/](Zotero) as a common standard for managing bibliographies.
+The lab is transitioning to use of [Zotero](https://www.zotero.org/) as a common standard for managing bibliographies.
 
 ### Workflow for new GitHub repos via RStudio
 
-See [https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio]
+[short tutorial on Github via RStudio](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio)
 
 ### Backup
 
-Offsite backup of lab computers is best done using the *T: drive*. See [https://github.com/weecology/lab-wiki/wiki/Accessing-the-T:-drive] for info on how to access it.
+Offsite backup of lab computers is best done using the *T: drive*. [Access instructions](https://github.com/weecology/lab-wiki/wiki/Accessing-the-T:-drive)
 
 ***TODO: Info on how to setup automated backups? ***
 
@@ -53,25 +54,25 @@ Offsite backup of lab computers is best done using the *T: drive*. See [https://
 
 ## Annual Self-Assessment
 
-See [https://github.com/weecology/lab-wiki/wiki/Annual-self-assessment] for more info.
+See [here](https://github.com/weecology/lab-wiki/wiki/Annual-self-assessment) for more info.
 
 ## Travel
 
 ## Buying Stuff
 
-See [https://github.com/weecology/lab-wiki/wiki/PCARDS] for info on setting up a PCARD.
+See [here](https://github.com/weecology/lab-wiki/wiki/PCARDS) for info on setting up a PCARD.
 
 ## Poster
 
-See [https://github.com/weecology/lab-wiki/wiki/Making-a-Poster] for more info.
+See [here](https://github.com/weecology/lab-wiki/wiki/Making-a-Poster) for more info.
 
 ## Florida Residency (for students)
 
-See [https://github.com/weecology/lab-wiki/wiki/Florida-Residency] for more info.
+See [here](https://github.com/weecology/lab-wiki/wiki/Florida-Residency) for more info.
 
 ## Contact Info
 
-See [https://github.com/weecology/lab-wiki/wiki/Emergency-contact-information] for emergency contact info.
+[Emergency Contact Info here](https://github.com/weecology/lab-wiki/wiki/Emergency-contact-information)
 
 ***TODO: General mailing address / phone number / fax number for the lab?***
 

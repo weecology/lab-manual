@@ -1,7 +1,10 @@
 # Intro
 
-This guide is to serve as a general reference and checklist of 
+This guide is a general reference for being in the Weecology lab at UF. Some info is below, but much of it is actually located among the various lab-wiki pages, and linked to from here.
 
+## How to Use
+
+If you are a new member to the lab, please see the [https://github.com/weecology/lab-wiki/issues](issues) page of the lab wiki for the onboarding checklist. Make a new issue with your name and copy the list, and then be sure to go through it, referring back to the info here as necessary.
 
 # General Lab Policies
 

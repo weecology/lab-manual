@@ -47,8 +47,9 @@ Offsite backup of lab computers is best done using the *T: drive*. [Access instr
 
 ***TODO: Info on how to setup automated backups? ***
 
+### Lab Printer
 
-
+The lab printer is located in room 015 and accessible from the UFL network at `10.242.89.254`. You may need to [download and install drivers](http://www.dell.com/support/home/us/en/04/product-support/product/dell-c3760dn/drivers) before adding it as a printer in order for it to function properly.
 
 # Reference Information
 

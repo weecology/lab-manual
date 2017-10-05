@@ -53,6 +53,10 @@ The lab printer is located in room 015 and accessible from the UFL network at `1
 
 # Reference Information
 
+## Student Health Care Center
+
+Located in the historic Infirmary Building on Fletcher Drive. [more info](http://shcc.ufl.edu/)
+
 ## Annual Self-Assessment
 
 See [here](https://github.com/weecology/lab-wiki/wiki/Annual-self-assessment) for more info.

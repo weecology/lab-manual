@@ -20,4 +20,9 @@ Numerous springs around Gainesville worth a visit. Most are state parks and have
 * The Top - Good food all around, large beer collection
 * Boca Fiesta - Good mexican food
 * La Tienda - **Really** good mexican food. 
-* Sweetberries - Great sandwiches and ice cream, close to campus. 
+* Sweetberries - Great sandwiches and ice cream, close to campus.
+
+# Bike Shops
+* Reitz Union has a student bike repair shop -- services (basic?) are [free](https://www.sg.ufl.edu/BikeRepair).
+* Joan recommends Bikes & More on NW 6th St.
+* Gator Cycle on Archer Road seems good, too (Hao is getting his wheels trued there)

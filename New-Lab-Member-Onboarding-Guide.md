@@ -75,6 +75,12 @@ See [here](https://github.com/weecology/lab-wiki/wiki/Making-a-Poster) for more 
 
 See [here](https://github.com/weecology/lab-wiki/wiki/Florida-Residency) for more info.
 
+## Florida Driver's License and Car Registration
+
+Students generally do not need to do this, but employees are supposed to register cars within 10 days (!), which first requires a FL driver's license... *Do pay close attention to the ID requirements.*
+
+See [here](http://www.flhsmv.gov/dhsmv/newflres.html) for more info.
+
 ## Contact Info
 
 [Emergency Contact Info here](https://github.com/weecology/lab-wiki/wiki/Emergency-contact-information)

@@ -7,6 +7,13 @@
 * Cannot be used to purchase food or drinks
 * NEVER EVER EVER use for personal use. There is no "I'll payback the University for this". 
 
+## Getting a PCARD
+
+* You need to go through pcard training. This involves watching a number of videos. 
+* Step 1: Go to  myUFL, then navigate to My Self Service > Training and Development > myTraining.  To search for the PCard courses, click in the Activity Search box, then enter the appropriate course name or number. 
+* As a PCARD holder, you will need to take the following courses: What Every PCard Holder Needs to Know(PST975), PCard for Travel (PST076), PCard for Commodities (PST077)
+* When you finish your training let Morgan and Glenda know so we can request a PCARD
+ 
 ## General Info:
 This section is for general info commonly needed for PCard Purchases
 

@@ -25,6 +25,10 @@ Please keep your personal calendar up to date on when you will be out of town to
 See [here](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting) for the weekly(?) lab meeting schedule.
 ***TODO: need info on what this entails***
 
+## Lab Meeting
+
+(for Fall 2017) Mondays at Noon
+
 # Day-to-Day Operations
 
 ## Computer Setup

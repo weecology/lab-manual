@@ -12,7 +12,8 @@
 * You need to go through pcard training. This involves watching a number of videos. 
 * Step 1: Go to  myUFL, then navigate to My Self Service > Training and Development > myTraining.  To search for the PCard courses, click in the Activity Search box, then enter the appropriate course name or number. 
 * As a PCARD holder, you will need to take the following courses: What Every PCard Holder Needs to Know(PST975), PCard for Travel (PST076), PCard for Commodities (PST077)
-* When you finish your training let Morgan and Glenda know so we can request a PCARD
+* When you finish your training complete the [Cardholder agreement](http://www.purchasing.ufl.edu/forms/cardholder_agreement.pdf) and the [PCard Application](http://www.purchasing.ufl.edu/forms/2014-11_PCard_Application.pdf) and send them to the PCARD team at pcard@ufl.edu. 
+
  
 ## General Info:
 This section is for general info commonly needed for PCard Purchases

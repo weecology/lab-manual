@@ -48,6 +48,12 @@ _Installing git_
 
 5. To make sure this worked, type in "git" in the Terminal and press enter. Some information will come up, including a list of common commands. 
 
+_Configuring Git_
+
+There's some basic info on Git setup from [software carpentry](https://swcarpentry.github.io/git-novice/02-setup/). If you are also setting up a GitHub account, be sure to use the same email address, so that when you use Git on your computer and *push* the changes to GitHub, it identifies you correctly.
+
+On a mac, browsing folders in finder also tends to generate `.DS_Store` files. You generally don't want to include those in your repositories, so here are [some instructions](https://www.jeffgeerling.com/blogs/jeff-geerling/stop-letting-dsstore-slow-you) to ignore such files globally.
+
 _Installing Xcode_
 
 _GitHub_

@@ -11,7 +11,7 @@
 * Nov 6: Joan
 * Nov 13: Juniper
 * Nov 20: 
-* Nov 27: 
+* Nov 27: Hao
 * Dec 4: Erica
 
 ## Discussion topics

@@ -9,7 +9,7 @@
 * Oct 23: Shawn
 * Oct 30: Dave
 * Nov 6: Joan
-* Nov 13: (Juniper in town)
+* Nov 13: Juniper
 * Nov 20: 
 * Nov 27: 
 * Dec 4: Erica

@@ -46,11 +46,13 @@ The lab is transitioning to use of [Zotero](https://www.zotero.org/) as a common
 ### Programming
 
 * Style Guidelines
-For Python, the [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/).
-For R, [Hadley Wickham's Style Guide](http://adv-r.had.co.nz/Style.html).
+
+  For Python, the [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/).
+
+  For R, [Hadley Wickham's Style Guide](http://adv-r.had.co.nz/Style.html).
 
 * GitHub and RStudio
-Here is a [short tutorial](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio) on integrating new GitHub repos into RStudio 
+  Here is a [short tutorial](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio) on integrating new GitHub repos into RStudio 
 
 ### Backup
 

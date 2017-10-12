@@ -36,14 +36,21 @@ See [here](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting) for the weekl
 ### Basic Software Setup
 
 [Programming setup for Macs](https://github.com/weecology/lab-wiki/wiki/Computer-Setup-for-Mac)
+
 ***TODO: Complete existing page***
+
 ***TODO: Info for other OSes***
 
 The lab is transitioning to use of [Zotero](https://www.zotero.org/) as a common standard for managing bibliographies.
 
-### Workflow for new GitHub repos via RStudio
+### Programming
 
-[short tutorial on Github via RStudio](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio)
+* Style Guidelines
+For Python, the [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/).
+For R, [Hadley Wickham's Style Guide](http://adv-r.had.co.nz/Style.html).
+
+* GitHub and RStudio
+Here is a [short tutorial](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio) on integrating new GitHub repos into RStudio 
 
 ### Backup
 

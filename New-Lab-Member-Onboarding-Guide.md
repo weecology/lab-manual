@@ -22,12 +22,16 @@ Please keep your personal calendar up to date on when you will be out of town to
 * "ethan" (Ethan White)
 * "morgan" (Morgan Ernest)
 
-See [here](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting) for the weekly(?) lab meeting schedule.
-***TODO: need info on what this entails***
+The conference room schedule is under the portal1977@gmail.com account. You will need to send a request through the gmail calendar system to obtain access.
 
 ## Lab Meeting
 
 (for Fall 2017) Mondays at Noon
+
+Typical agenda is something like:
+* general announcements
+* short summary of past week from individuals present
+* presentation of research (see [here](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting) for the schedule)
 
 # Day-to-Day Operations
 

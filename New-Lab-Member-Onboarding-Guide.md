@@ -14,6 +14,10 @@ If you are a new member to the lab, please see the [issues](https://github.com/w
 ## Lab Code of Conduct
 ***TODO: make and link here***
 
+## Expectations / Annual Self-Assessment
+
+See [here](https://github.com/weecology/lab-wiki/wiki/Annual-self-assessment) for more info.
+
 ## Calendars
 
 Once you have your weecology.org Google account, you will have access to the lab calendars. You can access these from a web browser at [https://calendar.google.com/](https://calendar.google.com/). (**Note that you may need to use the account management button in the upper-right corner if you are logged in with other Google accounts at the same time.**)
@@ -32,6 +36,12 @@ Typical agenda is something like:
 * general announcements
 * short summary of past week from individuals present
 * presentation of research (see [here](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting) for the schedule)
+
+## Contact Info
+
+[Emergency Contact Info here](https://github.com/weecology/lab-wiki/wiki/Emergency-contact-information)
+
+***TODO: General mailing address / phone number / fax number for the lab?***
 
 # Day-to-Day Operations
 
@@ -68,17 +78,24 @@ Offsite backup of lab computers is best done using the *T: drive*. [Access instr
 
 The lab printer is located in room 015 and accessible from the UFL network at `10.242.89.254`. You may need to [download and install drivers](http://www.dell.com/support/home/us/en/04/product-support/product/dell-c3760dn/drivers) before adding it as a printer in order for it to function properly.
 
-# Reference Information
+# Campus Resources
+
+## UFL Police / Security
 
 ## Student Health Care Center
 
 Located in the historic Infirmary Building on Fletcher Drive. [more info](http://shcc.ufl.edu/)
+* dental?
+* vision?
+* mental health?
 
-## Annual Self-Assessment
+## Legal Services
 
-See [here](https://github.com/weecology/lab-wiki/wiki/Annual-self-assessment) for more info.
+## Financial Services
 
 ## Travel
+
+## Grad Student Union / Association?
 
 ## Buying Stuff
 
@@ -97,12 +114,3 @@ See [here](https://github.com/weecology/lab-wiki/wiki/Florida-Residency) for mor
 Students generally do not need to do this, but employees are supposed to register cars within 10 days (!), which first requires a FL driver's license... *Do pay close attention to the ID requirements.*
 
 See [here](http://www.flhsmv.gov/dhsmv/newflres.html) for more info.
-
-## Contact Info
-
-[Emergency Contact Info here](https://github.com/weecology/lab-wiki/wiki/Emergency-contact-information)
-
-***TODO: General mailing address / phone number / fax number for the lab?***
-
-
-

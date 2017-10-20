@@ -24,12 +24,12 @@ Some quick notes:
 ### Accessing the hipergator. 
 
 ### Prerequisites
-* Hipergator usage is thru a Linux command line, so you should first become familiar with command line usage. A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/02-create.html). 
+* Hipergator usage is thru a Linux command line, so you should first become familiar with command line usage. A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/). 
 
 ### Getting started
 1. [Request an account](http://www.rc.ufl.edu/help/account-request/)
 
-2. connect to the server with `ssh <YOUR_USERNAME>@hpg2.rc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](http://wiki.hpc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
+2. connect to the server with `ssh <YOUR_USERNAME>@hpg2.rc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](https://help.rc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
 
 3. This will take you to a Unix terminal on the login server.  This is where you can upload files and start larger jobs on other servers. You're not supposed to run big computations on this server, which you can identify by looking for "gator" next to the command prompt.
 

@@ -7,10 +7,10 @@
 * Oct 9: more plant data!
 * Oct 16: Ellen
 * Oct 23: Shawn
-* Oct 30: Dave
-* Nov 6: Joan
+* Oct 30: 
+* Nov 6: Dave
 * Nov 13: Juniper
-* Nov 20: 
+* Nov 20: Joan
 * Nov 27: Hao
 * Dec 4: Erica
 

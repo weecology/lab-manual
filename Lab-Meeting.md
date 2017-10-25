@@ -7,7 +7,7 @@
 * Oct 9: more plant data!
 * Oct 16: Ellen
 * Oct 23: Shawn
-* Oct 30: 
+* Oct 30: Practice Moore Foundation lightning talks & overview
 * Nov 6: Dave
 * Nov 13: Juniper
 * Nov 20: Joan

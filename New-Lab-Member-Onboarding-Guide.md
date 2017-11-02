@@ -88,8 +88,12 @@ Located in the historic Infirmary Building on Fletcher Drive. [more info](http:/
 * dental?
 * vision?
 * mental health?
+  - staff have access to UF's [Employee Assistance Program](http://eap.ufl.edu/)
 
 ## Legal Services
+
+* [UF Student Legal Services](https://www.studentlegalservices.ufl.edu/)
+* 
 
 ## Financial Services
 

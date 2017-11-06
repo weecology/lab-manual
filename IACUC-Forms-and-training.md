@@ -1,0 +1,16 @@
+### Forms
+
+Supervisor (for Portal): Morgan
+Fiscal Contact: Fiona Hogan
+
+Email to Supervisor to sign and turn in
+
+### Training
+
+Complete the "Working with the IACUC (For Ag and Wildlife)" AALAS course available at: http://www.aalaslearninglibrary.org. 
+
+If you already have an AALAS account, log on and click on the "Libraries" tab at the top of the page. Click on "Animal Care and Use Courses", then select "UF Researchers-IACUC Training Modules" and choose the "Working with the IACUC (For Ag and Wildlife)" course.
+ 
+If you don't already have an AALAS account click "Enroll Now" then select "Myself". Select "Yes I have an Access Code". Enter "ufiacuc" as the code. Create a username and password. Complete all fields required and click on "continue". You will get a notice "Welcome Enrollment Completed". Then hit "continue" again. Click on the "Libraries" tab at the top of the page and click on the Animal Care and Use courses, then the University of Florida Tracks. Finally, click on "UF Researchers – IACUC Training Modules" and select Compliance and IACUC Training and choose the Working with the IACUC course.
+ 
+Once these requirements have been completed, please notify the IACUC office at iacuc@research.ufl.edu. Please make sure to include the protocol number in the subject line of any emails. If you have any questions, please contact the IACUC office at (352) 273-9535.

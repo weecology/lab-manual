@@ -1,7 +1,8 @@
 ### Forms
 
-Supervisor (for Portal): Morgan
-Fiscal Contact: Fiona Hogan
+Fill out the [AC Form](https://github.com/weecology/lab-wiki/blob/master/ACForm.pdF).
+  * Supervisor (for Portal): Morgan
+  * Fiscal Contact: Fiona Hogan
 
 Email to Supervisor to sign and turn in
 

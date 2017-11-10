@@ -23,6 +23,7 @@ Visit https://iacuc.ufl.edu/secure/ and open the "Instructions for Working With 
 Click on the link for first-time users. Click on "AALS Login".
 
 Open "Tracks" and "UF Researchers - IACUC Training Modules". Complete the "Working with the IACUC" module.
+(Renata: also doing "Introduction to wildlife"...)
 
 
 Register at my.iacuc.ufl.edu/ as "study staff".

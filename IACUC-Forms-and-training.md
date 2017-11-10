@@ -24,5 +24,7 @@ Click on the link for first-time users. Click on "AALS Login".
 
 Open "Tracks" and "UF Researchers - IACUC Training Modules". Complete the "Working with the IACUC" module.
 
+
+Register at my.iacuc.ufl.edu/ as "study staff".
 To be continued...
 

@@ -26,7 +26,7 @@ Please keep your personal calendar up to date on when you will be out of town to
 * "ethan" (Ethan White)
 * "morgan" (Morgan Ernest)
 
-The conference room schedule is under the portal1977@gmail.com account. You will need to send a request through the gmail calendar system to obtain access.
+The conference room schedule is maintained separately. You might need to contact someone who already has access to share the calendar with you.
 
 ## Lab Meeting
 

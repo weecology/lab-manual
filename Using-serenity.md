@@ -9,7 +9,7 @@ Ask Shawn or Henry for a username and initial password
 
 Open a terminal (or a git bash window) and type
 
-ssh username@serenity.ifas.ufl.edu
+`ssh username@serenity.ifas.ufl.edu`
 
 From here you can move to different folders in your home directory to run git commands, or clone a repo from github.  
 

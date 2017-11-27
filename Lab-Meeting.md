@@ -34,4 +34,5 @@
 * How do I organize conferences / symposia?
 * Networking (not the computer-y kind)
 * Establishing your "brand" (CV, resume, website, etc.)
-* software development for research (e.g. R packages)
+* software development for research (e.g. R packages)  
+* using rstudio on serenity

@@ -13,7 +13,8 @@
 * Step 1: Go to  myUFL, then navigate to My Self Service > Training and Development > myTraining.  To search for the PCard courses, click in the Activity Search box, then enter the appropriate course name or number. 
 * As a PCARD holder, you will need to take the following courses: What Every PCard Holder Needs to Know(PST975), PCard for Travel (PST076), PCard for Commodities (PST077)
 * When you finish your training fill in the [Cardholder agreement](http://www.purchasing.ufl.edu/forms/cardholder_agreement.pdf) and the top part of the [PCard Application](http://www.purchasing.ufl.edu/forms/2014-11_PCard_Application.pdf). Fiona (or somebody else in the WEC office?) can fill in the department section. The completed forms go to the PCARD team at pcard@ufl.edu. Processing should take a few weeks to a month and the PCard will be delivered to the WEC office. 
-
+* You may need to go in and specifically ask for it. They go to Jen Miller. 
+* You may need to call the bank and set up your PIN. (There should theoretically be a PIN mailed to the WEC office, but when Renata did this nobody in the office knew where the PIN was. So you might have to reset it. - to be edited once I do this successfully)
  
 ## General Info:
 This section is for general info commonly needed for PCard Purchases

@@ -14,8 +14,13 @@
 * As a PCARD holder, you will need to take the following courses: What Every PCard Holder Needs to Know(PST975), PCard for Travel (PST076), PCard for Commodities (PST077)
 * When you finish your training fill in the [Cardholder agreement](http://www.purchasing.ufl.edu/forms/cardholder_agreement.pdf) and the top part of the [PCard Application](http://www.purchasing.ufl.edu/forms/2014-11_PCard_Application.pdf). Fiona (or somebody else in the WEC office?) can fill in the department section. The completed forms go to the PCARD team at pcard@ufl.edu. Processing should take a few weeks to a month and the PCard will be delivered to the WEC office. 
 * You may need to go in and specifically ask for it. They go to Jen Miller. 
-* You may need to call the bank and set up your PIN. (There should theoretically be a PIN mailed to the WEC office, but when Renata did this nobody in the office knew where the PIN was. So you might have to reset it. - to be edited once I do this successfully)
- 
+* Once you receive the card, activate it and set a PIN:
+  * Call 8882338855
+  * Your account number is the credit card number
+  * Your "Verification ID" is 0 followed by your UFID
+  * The phone number associated with the account is 352 392 1331. 
+  * This information is in the email from the PCard office that tells you your application was approved. You won't get a separate piece of mail with a PIN. 
+
 ## General Info:
 This section is for general info commonly needed for PCard Purchases
 

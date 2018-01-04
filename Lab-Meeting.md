@@ -1,18 +1,49 @@
-* Aug 28:
-* Sep 4: LABOR DAY
-* Sep 11: Portal Plant Census
-* Sep 18: Kristina
-* Sep 25: enter plant data!
-* Oct 2: Sergio
-* Oct 9: more plant data!
-* Oct 16: Ellen
-* Oct 23: Shawn
-* Oct 30: Practice Moore Foundation lightning talks & overview
-* Nov 6: Dave
-* Nov 13: Juniper
-* Nov 20: Joan
-* Nov 27: Hao
-* Dec 4: Erica
+* Jan 10
+  * 1:
+  * 1:30:
+* Jan 17
+  * 1:
+  * 1:30:
+* Jan 24
+  * 1:
+  * 1:30:
+* Jan 31 (Ethan out of town)
+  * 1:
+  * 1:30:
+* Feb 7
+  * 1:
+  * 1:30:
+* Feb 14
+  * 1:
+  * 1:30:
+* Feb 21
+  * 1:
+  * 1:30:
+* Feb 28
+  * 1:
+  * 1:30:
+* Mar 7 Spring Break, no meeting
+* Mar 14
+  * 1:
+  * 1:30:
+* Mar 21
+  * 1:
+  * 1:30:
+* Mar 28 (Spring Plant census)
+  * 1:
+  * 1:30:
+* Apr 4
+  * 1:
+  * 1:30:
+* Apr 11
+  * 1:
+  * 1:30:
+* Apr 18
+  * 1:
+  * 1:30:
+* Apr 25
+  * 1:
+  * 1:30:
 
 ## Discussion topics
 

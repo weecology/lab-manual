@@ -5,13 +5,13 @@
   * 1:
   * 1:30:
 * Jan 24
-  * 1:
+  * 1: Using Rstudio on Hipergator  (Sergio)
   * 1:30:
 * Jan 31 (Ethan out of town)
   * 1:
   * 1:30:
 * Feb 7
-  * 1:
+  * 1: 
   * 1:30:
 * Feb 14
   * 1:
@@ -34,7 +34,7 @@
   * 1:30:
 * Apr 4
   * 1:
-  * 1:30:
+  * 1:30: Sergio
 * Apr 11
   * 1:
   * 1:30:

@@ -21,7 +21,7 @@
   * 1:30:
 * Feb 28
   * 1:
-  * 1:30:
+  * 1:30: Ellen
 * Mar 7 Spring Break, no meeting
 * Mar 14
   * 1:

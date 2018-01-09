@@ -1,1 +1,2 @@
 * [Top Tips for Superstar Presentations by Todd Reubold](https://www.youtube.com/watch?v=Yis6mAnMjTc)
+* ['David Attenborough' narrative style by Will Ratcliff](https://www.dropbox.com/s/j1vv2baheiduvip/David%20Attenborough%20talk%20technique%202018.pdf)

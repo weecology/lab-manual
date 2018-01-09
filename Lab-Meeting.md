@@ -1,6 +1,6 @@
 * Jan 10
   * 1: Computer security, password managers, etc. (Hao & Ethan)
-  * 1:30:
+  * ~~1:30:~~
 * Jan 17
   * 1:
   * 1:30:

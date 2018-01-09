@@ -27,8 +27,8 @@
   * 1:
   * 1:30:
 * Mar 21
-  * 1: Henry
-  * 1:30:
+  * 1:
+  * 1:30: Henry
 * Mar 28 (Spring Plant census)
   * 1:
   * 1:30:

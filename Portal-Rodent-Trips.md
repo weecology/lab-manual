@@ -9,8 +9,9 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
 * *January 19-21* (Ellen, Renata)
 * *February 16-18* (Joan)
-* *March 23-30* (Plant Census)
+* *March 23-30* (Plant Census; Glenda, Ellen, Erica, Kristina, Joan, Ren, Shawn)
 * *April 13-15* (Renata)
+* *May 11-13* (Ellen, Lauren)
 
 
 ## Trip Description
@@ -23,6 +24,7 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 * Field pants (lots of thorny plants at the site)
 * Hat / long sleeve shirt for sun protection
 * Water bottle
+* Rain jacket
 
 ### Some other things to keep in mind: 
 * This is a rustic camping situation, meaning no bathroom facilities and no water supply except what we bring in (we have several large jugs we can fill for drinking and washing dishes).  

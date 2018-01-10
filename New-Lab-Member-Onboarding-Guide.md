@@ -67,10 +67,12 @@ The lab is transitioning to use of [Zotero](https://www.zotero.org/) as a common
 
 ### Git and GitHub
 
-* The Software Carpentry [Git lesson](https://swcarpentry.github.io/git-novice/)
+* Alice Bartlett's [slides on "Git for humans"](https://speakerdeck.com/alicebartlett/git-for-humans) <- *Hao recommends this as a top-level description of what Git is all about*
+* Software Carpentry [Git lesson](https://swcarpentry.github.io/git-novice/)
 * Jenny Bryan's book, ["Happy Git and GitHub for the useR"](http://happygitwithr.com/), book for UBC Stat 545
-* GitHub and RStudio
-  Here is a [short tutorial](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio) on integrating new GitHub repos into RStudio 
+* David Winterbottom's [blogpost on branches and bull request workflow](http://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
+* Chris Beams's [blogpost on writing commit messages](https://chris.beams.io/posts/git-commit/)
+* [lab wiki tutorial](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio) on integrating new GitHub repos into RStudio
 
 
 ### Backup

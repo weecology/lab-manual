@@ -76,7 +76,38 @@ The reason for this error is that the repo on GitHub does not have the branch `d
 
 ### Pull Requests
 
-The preference is to use GitHub to merge the updates on a new branch back into `master`. We can do this by going to the "Pull requests" tab on the GitHub repo page:
+The preference is to use GitHub to merge the updates on a new branch back into `master`. We can do this by going to the "Pull requests" tab on the GitHub repo page and creating a "New pull request".
 ![](https://github.com/weecology/lab-wiki/blob/master/github_PR_tab.png)
+
+Suppose we want to merge from `dev` into `master`. Then we select `master` as the "base: " branch, and `dev` as the "compare: " branch. We can then write some comments for our new pull request before clicking on "Create new pull request".
+
+*If the pull request fixes an issue, you can include keywords to [automagically close](https://help.github.com/articles/closing-issues-using-keywords/) the issue when the pull request is merged.*
+
+### Updating Pull Requests
+
+At this point, other people can comment on the pull request itself in GitHub, if discussion regarding the changes needs to occur.
+
+Additionally, assuming that the pull request has not yet been merged, further commits *to that branch on GitHub* are automatically included with the pull request. Thus, if you later find a bug, you can make further changes and not have to submit a new pull request.
+
+### Merging Pull Requests
+
+In general, check with one of the repo maintainers about merging pull requests. This ensures that the `master` branch doesn't break (too often) and that everyone is informed about changes.
+
+## Summary Example
+
+Objective: I want to fix issue #1 in the https://github.com/weecology/portalr repo.
+1. Download the repo from GitHub and onto my local machine. [`git clone`]
+2. In my local machine, create a new branch (e.g. `hao-add-biomass-function` <- prefacing the branch name with your name helps prevent branch name collisions. [`git branch`]
+3. Switch to the new branch. [`git checkout`]
+4. Make the updates on my local machine. [`git commit`]
+5. Push the updates to GitHub. [`git push`]
+6. Create the pull request on GitHub. [GitHub web interface]
+7. Merge the pull request on GitHub. [GitHub web interface]
+8. On my local machine, switch back to the master branch. [`git branch`]
+9. Get the updates to the master branch [`git pull`]
+(optionally) Delete the branch on GitHub. [GitHub web interface, "Code" tab, "## branches"]
+(optionally) Delete the branch on my local machine. [`git branch -d hao-add-biomass-function`]
+
+
 
 

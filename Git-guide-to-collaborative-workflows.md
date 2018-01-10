@@ -12,9 +12,11 @@ One way of thinking about git branches is that each branch represents a "lineage
 
 You can see the branches in your project using `git branch` from the command line while in the folder with a git repo. This will list the branches in the repo:
 ```bash
-~/projects/demo > git branch
+~/projects/portalr > git branch
 ```
 ```
+  biomass-function
+  hao-data-vignette
 * master
 ```
 
@@ -24,14 +26,16 @@ Here, `master` is marked with an asterisk (and possibly a different color) to in
 
 We can create new branches by specifying a new branch name when using the `git branch` command. This allows us to start a new "lineage" of commits from the current state of the repo.
 ```bash
-~/projects/demo > git branch dev
+~/projects/portalr > git branch hao-test-branch
 ```
 When we look at the branches, we now see:
 ```bash
-~/projects/demo > git branch
+~/projects/portalr > git branch
 ```
 ```
-  dev
+  biomass-function
+  hao-data-vignette
+  hao-test-branch
 * master
 ```
 
@@ -41,45 +45,86 @@ Notice that the active branch is still "master".
 
 To change the active branch, we use the `git checkout` command:
 ```bash
-~/projects/demo > git checkout dev
+~/projects/portalr > git checkout hao-test-branch
 ```
 ```
-Switched to branch 'dev'
+Switched to branch 'hao-test-branch'
 ```
 
 This is what it looks like when we run `git branch` afterword:
 ```bash
-~/projects/demo > git branch
+~/projects/portalr > git branch
 ```
 ```
-* dev
+```
+  biomass-function
+  hao-data-vignette
+* hao-test-branch
   master
+```
 ```
 
 ### Pushing to GitHub
 
 After we have created a branch on our local clone of the repo, and made some commits, we might want to push those commits to GitHub. The first time we do so, however, we encounter an error:
 ```bash
-~/projects/demo > git push
+~/projects/portalr > git push
 ```
 ```
-fatal: The current branch dev has no upstream branch.
+fatal: The current branch hao-test-branch has no upstream branch.
 To push the current branch and set the remote as upstream, use
 
-    git push --set-upstream origin dev
+    git push --set-upstream origin hao-test-branch
 ```
 
-The reason for this error is that the repo on GitHub does not have the branch `dev`, and commits have to be assigned to a branch. The suggested command does several things at once:
-1. create a branch called `dev` on the GitHub repo (which has the remote name `origin`)
-2. establish a link between the local branch called `dev` and the GitHub branch called `dev`
-3. push the local commits on `dev` to GitHub.
+The reason for this error is that the repo on GitHub does not have the branch `hao-test-branch`, and commits have to be assigned to a branch. The suggested command does several things at once:
+1. create a branch called `hao-test-branch` on the GitHub repo (which has the remote name `origin`)
+2. establish a link between the local branch called `hao-test-branch` and the GitHub branch called `hao-test-branch`
+3. push the local commits on `hao-test-branch` to GitHub.
 
-### Pull Requests
+### Pulling from GitHub
+
+Suppose someone starts making an update and has pushed it to GitHub and wants your help before merging it into the master branch. How do you download that new branch?
+
+First, make sure we get all the information from the GitHub repo. This assumes that the GitHub repo is named as the "origin" remote (which is the default).
+```bash
+~/projects/portalr > git fetch origin
+```
+
+We can then view the possible branches using
+```bash
+~/projects/portalr > git branch -r
+```
+```
+  origin/biomass-function
+  origin/fix-test
+  origin/hao-data-vignette
+  origin/hao-export-obs-func
+  origin/hao-loadData-update
+  origin/hao-reorder-args-remove-incomplete-censuses
+  origin/master
+  origin/namespace_issue
+  origin/namespaceissues
+  origin/standardize_column_names
+```
+
+We want to create a local branch to mirror the "fix-test" branch:
+```bash
+~/projects/portalr > git checkout -b fix-test origin/fix-test
+```
+```
+Branch fix-test set up to track remote branch fix-test from origin.
+Switched to a new branch 'fix-test'
+```
+
+This now allows us to retrieve new branches from GitHub and push our own updates to that branch.
+
+## Pull Requests
 
 The preference is to use GitHub to merge the updates on a new branch back into `master`. We can do this by going to the "Pull requests" tab on the GitHub repo page and creating a "New pull request".
 ![](https://github.com/weecology/lab-wiki/blob/master/github_PR_tab.png)
 
-Suppose we want to merge from `dev` into `master`. Then we select `master` as the "base: " branch, and `dev` as the "compare: " branch. We can then write some comments for our new pull request before clicking on "Create new pull request".
+Suppose we want to merge from `hao-test-branch` into `master`. Then we select `master` as the "base: " branch, and `hao-test-branch` as the "compare: " branch. We can then write some comments for our new pull request before clicking on "Create new pull request".
 
 *If the pull request fixes an issue, you can include keywords to [automagically close](https://help.github.com/articles/closing-issues-using-keywords/) the issue when the pull request is merged.*
 

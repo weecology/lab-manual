@@ -56,6 +56,22 @@ This is what it looks like when we run `git branch` afterword:
   master
 ```
 
+### Pushing to GitHub
 
+After we have created a branch on our local clone of the repo, and made some commits, we might want to push those commits to GitHub. The first time we do so, however, we encounter an error:
+```bash
+~/projects/demo > git push
+```
+```
+fatal: The current branch dev has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin dev
+```
+
+The reason for this error is that the repo on GitHub does not have the branch `dev`, and commits have to be assigned to a branch. The suggested command does several things at once:
+1. create a branch called `dev` on the GitHub repo (which has the remote name `origin`)
+2. establish a link between the local branch called `dev` and the GitHub branch called `dev`
+3. push the local commits on `dev` to GitHub.
 
 ## Pull Requests / Merges

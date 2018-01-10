@@ -56,12 +56,10 @@ This is what it looks like when we run `git branch` afterword:
 ~/projects/portalr > git branch
 ```
 ```
-```
   biomass-function
   hao-data-vignette
 * hao-test-branch
   master
-```
 ```
 
 ### Pushing to GitHub

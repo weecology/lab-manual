@@ -8,17 +8,54 @@ In this guide, we presume that there is a single repo on GitHub and multiple use
 
 ## Branching
 
-By default, git repos have a `master` branch. If you are working in a repo and use commits to track the iterative versions of the project, then you're working on this branch.
+One way of thinking about git branches is that each branch represents a "lineage" of commits in a repo. By default, git repos have a `master` branch, and adding commits to a new repo will create iterative versions of the project, all considered to be part of the `master` branch.
 
-You can see the branches in your project using `git branch` from the command line while in the folder with a git repo. This will list the branches in the repo, with the current version of the repo indicated with an asterisk (and possibly a different color):
+You can see the branches in your project using `git branch` from the command line while in the folder with a git repo. This will list the branches in the repo:
 ```bash
-> git branch
+~/projects/demo > git branch
 ```
 ```
-  biomass-function
-  hao-data-vignette
 * master
 ```
+
+Here, `master` is marked with an asterisk (and possibly a different color) to indicate that it is the "active" branch. What this means is that new commits added to the repo will be derived from the end of the master branch and included as part of that branch.
+
+### Making New Branches
+
+We can create new branches by specifying a new branch name when using the `git branch` command. This allows us to start a new "lineage" of commits from the current state of the repo.
+```bash
+~/projects/demo > git branch dev
+```
+When we look at the branches, we now see:
+```bash
+~/projects/demo > git branch
+```
+```
+  dev
+* master
+```
+
+Notice that the active branch is still "master".
+
+### Switching Branches
+
+To change the active branch, we use the `git checkout` command:
+```bash
+~/projects/demo > git checkout dev
+```
+```
+Switched to branch 'dev'
+```
+
+This is what it looks like when we run `git branch` afterword:
+```bash
+~/projects/demo > git branch
+```
+```
+* dev
+  master
+```
+
 
 
 ## Pull Requests / Merges

@@ -74,4 +74,9 @@ The reason for this error is that the repo on GitHub does not have the branch `d
 2. establish a link between the local branch called `dev` and the GitHub branch called `dev`
 3. push the local commits on `dev` to GitHub.
 
-## Pull Requests / Merges
+### Pull Requests
+
+The preference is to use GitHub to merge the updates on a new branch back into `master`. We can do this by going to the "Pull requests" tab on the GitHub repo page:
+![](https://github.com/weecology/lab-wiki/blob/master/github_PR_tab.png)
+
+

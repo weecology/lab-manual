@@ -18,10 +18,16 @@ Since the password managers are secured by a single master passphrase (that unlo
 
 ## Two-Factor Authentication
 
+Two-factor authentication (commonly 2FA or MFA for multi-factor) means identifying yourself using components from at least two different categories:
+* something you know (e.g. a password)
+* something you have (e.g. a key or phone)
+* something you are (e.g. fingerprints, biometrics)
+Thus, if someone else has your password, they still can't access your account without e.g. your phone, too.
 
-
-
-
+* Many large sites (e.g. banks, email) with security concerns have 2FA as an option, but it might need to be turned on. For example, here are the instructions for [gmail](https://www.google.com/landing/2step/).
+* Common implementations are to send a code by email or text when you log in.
+* Some places also support apps or devices that generate rolling codes (e.g. [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en)). These generate rolling codes that rotate regularly, for example, every minute. When synced up with a website during 2FA setup, you can also use the rolling code to authenticate.
+* Hardware tokens are also possible, for example [Yubikeys](https://www.yubico.com/products/yubikey-hardware/). You will want to check compatibility with services. For instance, the basic U2F key will not work as 2FA for Lastpass, and you also need a paid Lastpass plan.
 
 ## Privacy
 

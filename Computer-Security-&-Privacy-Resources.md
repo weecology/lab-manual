@@ -29,7 +29,12 @@ Thus, if someone else has your password, they still can't access your account wi
 * Some places also support apps or devices that generate rolling codes (e.g. [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en)). These generate rolling codes that rotate regularly, for example, every minute. When synced up with a website during 2FA setup, you can also use the rolling code to authenticate.
 * Hardware tokens are also possible, for example [Yubikeys](https://www.yubico.com/products/yubikey-hardware/). You will want to check compatibility with services. For instance, the basic U2F key will not work as 2FA for Lastpass, and you also need a paid Lastpass plan.
 
-## Privacy
-
-
 ## Misc.
+* EFF has a [browser extension](https://www.eff.org/https-everywhere) to use encrypted HTTPS when possible.
+* EFF also has a [browser extension](https://www.eff.org/privacybadger) to block ads from tracking you across websites.
+* Don't plug in unknown USB devices to your computer or your USB devices into unknown ports. ([e.g. :scream:](https://www.reuters.com/article/us-nuclearpower-cyber-germany/german-nuclear-plant-infected-with-computer-viruses-operator-says-idUSKCN0XN2OS): 
+> As an example, Hypponen said he had recently spoken to a European aircraft maker that said it cleans the cockpits of its planes every week of malware designed for Android phones. The malware spread to the planes only because factory employees were charging their phones with the USB port in the cockpit.
+> 
+> Because the plane runs a different operating system, nothing would befall it. But it would pass the virus on to other devices that plugged into the charger.
+* You can use incognito / private mode when browsing to bypass some paywalls (e.g. NYT's 10-article/month limit)
+* [OverSight](https://objective-see.com/products/oversight.html) comes recommended by some folks as a way to notify about microphone and camera usage on Macs.

@@ -89,9 +89,12 @@ Hipergator 2 job scripts look like the one below.  More information at https://w
 # Number of nodes to use
 #SBATCH --nodes=1
 
-# Number of tasks (usually translate to processor cores) to use
-#SBATCH --ntasks=1
+# Number of tasks (usually translate to processor cores) to use: important! this means the number of mpi ranks used, useless if you are not using Rmpi)
+#SBATCH --ntasks=1 
 
+#number of cores to parallelize with:
+#SBATCH --cpus-per-task=15
+#SBATCH --mem=16000
 # Memory per cpu core. Default is megabytes, but units can be specified with M 
 # or G for megabytes or Gigabytes.
 #SBATCH --mem-per-cpu=2G

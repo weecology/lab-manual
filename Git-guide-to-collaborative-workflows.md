@@ -115,7 +115,7 @@ Branch fix-test set up to track remote branch fix-test from origin.
 Switched to a new branch 'fix-test'
 ```
 
-This now allows us to retrieve new branches from GitHub and push our own updates to that branch.
+This has done several things: it retrieved the branch from GitHub to our local machine, set up tracking, and changed the current active branch. Now, if we make new commits to the local copy of the branch, we are able to push directly to that corresponding branch on GitHub.
 
 ## Pull Requests
 

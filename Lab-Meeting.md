@@ -2,7 +2,7 @@
   * 1: Computer security, password managers, etc. (Hao & Ethan)
   * ~~1:30:~~
 * Jan 17
-  * 1:
+  * 1: Git/GitHub branches (Hao)
   * 1:30:
 * Jan 24
   * 1: Using Rstudio on Hipergator  (Sergio)

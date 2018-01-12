@@ -25,7 +25,7 @@
 * Mar 7 Spring Break, no meeting
 * Mar 14
   * 1:
-  * 1:30:
+  * 1:30: Renata
 * Mar 21
   * 1:
   * 1:30: Henry
@@ -36,7 +36,7 @@
   * 1:
   * 1:30: Sergio
 * Apr 11
-  * 1: Renata
+  * 1:
   * 1:30: Joan
 * Apr 18
   * 1:

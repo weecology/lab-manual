@@ -74,8 +74,9 @@ Some external resources:
 * Jenny Bryan's book, ["Happy Git and GitHub for the useR"](http://happygitwithr.com/), book for UBC Stat 545
 * David Winterbottom's [blogpost on branches and bull request workflow](http://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 
-* [lab wiki tutorial](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio) on integrating new GitHub repos into RStudio
-* [lab wiki tutorial](https://github.com/weecology/lab-wiki/wiki/Git-guide-to-collaborative-workflows) on using branches in Git/GitHub for collaboration
+Lab wiki pages:
+* [setting up new GitHub repos and linking with RStudio](https://github.com/weecology/lab-wiki/wiki/GitHub-Repos-in-RStudio)
+* [using branches in Git/GitHub for collaboration](https://github.com/weecology/lab-wiki/wiki/Git-guide-to-collaborative-workflows)
 
 ### Backup
 

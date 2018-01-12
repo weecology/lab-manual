@@ -6,7 +6,7 @@
   * 1:30:
 * Jan 24
   * 1: Using Rstudio on Hipergator  (Sergio)
-  * 1:30:
+  * 1:30: Hao
 * Jan 31 (Ethan out of town)
   * 1:
   * 1:30:

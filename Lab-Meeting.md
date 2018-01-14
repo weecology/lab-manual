@@ -1,14 +1,12 @@
 * Jan 10
   * 1: Computer security, password managers, etc. (Hao & Ethan)
   * ~~1:30:~~
-* Jan 17
-  * 1: Git/GitHub branches (Hao)
-  * 1:30:
+* ~~Jan 17~~
 * Jan 24
   * 1: Using Rstudio on Hipergator  (Sergio)
   * 1:30: Hao
 * Jan 31 (Ethan out of town)
-  * 1:
+  * 1: Git/GitHub branches (Hao)
   * 1:30:
 * Feb 7
   * 1: 

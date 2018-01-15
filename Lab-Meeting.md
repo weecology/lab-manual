@@ -41,7 +41,7 @@
   * 1:30: Erica
 * Apr 25
   * 1:
-  * 1:30:
+  * 1:30: Shawn
 
 ## Discussion topics
 

@@ -7,6 +7,7 @@ You can open an interactive session on the hipergator using the dedicated gpu pu
 inside the interactive session you can then load modules such as Kiras and tensorflow
 
 `module load gcc/5.2.0 openmpi keras`
+
 `module load  tensorflow`
 
 To launch a python session directly in your terminal: 

@@ -7,6 +7,7 @@ A lot of info linked to is from a specific point of view, or has intrinsic biase
 * [another guide to resources](http://fromphdtolife.com/resources/)
 * [identifying the career for you](https://80000hours.org/career-guide/)
 * [negotiating](https://chroniclevitae.com/news/933-negotiating-nonacademic-style)
+* [writing cover letters](http://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=48927)
 
 # Academic
 

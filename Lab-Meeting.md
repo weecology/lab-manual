@@ -1,3 +1,4 @@
+## Schedule
 * Jan 10
   * 1: Computer security, password managers, etc. (Hao & Ethan)
   * ~~1:30:~~
@@ -42,6 +43,10 @@
 * Apr 25
   * 1:
   * 1:30: Shawn
+
+## Discussion Types
+* 30 min slots are intended for any sort of informal tutorial/discussion you’d like to lead.
+* The hour chunk is for the standard research presentation.
 
 ## Discussion topics
 

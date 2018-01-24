@@ -10,7 +10,7 @@
   * 1: Git/GitHub branches (Hao)
   * 1:30:
 * Feb 7
-  * 1: 
+  * 1: Parallelization (Juniper)
   * 1:30:
 * Feb 14
   * 1:

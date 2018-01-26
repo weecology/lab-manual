@@ -4,6 +4,8 @@ You can open an interactive session on the hipergator using the dedicated gpu pu
 
 `srun -p hpg2-gpu --gres=gpu:tesla:1 --time=01:00:00  --pty -u bash -i`
 
+IMPORTANT! the `--pty -u bash -I` has to be the last command called, or you'll eventually end up with an error soon after logging in
+
 inside the interactive session you can then load modules such as Kiras and tensorflow
 
 `module load gcc/5.2.0 openmpi keras`

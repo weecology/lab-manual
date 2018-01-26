@@ -20,7 +20,7 @@ If instead you want to run a script, type:
 
 `launch_tensorflow python my_keras_script.py`
 
-Be careful, UFRC documentation may be a little misleading. Using `srun -p hpg2-gpu --gres=gpu:1 --pty -u bash -i --time=01:00:00 --mem=2gb' would cause an error, which can be solved by explicitly asking for a Tesla  gpu (the ones now on the system). 
+Be careful, UFRC documentation may be a little misleading. Using `srun -p hpg2-gpu --gres=gpu:1 --pty -u bash -i --time=01:00:00 --mem=2gb' would cause an error, because `--time` and `--mem` have been called after `--pty -u bash -I`. 
 
 That said, two useful pages are:
 

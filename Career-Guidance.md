@@ -8,6 +8,7 @@ A lot of info linked to is from a specific point of view, or has intrinsic biase
 * [identifying the career for you](https://80000hours.org/career-guide/)
 * [negotiating](https://chroniclevitae.com/news/933-negotiating-nonacademic-style)
 * [writing cover letters](http://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=48927)
+* [survey of employment for PhD's in ecology](https://doi.org/10.1002/ecs2.2031)
 
 # Academic
 

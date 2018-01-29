@@ -70,3 +70,4 @@
 * Establishing your "brand" (CV, resume, website, etc.)
 * software development for research (e.g. R packages)  
 * using rstudio on serenity
+* Creating website through GitHub

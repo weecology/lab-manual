@@ -1,10 +1,16 @@
+*Start this process early as approval will take a few weeks.*
+
+Include the protocol number in the subject line of any emails to IACUC.
+
 ### Forms
 
-Fill out the [AC Form](https://github.com/weecology/lab-wiki/blob/master/ACForm.pdF).
+Fill out the [AC Form](http://webfiles.ehs.ufl.edu/ACForm.pdf).
   * Supervisor (for Portal): Morgan
   * Fiscal Contact: Fiona Hogan
 
-Email to Supervisor to sign and turn in
+Email to Supervisor to sign and turn in (email completed form to OccMedClinic-RiskAssessment@ahc.ufl.edu).
+
+Notify the IACUC office (iacuc@research.ufl.edu) that the form has been completed.  
 
 ### Training
 

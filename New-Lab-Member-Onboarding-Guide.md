@@ -118,7 +118,7 @@ Located in the historic Infirmary Building on Fletcher Drive. [more info](http:/
 
 ## WEC IT
 
-* point of contact: Tom Barnash (http://www.wec.ufl.edu/people/staff.php)
+* point of contact: Tom Barnash (see http://www.wec.ufl.edu/people/staff.php)
 
 ## Financial Services
 

@@ -116,6 +116,10 @@ Located in the historic Infirmary Building on Fletcher Drive. [more info](http:/
 * [UF Student Legal Services](https://www.studentlegalservices.ufl.edu/)
 * 
 
+## WEC IT
+
+* point of contact: Tom Barnash (http://www.wec.ufl.edu/people/staff.php)
+
 ## Financial Services
 
 ## Travel

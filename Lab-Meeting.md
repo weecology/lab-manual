@@ -13,7 +13,7 @@
   * 1: Parallelization in R (Juniper)
   * 1:30:
 * Feb 14
-  * 1:
+  * 1: Create a static website with Jekyll and GitHub pages (Sergio)
   * 1:30: Juniper
 * Feb 21
   * 1:

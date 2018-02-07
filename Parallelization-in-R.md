@@ -81,8 +81,17 @@ In addition to `%dopar%`, there is a sequential operator for use with `foreach`,
 
 **Nesting foreach loops**
 
-Nested loops can often be really powerful for computation. `doParallel` has a special operator that combines two `foreach` objects in a nested
+Nested loops can often be really powerful for computation. `doParallel` has a special operator that combines two `foreach` objects in a nested manner: `%:%`. This operator causes the outer most `foreach` to be evaluated over its variables' values, which are then passed down into the next innermost `foreach`. That `foreach` iterates over its variables' values for each value of the outer `foreach` variables.
 
+```
+out <- foreach(i = 1:10) %:%
+         foreach(j = 1:100) %dopar% {
+          i * j^3
+         }
+out
+```
+
+The `.combine` option is really important to pay attention to with nested `foreach` loops, as it will allow you to flexibly structure the data. The above version produces a list (length 10) of lists (length 100).
 
 **References** 
 

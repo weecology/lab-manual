@@ -1,7 +1,7 @@
 
 **Overview**
 
-The basic idea of parallelization is the running of computational tasks simultaneously, as opposed to sequentially (or "in sequence" as opposed to "in parallel"). To do this, the computer needs to be able to split code into pieces that can run independently and then be joined back together as if they had been run sequentially.  The parts of the computer that run the pieces of code are processing units and are typically called "cores". 
+The basic idea of parallelization is the running of computational tasks simultaneously, as opposed to sequentially (or "in parallel" as opposed to "in sequence"). To do this, the computer needs to be able to split code into pieces that can run independently and then be joined back together as if they had been run sequentially.  The parts of the computer that run the pieces of code are processing units and are typically called "cores". 
 
 The `doParallel` package is (as far as I'm currently aware) the most platform-general and robust parallel package available in R. There is more functionality for Unix-alikes in the `parallel` package (see link below), but that doesn't transfer to Windows machines. 
 

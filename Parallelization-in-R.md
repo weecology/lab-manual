@@ -3,7 +3,7 @@
 
 The basic idea of parallelization is the running of computational tasks simultaneously, as opposed to sequentially (or "in sequence" as opposed to "in parallel"). To do this, the computer needs to be able to split code into pieces that can run independently and then be joined back together as if they had been run sequentially.  The parts of the computer that run the pieces of code are processing units and are typically called "cores". 
 
-The `doParallel` package is (as far as I'm currently aware) the most platform-general and robust parallel package available in R. There is more functionality for Unix-alikes in the `parallel` package (see link below), but that doesn't function on Windows machines. 
+The `doParallel` package is (as far as I'm currently aware) the most platform-general and robust parallel package available in R. There is more functionality for Unix-alikes in the `parallel` package (see link below), but that doesn't transfer to Windows machines. 
 
 ```
 library(doParallel)
@@ -39,7 +39,7 @@ Here, I've stopped the cluster explicitly using `stopCluster`, which frees up th
 Parallelization in `doParallel` happens via the combination of the `foreach` and `%dopar%` operators in a fashion similar to `for` loops. Rather than `for(variable in values) {expression}`, we have `foreach(variable = values, options) %dopar% {expression}`. Thus, the basic code block of a `foreach` parallel loop is
 
 ```
-cl <- makeCluster(cores_for_cluster)
+cl <- makeCluster(floor(0.75 * ncores))
 registerDoParallel(cl)
 foreach(variable = values, options) %dopar% {
   expression
@@ -84,14 +84,59 @@ In addition to `%dopar%`, there is a sequential operator for use with `foreach`,
 Nested loops can often be really powerful for computation. `doParallel` has a special operator that combines two `foreach` objects in a nested manner: `%:%`. This operator causes the outer most `foreach` to be evaluated over its variables' values, which are then passed down into the next innermost `foreach`. That `foreach` iterates over its variables' values for each value of the outer `foreach` variables.
 
 ```
+cl <- makeCluster(floor(0.75 * ncores))
+registerDoParallel(cl)
 out <- foreach(i = 1:10) %:%
          foreach(j = 1:100) %dopar% {
           i * j^3
          }
 out
+stopCluster(cl)
 ```
 
 The `.combine` option is really important to pay attention to with nested `foreach` loops, as it will allow you to flexibly structure the data. The above version produces a list (length 10) of lists (length 100).
+
+**Seeds and RNGs**
+
+One of the downfalls of `foreach` and `%dopar%` is that the parallel runs aren't reproducible in a simple way. There are ways to code seed setting up, but it's a little obtuse. Thankfully, the `doRNG` package has you taken care of. There are a few ways to code up a reproducible parallel loop. 
+
+```
+library(doRNG)
+cl <- makeCluster(floor(0.75 * ncores))
+registerDoParallel(cl)
+
+# 1. .options.RNG
+
+out1 <- foreach(i = 1:10, .options.RNG = 1234) %dorng% {
+  rnorm(1, i, i^2)
+}
+
+# 2. set.seed
+
+set.seed(1234)
+out2 <- foreach(i = 1:10) %dorng% {
+  rnorm(1, i, i^2)
+}
+
+# 3. registerDoRNG (note that this doesn't replace the registerDoParallel!)
+
+registerDoRNG(1234)
+out3 <- foreach(i = 1:10) %dorng% {
+  rnorm(1, i, i^2)
+}
+
+stopCluster(cl)
+
+identical(out1, out2)
+identical(out1, out3)
+```
+
+**Speed Gains**
+
+The degree to which your code speeds up when you parallelize it depends on a few factors: how many cores you have, whether the code can take advantage of hyperthreading, the run time of the code itself, and your ease of coding in parallel. There is definitely some computational and time overhead involved in setting up a cluster, distributing the work, and combining the results. Short tasks (seconds to a half-minute), therefore, are usually faster to run in sequence. Once tasks start creeping up to the half-minute mark on a dual-core machine (or the less time on a more-core machine), the parallel runs will start to be faster. As the runtime of the computation increases, the relative gain by parallelizing increases, although it never gets to a fully fractional decrease of time (*i.e.*, 6 cores won't ever get you to 1/6 the runtime...probably more like 1/4 - 1/5) due to overhead. The other thing to keep in mind with parallelization is that there is often some additional coding time involved, and there can be issues that require an additional level of troubleshooting that quickly eliminates the time gains. 
+
+See references below for speed tests.
+
 
 **References** 
 

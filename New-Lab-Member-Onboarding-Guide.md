@@ -68,6 +68,11 @@ The lab is transitioning to use of [Zotero](https://www.zotero.org/) as a common
 
   For R, [Hadley Wickham's Style Guide](http://adv-r.had.co.nz/Style.html).
 
+  For R packages, check out [rOpenSci's onboarding guide](https://github.com/ropensci/onboarding/blob/master/packaging_guide.md)
+
+Lab wiki pages:
+* [parallelization in R](https://github.com/weecology/lab-wiki/wiki/Parallelization-in-R)
+
 ### Git and GitHub
 
 Some external resources:

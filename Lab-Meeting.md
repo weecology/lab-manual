@@ -15,9 +15,9 @@
 * Feb 14
   * 1: Create a static website with Jekyll and GitHub pages (Sergio)
   * 1:30: Juniper
-* Feb 21
+* Feb 21 (Ally Skills workshop)
   * 1:
-  * 1:30: Kristina
+  * 1:30: 
 * Feb 28
   * 1:
   * 1:30: Ellen

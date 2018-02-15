@@ -5,6 +5,10 @@ Frame Shift consulting: <https://frameshiftconsulting.com/ally-skills-workshop/>
 
 Dr. Sheila Addison's email: drsaddison@gmail.com
 
+UFII/BI: ageiger0213@ufl.edu, flora.marynak@ufl.edu
+
+Dept. Assistant emails: birdrule@ufl.edu (WEC), kbray@UFL.EDU (SNRE), pamd@flmnh.ufl.edu (FLMNH), tney0726@ufl.edu (Bio)
+
 ## Useful descriptions
 
 ### Seminar

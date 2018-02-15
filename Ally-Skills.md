@@ -1,4 +1,4 @@
-# General information about hosting an Ally Skills Workshop:
+# General info about hosting an Ally Skills Workshop:
 
 ## Websites & Contacts
 Frame Shift consulting: <https://frameshiftconsulting.com/ally-skills-workshop/>

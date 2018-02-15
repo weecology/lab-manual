@@ -20,3 +20,4 @@ The workshop is designed to teach skills for supporting underrepresented groups 
 ## Interested Parties (unable to attend this time)
 * Karen Bailey
 * Sam Wisely
+* Susan Jacobson

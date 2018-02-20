@@ -10,7 +10,7 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 * *January 19-21* (Ellen, Renata)
 * *February 16-18* (Joan)
 * *March 23-30* (Plant Census; Glenda, Ellen, Erica, Kristina, Joan, Ren, Shawn)
-* *April 13-15* (Renata)
+* *April 13-15* (Renata, Rosalind)
 * *May 11-13* (Ellen, Lauren)
 
 

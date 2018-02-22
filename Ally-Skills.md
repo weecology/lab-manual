@@ -21,3 +21,7 @@ The workshop is designed to teach skills for supporting underrepresented groups 
 * Karen Bailey
 * Sam Wisely
 * Susan Jacobson
+* Kirsten Hecht
+* Mallory Syzmanski
+* Rich Tate
+* Alicia McGrew

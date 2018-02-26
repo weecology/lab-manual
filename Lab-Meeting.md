@@ -19,8 +19,8 @@
   * 1:
   * 1:30: 
 * Feb 28
-  * 1: Kristina
-  * 1:45: Ellen
+  * 1: 
+  * 1:30: Kristina
 * Mar 7 Spring Break, no meeting
 * Mar 14
   * 1:

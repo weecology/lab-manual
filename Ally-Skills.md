@@ -21,6 +21,7 @@ The workshop is designed to teach skills for supporting underrepresented groups 
 
 ### Respondents
 14 responses total
+
 14/14 said we should continue offering Ally Skills Workshops at UF
 
 ### Comments from respondents

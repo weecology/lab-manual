@@ -7,22 +7,22 @@ This page will (hopefully) remain an up-to-date list of future Portal trip dates
 
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
-* *January 19-21* (Ellen, Renata)
-* *February 16-18* (Joan)
-* *March 23-30* (Plant Census; Glenda, Ellen, Erica, Kristina, Joan, Ren, Shawn)
+* *March 23-30* (Plant Census; Glenda, Ellen, Erica, Kristina, Joan, Ren, Hao)
 * *April 13-15* (Renata, Rosalind)
 * *May 11-13* (Ellen, Lauren)
-
+* *June 15-17*
+* *July 13-15*
 
 ## Trip Description
 For those of you not familiar with the procedure, a Portal weekend consists of two nights of rodent trapping.  We fly out Thursday and stay overnight in Tucson. Friday morning we pick up the field truck and any supplies we need, and drive 3 hours to the site.  Friday night just before sunset we'll set traps on half of the site's 24 plots -- this procedure takes about 2 hours.  Saturday morning we get up just before dawn and process animals in the full traps.  The rodent RA (Ellen, Joan, or Renata) will be the one actually handling the animals while the volunteer records data and assists with equipment.  Saturday night we'll set traps on the other half of the plots, and Sunday morning will be the same as Saturday morning.  Sunday afternoon we'll break camp and head back to Tucson, stay in a hotel again and fly back to Gainesville Monday morning.  
 
 ### Things a volunteer should bring:
-* Sleeping bag
+* Sleeping bag 
 * Headlamp
 * Hiking boots
 * Field pants (lots of thorny plants at the site)
-* Hat / long sleeve shirt for sun protection
+* Long sleeve shirt for sun protection
+* Hat/sunglasses
 * Water bottle
 * Rain jacket
 
@@ -30,7 +30,7 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 * This is a rustic camping situation, meaning no bathroom facilities and no water supply except what we bring in (we have several large jugs we can fill for drinking and washing dishes).  
 * It may be quite cold in December - January (it has been known to freeze overnight)
 * It will definitely be quite hot in May - August
-* There may or may not be cell reception at the site (Verizon seems to do ok, although no 3G)
+* There is somewhat limited cell reception at the site, depending on your carrier
 * If you love plants, consider coming down for our week-long plant censuses in March and August
 
 ### All the forms

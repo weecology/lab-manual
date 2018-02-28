@@ -19,30 +19,22 @@
   * 1:
   * 1:30: 
 * Feb 28
-  * 1: 
-  * 1:30: Kristina
+  * 1-2 Kristina
 * Mar 7 Spring Break, no meeting
 * Mar 14
-  * 1:
-  * 1:30: Renata
+  * 1-2 Renata
 * Mar 21
-  * 1:
-  * 1:30: Henry
+  * 1-2 Henry
 * Mar 28 (Spring Plant census)
-  * 1:
-  * 1:30:
+  * No meeting
 * Apr 4
-  * 1:
-  * 1:30: Sergio
+  * 1-2 Sergio
 * Apr 11
-  * 1:
-  * 1:30: Joan
+  * 1-2 Joan
 * Apr 18
-  * 1:
-  * 1:30: Erica
+  * 1-2 Erica
 * Apr 25
-  * 1:
-  * 1:30: Shawn
+  * 1-2 Shawn
 
 ## Discussion Types
 * 30 min slots are intended for any sort of informal tutorial/discussion you’d like to lead.

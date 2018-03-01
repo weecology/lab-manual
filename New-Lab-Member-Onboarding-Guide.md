@@ -33,7 +33,7 @@ The conference room schedule is maintained separately. You might need to contact
 
 ## Lab Meeting
 
-(for Fall 2017) Mondays at Noon
+(for Spring 2018) Weds at 1pm ET.
 
 Typical agenda is something like:
 * general announcements

@@ -14,5 +14,18 @@
 ## Naming
 
 * Pothole casing for variables and functions `portal_data`
-    * Do not use `.` in names (this is very *R* specific and [Hadley says not to](http://adv-r.had.co.nz/Style.html))
+    * Do not use `.` in names (this is very R specific and even [Hadley says not to](http://adv-r.had.co.nz/Style.html))
 * Concise and meaningful, but meaningful is more important than concise
+* No single letter names unless it is representing equations
+
+## White space
+
+* spaces after commas
+* spaces around operators (unless inside the argument definitions in Python)
+* no spaces around parentheses
+
+## Line length
+
+* Lines <= 80 characters
+    * But a few extra characters can be better than confusing contortions to make length
+* Parentheses with breaks after commas are typically better than line break characters (but not always)

@@ -13,10 +13,12 @@
 
 ## Naming
 
-* Pothole casing for variables and functions `portal_data`
+* Use snake_case for variables and functions `portal_data`
     * Do not use `.` in names (this is very R specific and even [Hadley says not to](http://adv-r.had.co.nz/Style.html))
-* Concise and meaningful, but meaningful is more important than concise
+* Be concise and meaningful, but meaningful is more important than concise
 * No single letter names unless it is representing equations
+* Constants, and only constants, should be in all caps
+* For object oriented programming in Python use UpperCamelCase for class names
 
 ## White space
 

@@ -1,10 +1,3 @@
-## Basic Checklist
-
-- [ ] Get a password manager for your various website passwords.
-- [ ] Set up 2FA where you can, and especially for important services like email and GitHub
-- [ ] ^ Talk to Ethan or Glenda about getting a Yubikey for 2FA if you don't have one already
-- [ ] Set up a SSH key for command-line access to GitHub. [instructions here](https://help.github.com/articles/about-ssh/)
-
 ## Password Managers
 
 A password manager keeps track of the various passwords you use for different websites. (And the reason to use a different password for each account, is so that if your password at one place is compromised, it does not affect your other accounts.)

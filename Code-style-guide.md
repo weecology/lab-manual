@@ -29,3 +29,16 @@
 * Lines <= 80 characters
     * But a few extra characters can be better than confusing contortions to make length
 * Parentheses with breaks after commas are typically better than line break characters (but not always)
+
+## Indentation
+
+* Always indent to indicate that code is inside a function, loop, etc. (Python makes you do this. Thanks Python!)
+* Use spaces, not tabs (but it's fine for you IDE to turn the tab key into spaces)
+* Follow language convention for number of spaces
+    * R: 2
+    * Python: 4
+* When breaking lines with parentheses (mostly in function calls/definitions) align with the leading character after the opening parenthesis
+    ```
+    (stuff, things,
+     more_things)
+    ```

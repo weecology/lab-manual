@@ -50,6 +50,13 @@ Typical agenda is something like:
 
 ## Computer Setup
 
+Here's a basic checklist for computer privacy and security. For more info, check out the wiki page on [Computer Security and Privacy Resources](https://github.com/weecology/lab-wiki/wiki/Computer-Security-&-Privacy-Resources)
+
+- [ ] Get a password manager for your various website passwords.
+- [ ] Set up 2FA where you can, and especially for important services like email and GitHub
+- [ ] ^ Talk to Ethan or Glenda about getting a Yubikey for 2FA if you don't have one already
+- [ ] Set up a SSH key for command-line access to GitHub. [instructions here](https://help.github.com/articles/about-ssh/)
+
 ### Basic Software Setup
 
 [Programming setup for Macs](https://github.com/weecology/lab-wiki/wiki/Computer-Setup-for-Mac)

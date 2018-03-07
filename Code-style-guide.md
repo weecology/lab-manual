@@ -30,7 +30,7 @@
 
 * Lines <= 80 characters
     * But a few extra characters can be better than confusing contortions to make length
-* Parentheses with breaks after commas are typically better than line break characters (but not always)
+* Parentheses/brackets/braces with breaks after commas are typically better than line break characters (but not always)
 
 ## Indentation
 
@@ -44,3 +44,7 @@
     (stuff, things,
      more_things)
     ```
+
+## Loops
+
+* Loop over items unless you actually need indices

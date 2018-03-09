@@ -13,7 +13,7 @@ Generally, this guide follows the principles outlined [here](http://journals.plo
 ## Modularize
 
 * Break code into chunks corresponding to contained tasks 
-* Whenever possible write code into functions, even if the function isn't called repeatedly.
+* Whenever possible write code into functions, even if the function isn't called repeatedly
 
 ## Loops
 
@@ -30,7 +30,7 @@ Generally, this guide follows the principles outlined [here](http://journals.plo
 * Use snake_case for variables and functions (e.g., `portal_data`)
     * Exceptions: 
         * established prefixes (e.g., `n` in `nobs` to indicate the number of observations)
-        * established suffixes (e.g. `i` in `obsi` to indicate the specific observation in a for loop)
+        * established suffixes (e.g., `i` in `obsi` to indicate the specific observation in a for loop)
 * Use UpperCamelCase for class names for object oriented programming (primarily in Python) 
 * Do not use `.` in names ([particularly in R](http://adv-r.had.co.nz/Style.html))
 * Do not use single-letter names 

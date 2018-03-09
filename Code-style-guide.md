@@ -1,24 +1,43 @@
+# Guiding Principles
+
+This document provides a guide to code structure and formatting across languages used within the Weecology projects. Links to language-specific guides are provided below.
+
+Generally, this guide follows the principles outlined [here](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745#s2). In particular:
+1. Write and style your code for human readers
+2. Minimize the number of facts a reader is expected to hold at one time
+3. Use consistent, distinct, and meaningful names
+4. Employ consistent style and formatting
+
+# Structure 
+
 ## Modularize
 
-* Break code into chunks. Ideally functions (but separating by comment blocks is better than nothing).
-* Functions are good for readability even if they aren't called repeatedly.
+* Break code into chunks corresponding to contained tasks 
+* Whenever possible write code into functions, even if the function isn't called repeatedly.
 
-## Documentation
+## Loops
 
-* [Document what the code does and how to use it, not how it does it](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745#s8)
-* Use standard documentation comment styles
-    * R: [roxygen](http://r-pkgs.had.co.nz/man.html)
-    * Python: [docstrings](https://www.python.org/dev/peps/pep-0257/)
-    * These can create formatted documentation, but they are useful visual indicators even if you don't do this
+* Loop should be used with repeated tasks unless you actually need the indices
+* If the language allows, use vectorized functions in place of loops to speed computation and reduce code volume
+
+# Style
 
 ## Naming
 
-* Use snake_case for variables and functions `portal_data`
-    * Do not use `.` in names (this is very R specific and even [Hadley says not to](http://adv-r.had.co.nz/Style.html))
-* Be concise and meaningful, but meaningful is more important than concise
-* No single letter names unless it is representing equations
+* Be concise and meaningful, but conveying meaning is more important than brevity
+    * Document abbreviations if they are not common or immediately intuitive
+    * Functions are verbs, variables are nouns
+* Use snake_case for variables and functions (e.g., `portal_data`)
+    * Exceptions: 
+        * established prefixes (e.g., `n` in `nobs` to indicate the number of observations)
+        * established suffixes (e.g. `i` in `obsi` to indicate the specific observation in a for loop)
+* Use UpperCamelCase for class names for object oriented programming (primarily in Python) 
+* Do not use `.` in names ([particularly in R](http://adv-r.had.co.nz/Style.html))
+* Do not use single-letter names 
+    * Exceptions: 
+        * representing a term in an equation (e.g., `y` in `y = m * x + b`)
+        * using an established name in a language (e.g., `n` references the number of draws from a random variable in R)
 * Constants, and only constants, should be in all caps
-* For object oriented programming in Python use UpperCamelCase for class names
 
 ## White space
 
@@ -45,11 +64,20 @@
      more_things)
     ```
 
-## Loops
+# Documentation
 
-* Loop over items unless you actually need indices
+## In-line commenting
 
-## Language specific style guides
+* [Document what the code does and how to use it, not how it does it](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745#s8)
+
+## External documentation
+
+* Use standard documentation comment styles
+    * R: [roxygen](http://r-pkgs.had.co.nz/man.html)
+    * Python: [docstrings](https://www.python.org/dev/peps/pep-0257/)
+    * These can create formatted documentation, but they are useful visual indicators even if you don't do this
+
+# Language specific style guides
 
 * Follow official language style guides (within reason). This helps make your code broadly readable and makes external contributions more likely.
     * Python: [Official Python Style Guide (PEP8)](https://www.python.org/dev/peps/pep-0008/)

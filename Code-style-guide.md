@@ -64,6 +64,11 @@ Generally, this guide follows the principles outlined [here](http://journals.plo
      more_things)
     ```
 
+## References
+
+* Magic numbers (numeric references to elements, columns, rows, etc.) should be avoided. 
+* References should be made by name or-in the case of loops-position. 
+
 # Documentation
 
 ## In-line commenting

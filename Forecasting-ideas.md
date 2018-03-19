@@ -58,6 +58,9 @@ This is a brain dump from shortly after I (Ethan) received the Moore Foundation 
     * Assess benefits and approaches to iterative forecasting by starting with a
       small chunk of time-series (in, say, BBS) and applying iterative tools as each
       new year of data comes in.
+* How well have historical forecasts worked
+    * Track down old SDM predictions (these date back 20+ years at this point) and
+      see how well they worked.
 
 * Obs:pred plots/R^2 equivalent to AUC, but how does this compare to statis
 * Look for spatial patterns in forecastability or performance of different

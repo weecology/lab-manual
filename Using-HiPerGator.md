@@ -156,3 +156,76 @@ If you need an R package from CRAN but can't install it yourself (e.g. because o
 # Storage
 
 Your home folder only has a few gigabytes of disk space, but there is a large amount of space available under `/ufrc/ewhite/<your username>`. If you prefer a Dropbox-like interface, you can also hook GatorBox up to HiperGator using [these instructions](https://wiki.rc.ufl.edu/doc/GatorBox:_Adding_external_storage).
+
+# Connecting through jupyter notebooks.
+
+Its useful to be able to interact with hipergator, without having to rely solely on the terminal. Especially when dealing with large datasets, instead of prototyping locally, then pushing to the cloud, we can connect directly using a jupyter notebook.
+
+* Log on to hipergator and request an interactive session.
+
+```
+srun --ntasks=1 --cpus-per-task=2 --mem=2gb -t 90 --pty bash -i
+```
+
+Now we have 90 minutes work directly on this development node.
+
+* Create a juypter notebook
+
+Load the python module
+
+```
+module load python
+```
+
+Start the notebook and get your ssh tunnel
+
+```
+import socket
+import subprocess
+host = socket.gethostname()
+proc = subprocess.Popen(['jupyter', 'lab', '--ip', host, '--no-browser'])
+
+print("ssh -N -L 8888:%s:8888 -l b.weinstein hpg2.rc.ufl.edu" % (host))
+```
+
+If all went well it should look something like:
+
+```
+[b.weinstein@c27b-s2 dask-jobqueue]$ python
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 18:10:19) 
+[GCC 7.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import socket
+>>> import subprocess
+>>> host = socket.gethostname()
+>>> proc = subprocess.Popen(['jupyter', 'lab', '--ip', host, '--no-browser'])
+>>> 
+>>> print("ssh -N -L 8888:%s:8888 -l b.weinstein hpg2.rc.ufl.edu" % (host))
+ssh -N -L 8888:c27b-s2.ufhpc:8888 -l b.weinstein hpg2.rc.ufl.edu
+>>> [I 17:11:29.776 LabApp] The port 8888 is already in use, trying another port.
+[I 17:11:29.799 LabApp] JupyterLab beta preview extension loaded from /home/b.weinstein/miniconda3/envs/pangeo/lib/python3.6/site-packages/jupyterlab
+[I 17:11:29.799 LabApp] JupyterLab application directory is /home/b.weinstein/miniconda3/envs/pangeo/share/jupyter/lab
+[I 17:11:29.809 LabApp] Serving notebooks from local directory: /home/b.weinstein/dask-jobqueue
+[I 17:11:29.809 LabApp] 0 active kernels
+[I 17:11:29.809 LabApp] The Jupyter Notebook is running at:
+[I 17:11:29.809 LabApp] http://c27b-s2.ufhpc:8889/?token=0c9c992a219e1e35ddd4cbe782d7f1f56c6680118b13053c
+[I 17:11:29.809 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:11:29.811 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://c27b-s2.ufhpc:8889/?token=0c9c992a219e1e35ddd4cbe782d7f1f56c6680118b13053c
+```
+
+see that line ssh..., that is what we need to enter in our local laptop. It will ask for your login password
+
+```
+MacBook-Pro:~ ben$ ssh -N -L 8888:c27b-s2.ufhpc:8888 -l b.weinstein hpg2.rc.ufl.edu
+b.weinstein@hpg2.rc.ufl.edu's password: 
+```
+
+Don't worry if it looks like it hangs, the tunnel is open! Go check it out.
+
+Opening your browner, go to localhost:8888
+
+and viola, we are navigating hipergator from the confines of our own laptop.

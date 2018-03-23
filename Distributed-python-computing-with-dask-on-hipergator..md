@@ -35,6 +35,29 @@ Start the conda environment
 source activate pangeo
 ```
 
+* Start a juypter notebook
+
+```
+python
+import socket
+import subprocess
+host = socket.gethostname()
+proc = subprocess.Popen(['jupyter', 'lab', '--ip', host, '--no-browser'])
+
+print("ssh -N -L 8787:%s:8787 -L 8888:%s:8888 -l b.weinstein hpg2.rc.ufl.edu" % (host,host))
+```
+
+see that line ssh..., that is what we need to enter in our local laptop. It will ask for your login password
+
+```
+MacBook-Pro:~ ben$ ssh -N -L 8888:c27b-s2.ufhpc:8888 -l b.weinstein hpg2.rc.ufl.edu
+b.weinstein@hpg2.rc.ufl.edu's password: 
+```
+
+Don't worry if it looks like it hangs, the tunnel is open! Go check it out.
+
+Opening your browser, go to localhost:8888
+
 * Start a dask worker
 
 ```
@@ -42,13 +65,15 @@ from dask_jobqueue import SLURMCluster
 from datetime import datetime
 from time import sleep
 
+from dask.distributed import Client
+client = Client(cluster)
+
 cluster = SLURMCluster(project='ewhite',death_timeout=200)
 cluster.start_workers(1)
 
 print(cluster.job_script())
 
-from dask.distributed import Client
-client = Client(cluster)
+
     
 import socket
 host = client.run_on_scheduler(socket.gethostname)
@@ -69,15 +94,5 @@ yields
 
 ```
 
-see that line ssh..., that is what we need to enter in our local laptop. It will ask for your login password
-
-```
-MacBook-Pro:~ ben$ ssh -N -L 8888:c27b-s2.ufhpc:8888 -l b.weinstein hpg2.rc.ufl.edu
-b.weinstein@hpg2.rc.ufl.edu's password: 
-```
-
-Don't worry if it looks like it hangs, the tunnel is open! Go check it out.
-
-Opening your browser, go to localhost:8888
 
 and viola, we are navigating hipergator from the confines of our own laptop.

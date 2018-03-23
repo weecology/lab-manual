@@ -29,42 +29,44 @@ conda create -n pangeo -c conda-forge \
     python=3.6 dask distributed xarray jupyterlab mpi4py
 ```
 
-* Connect to juypter notebook
+Start the conda environment
 
 ```
-
+source activate pangeo
 ```
 
-
-
-# Connecting through jupyter notebooks.
-
-Its useful to be able to interact with hipergator, without having to rely solely on the terminal. Especially when dealing with large datasets, instead of prototyping locally, then pushing to the cloud, we can connect directly using a jupyter notebook.
-
-* Log on to hipergator and request an interactive session.
-
-
-
-* Create a juypter notebook
-
-Load the python module
+* Start a dask worker
 
 ```
-module load python
-```
+from dask_jobqueue import SLURMCluster
+from datetime import datetime
+from time import sleep
 
-Start the notebook and get your ssh tunnel
+cluster = SLURMCluster(project='ewhite',death_timeout=200)
+cluster.start_workers(1)
 
-```
+print(cluster.job_script())
+
+from dask.distributed import Client
+client = Client(cluster)
+
+while True:
+    print(datetime.now().strftime("%a, %d %B %Y %I:%M:%S"))
+    print(client)
+    sleep(20)
+    
 import socket
-import subprocess
-host = socket.gethostname()
-proc = subprocess.Popen(['jupyter', 'lab', '--ip', host, '--no-browser'])
+host = client.run_on_scheduler(socket.gethostname)
 
-print("ssh -N -L 8888:%s:8888 -l b.weinstein hpg2.rc.ufl.edu" % (host))
+def start_jlab(dask_scheduler):
+    import subprocess
+    proc = subprocess.Popen(['jupyter', 'lab', '--ip', host, '--no-browser'])
+    dask_scheduler.jlab_proc = proc
+
+client.run_on_scheduler(start_jlab)
+
+print("ssh -N -L 8787:%s:8787 -L 8888:%s:8888 -l b.weinstein hpg2.rc.ufl.edu" % (host, host))
 ```
-
-If all went well it should look something like:
 
 ```
 [b.weinstein@c27b-s2 dask-jobqueue]$ python

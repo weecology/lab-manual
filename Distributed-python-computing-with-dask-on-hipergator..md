@@ -56,43 +56,51 @@ b.weinstein@hpg2.rc.ufl.edu's password:
 
 Don't worry if it looks like it hangs, the tunnel is open! Go check it out.
 
-Opening your browser, go to localhost:8888
+Opening your browser, go to localhost:8888, its a notebook in the cloud!
 
 * Start a dask worker
 
 ```
 from dask_jobqueue import SLURMCluster
-from datetime import datetime
-from time import sleep
+cluster = SLURMCluster(project='ewhite',death_timeout=100)
+```
 
+Hipergator seems pretty finicky with threading, the following settings worked for me.
+
+```
+cluster.config
+{'base_path': '/home/b.weinstein/miniconda3/envs/pangeo/bin',
+ 'death_timeout': 100,
+ 'extra': '',
+ 'memory': '7GB',
+ 'name': 'dask',
+ 'processes': 4,
+ 'project': 'ewhite',
+ 'scheduler': 'tcp://172.16.192.13:45741',
+ 'threads_per_worker': 1,
+ 'walltime': '00:30:00'}
+```
+
+Add worker(s)
+
+```
 from dask.distributed import Client
 client = Client(cluster)
+```
 
-cluster = SLURMCluster(project='ewhite',death_timeout=200)
+```
 cluster.start_workers(1)
-
-print(cluster.job_script())
-
-
-    
-import socket
-host = client.run_on_scheduler(socket.gethostname)
-
-def start_jlab(dask_scheduler):
-    import subprocess
-    proc = subprocess.Popen(['jupyter', 'lab', '--ip', host, '--no-browser'])
-    dask_scheduler.jlab_proc = proc
-
-client.run_on_scheduler(start_jlab)
-
-print("ssh -N -L 8787:%s:8787 -L 8888:%s:8888 -l b.weinstein hpg2.rc.ufl.edu" % (host, host))
+client
 ```
 
-yields
-
-```
-
-```
+A call to client should return some info on the CPU and memory of workers.
 
 
-and viola, we are navigating hipergator from the confines of our own laptop.
+## Known Errors
+
+* If the number of processes is too high, the client will initially grab workers and then shed them? I submitted an IT ticket, I believe this is memory use, but not sure.
+
+see
+
+https://github.com/dask/dask-jobqueue/issues/20#issuecomment-375770094
+

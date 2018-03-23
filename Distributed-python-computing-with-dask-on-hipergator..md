@@ -35,6 +35,14 @@ Start the conda environment
 source activate pangeo
 ```
 
+Get dask-job_queue repo. This helps boot a worker from python. Very useful. I made a fork that matches our needs.
+
+```
+module load git 
+git clone https://github.com/bw4sz/dask-jobqueue.git
+cd dask-jobqueue
+```
+
 * Start a juypter notebook
 
 ```
@@ -62,24 +70,21 @@ Opening your browser, go to localhost:8888, its a notebook in the cloud!
 
 ```
 from dask_jobqueue import SLURMCluster
-cluster = SLURMCluster(project='ewhite',death_timeout=100)
+cluster = SLURMCluster(project='ewhite',death_timeout=100,threads_per_worker=2,processes=4)
 ```
 
 Hipergator seems pretty finicky with threading, the following settings worked for me.
 
-```
-cluster.config
 {'base_path': '/home/b.weinstein/miniconda3/envs/pangeo/bin',
  'death_timeout': 100,
  'extra': '',
  'memory': '7GB',
  'name': 'dask',
- 'processes': 4,
+ 'processes': 8,
  'project': 'ewhite',
- 'scheduler': 'tcp://172.16.192.13:45741',
- 'threads_per_worker': 1,
+ 'scheduler': 'tcp://172.16.192.13:34351',
+ 'threads_per_worker': 4,
  'walltime': '00:30:00'}
-```
 
 Add worker(s)
 
@@ -88,17 +93,21 @@ from dask.distributed import Client
 client = Client(cluster)
 ```
 
+This adds one worker.
+
 ```
 cluster.start_workers(1)
 client
 ```
 
 A call to client should return some info on the CPU and memory of workers.
+Dask provides a great client to check out the worker.
 
+open up localhost:8787 to see dask dashboard.
 
 ## Known Errors
 
-* If the number of processes is too high, the client will initially grab workers and then shed them? I submitted an IT ticket, I believe this is memory use, but not sure.
+* If the number of processes is too high, the client will initially grab workers and then shed them? I submitted an IT ticket, I believe this is memory use, but not sure. 8 processes with 4 threads-per-worker fails.
 
 see
 

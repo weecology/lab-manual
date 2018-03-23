@@ -75,16 +75,18 @@ cluster = SLURMCluster(project='ewhite',death_timeout=100,threads_per_worker=2,p
 
 Hipergator seems pretty finicky with threading, the following settings worked for me.
 
+```
 {'base_path': '/home/b.weinstein/miniconda3/envs/pangeo/bin',
  'death_timeout': 100,
  'extra': '',
  'memory': '7GB',
  'name': 'dask',
- 'processes': 8,
+ 'processes': 4,
  'project': 'ewhite',
  'scheduler': 'tcp://172.16.192.13:34351',
- 'threads_per_worker': 4,
+ 'threads_per_worker': 2,
  'walltime': '00:30:00'}
+```
 
 Add worker(s)
 

@@ -1,17 +1,10 @@
-
 # Aim
+
 We often have very large datasets that need to be handled using our high performance computing system. We also want to comfort of working on out laptops, and not being tied to the command line. The goal of this wiki page is to outline how to use dask and juypterlab notebooks to manipulate spatial data on hipergator. This is an evolving document that will be updated as we find best practices.
  
-## Setup
+## Initial Setup (only need to do once)
 
 * Log on to hipergator.
-
-* Start an interactive node.
-
-```
-srun --ntasks=1 --cpus-per-task=2 --mem=2gb -t 90 --pty bash -i
-```
-
 * Create a conda virtual environment. We want some control over our own python environment, and not be so dependent on the python modules provided by admin. Start in our home directory
 
 ```
@@ -35,45 +28,61 @@ Start the conda environment
 source activate pangeo
 ```
 
-Get dask-job_queue repo. This helps boot a worker from python. Very useful. I made a fork that matches our needs.
+Install dask-jobqueue. This helps boot a worker from python. Very useful. We are temporarily using a fork until upstream changes that match our needs are merged.
 
 ```
 module load git 
-git clone https://github.com/bw4sz/dask-jobqueue.git
-cd dask-jobqueue
+pip install git+https://github.com/bw4sz/dask-jobqueue.git
 ```
 
-* Start a juypter notebook
+## Start a Jupyter notebook
+
+* Start an interactive node
 
 ```
-python
+module load ufrc
+srun --ntasks=1 --cpus-per-task=2 --mem=2gb -t 90 --pty bash -i
+```
+
+* Activate your conda environment
+
+```
+conda activate pangeo
+```
+
+Open Python and run:
+
+```
+import getpass
 import socket
 import subprocess
 host = socket.gethostname()
 proc = subprocess.Popen(['jupyter', 'lab', '--ip', host, '--no-browser'])
 
-print("ssh -N -L 8787:%s:8787 -L 8888:%s:8888 -l b.weinstein hpg2.rc.ufl.edu" % (host,host))
+print("ssh -N -L 8787:{0}:8787 -L 8888:{0}:8888 -l {1} hpg2.rc.ufl.edu".format(host, getpass.getuser()))
 ```
 
-see that line ssh..., that is what we need to enter in our local laptop. It will ask for your login password
+Copy the output (`ssh...`) and run that line on your local machine. It will ask for your login password. E.g.,
 
 ```
-MacBook-Pro:~ ben$ ssh -N -L 8888:c27b-s2.ufhpc:8888 -l b.weinstein hpg2.rc.ufl.edu
-b.weinstein@hpg2.rc.ufl.edu's password: 
+$ ssh -N -L 8888:c27b-s2.ufhpc:8888 -l HPCUSERNAME hpg2.rc.ufl.edu
+HPCUSERNAME@hpg2.rc.ufl.edu's password: 
 ```
+
+(HPCUSERNAME will have been automatically replaced with your HiperGator username.
 
 Don't worry if it looks like it hangs, the tunnel is open! Go check it out.
 
 Opening your browser, go to localhost:8888, its a notebook in the cloud!
 
-* Start a dask worker
+## Start a dask worker
 
 ```
 from dask_jobqueue import SLURMCluster
 cluster = SLURMCluster(project='ewhite',death_timeout=100,threads_per_worker=2,processes=4)
 ```
 
-Hipergator seems pretty finicky with threading, the following settings worked for me.
+Hipergator seems pretty finicky with threading, the following settings (which can all be passed as arguments to `SLURMCluster`) see to work well.
 
 ```
 {'base_path': '/home/b.weinstein/miniconda3/envs/pangeo/bin',

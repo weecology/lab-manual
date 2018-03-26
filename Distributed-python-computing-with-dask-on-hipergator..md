@@ -1,6 +1,6 @@
 # Aim
 
-We often have very large datasets that need to be handled using our high performance computing system. We also want to comfort of working on out laptops, and not being tied to the command line. The goal of this wiki page is to outline how to use dask and juypterlab notebooks to manipulate spatial data on hipergator. This is an evolving document that will be updated as we find best practices.
+We often have very large datasets that need to be handled using our high performance computing system. We also want the comfort of working on our laptops, and not being tied to the command line. The goal of this wiki page is to outline how to use dask and juypterlab notebooks to manipulate spatial data on hipergator. This is an evolving document that will be updated as we find best practices.
  
 ## Initial Setup (only need to do once)
 

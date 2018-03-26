@@ -82,7 +82,7 @@ from dask_jobqueue import SLURMCluster
 cluster = SLURMCluster(project='ewhite',death_timeout=100,threads_per_worker=2,processes=4)
 ```
 
-Hipergator seems pretty finicky with threading, the following settings (which can all be passed as arguments to `SLURMCluster`) see to work well.
+Hipergator seems pretty finicky with threading, the following settings (which can all be passed as arguments to `SLURMCluster`) seem to work well.
 
 ```
 {'base_path': '/home/b.weinstein/miniconda3/envs/pangeo/bin',
@@ -90,10 +90,10 @@ Hipergator seems pretty finicky with threading, the following settings (which ca
  'extra': '',
  'memory': '7GB',
  'name': 'dask',
- 'processes': 4,
+ 'processes': 1,
  'project': 'ewhite',
  'scheduler': 'tcp://172.16.192.13:34351',
- 'threads_per_worker': 2,
+ 'threads_per_worker': 4,
  'walltime': '00:30:00'}
 ```
 
@@ -104,7 +104,7 @@ from dask.distributed import Client
 client = Client(cluster)
 ```
 
-This adds one worker.
+This adds one worker. I recommended adding atleast 3.
 
 ```
 cluster.start_workers(1)
@@ -118,7 +118,7 @@ open up localhost:8787 to see dask dashboard.
 
 ## Known Errors
 
-* If the number of processes is too high, the client will initially grab workers and then shed them? I submitted an IT ticket, I believe this is memory use, but not sure. 8 processes with 4 threads-per-worker fails.
+* If the number of processes is too high, the client will initially grab workers and then shed them? I submitted an IT ticket, I believe this is memory use, but not sure. 8 processes with 4 threads-per-worker fails. It appears that multiple nodes of single multi-threaded workers is the best solution. That is, in SLURMCluster, processes=1, threads_per_worker > 1, and then requesting multiple nodes with cluster.start_workers().
 
 see
 

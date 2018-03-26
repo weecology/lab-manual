@@ -114,7 +114,7 @@ client
 A call to client should return some info on the CPU and memory of workers.
 Dask provides a great client to check out the worker.
 
-open up localhost:8787 to see dask dashboard.
+open up localhost:8787/status to see the dask dashboard. For worker
 
 ## Known Errors
 

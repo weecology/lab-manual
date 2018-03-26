@@ -37,7 +37,7 @@ Install
 make install
 ```
 
-Add yours paths
+Add your paths
 
 ```
 export LD_LIBRARY_PATH="/home/b.weinstein/LASzip/build/lib:$LD_LIBRARY_PATH"
@@ -72,7 +72,7 @@ pip install laspy
 In python, let's open a test file
 
 ```
-test_file=laspy.file.File("/ufrc/ewhite/s.marconi/NeonData/2017_Campaign/D03/OSBS/L1/DiscreteLidar/ClassifiedPointCloud/NEON_D03_OSBS_DP1_412000_3283000_classified_point_cloud.laz"
+test_file=laspy.file.File("/ufrc/ewhite/s.marconi/NeonData/2017_Campaign/D03/OSBS/L1/DiscreteLidar/ClassifiedPointCloud/NEON_D03_OSBS_DP1_412000_3283000_classified_point_cloud.laz")
 ```
 
 

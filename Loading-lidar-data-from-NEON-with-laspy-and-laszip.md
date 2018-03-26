@@ -69,6 +69,7 @@ Looking good.
 pip install laspy
 ```
 
+# 
 In python, let's open a test file
 
 ```

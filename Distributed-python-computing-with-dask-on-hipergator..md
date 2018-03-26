@@ -79,7 +79,7 @@ Opening your browser, go to localhost:8888, its a notebook in the cloud!
 
 ```
 from dask_jobqueue import SLURMCluster
-cluster = SLURMCluster(project='ewhite',death_timeout=100,threads_per_worker=2,processes=4)
+cluster = SLURMCluster(project='ewhite',death_timeout=100,threads_per_worker=5,processes=1)
 ```
 
 Hipergator seems pretty finicky with threading, the following settings (which can all be passed as arguments to `SLURMCluster`) seem to work well.
@@ -93,7 +93,7 @@ Hipergator seems pretty finicky with threading, the following settings (which ca
  'processes': 1,
  'project': 'ewhite',
  'scheduler': 'tcp://172.16.192.13:34351',
- 'threads_per_worker': 4,
+ 'threads_per_worker': 5,
  'walltime': '00:30:00'}
 ```
 

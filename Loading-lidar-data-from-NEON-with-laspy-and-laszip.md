@@ -97,11 +97,6 @@ enter input file:
 
 great!
 
-Add to path
-
-```
-[b.weinstein@gator3 bin]$ PATH=$PATH:$(pwd)
-```
 
 # Test file
 

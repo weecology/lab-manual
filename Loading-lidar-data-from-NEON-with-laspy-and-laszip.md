@@ -103,6 +103,9 @@ Add to path
 [b.weinstein@gator3 bin]$ PATH=$PATH:$(pwd)
 ```
 
+# Test file
+
+```
 [b.weinstein@gator3 bin]$ python
 Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 18:10:19) 
 [GCC 7.2.0] on linux

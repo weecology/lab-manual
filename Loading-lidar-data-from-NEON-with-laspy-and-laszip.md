@@ -69,7 +69,7 @@ Looking good.
 pip install laspy
 ```
 
-#Install command line utilities
+# Install command line utilities
 
 ```
 wget http://lastools.org/download/LAStools.zip

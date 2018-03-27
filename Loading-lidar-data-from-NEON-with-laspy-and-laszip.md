@@ -69,12 +69,48 @@ Looking good.
 pip install laspy
 ```
 
-# 
-In python, let's open a test file
+#Install command line utilities
 
 ```
-test_file=laspy.file.File("/ufrc/ewhite/s.marconi/NeonData/2017_Campaign/D03/OSBS/L1/DiscreteLidar/ClassifiedPointCloud/NEON_D03_OSBS_DP1_412000_3283000_classified_point_cloud.laz")
+wget http://lastools.org/download/LAStools.zip
+unzip LAStools.zip
+cp laszip ~/LASzip/build/bin/
+cd LAStools
+module load gcc
+make
+```
+# Move utilities over to LASzip repo
+
+```
+cp laszip ~/LASzip/build/bin/
+cd ~/LASzip/build/bin/
+ln -s ~/LASzip/build/bin/laszip ~/LASzip/build/bin/laszip-cli
 ```
 
+test it
 
+```
+[b.weinstein@gator3 bin]$ ./laszip-cli
+./laszip-cli is better run in the command line
+enter input file: 
+```
 
+great!
+
+Add to path
+
+```
+[b.weinstein@gator3 bin]$ PATH=$PATH:$(pwd)
+```
+
+[b.weinstein@gator3 bin]$ python
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 18:10:19) 
+[GCC 7.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import laspy
+>>> test_file=laspy.file.File("/ufrc/ewhite/s.marconi/NeonData/2017_Campaign/D03/OSBS/L1/DiscreteLidar/ClassifiedPointCloud/NEON_D03_OSBS_DP1_412000_3283000_classified_point_cloud.laz")
+>>> test_file
+<laspy.file.File object at 0x2ac276505fd0>
+```
+
+TODO: add path on every worker using .bashrc file.

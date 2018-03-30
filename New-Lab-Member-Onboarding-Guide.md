@@ -83,6 +83,7 @@ Lab wiki pages:
 ### Git and GitHub
 
 Some external resources:
+* Olivia Guest’s [cheatsheet](http://neuroplausible.com/github)
 * Alice Bartlett's [slides on "Git for humans"](https://speakerdeck.com/alicebartlett/git-for-humans) <- *Hao recommends this as a top-level description of what Git is all about*
 * Chris Beams's [blogpost on writing commit messages](https://chris.beams.io/posts/git-commit/)
 * Software Carpentry [Git lesson](https://swcarpentry.github.io/git-novice/)

@@ -22,9 +22,10 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 * Hiking boots
 * Field pants (lots of thorny plants at the site)
 * Long sleeve shirt for sun protection
-* Hat/sunglasses
+* Hat/sunglasses (for shade from the sun, and also for the chilly evenings/mornings)
 * Water bottle
 * Rain jacket
+* Chapstick
 
 ### Some other things to keep in mind: 
 * This is a rustic camping situation, meaning no bathroom facilities and no water supply except what we bring in (we have several large jugs we can fill for drinking and washing dishes).  

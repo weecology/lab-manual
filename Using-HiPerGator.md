@@ -136,6 +136,8 @@ To see the current usage by our group, as well as overall hipergator usage, use 
 
 `slurmInfo -pu`  
 
+A nice website showing the status of all jobs in the group is available [here](https://access.rc.ufl.edu/jobstatus/)
+
 To see the total available resources use: 
 
 `sacctmgr show qos ewhite format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   

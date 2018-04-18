@@ -51,7 +51,11 @@
 * Paper submission process
 * What's the process for reviewing papers? Does it differ by journal?
 * Determining authorship
-* Contract and salary negotiation (academic or otherwise)
+* job stuff
+  - contract and salary negotiation (academic or otherwise)
+  - resume/CV crafting
+  - cover letters
+  - finding opportunities
 * How to keep up on recent publications of interest
 * Machine learning
 * Writing

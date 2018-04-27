@@ -7,11 +7,12 @@ This page will (hopefully) remain an up-to-date list of future Portal trip dates
 
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
-* *March 23-30* (Plant Census; Glenda, Ellen, Erica, Kristina, Joan, Ren, Hao)
-* *April 13-15* (Renata, Rosalind)
-* *May 11-13* (Ellen, Lauren)
+* *May 18-20* (Ellen, Adia)
 * *June 15-17*
 * *July 13-15*
+* *August ??*
+* *Sept ??*
+* *Oct ??* (Portal RA, Lauren Holian
 
 ## Trip Description
 For those of you not familiar with the procedure, a Portal weekend consists of two nights of rodent trapping.  We fly out Thursday and stay overnight in Tucson. Friday morning we pick up the field truck and any supplies we need, and drive 3 hours to the site.  Friday night just before sunset we'll set traps on half of the site's 24 plots -- this procedure takes about 2 hours.  Saturday morning we get up just before dawn and process animals in the full traps.  The rodent RA (Ellen, Joan, or Renata) will be the one actually handling the animals while the volunteer records data and assists with equipment.  Saturday night we'll set traps on the other half of the plots, and Sunday morning will be the same as Saturday morning.  Sunday afternoon we'll break camp and head back to Tucson, stay in a hotel again and fly back to Gainesville Monday morning.  
@@ -48,7 +49,6 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 * Elise Morton
 * Wes Boone
 * Annie Loggins
-* Adia Sovie
 * Katie Hooker
 * Lauren Trotta
 * Lauren Holian (undergrad)

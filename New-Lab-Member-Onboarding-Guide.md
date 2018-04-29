@@ -17,6 +17,9 @@ See [here](https://github.com/weecology/lab-wiki/wiki/Code-of-Conduct).
 ## Software Project Code of Conduct
 For software projects, repos should adopt a separate code of conduct for interactions with contributors. See [here](https://github.com/weecology/lab-wiki/wiki/Software-Project-Code-of-Conduct) for an example.
 
+## Tea
+Earl grey should almost always have milk in it!
+
 ## Expectations / Annual Self-Assessment
 
 See [here](https://github.com/weecology/lab-wiki/wiki/Annual-self-assessment) for more info.

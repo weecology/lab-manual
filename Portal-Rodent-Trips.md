@@ -8,9 +8,9 @@ This page will (hopefully) remain an up-to-date list of future Portal trip dates
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
 * *May 18-20* (Ellen, Adia)
-* *June 15-17*
+* *June 15-17* (Ellen, Katye)
 * *July 13-15*
-* *Aug 10-12*
+* *Aug 10-12* (Ellen, Hao)
 * *Sept ??* Plant Census
 * *Oct 4-8* (Ellen, Lauren)
 

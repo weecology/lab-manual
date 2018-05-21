@@ -1,3 +1,7 @@
+## Topics for Fall 2018
+
+* How to work on manuscripts as a collaborator
+
 ## Schedule
 * Jan 10
   * 1: Computer security, password managers, etc. (Hao & Ethan)

@@ -4,7 +4,7 @@ _Do I need to read this?_
 
 Is your traveling being paid for by UF (either Morgan, Ethan, or some other source)?
 
-**Yes?** Then read on. If you traveling to go to a conference paid for by UF, skip down to the "Travel to Conferences" section.
+**Yes?** Then read on. If you're traveling to go to a conference paid for by UF, skip down to the "Travel to Conferences" section.
 
 **No?** Coordinate with whomever is paying your travel.
 

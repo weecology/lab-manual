@@ -140,11 +140,13 @@ Located in the historic Infirmary Building on Fletcher Drive. [more info](http:/
 
 ## Travel
 
+See https://github.com/weecology/lab-wiki/wiki/UF-Travel-Guidelines for info about travel and reimbursement.
+
 ## Grad Student Union / Association?
 
 ## Buying Stuff
 
-See [here](https://github.com/weecology/lab-wiki/wiki/PCARDS) for info on setting up a PCARD.
+See https://github.com/weecology/lab-wiki/wiki/PCARDS for info on setting up a PCARD.
 
 ## Poster
 

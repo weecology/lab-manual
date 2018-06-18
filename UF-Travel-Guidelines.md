@@ -119,3 +119,6 @@ Feel free to ask Ellen any questions you might have about this process, or you c
 
 ***  
 Any issues or questions with the steps above can be resolved by asking [Kevin Geisler](k.geisler@ufl.edu)
+
+### Other Random Notes
+* You can only get reimbursed for tipping taxi/Uber/Lyft drivers up to 20%. 

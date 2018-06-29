@@ -80,6 +80,7 @@ Hipergator 2 job scripts look like the one below.  More information at https://w
 #SBATCH --mail-user=<EMAIL>
 #SBATCH --mail-type=FAIL,END
 #SBATCH --account=ewhite
+#SBATCH --partition=hpg2-compute
 #SBATCH --qos=ewhite-b   # Remove the `-b` if the script will take more than 4 days; see "bursting" below
 
 # Where to put the outputs: %j expands into the job number (a unique identifier for this job)
@@ -158,6 +159,26 @@ If you need an R package from CRAN but can't install it yourself (e.g. because o
 # Storage
 
 Your home folder only has a few gigabytes of disk space, but there is a large amount of space available under `/ufrc/ewhite/<your username>`. If you prefer a Dropbox-like interface, you can also hook GatorBox up to HiperGator using [these instructions](https://wiki.rc.ufl.edu/doc/GatorBox:_Adding_external_storage).
+
+# Partitions
+The HiperGator consists of hundreds of servers. These a split up into several "partitions" for various reasons.
+
+The two primary partitions which you'll use the most are `hpg1-compute`, and `hpg2-compute`.
+
+* `hpg1-compute` - This is the set of older servers that make up the original hipergator cluster. They have 64 cores and 256GB of RAM per node. 
+* `hpg2-compute` - This is a newer set of servers brought online in 2017. They have 32 cores and 128GB of RAM per node 
+
+The cores on `hpg2-compute` are roughly twice as fast as the  ones on `hpg1-compute`. So the former partition is usually under a heavier load when you look at the current usage with `slurmInfo -pu`. 
+
+There are a few other partitions available.
+
+* `gpu` - This is the partition to use if you want to use the GPU. You need to have bought GPU specifically, which our lab has.
+* `bigmem` - This partitions consists of several servers with up to 1TB of memory. This is useful if you need a *lot* of memory but still want to keep a script on a single server. More details are [here](https://help.rc.ufl.edu/doc/Large-Memory_SMP_Servers).
+* `hpg2-dev` - These are several servers for development purposes. When you use `srundev` the jobs get sent here.
+* `gui` - For jobs where you want to run a GUI (graphical user interface). 
+
+**Selecting a partition** By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`. 
+
 
 # Connecting through jupyter notebooks.
 

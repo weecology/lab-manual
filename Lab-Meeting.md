@@ -1,48 +1,38 @@
-## Topics for Fall 2018
+## Tentative Schedule
+(lab meeting dates are not yet set. Date represents "week of")
+* Aug 20
+    *
+* Aug 27 
+    *
+* Sept 3 
+    *
+* Sept 10 Practice Talk
+    * Speaker
+* Sept 17
+    *
+* Sept 24
+    *
+* Oct 1
+    *
+* Oct 8
+    *
+* Oct 15
+    *
+* Oct 22
+    *
+* Oct 29
+    *
+* Nov 5
+    *
+* Nov 12
+    *
+* Nov 19
+    *
+* Nov 26
+    *
+* Dec 3
+    *
 
-* How to work on manuscripts as a collaborator
-
-## Schedule
-* Jan 10
-  * 1: Computer security, password managers, etc. (Hao & Ethan)
-  * ~~1:30:~~
-* ~~Jan 17~~
-* Jan 24
-  * 1: Using Rstudio on Hipergator  (Sergio)
-  * 1:30: Hao
-* Jan 31 (Ethan out of town)
-  * 1: Git/GitHub branches (Hao)
-  * 1:30:
-* Feb 7
-  * 1: Parallelization in R (Juniper)
-  * 1:30:
-* Feb 14
-  * 1: Create a static website with Jekyll and GitHub pages (Sergio)
-  * 1:30: Juniper
-* Feb 21 (Ally Skills workshop--Ellen)
-  * 1:
-  * 1:30: 
-* Feb 28
-  * 1-2 Kristina
-* Mar 7 Spring Break, no meeting
-* Mar 14
-  * 1-2 Renata
-* Mar 21
-  * 1-2 Henry
-* Mar 28 (Spring Plant census)
-  * No meeting
-* Apr 4
-  * 1-2 Sergio
-* Apr 11
-  * 1-2 Joan
-* Apr 18
-  * 1-2 Erica
-* Apr 25
-  * 1-2 Shawn
-
-## Discussion Types
-* 30 min slots are intended for any sort of informal tutorial/discussion you’d like to lead.
-* The hour chunk is for the standard research presentation.
 
 ## Discussion topics
 
@@ -63,6 +53,7 @@
 * How to keep up on recent publications of interest
 * Machine learning
 * Writing
+* How to work on manuscripts as a collaborator
 * Presenting (giving talks)
 * What is this Open Science business anyway?
 * How do I organize conferences / symposia?

@@ -129,7 +129,7 @@ A more comprehensive description of FairShare is available [here](https://slurm.
 
 ## Bursting
 
-If your jobs will take less than 4 days, you can use "burst" mode, which provides *ten times* as many cores and *ten times* as much memory as the default mode. If you cannot burst, just remove the `-b` from the line above about `qos`.
+If your jobs will take less than 4 days, you can use "burst" mode, which provides *ten times* as many cores and *ten times* as much memory as the default mode. If you cannot burst, just remove the `-b` from the line above about `qos`. Note than if you are using burst your jobs will automatically be killed after 96 hours if they haven't already finished.
 
 ## Current usage  
 

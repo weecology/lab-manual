@@ -22,18 +22,25 @@ To make lab meeting a positive and useful experience for everyone, we have defin
 * Leader Responsibilities: Good teaching takes advance planning. Take time to think about the current knowledge levels within the group and design a lesson plan that will convey your information/skills effectively. Try to avoid unnecessary jargon as it often creates more barriers to learning than it helps overcome. Determine an appropriate amount of material for 45 minutes - it's about how much people learn, not about how much you present, and less is often better. It is recommended that the leader practice their lesson privately before delivering it to the group. If the group needs to do any advanced preparation, make sure to communicate this well in advance (i.e. not the day of the lab meeting).
 * Group Duties: Ask questions if confused. This serves the dual purpose of helping group members learn (others are probably also confused) and helps the leader understand where there are issues with their lesson plan that can be improved in the future.
 
-### Practice Talks
- 
+### Talk Rehearsals
+
 * Purpose: To get feedback on the organization, flow, and clarity of a talk that is going to be presented for a conference, job seminar, defense, etc. Talks should be happening for a specific purpose in the not too distant future.
 * Format: A formal presentation matching the format for the talk to be given.
 * Leader Responsibilities: The talk should be a complete draft following the format for the planned presentation. To allow feedback on understandibility, engagement, and flow, the talk should be as complete as possible and ideally avoid 'placeholder' slides and areas where the leader has to describe what they are planning to say rather than saying it.
 * Group Duties: The presenter is looking to improve their talk, so feedback should be focused on improving the presentation for audience comprehension (i.e., How can the slides be improved?, Does the order of idea presentation have a logical flow?, etc). If you have scientific critiques and or suggestions for new analyses, please hold these comments until after lab meeting to avoid distracting from the goal of this session.
 
+### Research Updates
+
+* Purpose: To communicate to the lab the overall trajectory of one's research and get feedback from the lab on possible questions, alternatives, future work. This would be a hybrid of the communicative aspects of the Lightning Talk (but more in-depth) and the Problem-Solving Session (but less focused on a specific problem). 
+* Format: A presentation that begins with the general questions in the field and any relevant previous work done by the leader, the status of current projects, and future planned projects and approaches. Think of this more as a narrative with past, present, and future; rather than a scientific presentation suitable for a seminar or conference.
+* Leader Responsibilities: Communicate to the group the overall goals of your research, and be specific about what sections you'd like feedback on or discussion of. Are you looking for input on alternative methods or data to answer your research questions, feedback about the feasibility and scope of proposed work, suggestions for readings or courses, etc?
+* Group Duties: Provide specific and actionable feedback on topics as indicated by the leader. The focus is on the research questions and results, not the presentation, so the style of the presentation is not the focus. Remember that the goal of a research update will focus on in-progress and future work; providing guidance in the form of questions and constructive advice is important.
+
 ### Problem-Solving Sessions
 
 * Purpose: To get feedback from the lab to address issues that are limiting progress. This could be getting feedback on statistical approaches, data collection issues, interpretation of results, computational challenges, or other activities. This is your chance to leverage the lab's collective knowledge to address challenges you are facing.
 * Format: A presentation that presents a single focal issue that the leader needs feedback on. The presentation should be focused and no longer than 15 minutes (5 minutes of background, 5 minutes explaining the problem, 1-3 explicit questions - i.e., not 'what do you think?' - that you are asking the group).
-* Leader Responsibilities: Clearly communicate to the group a specific issue that the leader needs help with. This requires enough background and context for the group to understand both what the leader wants from the group and for the group to understand the scope of the problem at hand. The presentation does not need to be polished but it should be polished enough to not to be distracting. Be prepared to engage the group positively through question and answer. 
+* Leader Responsibilities: Communicate to the group a specific issue that the leader needs help with. This requires enough background and context for the group to understand both what the leader wants from the group and for the group to understand the scope of the problem at hand. The presentation does not need to be polished but it should be polished enough to not to be distracting. Be prepared to engage the group positively through question and answer. 
 * Group Duties: Provide focused feedback intended to help address the problem posed by the leader. The focus is on the problem, not the presentation, so the style of the presentation is not the focus. Remember that the goal of a problem solving sessions will typically focus on in-progress work and that providing help in positive, forward looking, ways is important.
 
 ### Research Process Discussions

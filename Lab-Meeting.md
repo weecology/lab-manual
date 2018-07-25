@@ -8,8 +8,8 @@
     *
 * Sept 10 Practice Talk
     * Speaker
-* Sept 17
-    *
+* Sept 17 
+    * Portal plant data entry
 * Sept 24
     *
 * Oct 1

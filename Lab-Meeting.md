@@ -1,7 +1,7 @@
 ## Overview
 Lab meeting is designed to give Weecology members opportunities to gain and practice skills, obtain feedback, and interact with the broader research group.
-* [A detailed description](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting-Guide) about different formats for lab meeting.
 * [A flowchart]() to help you decide what format works best for you.
+* [A detailed description](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting-Guide) of the different formats for lab meeting.
 * [Templates]() to help you plan out your lesson/talk/presentation/sprint/etc.
 
 ## Tentative Schedule

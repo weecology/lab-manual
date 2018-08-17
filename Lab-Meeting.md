@@ -6,7 +6,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 ## Tentative Schedule
 (lab meeting dates are not yet set. Date represents "week of")
-* Aug 22 - Introduction to Lab Meeting experiment (Research Process Discussion)
+* Aug 22 - Introduction to Lab Meeting experiment & advisor-free projects (Research Process Discussion)
 * Aug 29 - 
 * Sept 5 - 
 * Sept 12 - Portal plant data entry (Sprint)

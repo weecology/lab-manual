@@ -6,38 +6,22 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 ## Tentative Schedule
 (lab meeting dates are not yet set. Date represents "week of")
-* Aug 20
-    *
-* Aug 27 
-    *
-* Sept 3 
-    *
-* Sept 10 Practice Talk
-    * Speaker
-* Sept 17 
-    * Portal plant data entry
-* Sept 24
-    *
-* Oct 1
-    *
-* Oct 8
-    *
-* Oct 15
-    *
-* Oct 22
-    *
-* Oct 29
-    *
-* Nov 5
-    *
-* Nov 12
-    *
-* Nov 19
-    *
-* Nov 26
-    *
-* Dec 3
-    *
+* Aug 22 - Introduction to Lab Meeting experiment (Research Process Discussion)
+* Aug 29 - 
+* Sept 5 - 
+* Sept 12 - Portal plant data entry (Sprint)
+* Sept 19
+* Sept 26
+* Oct 3
+* Oct 10
+* Oct 17
+* Oct 24
+* Oct 31
+* Nov 7
+* Nov 14
+* Nov 21 - Thanksgiving Holiday. No Meeting.
+* Nov 28 - (Research Process Discussion) 
+* Dec 5  - (Research Process Discussion)
 
 
 ## Discussion topics

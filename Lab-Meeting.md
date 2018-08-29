@@ -5,7 +5,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * (To be developed) [Templates]() to help you plan out your lesson/talk/presentation/sprint/etc.
 
 ## Tentative Schedule
-(lab meeting dates are not yet set. Date represents "week of")
+
 * Aug 22 - Canceled due to school-borne viruses
 * Aug 29 - Introduction to Lab Meeting experiment & advisor-free projects (Research Process Discussion)
 * Sept 5 - Erica (defense talk rehearsal)

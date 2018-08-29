@@ -6,8 +6,8 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 ## Tentative Schedule
 (lab meeting dates are not yet set. Date represents "week of")
-* Aug 22 - Introduction to Lab Meeting experiment & advisor-free projects (Research Process Discussion)
-* Aug 29 - 
+* Aug 22 - Canceled due to school-borne viruses
+* Aug 29 - Introduction to Lab Meeting experiment & advisor-free projects (Research Process Discussion)
 * Sept 5 - Erica (defense talk rehearsal)
 * Sept 12 - Portal plant data entry (Sprint)
 * Sept 19

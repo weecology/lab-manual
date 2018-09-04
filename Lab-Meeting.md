@@ -3,6 +3,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * [A flowchart](https://github.com/weecology/lab-wiki/blob/master/uploads/flowchart.png) to help you decide what format works best for you.
 * [A detailed description](https://github.com/weecology/lab-wiki/wiki/Lab-Meeting-Guide) of the different formats for lab meeting.
 * (To be developed) [Templates]() to help you plan out your lesson/talk/presentation/sprint/etc.
+  - Here is a [feedback form](https://docs.google.com/document/d/12RS_PGXJ8-pSdakyIH1WZAsR90gWCRV4KdBzii2uy8o/edit?usp=sharing) for talks. It's set so that everyone can make comments on it, but not edit it directly -- if you wish to write up your feedback on a computer, please make a copy of the document for yourself.
 
 ## Tentative Schedule
 

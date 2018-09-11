@@ -10,7 +10,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Aug 22 - Canceled due to school-borne viruses
 * Aug 29 - Introduction to Lab Meeting experiment & advisor-free projects (Research Process Discussion)
 * Sept 5 - Erica (defense talk rehearsal)
-* Sept 12 - Portal plant data entry (Sprint)
+* Sept 12 - Portal shrub data sprint (Ellen)
 * Sept 19 - Lab-wiki sprint (Kristina & Hao)
 * Sept 26
 * Oct 3

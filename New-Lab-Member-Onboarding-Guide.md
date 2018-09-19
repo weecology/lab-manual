@@ -122,15 +122,26 @@ The lab printer is located in room 015 and accessible from the UFL network at `1
 ## Student Health Care Center
 
 Located in the historic Infirmary Building on Fletcher Drive. [more info](http://shcc.ufl.edu/)
-* dental?
+* Health Insurance:
+  - Grad students can apply to GatorGradCare Helath insurance. Despite it is free, enrollment is not automatic: you need to request for renew it every year by mid September [here](https://bluebiz.bcbsfl.com/stuenroll/GatorGradCare.do). If you are interested in knowing more about GatorGrad Care benefits, see [here](https://benefits.hr.ufl.edu/health/gatorgradcare/)
+* Dental
+- Students enrolled in GatorGradCare are eligible for a complete oral health exam and cleaning once a year. Here is  a [brochure](https://benefits.hr.ufl.edu/wp-content/uploads/sites/3/2018/05/GradDentalBenefits.pdf) of what it is about!
 * vision?
-* mental health?
-  - staff have access to UF's [Employee Assistance Program](http://eap.ufl.edu/)
+* Mental Health:
+  - Gradschool (and Academia) is awesome but stressful: fortunately UFLaknowledges it, and it has some resources available for us. Everybody may need them, and using these resources can make a difference to manage strees, help with focusing and productivity, and most importantly, help everybody to take care of their mental health. If you are interested to learn more click [here](https://counseling.ufl.edu)
+  - Staff have access to UF's [Employee Assistance Program](http://eap.ufl.edu). 
+  
 
 ## Legal Services
 
 * [UF Student Legal Services](https://www.studentlegalservices.ufl.edu/)
 * 
+
+## Networking
+
+* Zoocial! 
+- Every Friday night grad students mainly from WEC, Biology, and Acquatic Sciences meet at 5:00 PM outside Bartram Hall. It is a relaxed, puppy friendly opportunity to meet other folks. 
+
 
 ## WEC IT
 

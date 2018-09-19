@@ -248,10 +248,7 @@ and viola, we are navigating hipergator from the confines of our own laptop.
 
 Hipergator staff are here to support you. Our grant money pays their salary. They are friendly and eager to help. When in doubt, just ask.
 
-# Important Links
-
-SLURM (The job submission scripts)[https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script]
-
+For more information on (job submission scripts)[https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script]
 
 ## Priority
 

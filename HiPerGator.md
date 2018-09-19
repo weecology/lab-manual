@@ -165,76 +165,9 @@ Some quick notes:
 * If your code already uses functions and for loops, it should be very easy to make it parallel, unless each pass through the loop depends on the outcome from previous passes.
 * On your own computer, never set the amount of processors used to the max available. This will take away all the processing power needed to run the operating system, browser, and other programs, and could potentially crash your computer. To test out parallel code on my computer I set the number of processors to use at 2 (out of 8 available).
 
-module load ufrc
-srundev --time=480 --cpus-per-task=1 --mem-per-cpu=16gb
-```
+# Python
 
-While you're on the dev server, you can do a test run of your code (perhaps with fewer cores) and see how much memory you'll need.
-
--making sure scripts can be run via command line using Rscript. Unlike in rstudio, scripts need to be able to run from beginning to end and produce a results file. When you do call Rscript, make sure to explicitly load the `methods` package, as shown below (otherwise you can get very mysterious error messages).
-
-# Support
-
- [Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
-
-Hipergator staff are here to support you. Our grant money pays their salary. They are friendly and eager to help. When in doubt, just ask.
-
-# Important Links
-
-SLURM (The job submission scripts)[https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script]
-
-
-## Priority
-
-The supercomputer is a shared resource, and the SLURM scheduler has to decide how to divvy it up. The method they use for deciding when it's your turn to use a machine based on a metric called "FairShare." You can see your FairShare number by typing `sshare -U` in your hipergator terminal.  A FairShare of 0.5 means you've been using exactly your share. Larger numbers mean you can use more, while smaller numbers mean you're using more than your share and will be given lower priority.
-
-Your "usage" number is an exponentially-weighted moving average of the resources you've consumed, with a half-life of two weeks. So if you've "bursted" at 10x for a while, it might take a few weeks before you're given decent priority again.  
-
-A more comprehensive description of FairShare is available [here](https://slurm.schedmd.com/priority_multifactor.html#fairshare).
-
-## Bursting
-
-If your jobs will take less than 4 days, you can use "burst" mode, which provides *ten times* as many cores and *ten times* as much memory as the default mode. If you cannot burst, just remove the `-b` from the line above about `qos`. Note than if you are using burst your jobs will automatically be killed after 96 hours if they haven't already finished.
-
-## Current usage  
-
-To see the current usage by our group, as well as overall hipergator usage, use the command  
-
-`slurmInfo -pu`  
-
-A nice website showing the status of all jobs in the group is available [here](https://access.rc.ufl.edu/jobstatus/)
-
-To see the total available resources use: 
-
-`sacctmgr show qos ewhite format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   
-for the normal queue, and    
-`sacctmgr show qos ewhite-b format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   
-for the "burst" queue.   
-
-
-# Storage
-
-Your home folder only has a few gigabytes of disk space, but there is a large amount of space available under `/ufrc/ewhite/<your username>`. If you prefer a Dropbox-like interface, you can also hook GatorBox up to HiperGator using [these instructions](https://wiki.rc.ufl.edu/doc/GatorBox:_Adding_external_storage).
-
-# Partitions
-The HiperGator consists of hundreds of servers. These a split up into several "partitions" for various reasons.
-
-The two primary partitions which you'll use the most are `hpg1-compute`, and `hpg2-compute`.
-
-* `hpg1-compute` - This is the set of older servers that make up the original hipergator cluster. They have 64 cores and 256GB of RAM per node. 
-* `hpg2-compute` - This is a newer set of servers brought online in 2017. They have 32 cores and 128GB of RAM per node 
-
-The cores on `hpg2-compute` are roughly twice as fast as the  ones on `hpg1-compute`. So the former partition is usually under a heavier load when you look at the current usage with `slurmInfo -pu`. 
-
-There are a few other partitions available.
-
-* `gpu` - This is the partition to use if you want to use the GPU. You need to have bought GPU specifically, which our lab has.
-* `bigmem` - This partitions consists of several servers with up to 1TB of memory. This is useful if you need a *lot* of memory but still want to keep a script on a single server. More details are [here](https://help.rc.ufl.edu/doc/Large-Memory_SMP_Servers).
-* `hpg2-dev` - These are several servers for development purposes. When you use `srundev` the jobs get sent here.
-* `gui` - For jobs where you want to run a GUI (graphical user interface). 
-
-**Selecting a partition** By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`. 
-
+* Dask Parallelization
 
 # Connecting through jupyter notebooks.
 
@@ -309,99 +242,64 @@ Opening your browner, go to localhost:8888
 
 and viola, we are navigating hipergator from the confines of our own laptop.
 
-## # Starting a tensorflow session using the hipergator's GPU
+# Support
 
-You can open an interactive session on the hipergator using the dedicated gpu purchased. To do so, follow these steps:
+ [Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
 
-`srun -p gpu --gres=gpu:tesla:1 --time=01:00:00  --pty -u bash -i`
+Hipergator staff are here to support you. Our grant money pays their salary. They are friendly and eager to help. When in doubt, just ask.
 
-IMPORTANT! the `--pty -u bash -I` has to be the last command called, or you'll eventually end up with an error soon after logging in
+# Important Links
 
-inside the interactive session you can then load modules such as Kiras and tensorflow
-
-`module load gcc/5.2.0 openmpi keras`
-
-`module load  tensorflow`
-
-To launch a python session directly in your terminal: 
-
-`launch_tensorflow python`
-
-If instead you want to run a script, type:
-
-`launch_tensorflow python my_keras_script.py`
-
-Be careful, UFRC documentation may be a little misleading. Using `srun -p hpg2-gpu --gres=gpu:1 --pty -u bash -i --time=01:00:00 --mem=2gb' would cause an error, because `--time` and `--mem` have been called after `--pty -u bash -I`. 
-
-That said, two useful pages are:
-
-https://help.rc.ufl.edu/doc/Keras
-
-https://help.rc.ufl.edu/doc/GPU_Access
-
-If you need some guidance, ask Sergio (or purchase) "Deep learning with Python", from Francois Chollet (https://github.com/fchollet/deep-learning-with-python-notebooks)
-
-Enjoy your Neural Networks!
+SLURM (The job submission scripts)[https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script]
 
 
-# Starting a tensorflow session and a jupyter notebook
+## Priority
 
-This script will start a jupyter notebook on the hipergator. The details of how to connect will change each time, so instructions for connecting will be saved to `jupyter.log`.
+The supercomputer is a shared resource, and the SLURM scheduler has to decide how to divvy it up. The method they use for deciding when it's your turn to use a machine based on a metric called "FairShare." You can see your FairShare number by typing `sshare -U` in your hipergator terminal.  A FairShare of 0.5 means you've been using exactly your share. Larger numbers mean you can use more, while smaller numbers mean you're using more than your share and will be given lower priority.
 
-The instructions will include a command to type from your local machine, which will look like:
+Your "usage" number is an exponentially-weighted moving average of the resources you've consumed, with a half-life of two weeks. So if you've "bursted" at 10x for a while, it might take a few weeks before you're given decent priority again.  
 
-`ssh -NL 8080:XXXX.ufhpc:XXXX YOUR_USERNAMEd@hpg2.rc.ufl.edu`
+A more comprehensive description of FairShare is available [here](https://slurm.schedmd.com/priority_multifactor.html#fairshare).
 
-This says, "connect port 8080 on my computer to a specific port on a specific hipergator machine." Thus, visiting `http://localhost:8080` in your browser will connect you to the jupyter notebook.
+## Bursting
 
-```
-#!/bin/bash
-#SBATCH --job-name=jupyter
-#SBATCH --output=jupyter.log
-#SBATCH --nodes=1
-#SBATCH --ntasks=16
-#SBATCH --mem=2gb
-#SBATCH --time=12:00:00
-#SBATCH --qos=ewhite
-date;hostname;pwd
+If your jobs will take less than 4 days, you can use "burst" mode, which provides *ten times* as many cores and *ten times* as much memory as the default mode. If you cannot burst, just remove the `-b` from the line above about `qos`. Note than if you are using burst your jobs will automatically be killed after 96 hours if they haven't already finished.
 
-ml tensorflow
-port=$(shuf -i 20000-30000 -n 1)
- 
-echo -e "\nStarting Jupyter Notebook on port ${port} on the $(hostname) server."
-echo -e "\nSSH tunnel command: ssh -NL 8080:$(hostname):${port} ${USER}@hpg2.rc.ufl.edu"
-echo -e "\nLocal URI: http://localhost:8080"
-export LD_LIBRARY_PATH=/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
-launch_tensorflow jupyter-notebook --no-browser --port=${port} --ip='*'
+## Current usage  
 
-jupyter notebook list
- 
-date
-```
+To see the current usage by our group, as well as overall hipergator usage, use the command  
 
-For convenience, you can run the following script to start the hipergator job and automatically print out the log file with the instructions for connecting.
+`slurmInfo -pu`  
 
-```
-#!/bin/bash
+A nice website showing the status of all jobs in the group is available [here](https://access.rc.ufl.edu/jobstatus/)
 
-rm jupyter.log
-touch jupyter.log
-sbatch jupyter.job
+To see the total available resources use: 
 
-tail -f jupyter.log
-```
+`sacctmgr show qos ewhite format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   
+for the normal queue, and    
+`sacctmgr show qos ewhite-b format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   
+for the "burst" queue.   
 
 
-# Tensorboard
+# Storage
 
-To launch tensorboard on the server, either start a job with the following commands or type them into a development session:
+Your home folder only has a few gigabytes of disk space, but there is a large amount of space available under `/ufrc/ewhite/<your username>`. If you prefer a Dropbox-like interface, you can also hook GatorBox up to HiperGator using [these instructions](https://wiki.rc.ufl.edu/doc/GatorBox:_Adding_external_storage).
 
-`ml tensorflow`
+# Partitions
+The HiperGator consists of hundreds of servers. These a split up into several "partitions" for various reasons.
 
-`launch_tensorflow tensorboard --logdir=XXXX/`
+The two primary partitions which you'll use the most are `hpg1-compute`, and `hpg2-compute`.
 
-Tensorboard will print something like the following in your terminal: `http://dev2.ufhpc:6006`
+* `hpg1-compute` - This is the set of older servers that make up the original hipergator cluster. They have 64 cores and 256GB of RAM per node. 
+* `hpg2-compute` - This is a newer set of servers brought online in 2017. They have 32 cores and 128GB of RAM per node 
 
-From a local terminal, type `ssh -NL 8000:URL_AFTER_HTTP harris.d@hpg2.rc.ufl.edu`, where `URL_AFTER_HTTP` will look something like `dev2.ufhpc:6006`, depending on what was printed above.
+The cores on `hpg2-compute` are roughly twice as fast as the  ones on `hpg1-compute`. So the former partition is usually under a heavier load when you look at the current usage with `slurmInfo -pu`. 
 
-Then send your browser to `http://localhost:8000/`
+There are a few other partitions available.
+
+* `gpu` - This is the partition to use if you want to use the GPU. You need to have bought GPU specifically, which our lab has.
+* `bigmem` - This partitions consists of several servers with up to 1TB of memory. This is useful if you need a *lot* of memory but still want to keep a script on a single server. More details are [here](https://help.rc.ufl.edu/doc/Large-Memory_SMP_Servers).
+* `hpg2-dev` - These are several servers for development purposes. When you use `srundev` the jobs get sent here.
+* `gui` - For jobs where you want to run a GUI (graphical user interface). 
+
+**Selecting a partition** By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`. 

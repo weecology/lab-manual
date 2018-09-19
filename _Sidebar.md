@@ -14,9 +14,11 @@
 * [Travel Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Travel-Guidelines)
 
 ## Lab Guide
-* [Code of Conduct](https://github.com/weecology/lab-wiki/wiki/Lab-Policies:-Code-of-Conduct)
+* [Code of Conduct](https://github.com/weecology/lab-wiki/wiki/WEecology:-Code-of-Conduct)
 * [Advisor-free Projects](https://github.com/weecology/lab-wiki/wiki/WEecology:-Advisor-free-projects)
 * [Annual Self-Assessment](https://github.com/weecology/lab-wiki/wiki/WEecology:-Annual-self-assessment)
 * [Emergency Contact Information](https://github.com/weecology/lab-wiki/wiki/WEecology:-Emergency-contact-information)
 * [Lab Meeting](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting)
 * [Lab Meeting Formats](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting-Format-Description)
+* [Lab Renovation Ideas](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-renovation-ideas)
+* [Lab Social Events](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-social-events)

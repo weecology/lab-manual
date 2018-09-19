@@ -1,4 +1,4 @@
-## Computational tools/guides 
+## Programming & Computational Guides
 
 * [Parallelization in R](https://github.com/weecology/lab-wiki/wiki/Parallelization-in-R)
 
@@ -9,10 +9,10 @@
 * [Tips for Talks and Presentations](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Tips-for-talks-and-presentations)
 * [Making Figures](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-figures-for-publication)
 
-## UF Policies
+## UF Bureaucracy, Travel, Spending
 * []()
 * []()
 
-## Lab Policies
+## Lab Guide
 * [Code of Conduct](https://github.com/weecology/lab-wiki/wiki/Lab-Policies:-Code-of-Conduct)
 * []()

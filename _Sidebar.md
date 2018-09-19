@@ -17,4 +17,4 @@
 * [Code of Conduct](https://github.com/weecology/lab-wiki/wiki/Lab-Policies:-Code-of-Conduct)
 * [Advisor-free Projects](https://github.com/weecology/lab-wiki/wiki/WEecology:-Advisor-free-projects)
 * [Annual Self-Assessment](https://github.com/weecology/lab-wiki/wiki/WEecology:-Annual-self-assessment)
-* [Emergency Contact Information](WEecology: Emergency contact information)
+* [Emergency Contact Information](https://github.com/weecology/lab-wiki/wiki/WEecology:-Emergency-contact-information)

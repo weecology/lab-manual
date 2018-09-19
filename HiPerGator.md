@@ -1,5 +1,43 @@
-# Overview
-Making your code run on the hipergator, and take advantage of parallel processing, takes a few steps.
+# What is HiperGator?
+
+A University of Florida super-computing cluster. 
+
+# Why should I use it?
+
+HiperGator gives the user access to very large processing/memory/storage. This is useful for projects which can't be run on your local laptop.
+
+# How do I access it?
+
+0. [Request an account](http://www.rc.ufl.edu/help/account-request/)
+
+1. connect to the server with `ssh <YOUR_USERNAME>@hpg2.rc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](https://help.rc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
+
+Need help with command line? A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/). 
+
+
+![](https://cl.ly/82b3f43d5671))
+
+
+4. Starting a job:
+
+* You can start a **batch** job using a file like the one below (based on a file from Shawn, updated by Dave). This is how you should run everything big. Once this information is in a job file on the server, you can start it with `sbatch <your job script>`. If it works, you'll get a one-line response with your job ID and will then be returned to the terminal of the login server.
+
+* Alternatively, you can run work on the **development server** for a limited time, as described below. You can work interactively while on this server, unlike a batch job.
+
+5. You can check on your job's status with `squeue -u <username>`. The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores. Sometimes (but not always) the output will explain why you're still in the queue (e.g. QOSMEMLIMIT if you're using too much memory).
+
+6. Once your batch job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
+
+### File transfer
+
+* Often, the easiest way to transfer files to the server is using `git clone`.
+
+* If your files aren't in a git repository, you can use FTP or `scp`.  FTP has graphical user interfaces that allow you to drag and drop files to the server.
+
+* If you use `scp`, the syntax for copying one file from your user folder on the server to your local folder is is `scp MY_USER_NAME@gator.hpc.ufl.edu:/home/MY_USER_NAME/PATH_TO_MY_FILE MY_LOCAL_FILENAME`. Note the space between the remote path and your local filename. If you want to  send a file in the other direction, switch the order of the local file and the remote location.  You can copy whole folders with the `-r` flag.
+
+[More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
+
 
 1. Modifying your code to take advantage of multiple processors (not as bad as it sounds!)
 2. Accessing the hipergator via ssh to run commands and transfer files
@@ -23,35 +61,6 @@ Some quick notes:
 # Step 2: 
 ### Accessing the hipergator. 
 
-### Prerequisites
-* Hipergator usage is thru a Linux command line, so you should first become familiar with command line usage. A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/). 
-
-### Getting started
-1. [Request an account](http://www.rc.ufl.edu/help/account-request/)
-
-2. connect to the server with `ssh <YOUR_USERNAME>@hpg2.rc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](https://help.rc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
-
-3. This will take you to a Unix terminal on the login server.  This is where you can upload files and start larger jobs on other servers. You're not supposed to run big computations on this server, which you can identify by looking for "gator" next to the command prompt.
-
-4. Starting a job:
-
-* You can start a **batch** job using a file like the one below (based on a file from Shawn, updated by Dave). This is how you should run everything big. Once this information is in a job file on the server, you can start it with `sbatch <your job script>`. If it works, you'll get a one-line response with your job ID and will then be returned to the terminal of the login server.
-
-* Alternatively, you can run work on the **development server** for a limited time, as described below. You can work interactively while on this server, unlike a batch job.
-
-5. You can check on your job's status with `squeue -u <username>`. The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores. Sometimes (but not always) the output will explain why you're still in the queue (e.g. QOSMEMLIMIT if you're using too much memory).
-
-6. Once your batch job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
-
-### File transfer
-
-* Often, the easiest way to transfer files to the server is using `git clone`.
-
-* If your files aren't in a git repository, you can use FTP or `scp`.  FTP has graphical user interfaces that allow you to drag and drop files to the server.
-
-* If you use `scp`, the syntax for copying one file from your user folder on the server to your local folder is is `scp MY_USER_NAME@gator.hpc.ufl.edu:/home/MY_USER_NAME/PATH_TO_MY_FILE MY_LOCAL_FILENAME`. Note the space between the remote path and your local filename. If you want to  send a file in the other direction, switch the order of the local file and the remote location.  You can copy whole folders with the `-r` flag.
-
-[More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
 
 # Step 3: 
 ## Testing your code on the dev servers.

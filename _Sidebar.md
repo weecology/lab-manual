@@ -15,5 +15,5 @@
 * []()
 
 ## Lab Policies
-* []()
+* [Code of Conduct](https://github.com/weecology/lab-wiki/wiki/Lab-Policies:-Code-of-Conduct)
 * []()

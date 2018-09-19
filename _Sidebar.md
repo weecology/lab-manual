@@ -20,5 +20,5 @@
 * [Emergency Contact Information](https://github.com/weecology/lab-wiki/wiki/WEecology:-Emergency-contact-information)
 * [Lab Meeting](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting)
 * [Lab Meeting Formats](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting-Format-Description)
-* [Lab Renovation Ideas](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-renovation-ideas)
-* [Lab Social Events](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-social-events)
+* [Renovation Ideas](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-renovation-ideas)
+* [Social Events](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-social-events)

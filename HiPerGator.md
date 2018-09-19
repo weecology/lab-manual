@@ -15,7 +15,7 @@ HiperGator gives the user access to very large processing/memory/storage. This i
 Need help with command line? A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/). 
 
 
-![](https://cl.ly/82b3f43d5671))
+![](https://github.com/weecology/lab-wiki/blob/master/uploads/Image%202018-09-19%20at%2010.03.57%20AM.png)
 
 
 4. Starting a job:

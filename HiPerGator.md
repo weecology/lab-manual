@@ -10,11 +10,14 @@ HiperGator gives the user access to very large processing/memory/storage. This i
 
 0. [Request an account](http://www.rc.ufl.edu/help/account-request/)
 
-1. connect to the server with `ssh <YOUR_USERNAME>@hpg2.rc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](https://help.rc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
+1. Connect with `ssh <YOUR_USERNAME>@hpg2.rc.ufl.edu` from the Unix terminal or a Windows SSH client ([more info here](https://help.rc.ufl.edu/doc/Getting_Started)). Enter your password when prompted.
 
 Need help with command line? A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/). 
 
-![](https://github.com/weecology/lab-wiki/blob/master/uploads/Image%202018-09-19%20at%2010.03.57%20AM.png)
+![](s=100)
+
+<img src="https://github.com/weecology/lab-wiki/blob/master/uploads/Image%202018-09-19%20at%2010.03.57%20AM.png" height="400">
+
 
 # How do I run a job?
 
@@ -64,7 +67,7 @@ If you are successful, you'll get a small message stating your job ID. Once your
 
 # Interactive work
 
-If you are running into errors, it can be really useful to just interact with a development server and test out your code.
+If you are running into errors, need to install a package in your local directory, or want to download some files, you should use a development server. This is good practice and nice to other people who are logged into the main head node. 
 
 ```
 #load module made by hipergator admin
@@ -73,9 +76,7 @@ ml ufrc
 srundev --time 3:00:00 --mem 2GB
 ```
 
-# FAQ
-
-## How do I know if its running?
+# How do I know if its running?
 
 Use squeue -u <username>
 
@@ -88,7 +89,7 @@ Use squeue -u <username>
 
 The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores. Sometimes (but not always) the output will explain why you're still in the queue (e.g. QOSMEMLIMIT if you're using too much memory).
 
-# How do I get my data on to HiperGator
+# How do I get my data on to HiperGator?
 
 * Often, the easiest way to transfer files to the server is using `git clone`.
 
@@ -105,9 +106,53 @@ The column labeled "S" is your job status. You want this to be `R` for "running"
 
 Below are a collection of best practices by past Weecology Users. These are not the only way to do things, just some useful tools that worked for us.
 
-# How can I use multiple HiperGator cores in R?
+## R
 
-## Re-writing your code to take advantage of multiple cores. 
+## Installing packages
+
+HiPerGator has a lot of packages installed already, but you might need to install your own, or you might want an updated version of an existing package.
+
+You can tell R to prefer your personal library of R packages over the ones maintained for Hipergator by adding `libPaths(c("/home/YOUR_USER_NAME/R_libs", .libPaths()))` to your `.Rprofile`.  If you don't have one yet, you can create a new file with that name and put it in your home directory (e.g. in `/home/harris.d/.Rprofile`).
+
+The end result will look like this.
+
+```[b.weinstein@dev1 ~]$ cat ~/.Rprofile
+.libPaths(c("/home/b.weinstein/R_libs", .libPaths()))
+
+print(".Rprofile loaded")
+```
+
+When you load R, you should see 
+
+```
+[b.weinstein@dev1 ~]$ ml R
+[b.weinstein@dev1 ~]$ R
+
+R version 3.5.1 (2018-07-02) -- "Feather Spray"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[1] ".Rprofile loaded"
+>
+```
+
+Once this is set up, you can install or update packages the usual way (e.g. with `install.packages` or `devtools::install_github`).
+
+# Re-writing your code to take advantage of multiple cores. 
 By default R runs on a single processor. Most computers today have 4-8 processors. If you spread the work out to multiple processors you can decrease the amount of time it takes to run by significantly. For example: a script that takes 1 hour to run can potentially take 0.5 hours with 2 processors, or 15 minutes with 4 processors. To make your scripts run across multiple processors, you'll have to make some slight adjustments to your code.
 
 If your code uses `lapply` to run your main function to many items (e.g. fitting a model to each species), you can swap it for `mclapply` from the `parallel` package without making any substantial changes. For more details and advanced uses, here are 2 short tutorials that go over this:
@@ -120,15 +165,6 @@ Some quick notes:
 * If your code already uses functions and for loops, it should be very easy to make it parallel, unless each pass through the loop depends on the outcome from previous passes.
 * On your own computer, never set the amount of processors used to the max available. This will take away all the processing power needed to run the operating system, browser, and other programs, and could potentially crash your computer. To test out parallel code on my computer I set the number of processors to use at 2 (out of 8 available).
 
-# Step 2: 
-### Accessing the hipergator. 
-
-
-# Step 3: 
-## Testing your code on the dev servers.
-If planning on interacting with Hipergator to do anything time-consuming or resource-intensive, you should log into the development server. The development server is interactive (unlike a batch job) but can use a larger amount of computing power. You can switch to the dev server with commands like those below. The maximum is 12 hours.
-
-```
 module load ufrc
 srundev --time=480 --cpus-per-task=1 --mem-per-cpu=16gb
 ```
@@ -137,18 +173,16 @@ While you're on the dev server, you can do a test run of your code (perhaps with
 
 -making sure scripts can be run via command line using Rscript. Unlike in rstudio, scripts need to be able to run from beginning to end and produce a results file. When you do call Rscript, make sure to explicitly load the `methods` package, as shown below (otherwise you can get very mysterious error messages).
 
-# Step 4 
-## Submitting full batch jobs
-Since 100's of people are using the hipergator cluster, access to it is organized around jobs. The idea is that your script will run for a certain time and use a certain amount of resources (RAM and processors/cores). Your jobs (with info on the script to run and the resources it will use) is submitted to a queue with this information, where it waits for those resources to free up before being run. 
+# Support
 
-Hipergator 2 job scripts look like the one below.  More information at https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script and https://wiki.rc.ufl.edu/doc/SLURM_Commands
+ [Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
 
+Hipergator staff are here to support you. Our grant money pays their salary. They are friendly and eager to help. When in doubt, just ask.
 
 # Important Links
 
 SLURM (The job submission scripts)[https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script]
 
-# Misc. 
 
 ## Priority
 
@@ -177,15 +211,6 @@ for the normal queue, and
 `sacctmgr show qos ewhite-b format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   
 for the "burst" queue.   
 
-## Installing R packages
-
-HiPerGator has a lot of packages installed already, but you might need to install your own, or you might want an updated version of an existing package.
-
-You can tell R to prefer your personal library of R packages over the (possibly outdated) ones maintained for Hipergator by adding `libPaths(c("/home/YOUR_USER_NAME/R_libs", .libPaths()))` to your `.Rprofile`.  If you don't have one yet, you can create a new file with that name and put it in your home directory (e.g. in `/home/harris.d/.Rprofile`).
-
-Once this is set up, you can install or update packages the usual way (e.g. with `install.packages` or `devtools::install_github`).
-
-If you need an R package from CRAN but can't install it yourself (e.g. because of dependencies or compiler issues), you can always [file a support request](https://support.rc.ufl.edu/enter_bug.cgi).
 
 # Storage
 

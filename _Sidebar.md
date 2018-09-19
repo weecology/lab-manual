@@ -5,11 +5,9 @@
 ## Career Guidance
 * [General](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-general)
 * [Applying for Postdocs](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-applying-for-postdocs)
-
-## Conferences & Networking
-* [Making a Poster](https://github.com/weecology/lab-wiki/wiki/Conferences-&-Networking:-Making-a-Poster)
-* [Tips for Talks and Presentations](https://github.com/weecology/lab-wiki/wiki/Conferences-&-Networking:-Tips-for-talks-and-presentations)
-* [Making Figures](https://github.com/weecology/lab-wiki/wiki/Conferences-and-Networking:-Making-figures-for-publication)
+* [Making a Poster](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-a-Poster)
+* [Tips for Talks and Presentations](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Tips-for-talks-and-presentations)
+* [Making Figures](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-figures-for-publication)
 
 ## UF Policies
 * []()

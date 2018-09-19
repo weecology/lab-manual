@@ -1,3 +1,0 @@
-Beckman Postdoctoral Fellows (http://www.beckman-foundation.org/programs/beckman-postdoctoral-fellows): The Arnold O. Beckman Postdoctoral Fellows Award Program supports postdoctoral scholars with the highest potential for success in an independent academic career in chemistry and the life sciences, to assist in their transition from “mentored yet independent” postdoctoral projects to an independent, tenure-track position. These individuals are expected to become the next generation of leaders and innovators in science, engineering, and technology.
-
-"Understanding Dynamic and Multi-scale Systems" at the McDonnell Foundation that might be a good fit for several folks in the group https://www.jsmf.org/apply/fellowship/index.htm 

@@ -140,7 +140,7 @@ Located in the historic Infirmary Building on Fletcher Drive. [more info](http:/
 ## Networking
 
 * Zoocial! 
-- Every Friday night grad students mainly from WEC, Biology, and Acquatic Sciences meet at 5:00 PM outside Bartram Hall. It is a relaxed, puppy friendly opportunity to meet other folks. 
+  - Every Friday night grad students mainly from WEC, Biology, and Acquatic Sciences meet at 5:00 PM outside Bartram Hall. It is a relaxed, puppy friendly opportunity to meet other folks. 
 
 
 ## WEC IT

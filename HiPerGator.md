@@ -14,72 +14,11 @@ HiperGator gives the user access to very large processing/memory/storage. This i
 
 Need help with command line? A good tutorial is available at [Software Carpentry](http://swcarpentry.github.io/shell-novice/). 
 
-
 ![](https://github.com/weecology/lab-wiki/blob/master/uploads/Image%202018-09-19%20at%2010.03.57%20AM.png)
 
+# How do I run a job?
 
-4. Starting a job:
-
-* You can start a **batch** job using a file like the one below (based on a file from Shawn, updated by Dave). This is how you should run everything big. Once this information is in a job file on the server, you can start it with `sbatch <your job script>`. If it works, you'll get a one-line response with your job ID and will then be returned to the terminal of the login server.
-
-* Alternatively, you can run work on the **development server** for a limited time, as described below. You can work interactively while on this server, unlike a batch job.
-
-5. You can check on your job's status with `squeue -u <username>`. The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores. Sometimes (but not always) the output will explain why you're still in the queue (e.g. QOSMEMLIMIT if you're using too much memory).
-
-6. Once your batch job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
-
-### File transfer
-
-* Often, the easiest way to transfer files to the server is using `git clone`.
-
-* If your files aren't in a git repository, you can use FTP or `scp`.  FTP has graphical user interfaces that allow you to drag and drop files to the server.
-
-* If you use `scp`, the syntax for copying one file from your user folder on the server to your local folder is is `scp MY_USER_NAME@gator.hpc.ufl.edu:/home/MY_USER_NAME/PATH_TO_MY_FILE MY_LOCAL_FILENAME`. Note the space between the remote path and your local filename. If you want to  send a file in the other direction, switch the order of the local file and the remote location.  You can copy whole folders with the `-r` flag.
-
-[More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
-
-
-1. Modifying your code to take advantage of multiple processors (not as bad as it sounds!)
-2. Accessing the hipergator via ssh to run commands and transfer files
-3. Testing your scripts on the dev servers.
-4. Submitting your scripts as jobs
-
-# Step 1 
-## Re-writing your code to take advantage of multiple cores. 
-By default R runs on a single processor. Most computers today have 4-8 processors. If you spread the work out to multiple processors you can decrease the amount of time it takes to run by significantly. For example: a script that takes 1 hour to run can potentially take 0.5 hours with 2 processors, or 15 minutes with 4 processors. To make your scripts run across multiple processors, you'll have to make some slight adjustments to your code.
-
-If your code uses `lapply` to run your main function to many items (e.g. fitting a model to each species), you can swap it for `mclapply` from the `parallel` package without making any substantial changes. For more details and advanced uses, here are 2 short tutorials that go over this:
-
-* [A brief foray into parallel processing with R](https://beckmw.wordpress.com/2014/01/21/a-brief-foray-into-parallel-processing-with-r/)
-
-* [Software Carpentry Parallel Processing in R](http://resbaz.github.io/r-intermediate-gapminder/19-foreach.html)
-
-Some quick notes: 
-* If your code already uses functions and for loops, it should be very easy to make it parallel, unless each pass through the loop depends on the outcome from previous passes.
-* On your own computer, never set the amount of processors used to the max available. This will take away all the processing power needed to run the operating system, browser, and other programs, and could potentially crash your computer. To test out parallel code on my computer I set the number of processors to use at 2 (out of 8 available).
-
-# Step 2: 
-### Accessing the hipergator. 
-
-
-# Step 3: 
-## Testing your code on the dev servers.
-If planning on interacting with Hipergator to do anything time-consuming or resource-intensive, you should log into the development server. The development server is interactive (unlike a batch job) but can use a larger amount of computing power. You can switch to the dev server with commands like those below. The maximum is 12 hours.
-
-```
-module load ufrc
-srundev --time=480 --cpus-per-task=1 --mem-per-cpu=16gb
-```
-
-While you're on the dev server, you can do a test run of your code (perhaps with fewer cores) and see how much memory you'll need.
-
--making sure scripts can be run via command line using Rscript. Unlike in rstudio, scripts need to be able to run from beginning to end and produce a results file. When you do call Rscript, make sure to explicitly load the `methods` package, as shown below (otherwise you can get very mysterious error messages).
-
-# Step 4 
-## Submitting full batch jobs
-Since 100's of people are using the hipergator cluster, access to it is organized around jobs. The idea is that your script will run for a certain time and use a certain amount of resources (RAM and processors/cores). Your jobs (with info on the script to run and the resources it will use) is submitted to a queue with this information, where it waits for those resources to free up before being run. 
-
-Hipergator 2 job scripts look like the one below.  More information at https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script and https://wiki.rc.ufl.edu/doc/SLURM_Commands
+For large analysis, you should submit a *batch script* that tells Hipergator how to run your code. Let's look at an example and walk through it. 
 
 ```
 #!/bin/bash
@@ -117,14 +56,97 @@ Hipergator 2 job scripts look like the one below.  More information at https://w
 # Save some useful information to the "output" file
 date;hostname;pwd
 
-# Load R and run a script
-# Including `--default-packages=methods` is important because otherwise
-# you'll get cryptic errors where R and Rscript behave differently
-module load R
-Rscript --default-packages=methods my_R_script.R
+# Load R and run a script named my_R_script.R
+Rscript my_R_script.R
 ```
 
-Instructions for making a SLURM job script for hipergator 2 are [here](https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script)
+If you are successful, you'll get a small message stating your job ID. Once your batch job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
+
+# Interactive work
+
+If you are running into errors, it can be really useful to just interact with a development server and test out your code.
+
+```
+#load module made by hipergator admin
+ml ufrc
+#request a server for 3 hours with 2GB of memory
+srundev --time 3:00:00 --mem 2GB
+```
+
+# FAQ
+
+## How do I know if its running?
+
+Use squeue -u <username>
+
+```squeue -u b.weinstein
+[b.weinstein@login3 ~]$ squeue -u b.weinstein
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON)
+          25666905       gpu DeepFore b.weinst  R   22:29:49      1 c36a-s7
+          25672257       gpu DeepFore b.weinst  R   21:07:19      1 c37a-s36
+```
+
+The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores. Sometimes (but not always) the output will explain why you're still in the queue (e.g. QOSMEMLIMIT if you're using too much memory).
+
+# How do I get my data on to HiperGator
+
+* Often, the easiest way to transfer files to the server is using `git clone`.
+
+* If your files aren't in a git repository, you can use FTP or `scp`.  FTP has graphical user interfaces that allow you to drag and drop files to the server.
+
+* If you use `scp`, the syntax for copying one file from your user folder on the server to your local folder is `scp MY_USER_NAME@gator.hpc.ufl.edu:/home/MY_USER_NAME/PATH_TO_MY_FILE MY_LOCAL_FILENAME`. Note the space between the remote path and your local filename. If you want to  send a file in the other direction, switch the order of the local file and the remote location.  You can copy whole folders with the `-r` flag.
+
+[More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
+
+
+***
+
+# Best Practices
+
+Below are a collection of best practices by past Weecology Users. These are not the only way to do things, just some useful tools that worked for us.
+
+# How can I use multiple HiperGator cores in R?
+
+## Re-writing your code to take advantage of multiple cores. 
+By default R runs on a single processor. Most computers today have 4-8 processors. If you spread the work out to multiple processors you can decrease the amount of time it takes to run by significantly. For example: a script that takes 1 hour to run can potentially take 0.5 hours with 2 processors, or 15 minutes with 4 processors. To make your scripts run across multiple processors, you'll have to make some slight adjustments to your code.
+
+If your code uses `lapply` to run your main function to many items (e.g. fitting a model to each species), you can swap it for `mclapply` from the `parallel` package without making any substantial changes. For more details and advanced uses, here are 2 short tutorials that go over this:
+
+* [A brief foray into parallel processing with R](https://beckmw.wordpress.com/2014/01/21/a-brief-foray-into-parallel-processing-with-r/)
+
+* [Software Carpentry Parallel Processing in R](http://resbaz.github.io/r-intermediate-gapminder/19-foreach.html)
+
+Some quick notes: 
+* If your code already uses functions and for loops, it should be very easy to make it parallel, unless each pass through the loop depends on the outcome from previous passes.
+* On your own computer, never set the amount of processors used to the max available. This will take away all the processing power needed to run the operating system, browser, and other programs, and could potentially crash your computer. To test out parallel code on my computer I set the number of processors to use at 2 (out of 8 available).
+
+# Step 2: 
+### Accessing the hipergator. 
+
+
+# Step 3: 
+## Testing your code on the dev servers.
+If planning on interacting with Hipergator to do anything time-consuming or resource-intensive, you should log into the development server. The development server is interactive (unlike a batch job) but can use a larger amount of computing power. You can switch to the dev server with commands like those below. The maximum is 12 hours.
+
+```
+module load ufrc
+srundev --time=480 --cpus-per-task=1 --mem-per-cpu=16gb
+```
+
+While you're on the dev server, you can do a test run of your code (perhaps with fewer cores) and see how much memory you'll need.
+
+-making sure scripts can be run via command line using Rscript. Unlike in rstudio, scripts need to be able to run from beginning to end and produce a results file. When you do call Rscript, make sure to explicitly load the `methods` package, as shown below (otherwise you can get very mysterious error messages).
+
+# Step 4 
+## Submitting full batch jobs
+Since 100's of people are using the hipergator cluster, access to it is organized around jobs. The idea is that your script will run for a certain time and use a certain amount of resources (RAM and processors/cores). Your jobs (with info on the script to run and the resources it will use) is submitted to a queue with this information, where it waits for those resources to free up before being run. 
+
+Hipergator 2 job scripts look like the one below.  More information at https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script and https://wiki.rc.ufl.edu/doc/SLURM_Commands
+
+
+# Important Links
+
+SLURM (The job submission scripts)[https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script]
 
 # Misc. 
 

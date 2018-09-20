@@ -9,7 +9,7 @@ If you are a new member to the lab, please see the [issues](https://github.com/w
 # General Lab Policies
 
 ## Lab Philosophy
-***TODO: fill out***
+See [Way of Weecology](https://github.com/weecology/lab-wiki/wiki/Way-of-Weecology).
 
 ## Lab Code of Conduct
 See [here](https://github.com/weecology/lab-wiki/wiki/Code-of-Conduct).
@@ -31,6 +31,7 @@ Once you have your weecology.org Google account, you will have access to the lab
 Please keep your personal calendar up to date on when you will be out of town to help with scheduling meetings. Ethan & Morgan will have viewing access to your calendar. Some calendars you might want to add to your view to stay informed are:
 * "ethan" (Ethan White)
 * "morgan" (Morgan Ernest)
+* "conference room"
 
 The conference room schedule is maintained separately. You might need to contact someone who already has access to share the calendar with you.
 
@@ -52,6 +53,8 @@ Typical agenda is something like:
 # Day-to-Day Operations
 
 ## Computer Setup
+
+Tell Glenda if you need a new computer.
 
 Here's a basic checklist for computer privacy and security. For more info, check out the wiki page on [Computer Security and Privacy Resources](https://github.com/weecology/lab-wiki/wiki/Computer-Security-&-Privacy-Resources)
 

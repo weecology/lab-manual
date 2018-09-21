@@ -1,9 +1,12 @@
 ## Programming & Computational Guides
 * [Style Guide for Code](https://github.com/weecology/lab-wiki/wiki/Programming:-Style-Guide-for-Code)
-* [Parallelization in R](https://github.com/weecology/lab-wiki/wiki/Parallelization-in-R)
-* [Ecosystem Demography on Hipergator](https://github.com/weecology/lab-wiki/wiki/Programming:-Installing-and-Running-Ecosystem-Demography-on-Hipergator)
+* [Parallelization in R](https://github.com/weecology/lab-wiki/wiki/Programming:-Parallelization-in-R)
 * [Collaborating in Git/GitHub](https://github.com/weecology/lab-wiki/wiki/Programming:-Collaborating-in-Git-GitHub)
 * [RStudio and GitHub Integration](https://github.com/weecology/lab-wiki/wiki/Programming:-RStudio-and-GitHub-integration)
+* [RStudio on Serenity](https://github.com/weecology/lab-wiki/wiki/Programming:-RStudio-on-serenity)
+* [Hipergator Intro Guide](https://github.com/weecology/lab-wiki/wiki/Programming:-HiPerGator-Intro-Guide)
+* [Ecosystem Demography on Hipergator](https://github.com/weecology/lab-wiki/wiki/Programming:-Installing-and-Running-Ecosystem-Demography-on-Hipergator)
+* [Tensorflow and Jupyter on Hipergator](https://github.com/weecology/lab-wiki/wiki/Programming:-Tensorflow-and-Jupyter-on-Hipergator)
 
 ## Career Guidance, Conferences, Networking
 * [General Career Guidance](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-general)

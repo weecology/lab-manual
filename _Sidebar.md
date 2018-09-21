@@ -1,35 +1,4 @@
-## Programming & Computational Guides
-* [Style Guide for Code](https://github.com/weecology/lab-wiki/wiki/Programming:-Style-Guide-for-Code)
-* [Parallelization in R](https://github.com/weecology/lab-wiki/wiki/Programming:-Parallelization-in-R)
-* [Collaborating in Git/GitHub](https://github.com/weecology/lab-wiki/wiki/Programming:-Collaborating-in-Git-GitHub)
-* [RStudio and GitHub Integration](https://github.com/weecology/lab-wiki/wiki/Programming:-RStudio-and-GitHub-integration)
-* [RStudio on Serenity](https://github.com/weecology/lab-wiki/wiki/Programming:-RStudio-on-serenity)
-* [Hipergator Intro Guide](https://github.com/weecology/lab-wiki/wiki/Programming:-HiPerGator-Intro-Guide)
-* [Ecosystem Demography on Hipergator](https://github.com/weecology/lab-wiki/wiki/Programming:-Installing-and-Running-Ecosystem-Demography-on-Hipergator)
-* [Tensorflow and Jupyter on Hipergator](https://github.com/weecology/lab-wiki/wiki/Programming:-Tensorflow-and-Jupyter-on-Hipergator)
-
-## Career Guidance, Conferences, Networking
-* [General Career Guidance](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-general)
-* [Applying for Postdocs](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-applying-for-postdocs)
-* [Making a Poster](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-a-Poster)
-* [Tips for Talks and Presentations](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Tips-for-talks-and-presentations)
-* [Making Figures](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-figures-for-publication)
-* [Ally Skills](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Ally-Skills)
-
-## UF Bureaucracy, Travel, Spending
-* [Graduating](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Graduating)
-* [Scheduling Committee Meetings](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Scheduling-Committee-Meetings)
-* [SNRE Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-SNRE-Rules)
-* [WEC Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-WEC-Rules)
-* [Travel Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Travel-Guidelines)
-* [Rental Cars](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Rental-Cars)
-* [PCARDS](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-PCARDS)
-* [Purchasing in myUFMarket](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Purchasing-in-myUFMarket)
-* [IACUC Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-IACUC-Forms-and-training)
-* [Florida Residency](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Florida-Residency)
-* [Employee Benefits](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Benefits-(healthcare,-retirement,-etc.))
-
-## Lab Guide
+### Lab Guide
 * [Way of Weecology (lab philosophy)](https://github.com/weecology/lab-wiki/wiki/Way-of-Weecology)
 * [Code of Conduct](https://github.com/weecology/lab-wiki/wiki/WEecology:-Code-of-Conduct)
 * [New Lab Member Onboarding](https://github.com/weecology/lab-wiki/wiki/WEecology:-New-Lab-Member-Onboarding)
@@ -42,3 +11,34 @@
 * [Social Events](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-social-events)
 * [Local Attractions](https://github.com/weecology/lab-wiki/wiki/WEecology:-Local-Attractions)
 * [Hurricane Preparedness](https://github.com/weecology/lab-wiki/wiki/WEecology:-Hurricane-preparedness)
+
+### UF Bureaucracy, Travel, Spending
+* [Graduating](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Graduating)
+* [Scheduling Committee Meetings](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Scheduling-Committee-Meetings)
+* [SNRE Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-SNRE-Rules)
+* [WEC Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-WEC-Rules)
+* [Travel Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Travel-Guidelines)
+* [Rental Cars](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Rental-Cars)
+* [PCARDS](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-PCARDS)
+* [Purchasing in myUFMarket](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Purchasing-in-myUFMarket)
+* [IACUC Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-IACUC-Forms-and-training)
+* [Florida Residency](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Florida-Residency)
+* [Employee Benefits](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Benefits-(healthcare,-retirement,-etc.))
+
+### Programming & Computational Guides
+* [Style Guide for Code](https://github.com/weecology/lab-wiki/wiki/Programming:-Style-Guide-for-Code)
+* [Parallelization in R](https://github.com/weecology/lab-wiki/wiki/Programming:-Parallelization-in-R)
+* [Collaborating in Git/GitHub](https://github.com/weecology/lab-wiki/wiki/Programming:-Collaborating-in-Git-GitHub)
+* [RStudio and GitHub Integration](https://github.com/weecology/lab-wiki/wiki/Programming:-RStudio-and-GitHub-integration)
+* [RStudio on Serenity](https://github.com/weecology/lab-wiki/wiki/Programming:-RStudio-on-serenity)
+* [Hipergator Intro Guide](https://github.com/weecology/lab-wiki/wiki/Programming:-HiPerGator-Intro-Guide)
+* [Ecosystem Demography on Hipergator](https://github.com/weecology/lab-wiki/wiki/Programming:-Installing-and-Running-Ecosystem-Demography-on-Hipergator)
+* [Tensorflow and Jupyter on Hipergator](https://github.com/weecology/lab-wiki/wiki/Programming:-Tensorflow-and-Jupyter-on-Hipergator)
+
+### Career Guidance, Conferences, Networking
+* [General Career Guidance](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-general)
+* [Applying for Postdocs](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-applying-for-postdocs)
+* [Making a Poster](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-a-Poster)
+* [Tips for Talks and Presentations](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Tips-for-talks-and-presentations)
+* [Making Figures](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-figures-for-publication)
+* [Ally Skills](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Ally-Skills)

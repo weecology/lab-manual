@@ -17,8 +17,17 @@
 * [Ally Skills](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Ally-Skills)
 
 ## UF Bureaucracy, Travel, Spending
-* []()
+* [Graduating](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Graduating)
+* [Scheduling Committee Meetings](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Scheduling-Committee-Meetings)
+* [SNRE Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-SNRE-Rules)
+* [WEC Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-WEC-Rules)
 * [Travel Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Travel-Guidelines)
+* [Rental Cars](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Rental-Cars)
+* [PCARDS](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-PCARDS)
+* [Purchasing in myUFMarket](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Purchasing-in-myUFMarket)
+* [IACUC Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-IACUC-Forms-and-training)
+* [Florida Residency](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Florida-Residency)
+* [Employee Benefits](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Benefits-(healthcare,-retirement,-etc.))
 
 ## Lab Guide
 * [Way of Weecology (lab philosophy)](https://github.com/weecology/lab-wiki/wiki/Way-of-Weecology)

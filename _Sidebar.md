@@ -8,6 +8,7 @@
 * [Making a Poster](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-a-Poster)
 * [Tips for Talks and Presentations](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Tips-for-talks-and-presentations)
 * [Making Figures](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-figures-for-publication)
+* [Ally Skills](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Ally-Skills)
 
 ## UF Bureaucracy, Travel, Spending
 * []()

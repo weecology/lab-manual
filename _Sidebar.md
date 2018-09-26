@@ -7,6 +7,7 @@
 * [Emergency Contact Information](https://github.com/weecology/lab-wiki/wiki/WEecology:-Emergency-contact-information)
 * [Lab Meeting](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting)
 * [Lab Meeting Formats](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting-Format-Description)
+* [Letters of Recommendation](https://github.com/weecology/lab-wiki/wiki/WEecology:-Letters-of-Recommendation)
 * [Renovation Ideas](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-renovation-ideas)
 * [Social Events](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-social-events)
 * [Local Attractions](https://github.com/weecology/lab-wiki/wiki/WEecology:-Local-Attractions)

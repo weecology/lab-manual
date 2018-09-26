@@ -32,4 +32,4 @@ There is some general info on finding jobs and asking questions on [this page](h
 * [preparing for non-academic careers](https://jessicalanger.com/blog/2016/1/14/4-things-to-do-in-grad-school-to-prepare-for-a-non-academic-career)
 * [researching companies (see also "informational interview")](http://www.askamanager.org/2015/03/how-to-research-the-company-youre-interviewing-with.html)
 * [Resumes vs. CVs](http://www.gradhacker.org/2013/10/23/intro-to-resumes-for-cv-minded-academics/)
-
+* Note that for jobs posted on usajobs.gov (many of the federal government agency positions), the applications go through filtering by HR before reaching the hiring scientist. Often they are looking for keywords that match the job description, so some careful prep is good to make sure your application isn't filtered out by HR. (Some more info and resources on this would be good to fill out...)

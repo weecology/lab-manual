@@ -15,3 +15,4 @@ You will be giving an exit seminar to the department during WEC's usual seminar 
 
 ## Odds and ends
 * If you had a pcard, close it out by emailing the pcard team (pcard@ufl.edu) a few days before your last day. They will cancel it and you are supposed to shred it yourself. 
+* Don't forget to leave your lab key, and any computer equipment you've been using

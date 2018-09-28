@@ -6,6 +6,7 @@
 * Can be used for travel costs (flights, car rentals, gas for business travel, etc)
 * Cannot be used to purchase food or drinks
 * NEVER EVER EVER use for personal use. There is no "I'll payback the University for this". 
+* When you're leaving UF, cancel your pcard by just emailing them (pcard@ufl.edu) on your last day, and they will have you shred the card yourself.
 
 ## Getting a PCARD
 

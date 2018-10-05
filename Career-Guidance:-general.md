@@ -22,6 +22,8 @@ A lot of info linked to is from a specific point of view, or has intrinsic biase
 * [interviewing (teaching college oriented)](https://thewayofimprovement.com/2017/07/10/how-to-interview-at-a-teaching-college)
 * [interviewing (skype)](https://xykademiqz.com/2016/12/22/skyping-your-way-into-or-out-of-a-faculty-job/)
 * [selected links on applying](https://medium.com/@cMadan/advice-when-applying-to-faculty-positions-and-on-academia-in-general-7c8b3652b9d4）
+* [sample docs collected by Jeff Ross-Ibarra](https://github.com/RILAB/statements/tree/master/statements)
+* [sample docs from Future PI Slack](https://drive.google.com/drive/folders/1ZNQXrOh_NJ7YKNajI8EC1329rGQzBjA4)
 
 ## Postdocs
 

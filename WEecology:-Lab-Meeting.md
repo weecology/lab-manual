@@ -14,7 +14,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Sept 19 - Lab-wiki sprint (Kristina & Hao)
 * Sept 26 - Portal shrub data sprint round 2 (Renata)
 * Oct 3 - Kristina (job interview talk rehearsal)
-* Oct 10
+* Oct 10 - Mini-lesson for setting up an R research project as a package (Hao)
 * Oct 17
 * Oct 24
 * Oct 31

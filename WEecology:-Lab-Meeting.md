@@ -16,7 +16,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Oct 3 - Kristina (job interview talk rehearsal)
 * Oct 10 - Hao (either a mini-lesson or problem solving session)
 * Oct 17
-* Oct 24
+* Oct 24 - Renata (problem solving session?)
 * Oct 31
 * Nov 7
 * Nov 14

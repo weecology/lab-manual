@@ -27,6 +27,7 @@
 * [Employee Benefits](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Benefits-(healthcare,-retirement,-etc.))
 
 ### Programming & Computational Guides
+* [Lab Coding Guidelines](https://github.com/weecology/lab-wiki/wiki/Programming:-Lab-Coding-Practices)
 * [Style Guide for Code](https://github.com/weecology/lab-wiki/wiki/Programming:-Style-Guide-for-Code)
 * [Parallelization in R](https://github.com/weecology/lab-wiki/wiki/Programming:-Parallelization-in-R)
 * [SSH and SSH keys](https://github.com/weecology/lab-wiki/wiki/Programming:-SSH-&-SSH-keys-for-GitHub---Serenity---etc.)

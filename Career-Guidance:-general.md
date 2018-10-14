@@ -7,8 +7,14 @@ A lot of info linked to is from a specific point of view, or has intrinsic biase
 * [another guide to resources](http://fromphdtolife.com/resources/)
 * [identifying the career for you](https://80000hours.org/career-guide/)
 * [negotiating](https://chroniclevitae.com/news/933-negotiating-nonacademic-style)
-* [writing cover letters](http://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=48927)
 * [survey of employment for PhD's in ecology](https://doi.org/10.1002/ecs2.2031)
+
+# Cover Letters
+(i.e. "how to brag about yourself without coming across as arrogant")
+* [writing cover letters for postdocs](http://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=48927)
+* [cover letters for academic positions](https://grad.illinois.edu/sites/default/files/pdfs/academiccoverletters.pdf)
+* [cover letter for a faculty position](http://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/)
+* [cover letter for non-academic (NPR)](https://www.npr.org/sections/ed/2017/02/27/502445571/hey-students-5-things-that-are-wrong-with-your-cover-letter)
 
 # Academic
 

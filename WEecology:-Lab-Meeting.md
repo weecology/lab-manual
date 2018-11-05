@@ -17,7 +17,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Oct 10 - Hao (either a mini-lesson or problem solving session)
 * Oct 17 - Sergio polygon data sprint
 * Oct 24 - Renata (problem solving session?)
-* Oct 31
+* Oct 31 - Henry, Sprint, Retriever testing
 * Nov 7
 * Nov 14
 * Nov 21 - Thanksgiving Holiday. No Meeting.

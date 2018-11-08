@@ -19,6 +19,7 @@
 * [SNRE Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-SNRE-Rules)
 * [WEC Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-WEC-Rules)
 * [Travel Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Travel-Guidelines)
+* [WEC staff](https://github.com/weecology/lab-wiki/wiki/WEC-staff:-Who-to-talk-to-if-anything-goes-wrong)
 * [Rental Cars](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Rental-Cars)
 * [PCARDS](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-PCARDS)
 * [Purchasing in myUFMarket](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Purchasing-in-myUFMarket)

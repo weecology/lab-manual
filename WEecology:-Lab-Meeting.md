@@ -21,7 +21,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Nov 7
 * Nov 14
 * Nov 21 - Thanksgiving Holiday. No Meeting.
-* Nov 28 - (Research Process Discussion) 
+* Nov 28 - Kristina (defense talk rehearsal)
 * Dec 5  - (Research Process Discussion)
 
 

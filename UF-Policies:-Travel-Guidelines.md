@@ -49,8 +49,10 @@ You will need to submit a travel expense report after travel is completed. The p
 
 **Step 6**: Submit a [WEC Travel expense report](http://www.wec.ufl.edu/resources/travel/Travel%20Expense%20Report%201.2.pdf)  
     Email it to Jen at WECFiscal@ifas.ufl.edu
-    Make sure you fill in the associated TAR #. You can find this in myUFL at Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
-    As of November 2018, Morgan (or associated PI, I - Renata - assume) needs to approve TERs, either by signing them or emailing Jen at WECFiscal@ifas.ufl.edu saying she approves them. 
+
+Make sure you fill in the associated TAR #. You can find this in myUFL at Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
+
+As of November 2018, Morgan (or associated PI, I - Renata - assume) needs to approve TERs, either by signing them or emailing Jen at WECFiscal@ifas.ufl.edu saying she approves them. 
 
 **Step 7**: Confirm Travel Expense Report is in the system  
     Login to my.ufl.edu and click on Main Menu -> My Self Service -> Travel and Expenses -> Expense Reports -> View  

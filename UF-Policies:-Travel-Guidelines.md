@@ -39,7 +39,7 @@ Before you start the travel authorization process, make sure you know how your t
     Registration: See the Conference travel page for tips on what you need to submit with the TA to document the registration costs.
     International Travel: See the International travel page for what needs to be submitted with your TA.
 
-**Step 5**: Email your completed TA and any required attachments (registration documentation etc) to: WECFiscal@ifas.ufl.edu
+**Step 5**: Email your completed TA and any required attachments (registration documentation etc) to: Jen at WECFiscal@ifas.ufl.edu
 
 Do you need to sign the form? No. Your email is considered your "signature".
 
@@ -48,7 +48,9 @@ Do you need to sign the form? No. Your email is considered your "signature".
 You will need to submit a travel expense report after travel is completed. The process will be roughly the same for any type of travel. If you received any travel grants, however, get in touch with the WEC fiscal office for how to address that.
 
 **Step 6**: Submit a [WEC Travel expense report](http://www.wec.ufl.edu/resources/travel/Travel%20Expense%20Report%201.2.pdf)  
-    Email it to WECFiscal@ifas.ufl.edu
+    Email it to Jen at WECFiscal@ifas.ufl.edu
+    Make sure you fill in the associated TAR #. You can find this in myUFL at Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
+    As of November 2018, Morgan (or associated PI, I - Renata - assume) needs to approve TERs, either by signing them or emailing Jen at WECFiscal@ifas.ufl.edu saying she approves them. 
 
 **Step 7**: Confirm Travel Expense Report is in the system  
     Login to my.ufl.edu and click on Main Menu -> My Self Service -> Travel and Expenses -> Expense Reports -> View  

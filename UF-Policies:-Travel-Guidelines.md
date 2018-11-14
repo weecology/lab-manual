@@ -54,6 +54,8 @@ Make sure you fill in the associated TAR #. You can find this in myUFL at Main M
 
 As of November 2018, Morgan (or associated PI, I - Renata - assume) needs to approve TERs, either by signing them or emailing Jen at WECFiscal@ifas.ufl.edu saying she approves them. 
 
+If you are requesting the $21/day per diem, which is what we usually do, you also need to email Jen and state that you are requesting that per diem and you are aware it is lower than the other option. 
+
 **Step 7**: Confirm Travel Expense Report is in the system  
     Login to my.ufl.edu and click on Main Menu -> My Self Service -> Travel and Expenses -> Expense Reports -> View  
     Leave everything blank and click Search to view all expense reports.

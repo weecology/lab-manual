@@ -57,7 +57,8 @@ So you're taking the big step and actually going to use the PCard. Not to scare 
 4) I have my thing, now what?
 
 > You have three, yes 3, days to submit your receipts to WEC. You need to fill out the PCard Invoice [form](http://www.wec.ufl.edu/resources/fiscal/Purchasing%20Invoice%20Record%20Form.pdf)
-> You can either take a picture of the receipt and email it with the invoice or hand everything in on paper to Fiona(?). If you are traveling, I would recommend taking a picture as soon as you get the receipt in your hand. You don't want to lose receipts. Trust me. 
+> You can either take a picture of the receipt and email it with the invoice or hand everything in on paper to Jen Miller. If you are traveling, I would recommend taking a picture as soon as you get the receipt in your hand. You don't want to lose receipts. Trust me. 
+> If you are traveling, make sure you fill in the TAR # for your trip on the Pcard invoice. This can be found in myUFL -> Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
 
 Did you lose your receipt? Sigh. Proceed to step 5.
 

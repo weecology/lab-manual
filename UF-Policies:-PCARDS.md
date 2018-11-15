@@ -62,6 +62,8 @@ So you're taking the big step and actually going to use the PCard. Not to scare 
 
 > If you are traveling, make sure you fill in the TAR # for your trip on the Pcard invoice. This can be found in myUFL -> Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
 
+> If you buy fuel for a rental car, you need to put the rental agreement number on the PCard invoice.
+
 Did you lose your receipt? Sigh. Proceed to step 5.
 
 5) Uh, I lost my receipt. 

@@ -17,8 +17,9 @@ Before you start the travel authorization process, make sure you know how your t
 
 **Step 1**. Do you (or the person who is traveling) already have a UFID#?
 
-    Yes. Proceed to step 2
-    No. Send the following info about the traveler to Amelia Baiden (amelia05@ufl.edu) and ask for a UFID to be assigned:
+**Yes**. Proceed to step 2
+
+**No**. Send the following info about the traveler to Amelia Baiden (amelia05@ufl.edu) and ask for a UFID to be assigned:
         Full Name of Traveler (including middle name)
         Home Address
         Email Address
@@ -27,24 +28,28 @@ Before you start the travel authorization process, make sure you know how your t
 
 **Step 2**.  Is a pcard being used to pay for anything for your trip?
 
-    Yes. This will influence how you fill out the TA form
-    No. This will also influence how you fill out the TA form
-    I don't know. Then go ask whomever is paying for your trip if they can use a pcard to pay for expenses so it doesn't come out of your meager earnings. 
+**Yes**. This will influence how you fill out the TA form
+
+**No.** This will also influence how you fill out the TA form
+
+I don't know. Then go ask whomever is paying for your trip if they can use a pcard to pay for expenses so it doesn't come out of your meager earnings. 
 
 **Step 3**. Download a TA form: http://www.wec.ufl.edu/resources/travel/Travel%20Authorization%201.2.pdf
 
 **Step 4**. Fill out the TA form. Most of the form is self-explanatory. If a pcard is paying for certain things, put that in the pcard column, otherwise, list it under paid by traveler. There are complexities with the form. These are:
 
-    Project #. You will need to get this from the UF entity paying for the trip (i.e. Ethan, Morgan, Department, SNRE, etc)
-    Registration: See the Conference travel page for tips on what you need to submit with the TA to document the registration costs.
-    International Travel: See the International travel page for what needs to be submitted with your TA.
+* Project #. You will need to get this from the UF entity paying for the trip (i.e. Ethan, Morgan, Department, SNRE, etc)
+* Registration: See the Conference travel page for tips on what you need to submit with the TA to document the registration costs.
+* International Travel: See the International travel page for what needs to be submitted with your TA.
+* You need to sign it.
 
-**Step 5**: Email your completed TA and any required attachments (registration documentation etc) to: Jen at WECFiscal@ifas.ufl.edu
+**Step 5**: Email your completed TA and any required attachments (registration documentation etc) to: Jen at WECFiscal@ifas.ufl.edu. 
 
-Do you need to sign the form? Yes.
+* CC your PI on the email. They will need to respond to Jen saying they approve the TA. 
 
 
-As of November 2018, Morgan (or associated PI, I - Renata - assume) needs to approve TARs, either by signing them or emailing Jen at WECFiscal@ifas.ufl.edu saying she approves them. 
+**Step 5a**: Jen will email you a copy of the TAR to sign. Sign it and send it back to her. Make note of the TA #, because you will need this for the TER and any Pcard invoices. 
+
 
 ## Travel Expense Report (TER):
 
@@ -53,7 +58,7 @@ You will need to submit a travel expense report after travel is completed. The p
 **Step 6**: Submit a [WEC Travel expense report](http://www.wec.ufl.edu/resources/travel/Travel%20Expense%20Report%201.2.pdf)  
     Email it to Jen at WECFiscal@ifas.ufl.edu
 
-Make sure you fill in the associated TAR #. You can find this in myUFL at Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
+Make sure you fill in the associated TAR #. You can find this in myUFL at Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View, or on the file Jen sends you in step 5a.  
 
 As of November 2018, Morgan (or associated PI, I - Renata - assume) needs to approve TERs, either by signing them or emailing Jen at WECFiscal@ifas.ufl.edu saying she approves them. 
 

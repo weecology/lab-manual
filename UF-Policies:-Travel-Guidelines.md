@@ -48,7 +48,7 @@ I don't know. Then go ask whomever is paying for your trip if they can use a pca
 * CC your PI on the email. They will need to respond to Jen saying they approve the TA. 
 
 
-**Step 5a**: Jen will email you a copy of the TAR to sign. Sign it and send it back to her. Make note of the TA #, because you will need this for the TER and any Pcard invoices. 
+**Step 5a**: Jen will email you a copy of the TAR to sign. Sign it and send it back to her. Make note of the TA # ("authorization ID"), because you will need this for the TER and any Pcard invoices. 
 
 
 ## Travel Expense Report (TER):

@@ -41,7 +41,10 @@ Before you start the travel authorization process, make sure you know how your t
 
 **Step 5**: Email your completed TA and any required attachments (registration documentation etc) to: Jen at WECFiscal@ifas.ufl.edu
 
-Do you need to sign the form? No. Your email is considered your "signature".
+Do you need to sign the form? Yes.
+
+
+As of November 2018, Morgan (or associated PI, I - Renata - assume) needs to approve TARs, either by signing them or emailing Jen at WECFiscal@ifas.ufl.edu saying she approves them. 
 
 ## Travel Expense Report (TER):
 

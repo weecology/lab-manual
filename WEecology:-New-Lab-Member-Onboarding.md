@@ -170,7 +170,7 @@ See [here](https://github.com/weecology/lab-wiki/wiki/Making-a-Poster) for more 
 
 ## Florida Residency (for students)
 
-See [here](https://github.com/weecology/lab-wiki/wiki/Florida-Residency) for more info.
+You'll be required to apply for Florida Residency after your first year. To make it as smooth as possible follow the steps in the [residency notes](https://github.com/weecology/lab-wiki/wiki/Florida-Residency) **before your first day of classes**. 
 
 ## Florida Driver's License and Car Registration
 

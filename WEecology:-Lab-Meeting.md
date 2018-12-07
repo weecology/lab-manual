@@ -10,7 +10,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * 
 
 (topics to be included)
-* 
+* visualizing probability concepts through tables or graphics (Virnaliz)
 * elevator pitch exercise
 
 

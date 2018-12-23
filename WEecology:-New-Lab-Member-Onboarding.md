@@ -24,6 +24,14 @@ Earl grey should almost always have milk in it!
 
 See [here](https://github.com/weecology/lab-wiki/wiki/Annual-self-assessment) for more info.
 
+## Slack and GitHub
+
+- [ ] Markdown formatting
+- [ ] Look through and subscribe to channels on Slack
+- [ ] Basic commands in Slack (replies, responses, reminders, notifications for individuals/channel)
+- [ ] GitHub repos (creating, subscribing, making issues, pull requests)
+- [ ] Lab policies around using GitHub
+
 ## Calendars
 
 Once you have your weecology.org Google account, you will have access to the lab calendars. You can access these from a web browser at [https://calendar.google.com/](https://calendar.google.com/). (**Note that you may need to use the account management button in the upper-right corner if you are logged in with other Google accounts at the same time.**)

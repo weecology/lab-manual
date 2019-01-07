@@ -102,7 +102,7 @@ Some external resources:
 * Chris Beams's [blogpost on writing commit messages](https://chris.beams.io/posts/git-commit/)
 * Software Carpentry [Git lesson](https://swcarpentry.github.io/git-novice/)
 * Jenny Bryan's book, ["Happy Git and GitHub for the useR"](http://happygitwithr.com/), book for UBC Stat 545
-* David Winterbottom's [blogpost on branches and bull request workflow](http://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
+* David Winterbottom's [blogpost on branches and pull request workflow](http://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 
 (Hao) I have this in my `~/.gitconfig` file to enable the `git lg` alias on command-line.
 ```

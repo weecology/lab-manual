@@ -7,7 +7,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 ## Schedule (Spring 2019)
 * 
-* 
+* Jan 30th - Reviewing! Ben
 
 (topics to be included)
 * visualizing probability concepts through tables or graphics (Virnaliz)

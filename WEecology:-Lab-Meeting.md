@@ -6,8 +6,15 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
   - Here is a [feedback form](https://docs.google.com/document/d/12RS_PGXJ8-pSdakyIH1WZAsR90gWCRV4KdBzii2uy8o/edit?usp=sharing) for talks. It's set so that everyone can make comments on it, but not edit it directly -- if you wish to write up your feedback on a computer, please make a copy of the document for yourself.
 
 ## Schedule (Spring 2019)
-* 
-* Jan 30th - Reviewing! Ben
+
+* April 10th - Plant data [Ellen]
+* April 3rd - Plant Census 
+
+* March 27th - Personal website sprint [Hao et al.]
+* March 6th - Spring break
+* Feb 13th - Teach me things (small tutorials for small groups) [Sergio]
+* Feb 6th - When to learn new tools (R, Python, Stan, ...) [Hao]
+* Jan 30th - Reviewing! [Ben]
 
 (topics to be included)
 * visualizing probability concepts through tables or graphics (Virnaliz)

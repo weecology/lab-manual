@@ -14,7 +14,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * March 6th - Spring break
 * Feb 13th - Teach me things (small tutorials for small groups) [Sergio]
 * Feb 6th - When to learn new tools (R, Python, Stan, ...) [Hao]
-* Jan 30th - Reviewing! [Ben]
+* Jan 30th - Reviewing! [Ben][brainstorm doc](https://docs.google.com/document/d/16jriya7CpTR3mWrILZalBV28PobaRt9AMI63ApJ9e6M/edit?usp=sharing)
 
 (topics to be included)
 * visualizing probability concepts through tables or graphics (Virnaliz)

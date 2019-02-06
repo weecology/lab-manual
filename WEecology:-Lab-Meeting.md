@@ -14,7 +14,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Feb 27th
 * March 6th - Spring break
 * March 13th
-* March 20th
+* March 20th - Something [Juniper]
 * March 27th - Personal website sprint [Hao et al.]
 * April 3rd - Plant Census 
 * April 10th - Plant data [Ellen]

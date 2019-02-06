@@ -7,15 +7,19 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 ## Schedule (Spring 2019)
 
-* April 10th - Plant data [Ellen]
-* April 3rd - Plant Census 
-
-* March 27th - Personal website sprint [Hao et al.]
-* March 6th - Spring break
-* Feb 20th - influencing the System [Renata]
-* Feb 13th - Teach me things (small tutorials for small groups) [Sergio]
-* Feb 6th - When to learn new tools (R, Python, Stan, ...) [Hao]
 * Jan 30th - Reviewing! [Ben][brainstorm doc](https://docs.google.com/document/d/16jriya7CpTR3mWrILZalBV28PobaRt9AMI63ApJ9e6M/edit?usp=sharing)
+* Feb 6th - When to learn new tools (R, Python, Stan, ...) [Hao]
+* Feb 13th - Teach me things (small tutorials for small groups) [Sergio]
+* Feb 20th - influencing the System [Renata]
+* Feb 27th
+* March 6th - Spring break
+* March 13th
+* March 20th
+* March 27th - Personal website sprint [Hao et al.]
+* April 3rd - Plant Census 
+* April 10th - Plant data [Ellen]
+* April 17th
+* April 24th
 
 (topics to be included)
 * visualizing probability concepts through tables or graphics (Virnaliz)

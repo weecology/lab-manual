@@ -12,6 +12,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 * March 27th - Personal website sprint [Hao et al.]
 * March 6th - Spring break
+* Feb 20th - influencing the System [Renata]
 * Feb 13th - Teach me things (small tutorials for small groups) [Sergio]
 * Feb 6th - When to learn new tools (R, Python, Stan, ...) [Hao]
 * Jan 30th - Reviewing! [Ben][brainstorm doc](https://docs.google.com/document/d/16jriya7CpTR3mWrILZalBV28PobaRt9AMI63ApJ9e6M/edit?usp=sharing)

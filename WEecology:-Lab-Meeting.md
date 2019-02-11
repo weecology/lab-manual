@@ -9,9 +9,9 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 * Jan 30th - Reviewing! [Ben][brainstorm doc](https://docs.google.com/document/d/16jriya7CpTR3mWrILZalBV28PobaRt9AMI63ApJ9e6M/edit?usp=sharing)
 * Feb 6th - When to learn new tools (R, Python, Stan, ...) [Hao]
-* Feb 13th - Teach me things (small tutorials for small groups) [Sergio]
+* Feb 13th - 
 * Feb 20th - ~~overthrowing~~ influencing the System [Renata]
-* Feb 27th
+* Feb 27th - Teach me things (small tutorials for small groups) [Sergio]
 * March 6th - Spring break
 * March 13th
 * March 20th - Something [Juniper]

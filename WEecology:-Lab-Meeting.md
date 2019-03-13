@@ -14,7 +14,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Feb 27th - Teach me things (small tutorials for small groups) [signups](https://docs.google.com/spreadsheets/d/1K2JQG6PTZrCeR3AY8LOOTIZskoHEMa0wwN_wHG2QLa4/edit#gid=0) [Sergio]
 * March 6th - Spring break
 * March 13th
-* March 20th - Something [Juniper]
+* March 20th - portalcasting [Juniper]
 * March 27th - Personal website sprint [Hao et al.]
 * April 3rd - Plant Census 
 * April 10th - Plant data [Ellen]

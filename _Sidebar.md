@@ -16,6 +16,7 @@
 
 ### UF Bureaucracy, Travel, Spending
 * [Graduating](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Graduating)
+* [Graduating: SNRE](https://github.com/weecology/lab-wiki/wiki/Graduating:-SNRE)
 * [Scheduling Committee Meetings](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Scheduling-Committee-Meetings)
 * [SNRE Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-SNRE-Rules)
 * [WEC Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-WEC-Rules)

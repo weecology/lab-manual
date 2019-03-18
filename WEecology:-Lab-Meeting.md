@@ -15,10 +15,10 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * March 6th - Spring break
 * March 13th
 * March 20th - portalcasting [Juniper]
-* March 27th - Personal website sprint [Hao et al.]
+* March 27th - retriever sprint/testing [Henry]
 * April 3rd - Plant Census 
 * April 10th - Plant data [Ellen]
-* April 17th
+* April 17th - Personal website sprint [Hao et al.]
 * April 24th
 
 (topics to be included)

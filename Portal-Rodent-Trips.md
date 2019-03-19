@@ -7,12 +7,12 @@ This page will (hopefully) remain an up-to-date list of future Portal trip dates
 
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
-* *July 13-15* (Ellen, Alyssa)
-* *Aug 10-12* (Ellen, Hao)
-* *Sept 1-8?* Plant Census
-* *Oct 4-8* (Ellen, Lauren)
-* *Nov 9-11* (Ren)
-* *Dec 7-9* (Joan)
+* *Mar 28 - Apr 5*: Plant Census (Ellen, Ren, Glenda, Hao, Juniper, Erica, Kristina)
+* *May 3-5* (Ellen, Cat?)
+* *Jun 7-9* (Ellen)
+* *Jun 28-29 * (Ellen)
+* *Aug 2-4* (Ren)
+* *Summer Plants* 
 
 ## Trip Description
 For those of you not familiar with the procedure, a Portal weekend consists of two nights of rodent trapping.  We fly out Thursday and stay overnight in Tucson. Friday morning, we pick up the field truck and any supplies we need and drive 3 hours to the site.  Friday night just before sunset we'll set traps on half of the site's 24 plots -- this procedure takes about 2 hours.  Saturday morning we get up just before dawn and process animals in the full traps.  The rodent RA (Ellen, Joan, or Renata) will be the one actually handling the animals while the volunteer records data and assists with equipment.  Volunteers had handle "exiled" rodents if they are interested.  Saturday night, we'll set traps on the other half of the plots, and Sunday morning will be the same as Saturday morning.  Sunday afternoon, we'll break camp and head back to Tucson, stay in a hotel again, and fly back on Monday morning.  

@@ -10,8 +10,8 @@ Dates for trips more than 2 months in advance tend to be somewhat flexible.
 * *Mar 28 - Apr 5*: Plant Census (Ellen, Ren, Glenda, Hao, Juniper, Erica, Kristina)
 * *May 3-5* (Ellen, Cat?)
 * *Jun 7-9* (Ellen)
-* *Jun 28-29 * (Ellen)
-* *Aug 2-4* (Ren)
+* *Jun 28-29* (Ellen)
+* *Aug 2-4* (Ren or Glenda)
 * *Summer Plants* 
 
 ## Trip Description

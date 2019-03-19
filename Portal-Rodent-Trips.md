@@ -47,8 +47,6 @@ For those of you not familiar with the procedure, a Portal weekend consists of t
 
 * Elise Morton
 * Wes Boone
-* Annie Loggins
 * Katie Hooker
 * Lauren Trotta
-* Lauren Holian (undergrad)
 * Cat Frock

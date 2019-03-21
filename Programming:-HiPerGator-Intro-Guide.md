@@ -112,7 +112,7 @@ Below are a collection of best practices by past Weecology Users. These are not 
 
 HiPerGator has a lot of packages installed already, but you might need to install your own, or you might want an updated version of an existing package.
 
-You can tell R to prefer your personal library of R packages over the ones maintained for Hipergator by adding `libPaths(c("/home/YOUR_USER_NAME/R_libs", .libPaths()))` to your `.Rprofile`.  If you don't have one yet, you can create a new file with that name and put it in your home directory (e.g. in `/home/harris.d/.Rprofile`).
+You can tell R to prefer your personal library of R packages over the ones maintained for Hipergator by adding `.libPaths(c("/home/YOUR_USER_NAME/R_libs", .libPaths()))` to your `.Rprofile`.  If you don't have one yet, you can create a new file with that name and put it in your home directory (e.g. in `/home/harris.d/.Rprofile`).
 
 The end result will look like this.
 

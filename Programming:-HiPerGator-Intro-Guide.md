@@ -122,6 +122,8 @@ The end result will look like this.
 print(".Rprofile loaded")
 ```
 
+You will need to create the `R_libs` directory using `mkdir R_libs`.
+
 When you load R, you should see 
 
 ```

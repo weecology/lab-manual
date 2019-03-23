@@ -169,6 +169,11 @@ Some quick notes:
 
 # Python
 
+## Installing Python Packages
+
+* Load the Python module using `ml python3`
+* Install into a user directory using `pip install --user *package_name*`
+
 * Dask Parallelization
 
 # Connecting through jupyter notebooks.

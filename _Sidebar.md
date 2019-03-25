@@ -46,7 +46,7 @@
 
 ### Career Guidance, Conferences, Networking
 * [General Career Guidance](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-general)
-* [Career Paths](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:Career-Paths)
+* [Career Paths](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Career-Paths)
 * [Applying for Postdocs](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-applying-for-postdocs)
 * [Making a Poster](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-a-Poster)
 * [Publication Logistics](https://github.com/weecology/lab-wiki/wiki/Publication-Logistics)

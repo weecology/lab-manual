@@ -8,7 +8,7 @@ How do you go about doing this?
 
 1. We recommend including the following components:
     * For students/postdocs: When do you think you will be completing this phase of your training? (*This puts in perspective how much time you have to complete your tasks to achieve your goals*)
-    * What are your long-term career plans? (*This helps focus in on what kind of things you should be doing*)
+    * What are your long-term career plans? (*This helps focus in on what kind of things you should be doing*)? Include at least two possible career paths. (*It's good to consider multiple paths, you'll be happier knowing you have multiple options, and it helps us understand what's most important to you*)
     * What parts of your current job do you like and not like and how does this relate to your career plans? (*This helps make sure your career plans fit with your interests*)
     * Given your long-term plans, what do you think you need to do to be successful? (*These are what we will call your goals*)
     * What did you accomplish this year towards accomplishing your goals?

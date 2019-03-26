@@ -1,3 +1,10 @@
+## Designing your poster
+
+Posters are often end up being a wall of text. If you want to experiment with a new poster design, watch this [YouTube video](youtu.be/1RwJbhkCA58). The first half of the video is making an argument for why the 'traditional' poster design is ineffective, slows down knowledge transfer, and makes poster session less enjoyable for everyone. The new poster design is showed in the second half of the video if you want to just skip ahead. 
+
+[note: should upload a copy of a traditional scientific poster]
+
+## Printing the Poster
 Here is some information on how to print your poster at UF:
 https://print.at.ufl.edu/help/frequent-printing-questions/
 https://print.at.ufl.edu/help/pricing/

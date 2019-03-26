@@ -19,7 +19,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * April 3rd - Plant Census 
 * April 10th - Plant data [Ellen]
 * April 17th - Personal website sprint [Hao et al.]
-* April 24th
+* April 24th - Lab wiki sprint [Sergio et al.]
 
 (topics to be included)
 * visualizing probability concepts through tables or graphics (Virnaliz)

@@ -17,7 +17,7 @@ When you get your reviews back, the next step is to figure out how to handle the
 
 When you resubmit your manuscript, you will also submit a detailed response to the reviewers. To construct this, cut and paste the reviews into a new document. Into this document you will write your response to each individual issue the reviewer brings up. Often reviewers will construct their reviews so that each paragraph is focused on a separate distinct issue, if not, you can break their paragraphs accordingly. Keep all of their comments in the document so it is clear you did not edit out any of their concerns. We find that a good starting place for your revision is sitting down with the document and thinking about how you would/should respond to each of these items and start writing in ideas/responses. Then you can use your responses as a template for making the changes in your manuscript.
 
-- [Response to reviewers]([Statement from website about what was included in registration](https://github.com/weecology/lab-wiki/blob/master/PLoS Response.pdf)
+- [Response to reviewers](https://github.com/weecology/lab-wiki/blob/master/PLoS Response.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
 
 ## Response to editor
 When you resubmit you will also submit a cover letter to the editor. This is distinct from the detailed response to reviewers. The cover letter will consist of 2 main parts:

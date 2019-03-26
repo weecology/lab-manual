@@ -16,6 +16,11 @@
 
 ### Faculty - Teaching Focused
 
+* **Summary:** Teaching focused faculty are involved in classroom teaching, mentoring undergraduates (including on  research projects), writing research papers (typically with students), and writing grants. They work at variety of institutions including community colleges, small liberal arts colleges, and state colleges and universities.
+* **Core skills:** course design, modern pedagogy, oral and written communication to broad audiences, mentoring, and project management.
+* **Things to do:** 1) (co)Teach a course as an instructor of record; 2) Become a Carpentries instructor and teach workshops; 3) Do and publish research (postdoctoral research experience is increasingly desired by more selective teaching institutions).
+* **Weecologists to talk to:** Sarah Supp, Kenneth Locey, Daniel McGlinn
+
 ### Extension Agent
 
 ### Government Research

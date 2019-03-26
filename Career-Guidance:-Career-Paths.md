@@ -9,6 +9,11 @@
 
 ### Faculty - Research Focused
 
+* **Summary:** Research focused faculty are involved in conducting research, writing research papers, mentoring graduate students, writing grants, and teaching. They work primarily at R1 and R2 universities (see [Carnegie Classifications](http://carnegieclassifications.iu.edu/) for more details).
+* **Core skills:** conceiving scientific questions, implementing data collection and analyses to answer them, oral and written communication of results to broad audiences, mentoring, and project management.
+* **Things to do:** 1) Do and publish research; 2) Learn research related skills (e.g., field work, R/Python, statistics/machine learning, metabarcoding, experimental design, mathematical modeling, and many more)
+* **Weecologists to talk to:** Morgan Ernest, Ethan White, Zack Brym
+
 ### Faculty - Teaching Focused
 
 ### Extension Agent

@@ -15,9 +15,9 @@ Journals will also ask for editor recommendations. There should be a page on the
 ## Cover letter
 
 All cover letters consist of: 
-- a business header (name of Editor in Chief, their professional address) (if you forget this part it is not a problem)
+- a business header (either the name of Editor in Chief & their professional address or your name and professional address) (if you forget this part it is not a problem and choosing one header or the other won't raise any eyebrows though to the editor is more traditional)
 - a description consisting of the manuscript title, authors, and what 'type' of article it is being submitted as for consideration (e.g., Report, Methods, Ideas and Concepts, Article, this varies from  journal to journal and some journals do not have different types of article)
-- a brief description of the manuscript (1 paragraph). For many journals, this description should convey either implicitly or explicitly why this article is of interest to the readership of this journal. If going to a general ecology journal like Ecology/Ecology Letters/AmNat then this description should focus on the aspects of your work that a general readership would find interesting. If going to GEB then focus on the general interest and global nature of the study. etc etc. 
+- a brief description of the manuscript (typically 1 paragraph). For many journals, this description should convey either implicitly or explicitly why this article is of interest to the readership of this journal. If going to a general ecology journal like Ecology/Ecology Letters/AmNat then this description should focus on the aspects of your work that a general readership would find interesting. If going to GEB then focus on the general interest and global nature of the study. etc etc. If you are going for one of the journals whose mission is to publish what they think is the most influential research (Science, Nature, PLoS Biology, PNAS, eLife) then you need to emphasize the novelty and importance of the work and more than 1 paragraph may be acceptable (see the Riemer example below).
 - Any assurances or statements the journal requires (i.e. not submitted elsewhere, etc).
 
 You letter should not be longer than 1 page, including the header material and your 'signature' at the bottom (don't need to literally sign it).
@@ -25,6 +25,7 @@ You letter should not be longer than 1 page, including the header material and y
 Here are some examples of cover letters
 
 - [Cover letter](https://github.com/sdtaylor/phenology_dataset_study/blob/master/manuscript/cover_letter.txt) for [Taylor et al. 2018](https://doi.org/10.1002/ecy.2568)
+- [Cover letter](https://github.com/weecology/lab-wiki/blob/master/Riemer-cover-letter.pdf) for [Riemer et al. 2018]( https://doi.org/10.7554/eLife.27166)
 
 ## Submission
 

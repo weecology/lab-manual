@@ -34,7 +34,7 @@
 ### Program Officer
 
 ### Project Manager
-* **Wecologists to talk to:** Glenda Yenni
+* **Wecologists to talk to:** Glenda Yenni, Kate Thibault
 
 ### Software Developer/Engineer
 * **Wecologists to talk to:** Henry Senyondo

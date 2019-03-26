@@ -28,6 +28,9 @@
 * **Wecologists to talk to:** Zack Brym
 
 ### Research Scientist
+* **Summary:** Research scientists is a general descriptor for individuals employed to conduct specific research tasks and are employed in government,NGOs, and consulting. Individuals in these types of jobs are employed to design and conduct research that meets specific needs of that organization (e.g., provide analysis on management effectiveness, evaluate and recommend monitoring designs, determine potential environmental impacts or assess recovery). These jobs often also have an element of project management (managing the budget allocated for those research activities, management of field technicians, coordination with other units or agencies). Government scientist positions (at state and federal levels) often involve course requirements to qualify, which depend upon the title of the position (i.e. a Field Botanist would require a certain number of credits in plant-focused courses).
+* **Core skills:** research-related skills (depending upon the type of position - field ecology, data analyst, statistician), oral and written communication to broad audiences, basic project management.
+* **Wecologists to talk to:** Kate Thibault (her original position at NEON was as a Research Scientist)
 
 ### Science and Technology Policy
 
@@ -42,7 +45,6 @@
 * **Wecologists to talk to:** Henry Senyondo
 
 ### Statistician
-
 * **Summary:** Statisticians are involved in data manipulation, visualization, analysis, and interpretation. They work in a broad variety of environments including government, NGOs, industry, and academia. Similar to Data Analyst/Scientist but typically with greater emphasis on the statistical analysis component of the job.
 * **Core skills:** statistics/machine learning, data manipulation and visualization in high level languages (primarily R and Python), oral and written communication of results to broad audiences, and the ability to collaborate with people with a broad range of technical backgrounds.
 * **Things to do:** 1) Learn R/Python, git/GitHub, statistics/machine learning, and Rmarkdown/Jupyter/Shiny; 2) Build website showing off these skills; 3) Start a statistics/data analysis related blog.

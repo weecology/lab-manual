@@ -22,18 +22,20 @@
 * **Things to do:** 1) (co)Teach a course as an instructor of record; 2) Become a Carpentries instructor and teach workshops; 3) Do and publish research (postdoctoral research experience is increasingly desired by more selective teaching institutions).
 * **Weecologists to talk to:** Sarah Supp, Kenneth Locey, Daniel McGlinn
 
-### Extension Specialist
+### Faculty - Extension Specialist
 * **Summary:** Land-grant universities in the U.S. have an outreach mission mandated by the federal government that is referred to as extension. The goal of extension is to communicate research products to the end-users. This mandate covers the general areas of agriculture, home and family, the environment, and community economic development. At a land-grant university there are special faculty who serve at the interface between research and outreach. These faculty often have part of their appointment dedicated to outreach and part to conducting research. Research is typically focused on an applied need in the state. Outreach activities may take a variety of roles from consulting with state agencies, running workshops to train state agents and/or the public in resources or tools, creating outreach material through websites or pamphlets, giving public talks to local organizations. There are a number of faculty in WEC with extension appointments (e.g., Mark Hostetler, Elizabeth Pienaar, Mathieu Basile).
 * **Core skills:** oral and written communication to broad audiences, project management, research-related skills.
 * **Wecologists to talk to:** Zack Brym
 
-### Government Research
+### Research Scientist
 
 ### Science and Technology Policy
 
 ### Program Officer
 
 ### Project Manager
+* **Summary:** Project managers oversee the planning and execution of projects. The difference between a project manager and a research scientist is that the project manager is often not involved in the execution of the project itself, but in managing and facilitating the ability of others to execute on the project. Project managers are employed in government, NGOs, and industry. They may manage a single lab, an institute/center, or extensive programs within large organizations.
+* **Core skills:** personnel management skills, project management, administrative skills (procurement, hiring, budgets), oral and written communication to broad audiences.
 * **Wecologists to talk to:** Glenda Yenni, Kate Thibault
 
 ### Software Developer/Engineer

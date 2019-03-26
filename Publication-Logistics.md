@@ -28,7 +28,7 @@ When you resubmit you will also submit a cover letter to the editor. This is dis
 
 Examples of Resubmission letters:
 
-- [Resubmission cover letter]((https://github.com/weecology/lab-wiki/blob/master/PLoS-Revision-Cover-Letter.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
+- [Resubmission cover letter](https://github.com/weecology/lab-wiki/blob/master/PLoS-Revision-Cover-Letter.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
 
 ## Managing co-authors
 

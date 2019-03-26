@@ -1,7 +1,21 @@
+Congrats! You're getting ready to submit a manuscript for review at a journal. This guide will walk you through the various steps in the process, however, it assumes you've already decided what journal to submit to. Right now, there is no wiki page on that, so talk with Ethan or Morgan or one of the postdocs/staff for advice.
+
+## Manuscript Formatting
+
+Go to the journal's website, and they should have a section called "For Authors" or "Guide to Authors" or something along those lines. They should have detailed (though sometimes contradictory or poorly organized) guidelines for citation style, section order, cover letter requirements, submission website link, etc. They will also, hopefully in the same location, have a description of the focus of the journal, which your manuscript should fall within. 
+
+## Recommending reviewers & editors
+
+Journals will want you to recommend 3 - 5 people who could potentially review your manuscript. Those people may or may not end up being reviewers, and they might not even be asked if the handling editor has enough reviewers in mind. 
+
+It's probably most important to recommend scientists who have similar philosophies to yours (e.g., if the paper has a macroecological approach, don't choose someone who thinks macroecology is invalid). You'll also want to avoid recommending anyone who could have a conflict of interest in reviewing, including anyone at your current institution and anyone who's been a coauthor with any of the manuscript's coauthors in the last 5 - 10 years or so. You should probably have all manuscript coauthors approve of the reviewer recommendations. 
+
+Journals will also ask for editor recommendations. There should be a page on the journal's website with the editorial board, choose 1 - 2 editors that seem most approporiate for the manuscript topic. 
+
 ## Cover letter
 
 All cover letters consist of: 
-- a business header (name of Editor in Chief, their professional address)
+- a business header (name of Editor in Chief, their professional address) (if you forget this part it is not a problem)
 - a description consisting of the manuscript title, authors, and what 'type' of article it is being submitted as for consideration (e.g., Report, Methods, Ideas and Concepts, Article, this varies from  journal to journal and some journals do not have different types of article)
 - a brief description of the manuscript (1 paragraph). For many journals, this description should convey either implicitly or explicitly why this article is of interest to the readership of this journal. If going to a general ecology journal like Ecology/Ecology Letters/AmNat then this description should focus on the aspects of your work that a general readership would find interesting. If going to GEB then focus on the general interest and global nature of the study. etc etc. 
 - Any assurances or statements the journal requires (i.e. not submitted elsewhere, etc).
@@ -11,6 +25,18 @@ You letter should not be longer than 1 page, including the header material and y
 Here are some examples of cover letters
 
 - [Cover letter](https://github.com/sdtaylor/phenology_dataset_study/blob/master/manuscript/cover_letter.txt) for [Taylor et al. 2018](https://doi.org/10.1002/ecy.2568)
+
+## Submission
+
+Your formatted manuscript and cover letter will get uploaded to the journal's author submission website. There will also be some web forms where they will ask for reviewer/editor suggestions, probably make you enter co-author info (that is already on your cover sheet, but try not to think about the redundancy in the process). Click submit and now you wait for the response, which is often in the 1-2 month, but sometimes closer to 3 months.
+
+## Preprints
+
+You will have to decide whether to put your manuscript online as a preprint. There may still be some journals that discourage or don't allow papers to be posted as preprints. Some allow preprints but only to certain types to pre-print servers (this is currently the case for American Naturalist). You'll also want to check that all of the coauthors on the manuscript agree to do so. 
+
+Benefits to putting up preprints include the possibility that more people will see your work, it will be able to influence the field sooner (as it can takes months or years for papers to be published), and you could get valuable feedback prior to peer review. Some of this depends on how actively you promote the preprint by sharing on social media, disseminating to other scientists, etc. Journals also identify preprints of interest and could reach out to you about publishing with them. 
+
+Popular preprint servers include [bioRxiv](http://biorxiv.org/) and [PeerJ](https://peerj.com/preprints-search/). We usually submit the initial preprint at the same time as the initial submission of the manuscript to the journal. You can expect to spend a couple of hours doing this process. Whenever you make substantial changes to the manuscript, you will also update the preprint
 
 ## Dealing with reviews
 When you get your reviews back, the next step is to figure out how to handle them. Typically reviewers will have major and minor criticisms. Your task is to sort through those criticisms and figure out a plan for addressing them. Reviewers are only human and they are not infallible. Their criticisms will fall into one of three categories: useful, neutral, and wrong. You are not required to do everything a reviewers tells you to do. Ethan and Morgan's philosophy (which we got from our advisor) is that if it doesn't harm the research/manuscript you do whatever a reviewer requests (i.e. everything in the neutral/good categories). If you think what the reviewer has suggested is majorly problematic, then we generally advise not doing it. In your response to the reviewers you can explain why you disagree with their suggestion/criticism. You want to choose judiciously when to stand your grand in the review process. Discussion with your co-authors/advisers is warranted.
@@ -34,7 +60,7 @@ Examples of Resubmission letters:
 
 Do not forget your co-authors through this process. You do not have to go through this on your own. They can help you brainstorm how to deal with difficult issues, help run analyses to deal with concerns, help draft language for the response letter or implement revisions to the manuscript. 
 
-Hopefully you have a good relationship with your co-authors and they are actively engaged, however often co-authors are more peripheral to a project, had a limited role in the analyses/manuscript. It can be easy to forget them as you manage all the moving parts of the review process. Professionally, however, you need to make sure they are ok with the manuscript during all the phases of this process. Here's a checklist to help you remember when to reach out to your collaborators:
+Hopefully you have a good relationship with your co-authors and they are actively engaged, however often co-authors are more peripheral to a project (e.g., had a limited role in the analyses/manuscript). It can be easy to forget them as you manage all the moving parts of the review process. Professionally, however, you need to make sure they are ok with the manuscript during all the phases of this process. Here's a checklist to help you remember when to reach out to your collaborators:
 
 - ALWAYS have all co-authors sign off on the final version of the manuscript before submitting. 
 - When you receive the reviews and response from the journal, forward it on to your co-authors, even if you are not yet ready to discuss how to handle the comments. If you wait, you'll forget and then you'll be racing a deadline to resubmit without having co-authors engaged.

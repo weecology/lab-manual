@@ -44,7 +44,7 @@ A summary of rights is below and the full contract is [here](insert link). In ca
 ## Work spaces
 * If you are required to work on-campus, the university must give you a place to work
 * If you feel that your working environment is unsafe (in the health and hazard sense) you should report this to an administrator who is required to conduct an investigation. You will be provided the outcome of the investigation and any actions the university needs to take to remedy the situation.
-
+* The university should give you a 1 month notice if they are going to move your work space
 
 ## 
 

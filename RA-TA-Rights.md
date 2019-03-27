@@ -40,7 +40,11 @@ A summary of rights is below and the full contract is [here](insert link). In ca
 ## Discrimination
 * All personnel decisions related to RA/TAs should be based on job performance and job-related criteria and not based on "race, color, sex, religious creed, national origin, age, veteran status, disability, political affiliation, sexual orientation, marital status, gender identity, or any other category protected by  federal or state law".
     * The contract makes no mention of what your rights are if this has happened. Sigh. We will develop a page of resources/protocols that are available to you to pursue action.
-* You have a right to safe conditions (sensu: health and safety  rules) and the university must "make every reasonable effort" to provide one. If you feel that your working environment is unsafe you should report this to an administrator who is required to conduct an investigation. You will be provided the outcome of the investigation and any actions the university needs to take to remedy the siutation.
+
+## Work spaces
+* If you are required to work on-campus, the university must give you a place to work
+* If you feel that your working environment is unsafe (in the health and hazard sense) you should report this to an administrator who is required to conduct an investigation. You will be provided the outcome of the investigation and any actions the university needs to take to remedy the situation.
+
 
 ## 
 

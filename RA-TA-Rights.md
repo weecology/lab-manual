@@ -1,6 +1,6 @@
-As an RA/TA at the University of Florida, you are covered by the rights the graduate student union has negotiated with the university. For your reference here is the [full contract](link)
+As an RA/TA at the University of Florida, you are covered by the rights the graduate student union has negotiated with the university. As a note, these are rights related to your employment status with the university (as opposed to as a student). 
 
-A summary of rights is below. In cases where the language is squishy in the contract, an attempt has been made to clarify how the policy will be applied to our group. 
+A summary of rights is below and the full contract is [here](insert link). In cases where the language is squishy in the contract, an attempt has been made to clarify how the policy will be applied to our group. 
 
 ## Leaves of Absence (with pay)
 * If an injury/disability/illness prevents you from conducting your RA/TA duties you cannot be required to do them. But you should notify your supervisor immediately.    
@@ -26,7 +26,7 @@ A summary of rights is below. In cases where the language is squishy in the cont
 * Important: the University policy only applies AFTER your first semester on a RA/TA. If you need unpaid leave during your 1st semester on a RA/TA the university is not constrained by the contract.
     * In practice: Please talk to Ethan/Morgan if you feel like you need an extended absence from the program during your 1st semester.
 
-# Workload
+## Workload
 * You cannot be forced to work more hours than your position requires. This number depends on your FTE (full-time equivalent) appointment. 
     * Most RAs in our group are 0.5 FTE (or half-time). Your specifically required RA duties can't comprise more than 20 hours/week. 
     * How this applies to our lab: The intersection of the RA duties with a student's dissertation/educational plan is where things get muddied, lines get blurred, and where abuses can and do occur. For example, if a student is doing a dissertation chapter that is also a project required for a grant on which they are an RA, and a supervisor pushes a student to work more, is the supervisor requiring the student to put in more hours on the RA or pushing the student to make progress on the dissertation? It is sadly common that supervisors to say it is "for the dissertation" when in reality the motivation is actually related to the work required for the grant (or the supervisor's own professional needs). This is part of the reason we do annual self-evaluations and have you set your own goals, so it is clearer when feedback is based on your progress on your educational plan vs when what we are asking for is unrelated to that and RA related. Ethan and Morgan know the current system in the lab is imperfect and we are slowly trying to make this aspect clearer and more transparent. For now, if you feel that aspects of what you are doing are not related to your educational plan (defined as dissertation plus professional development) and are taking up more than 20 hours per week then please talk to us, or have someone else in the lab convey that there is concern about this (potentially anonymously) if you are uncomfortable communicating this to us directly so we can sit down and talk through the RA responsibilities, how to decrease the hours associated with them, and make sure you have the time to put towards your own educational goals.
@@ -37,8 +37,12 @@ A summary of rights is below. In cases where the language is squishy in the cont
 * Fees for graduate students are not due until Fall: Nov. 15, Spring: Mar 15, Summer A,B,C: Jul 21st
 * The university provides health insurance to all RA/TAs with an FTE >= 0.25 and should be charged only a $10/month. Dependents/Spouses can be added at additional costs.
 
-## Unlawful Discrimination
+## Discrimination
+* All personnel decisions related to RA/TAs should be based on job performance and job-related criteria and not based on "race, color, sex, religious creed, national origin, age, veteran status, disability, political affiliation, sexual orientation, marital status, gender identity, or any other category protected by  federal or state law".
+    * The contract makes no mention of what your rights are if this has happened. Sigh. We will develop a page of resources/protocols that are available to you to pursue action.
+* You have a right to safe conditions (sensu: health and safety  rules) and the university must "make every reasonable effort" to provide one. If you feel that your working environment is unsafe you should report this to an administrator who is required to conduct an investigation. You will be provided the outcome of the investigation and any actions the university needs to take to remedy the siutation.
 
+## 
 
 
 

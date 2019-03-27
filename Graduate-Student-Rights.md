@@ -31,6 +31,15 @@ A summary of rights is below. In cases where the language is squishy in the cont
     * Most RAs in our group are 0.5 FTE (or half-time). Your specifically required RA duties can't comprise more than 20 hours/week. 
     * How this applies to our lab: The intersection of the RA duties with a student's dissertation/educational plan is where things get muddied, lines get blurred, and where abuses can and do occur. For example, if a student is doing a dissertation chapter that is also a project required for a grant on which they are an RA, and a supervisor pushes a student to work more, is the supervisor requiring the student to put in more hours on the RA or pushing the student to make progress on the dissertation? It is sadly common that supervisors to say it is "for the dissertation" when in reality the motivation is actually related to the work required for the grant (or the supervisor's own professional needs). This is part of the reason we do annual self-evaluations and have you set your own goals, so it is clearer when feedback is based on your progress on your educational plan vs when what we are asking for is unrelated to that and RA related. Ethan and Morgan know the current system in the lab is imperfect and we are slowly trying to make this aspect clearer and more transparent. For now, if you feel that aspects of what you are doing are not related to your educational plan (defined as dissertation plus professional development) and are taking up more than 20 hours per week then please talk to us, or have someone else in the lab convey that there is concern about this (potentially anonymously) if you are uncomfortable communicating this to us directly so we can sit down and talk through the RA responsibilities, how to decrease the hours associated with them, and make sure you have the time to put towards your own educational goals.
 
+## Stipends/Fees/Tuition/Health Insurance
+
+* RA/TAs are required to be paid at least $21,333.33 for a 0.5 FTE 12-month appointment
+* Fees for graduate students are not due until Fall: Nov. 15, Spring: Mar 15, Summer A,B,C: Jul 21st
+* The university provides health insurance to all RA/TAs with an FTE >= 0.25 and should be charged only a $10/month. Dependents/Spouses can be added at additional costs.
+
+## Unlawful Discrimination
+
+
 
 
 

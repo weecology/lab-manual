@@ -171,12 +171,18 @@ Some quick notes:
 
 ## Installing Python Packages
 
-* Load the Python module using `ml python3`
-* Install into a user directory using `pip install --user *package_name*`
+* ssh onto HiperGator
+* Download the conda installer: `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
+* Run the installer: `bash Miniconda3-latest-Linux-x86_64.sh`
+* Answer 'Yes' at the end of the install to have conda added to your `.bashrc`
+* Install packages using `conda install package_name`
+* Run `conda activate` as the first step in your slurm script 
 
-* Dask Parallelization
+## Dask Parallelization
 
-# Connecting through jupyter notebooks.
+To be added
+
+## Connecting through jupyter notebooks.
 
 Its useful to be able to interact with hipergator, without having to rely solely on the terminal. Especially when dealing with large datasets, instead of prototyping locally, then pushing to the cloud, we can connect directly using a jupyter notebook.
 

@@ -313,3 +313,15 @@ There are a few other partitions available.
 * `gui` - For jobs where you want to run a GUI (graphical user interface). 
 
 **Selecting a partition** By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`. 
+
+# Check if running on HiPerGator
+
+Sometimes it's useful to have code execute one way on your local computer and another way on the HPC. For HiPerGator you can do this by checking the environmental variable HOSTNAME and looking to see if it contains `ufhpc`. For example, in R
+
+```
+if (grepl("ufhpc", Sys.getenv("HOSTNAME"))){
+  hipergator_run()
+} else {
+  local_run()
+}
+```

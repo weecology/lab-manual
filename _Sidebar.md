@@ -13,6 +13,7 @@
 * [Local Attractions](https://github.com/weecology/lab-wiki/wiki/WEecology:-Local-Attractions)
 * [Hurricane Preparedness](https://github.com/weecology/lab-wiki/wiki/WEecology:-Hurricane-preparedness)
 * [Tool Selection and Decision Making](https://github.com/weecology/lab-wiki/wiki/WEecology:-Tool-Selection-and-Decision-Making)
+* [RA/TA Rights]((https://github.com/weecology/lab-wiki/wiki/WEecology:-RA TA Rights)
 
 ### UF Bureaucracy, Travel, Spending
 * [Graduating](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Graduating)

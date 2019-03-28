@@ -46,7 +46,27 @@ A summary of rights is below and the full contract is [here](insert link). In ca
 * If you feel that your working environment is unsafe (in the health and hazard sense) you should report this to an administrator who is required to conduct an investigation. You will be provided the outcome of the investigation and any actions the university needs to take to remedy the situation.
 * The university should give you a 1 month notice if they are going to move your work space
 
-## 
+## What is the process if your supervisor submits a formal complaint about you?
+The contract outlines the process and rights of the RA/TA if their supervisor starts formal disciplinary proceedings against them. This process ONLY applies to work-related issues related to the RA/TA. It does not cover other aspects of the graduate student/mentor relationship (e.g., requesting a new PhD mentor or a mentor requesting a student be reassigned to another mentor). This process involves the supervisor submitting a complaint to the university, the university investigating this complaint and deciding on appropriate action and you having a chance to appeal the decision. This situation rarely happens but since it is really important to know your rights if it does, things are broken out and defined below.
+
+### Step 1: Request for Disciplinary Action
+* What is a Disciplinary Action? It is a formal accusation of misconduct/incompetency submitted to the University. It is not an oral reprimand, letters of counseling, or other criticism. A formal Disciplinary Action will be handled through the university and involves due process. 
+* RA/TAs can only be disciplined for misconduct or incompetency. Actions outside the scope of employment cannot be used against you unless they "adversely affect the legitimate and compelling interests of the University" (which are undefined)
+* Accusations of misconduct or incompetency will be investigated by the university and conducted as confidentially as possible. The RA/TA will be notified in writing about the result of the investigation.
+* Disciplinary actions can result in termination of the RA/TA or suspension w/ or w/o pay, depending on the degree of misconduct, or a written formal reprimand. 
+    * If terminated, the student will have to pay pro-rated tuition starting at the date of termination.
+
+### Step 2: Grievance
+If you have concerns about how the university decision was made (for whatever reason) you have the right to request a Grievance Procedure. This is when the union gets involved. 
+* What is a Grievance?: a formal complaint by an employee towards their employer that the employee has been treated unfairly in some way.
+* The Grievance Procedure Grievance is a formal process and will involve the union in some capacity.
+* Representation: during this process you have a right to be represented by a union official, by legal counsel, or to represent yourself.
+* Your supervisor cannot punish you for the time required to participate in grievance meetings (i.e. they cannot withhold pay or deny you time off to attend the meeting.
+* There is a detailed process in the contract for how to proceed with a Grievance. Long story short, contact the UFF-GAU (graduate student union) and let them help you through this process. 
+
+
+
+
 
 
 

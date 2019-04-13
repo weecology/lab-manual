@@ -1,0 +1,17 @@
+We believe that we should not require students to do things that do not have direct training benefits and that any training benefits inherently trade-off against the time, effort, and stress associated with an activity. Therefore, we use a qualifying exam approach with direct training for real-life activities/interactions that is intended to minimize stress and wasted effort.
+
+We believe that a good assessment of having the breadth and depth of understanding necessary to be a professional scientist is the ability to hold a scientific conversation about your research with other researchers and stakeholders. Can you talk about how your research fits into the current state of the field? Can you explain the choices you've made with respect to data and analyses? Can highlight how your research differs from the current state of the field, conceptually and in its strengths and weaknesses? This mirrors real world interactions like questions during presentations, chalk talks on job interviews, and interacting with others online about your scientific products.
+
+## SNRE Students
+
+SNRE has a very flexible policy related to qualifying exams, which allows us to design our own approach. Based on principles outlined above we use a qualifying exam that is a single 2 hour oral discussion (no written component) where the committee engages in a discussion with the student about the student’s research. You provide [your proposal](https://github.com/weecology/lab-wiki/wiki/WEecology:-Dissertation-Proposals) to the full committee at least two weeks before the qualifying exam to help committee members focus their questions. We don't restrict how the questions relate to the proposal, for example, questions can be conceptually or methodologically focused, involve justifying their approach/hypothesis, or asking them to provide more background on a concept or theory they are using for their research. The goal is for the exam to more closely reflect something that we all regularly have to do with reviewers, colleagues, and collaborators: explain and justify our research ideas. Because this approach is more focused with clearer expectations for both the student and faculty member, our hope is that students will spend less time stressed about this process and more time benefiting from it as a training opportunity.
+
+### Steps and Timing for Qualifying "Exams"
+
+1. At least 1 month (and ideally 2-3) before you want to do the "exam" poll your committee for available dates and times.
+2. Once you have a two hour block that works for everyone schedule a room. This can be the unconference room if it's available (home territory, lots of white boards, good remote access; what's not to love).
+3. Notify your committee about the scheduled time and remind them of the structure of the "exam".
+4. At least 1 month before the "exam" send your proposal to your advisor for feedback.
+5. At least 2 weeks before the "exam" send your revised proposal to the entire committee.
+6. The day before the "exam" send a reminder to your committee of the time and location.
+7. The morning of the "exam" send a reminder to your committee of the time and location (yes, this seems excessive, but you'd be surprised how many times we've had issues with committee members not showing up.

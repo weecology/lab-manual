@@ -12,6 +12,9 @@ The documents that worked for Erica were: (everything should be a copy, they won
 * Renters insurance policy
 
 ---
+[This document](https://github.com/weecology/lab-wiki/blob/master/How%20to%20Get%20Reclassified%20as%20a%20Florida%20Resident%20for%20Tuition%20Purposes.pdf) is from an IFAS Dean and outlines some of the official guidelines with links to the relevant Florida laws. Note that it states you cannot apply for residency if you only came to Florida for school. Yet this is the case for everybody in the Weecology lab, and everyone who has applied for residency has gotten it. 
+
+---
 The people checking this read the law to the letter, which is something like "Legal documents showing residency of 12 months prior to the start of the semester". After talking with a few people it seems the easiest way to do this is, as soon as you move to Gainesville and **before your 1st semester starts** go get your Florida drivers license, car registration, and register to vote. At the start of your 2nd  year here these will then be legal docs that are dated 12 months from the present.   If you really want to drive it home you can also do the Declaration of Domicile along with your license, voter registration, etc. 
 
 Shawn first submitted the following and got denied:

@@ -14,10 +14,10 @@
 * [Hurricane Preparedness](https://github.com/weecology/lab-wiki/wiki/WEecology:-Hurricane-preparedness)
 * [Tool Selection and Decision Making](https://github.com/weecology/lab-wiki/wiki/WEecology:-Tool-Selection-and-Decision-Making)
 * [RA/TA Rights](https://github.com/weecology/lab-wiki/wiki/WEecology:-RA-TA-Rights)
-* [Dissertation Proposals](https://github.com/weecology/lab-wiki/wiki/WEecology:-Dissertation-Proposals)
-* [Qualifying Exams](https://github.com/weecology/lab-wiki/wiki/WEecology:-Qualifying-Exams)
 
 ### UF Bureaucracy, Travel, Spending
+* [Dissertation Proposals](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Dissertation-Proposals)
+* [Qualifying Exams](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Qualifying-Exams)
 * [Graduating](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Graduating)
 * [Graduating: SNRE](https://github.com/weecology/lab-wiki/wiki/Graduating:-SNRE)
 * [Scheduling Committee Meetings](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Scheduling-Committee-Meetings)

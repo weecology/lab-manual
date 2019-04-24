@@ -12,3 +12,6 @@ Tips and Advice for doing your job from a location other than the lab
     * Give others the benefit of the doubt
 
 * Do not hesitate to go to video if it would serve the conversation better than text
+
+### Documentation
+

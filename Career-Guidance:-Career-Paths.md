@@ -4,8 +4,12 @@
 * **Core skills:** data manipulation, visualization, and analysis in high level languages (primarily R and Python), oral and written communication of results to broad audiences, and the ability to collaborate with people with a broad range of technical backgrounds.
 * **Things to do:** 1) Learn R/Python, git/GitHub, statistics/machine learning, and Rmarkdown/Jupyter/Shiny; 2) Build website showing off these skills; 3) Start a data analysis related blog.
 * **Weecologists to talk to:** Xiao Xiao, Dave Harris, Kristina Riemer, Ben Morris, Clayton Bingham.
+**Job Ad Examples**
+* [Data Analyst (for profit company)](https://github.com/weecology/lab-wiki/blob/master/Sr%20Data%20Analyst_examplejobad.pdf)
+* [Data Scientist (academic setting)](https://github.com/weecology/lab-wiki/blob/master/Academic_DataScientist_jobadexample.pdf)
 
 ### Entrepreneur
+Take your skills and start your own business. 
 * **Wecologists to talk to:** Elita Baldridge, Clayton Bingham, Juniper Simonis
 
 ### Faculty - Research Focused
@@ -31,6 +35,8 @@
 * **Summary:** Research scientists is a general descriptor for individuals employed to conduct specific research tasks and are employed in government,NGOs, and consulting. Individuals in these types of jobs are employed to design and conduct research that meets specific needs of that organization (e.g., provide analysis on management effectiveness, evaluate and recommend monitoring designs, determine potential environmental impacts or assess recovery). These jobs often also have an element of project management (managing the budget allocated for those research activities, management of field technicians, coordination with other units or agencies). Government scientist positions (at state and federal levels) often involve course requirements to qualify, which depend upon the title of the position (i.e. a Field Botanist would require a certain number of credits in plant-focused courses).
 * **Core skills:** research-related skills (depending upon the type of position - field ecology, data analyst, statistician), oral and written communication to broad audiences, basic project management.
 * **Wecologists to talk to:** Kate Thibault (her original position at NEON was as a Research Scientist)
+* **Example Job Ads**
+   * [Ecologist - Federal](https://github.com/weecology/lab-wiki/blob/master/job_ads/fed_govt_jobad_example.pdf)
 
 ### Science and Technology Policy
 

@@ -6,7 +6,8 @@ SSH (short for "secure shell") is a computer protocol for encrypting access to c
 
 ## What software do I need?
 
-
+SSH should be pre-installed with Mac OS, Windows 10, and Linux.
+On other versions of Windows, you might want to download [Git Bash](https://gitforwindows.org/) which also contains some other useful tools.
 
 ## What is an SSH key?
 

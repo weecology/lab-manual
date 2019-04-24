@@ -5,7 +5,7 @@
 * **Things to do:** 1) Learn R/Python, git/GitHub, statistics/machine learning, and Rmarkdown/Jupyter/Shiny; 2) Build website showing off these skills; 3) Start a data analysis related blog.
 * **Weecologists to talk to:** Xiao Xiao, Dave Harris, Kristina Riemer, Ben Morris, Clayton Bingham.
 * **Job Ad Examples**
-   * [Data Analyst (for profit company)](https://github.com/weecology/lab-wiki/blob/master/Sr%20Data%20Analyst_examplejobad.pdf)
+   * [Data Analyst (for profit company)](https://github.com/weecology/lab-wiki/blob/master/job_ads/Sr%20Data%20Analyst_examplejobad.pdf)
    * [Data Scientist (academic setting)](https://github.com/weecology/lab-wiki/blob/master/Academic_DataScientist_jobadexample.pdf)
 
 ### Entrepreneur

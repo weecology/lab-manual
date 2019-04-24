@@ -40,6 +40,7 @@ I don't know. Then go ask whomever is paying for your trip if they can use a pca
 
 * Project #. You will need to get this from the UF entity paying for the trip (i.e. Ethan, Morgan, Department, SNRE, etc)
 * Registration: See the Conference travel page for tips on what you need to submit with the TA to document the registration costs.
+* Per diem: Per diem is calculated based on precisely the time you were travelling. On the first and last day of travel, you should only claim the amount that includes meals that occured during travelling time. Your flight itinerary will determine these times. (e.g. if your departure flight is in the evening, you will not be able to claim breakfast the first day)
 * International Travel: See the International travel page for what needs to be submitted with your TA.
 * You need to sign it.
 
@@ -50,6 +51,7 @@ I don't know. Then go ask whomever is paying for your trip if they can use a pca
 
 **Step 5a**: Jen will email you a copy of the TAR to sign. Sign it and send it back to her. Make note of the TA # ("authorization ID"), because you will need this for the TER and any Pcard invoices. 
 
+**Step 5b**: Be sure to keep copies of all receipts related to the TA until after the TER has been closed. If a problem comes up, you may not be able to access these receipts again if you don't have a copy. In particular, be sure your airfare receipt lists your exact itinerary (dates and times of flights) as these will be needed to calculate per diem.
 
 ## Travel Expense Report (TER):
 

@@ -14,3 +14,7 @@ Fridge space is shared among the lab members, and there is usually plenty of spa
   - announcements will be sent on the lab slack a week, 2 days, and 1 day before purges (if you need someone to save something in the fridge for you, let someone know)
 * Fridges will be defrosted once a year:
   - simultaneously with the end of spring semester fridge purge
+
+## Dry erase boards
+
+If you create something on the conference room dry erase boards, it's your responsibility take a photo of it (or write a "save!" note) before you go. 

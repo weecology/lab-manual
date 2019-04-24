@@ -11,6 +11,32 @@ On other versions of Windows, you might want to download [Git Bash](https://gitf
 
 ## What is an SSH key?
 
-## What are the benefits to using an SSH key?
+Access to servers through SSH involves authenticating yourself with a username and password (the same as if you were logging in directly to the machine).
 
-## Setup Instructions
+Alternatively, you can generate a digital "key" that provides access to the keyholder. Typically, you generate an SSH key for your computer, and then set up the appropriate file on the server(s) you wish to access. Then, instead of authenticating yourself with your username and password for the server, you instead use the SSH key, which is verified by the paired file previously copied to the server. (You can also provide a passphrase in order to use your SSH key, but as it's stored on your laptop or desktop and requires you to be logged in, this security step is optional - opinions vary on this.)
+
+## Setup Instructions (GitHub)
+
+GitHub has [instructions](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) on creating an SSH key and setting it up for use on Github.
+
+## Setup Instructions (Serenity / HiPerGator / generic)
+
+To setup an SSH key for use on Serenity, we assume you have gone through the steps described in the instructions for GitHub to create an SSH key. This creates both the key itself (usually located in `~/.ssh/id_rsa`), and a paired file that verifies that the key is correct (usually located in `~/.ssh/id_rsa.pub`).
+
+1. Log in to the server you wish to use the SSH key on.
+2. Edit the `~/.ssh/authorized_keys` file *on the server*. It may already have contents, in which case, go to a new, blank line.
+3. Copy over the contents of the `~/.ssh/id_rsa.pub` from your local computer. It will look something like:
+```
+ssh-rsa *************long-string of random characters************* <email address>
+```
+
+**(If you see something like: `-----BEGIN RSA PRIVATE KEY-----`, you are using the wrong file!!)**
+
+4. Save the modified `~/.ssh/authorized_keys` file on the server.
+5. Try to connect using ssh. In the command line on your local computer:
+```bash
+ssh <username>@<server>
+```
+
+You should authenticate without having to enter your password.
+

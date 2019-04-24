@@ -39,4 +39,4 @@ Renata submitted these and got denied twice:
 The second time also
 * Copies of my rent checks starting in July before my first semester
 
-I then called the Registrar and found out I also needed to provide my tax return (proving I filed as an independent and paid my own living expenses). They waived it for me because as a grad student they knew I must be filing as an independent(?), but for anyone new it is good to know. The language in the form confused me - it doesn't matter if you're older or younger than 24, you need to submit a copy of your most recent tax return. 
+I then called the Registrar and found out I also needed to provide my tax return (proving I filed as an independent and paid my own living expenses). They waived it for me and approved my reclassification, because as a grad student they knew I must be filing as an independent(?), but for anyone new it is good to know. The language in the form confused me - it doesn't matter if you're older or younger than 24, you need to submit a copy of your most recent tax return. 

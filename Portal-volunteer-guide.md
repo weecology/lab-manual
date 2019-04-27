@@ -2,7 +2,7 @@
 
 ## UF paperwork
   * If this is your first time volunteering, you'll need to complete this form: https://www.whitney.ufl.edu/media/wwwwhitneyufledu/images/files/UF-Record-of-Volunteer-Service.pdf
-    * If you're not UF-affiliated, you'll need to get a UFID. One will be assigned to you by **RMD fill this in** 
+    * If you're not UF-affiliated, you'll need to get a UFID. One will be assigned to you by Dan Deep 
   * Before we buy your flights, we need to submit a travel authorization. http://www.wec.ufl.edu/resources/travel/Travel%20Authorization%201.2.pdf
     * The RA can help you fill in estimates of your expenses. 
   * After the trip, submit a travel expense report with your actual expenses:http://www.wec.ufl.edu/resources/travel/Travel%20Expense%20Report%201.2.pdf
@@ -10,7 +10,7 @@
 
 ## Flights
   * You can fly in to Tucson any time from Thursday evening to mid-morning on Friday.
-  * You can leave Tucson any time after Friday evening.
+  * You can leave Tucson any time after Sunday evening.
 
 
 ## Packing list (for a volunteer)
@@ -19,10 +19,10 @@
   * Sandals or flip flops
     * For cooler months, I recommend an extra pair of warm socks to go under your sandals
   * Hiking pants
-  * Lightweight shorts for travel
   * 2-3 tshirts or tanktops
   * An overshirt to keep the sun off
   * A hat for sun
+  * Clothes for traveling and hanging out in Tucson
   * Sunblock
   * Sunglasses
   * Chapstick

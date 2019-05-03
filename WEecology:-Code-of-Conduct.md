@@ -4,7 +4,7 @@ We are committed to providing a safe, inclusive, and harassment-free experience 
 
 # Philosophy
 
-The philosophy of Weecology is to enable and support good science by creating a harassment and discrimination-free experience for everyone. Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance or body size will not be tolerated. **We do not tolerate harassment or discrimination by and/or of members of our community in any form.**
+The philosophy of Weecology is to enable and support good science by creating a harassment and discrimination-free experience for everyone. Safe, inclusive, and harassment-free environments don't just happen. They are created by the day-to-day interactions we all have with each other. Thus, it is the responsibility of all members of the lab to help create and maintain a safe, inclusive, harassment-free environment so that we may all benefit from it. Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance or body size will not be tolerated. **We do not tolerate harassment or discrimination by and/or of members of our community in any form.**
 
 We are also committed to supporting and training a diverse scientific workforce. Current and former group members encompass a variety of racial and ethnic backgrounds from the U.S. and other countries, members of the LGBTQ community, military veterans, people with chronic illnesses, and first-generation college students.
 
@@ -26,7 +26,7 @@ Participants asked to stop any harassing or discriminatory behavior are expected
 
 If you are being harassed, notice that someone else is being harassed, or have any concerns about potential violations, please contact [Morgan](mailto:morgan@weecology.org) or [Ethan](mailto:ethan@weecology.org) immediately. If Ethan or Morgan is the cause of your concern (or you are uncomfortable talking to them directly for any reason), Kate Thibault (mailto:kthibault@battelleecology.org) is a good informal point of contact; she was one of the first weecologists, does not work for us or the University of Florida, and because of her career path does not rely on Ethan or Morgan in any way. She has agreed to mediate and discuss issues confidentially if desired. Concerns can also be directed to the [UFL Ombuds Office](https://www.ombuds.ufl.edu/).
 
-If inappropriate behavior persists, the issue will be escalated according to UFL policies; for more information please see the [UFL Institutional Equity & Diversity page](http://hr.ufl.edu/manager-resources/recruitment-staffing/institutional-equity-diversity/)
+If inappropriate behavior persists, the issue will be escalated according to UFL policies; for more information please see the [UFL Institutional Equity & Diversity page](http://hr.ufl.edu/manager-resources/recruitment-staffing/institutional-equity-diversity/).
 
 # License & Acknowledgments
 

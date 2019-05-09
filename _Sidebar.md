@@ -22,7 +22,7 @@
 * [Scheduling Committee Meetings](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Scheduling-Committee-Meetings)
 * [SNRE Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-SNRE-Rules)
 * [WEC Rules](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-WEC-Rules)
-* [Travel Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Travel-Guidelines)
+* [Travel Guidelines](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Travel-and-Reimbursement-Guidelines)
 * [WEC staff](https://github.com/weecology/lab-wiki/wiki/WEC-staff:-Who-to-talk-to-if-anything-goes-wrong%3F)
 * [Rental Cars](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Rental-Cars)
 * [PCARDS](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-PCARDS)

@@ -34,13 +34,13 @@ Before you start the travel authorization process, make sure you know how your t
 
 I don't know. Then go ask whomever is paying for your trip if they can use a pcard to pay for expenses so it doesn't come out of your meager earnings. 
 
-**Step 3**. Download a TA form: http://www.wec.ufl.edu/resources/travel/Travel%20Authorization%201.2.pdf
+**Step 3**. Download a [TA form](https://wec.ifas.ufl.edu/media/wecifasufledu/files/travel/WEC-TRAVEL-AUTHORIZATION-FORM-3.13.19-Fillable-Reader.pdf
 
 **Step 4**. Fill out the TA form. Most of the form is self-explanatory. If a pcard is paying for certain things, put that in the pcard column, otherwise, list it under paid by traveler. There are complexities with the form. These are:
 
 * Project #. You will need to get this from the UF entity paying for the trip (i.e. Ethan, Morgan, Department, SNRE, etc)
 * Registration: See the Conference travel page for tips on what you need to submit with the TA to document the registration costs.
-* Per diem: Per diem is calculated based on precisely the time you were travelling. On the first and last day of travel, you should only claim the amount that includes meals that occured during travelling time. Your flight itinerary will determine these times. (e.g. if your departure flight is in the evening, you will not be able to claim breakfast the first day)
+* Per diem: Per diem is calculated based on precisely the time you were traveling. On the first and last day of travel, you should only claim the amount that includes meals that occurred during traveling time. Your flight itinerary will determine these times. (e.g. if your departure flight is in the evening, you will not be able to claim breakfast the first day)
 * International Travel: See the International travel page for what needs to be submitted with your TA.
 * You need to sign it.
 
@@ -57,7 +57,7 @@ I don't know. Then go ask whomever is paying for your trip if they can use a pca
 
 You will need to submit a travel expense report after travel is completed. The process will be roughly the same for any type of travel. If you received any travel grants, however, get in touch with the WEC fiscal office for how to address that.
 
-**Step 6**: Submit a [WEC Travel expense report](http://www.wec.ufl.edu/resources/travel/Travel%20Expense%20Report%201.2.pdf)  
+**Step 6**: Submit a [WEC Travel expense report](https://wec.ifas.ufl.edu/media/wecifasufledu/files/travel/Travel-Expense-Report-1.2.pdf)  
     Email it to Jen at WECFiscal@ifas.ufl.edu
 
 Make sure you fill in the associated TAR #. You can find this in myUFL at Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View, or on the file Jen sends you in step 5a.  

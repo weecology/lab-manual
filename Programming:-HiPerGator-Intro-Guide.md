@@ -167,6 +167,137 @@ Some quick notes:
 * If your code already uses functions and for loops, it should be very easy to make it parallel, unless each pass through the loop depends on the outcome from previous passes.
 * On your own computer, never set the amount of processors used to the max available. This will take away all the processing power needed to run the operating system, browser, and other programs, and could potentially crash your computer. To test out parallel code on my computer I set the number of processors to use at 2 (out of 8 available).
 
+## Batchtools
+
+Recently, the R package batchtools has made simple parallel job submissions in R much easier. No more bash scripting, just submit a set of jobs by mapping a function to a list of inputs. Here is an example.
+
+
+```
+library(batchtools)
+
+#Batchtools tmp registry
+reg = loadRegistry(file.dir = NA, seed = 1)
+print(reg)
+print("registry created")
+
+print(reg)
+# Toy function which creates a large matrix and returns the column sums
+fun = function(n) {
+  Sys.sleep(10)
+  t<-Sys.time()
+  print(paste("worker", n, "time is",t))
+  return(t)
+}
+
+#batchtools submission
+reg$cluster.functions=makeClusterFunctionsSlurm(template = "detection_template.tmpl", array.jobs = TRUE,nodename = "localhost", scheduler.latency = 1, fs.latency = 65)
+ids = batchMap(fun,args=list(n=seq(1:10)), reg = reg)
+
+testJob(id=ids[1,],reg=reg)
+
+# Set resources: enable memory measurement
+res = list(walltime = "2:00:00", memory = "4GB")
+
+# Submit jobs using the currently configured cluster functions
+submitJobs(ids, resources = res, reg = reg)
+waitForJobs(ids, reg = reg)
+getStatus(reg = reg)
+print(getJobTable())
+```
+
+with a SLURM template in the same directory.
+
+detection_template.tmpl
+```
+#!/bin/bash
+
+## Modified from  https://github.com/mllg/batchtools/blob/master/inst/templates/
+
+## Job Resource Interface Definition
+##
+## ntasks [integer(1)]:       Number of required tasks,
+##                            Set larger than 1 if you want to further parallelize
+##                            with MPI within your job.
+## ncpus [integer(1)]:        Number of required cpus per task,
+##                            Set larger than 1 if you want to further parallelize
+##                            with multicore/parallel within each task.
+## walltime [integer(1)]:     Walltime for this job, in seconds.
+##                            Must be at least 60 seconds for Slurm to work properly.
+## memory   [integer(1)]:     Memory in megabytes for each cpu.
+##                            Must be at least 100 (when I tried lower values my
+##                            jobs did not start at all).
+##
+## Default resources can be set in your .batchtools.conf.R by defining the variable
+## 'default.resources' as a named list.
+
+<%
+# relative paths are not handled well by Slurm
+log.file = fs::path_expand(log.file)
+
+if (!"ncpus" %in% names(resources)) {
+  resources$ncpus = 1
+}
+if (!"walltime" %in% names(resources)) {
+  resources$walltime<-"1:00:00"
+}
+if (!"memory" %in% names(resources)) {
+  resources$memory <- "5GB"
+}
+
+-%>
+
+  # Job name and who to send updates to
+  #SBATCH --mail-user=benweinstein2010@gmail.com
+  #SBATCH --mail-type=FAIL,END
+  #SBATCH --account=ewhite
+  #SBATCH --partition=hpg2-compute
+  #SBATCH --qos=ewhite-b   # Remove the `-b` if the script will take more than 4 days; see "bursting" below
+
+  #SBATCH --job-name=<%= job.name %>
+  #SBATCH --output=<%= log.file %>
+  #SBATCH --error=<%= log.file %>
+  #SBATCH --time=<%= resources$walltime %>
+  #SBATCH --ntasks=1
+  #SBATCH --cpus-per-task=<%= resources$ncpus %>
+  #SBATCH --mem-per-cpu=<%= resources$memory %>
+  <%= if (!is.null(resources$partition)) sprintf(paste0("#SBATCH --partition='", resources$partition, "'")) %>
+  <%= if (array.jobs) sprintf("#SBATCH --array=1-%i", nrow(jobs)) else "" %>
+
+## Initialize work environment like
+## source /etc/profile
+## module add ...
+
+## Export value of DEBUGME environemnt var to slave
+export DEBUGME=<%= Sys.getenv("DEBUGME") %>
+
+<%= sprintf("export OMP_NUM_THREADS=%i", resources$omp.threads) -%>
+<%= sprintf("export OPENBLAS_NUM_THREADS=%i", resources$blas.threads) -%>
+<%= sprintf("export MKL_NUM_THREADS=%i", resources$blas.threads) -%>
+
+## Run R:
+## we merge R output with stdout from SLURM, which gets then logged via --output option
+echo "submitting job"
+module load gcc/6.3.0 R gdal/2.2.1
+
+#add to path
+Rscript -e 'batchtools::doJobCollection("<%= uri %>")'
+```
+
+yields
+```
+Submitting 10 jobs in 10 chunks using cluster functions 'Slurm' ...
+[1] TRUE
+Status for 10 jobs at 2019-05-21 14:43:03:
+  Submitted    : 10 (100.0%)
+  -- Queued    :  0 (  0.0%)
+  -- Started   : 10 (100.0%)
+  ---- Running :  0 (  0.0%)
+  ---- Done    : 10 (100.0%)
+  ---- Error   :  0 (  0.0%)
+  ---- Expired :  0 (  0.0%)
+```
+
+
 # Python
 
 ## Installing Python Packages

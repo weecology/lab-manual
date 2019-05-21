@@ -181,7 +181,7 @@ print(reg)
 print("registry created")
 
 print(reg)
-# Toy function which creates a large matrix and returns the column sums
+# Toy function  that just sleeps
 fun = function(n) {
   Sys.sleep(10)
   t<-Sys.time()

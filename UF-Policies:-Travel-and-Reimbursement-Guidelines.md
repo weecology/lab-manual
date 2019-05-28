@@ -8,6 +8,12 @@ Is your traveling being paid for by UF (either Morgan, Ethan, or some other sour
 
 **No?** Coordinate with whomever is paying your travel.
 
+## Important policies to know
+
+* UF won't reimburse for airbnb anymore, due to a state boycott. Other similar services that are still allowed: Tripping, HomeToGo, FlipKey, HomeAway, VRBO, HouseTrip, VayStays, VacayHero
+* Do not pay for gas with a P card unless you have a state vehicle or rental. Fuel in a personal vehicle can only be paid through a mileage calculation.
+* The amount of per diem you can claim is based on your actual travel times. (eg If you are flying, it is based on your actual departure and arrival times.)
+
 
 The travel reimbursement process at UF can be broken down into 2 major steps: 1) Approval of pending travel (TAR), 2) Being reimbursed for travel (TER)
  

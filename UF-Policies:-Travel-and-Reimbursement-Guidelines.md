@@ -13,7 +13,7 @@ Is your traveling being paid for by UF (either Morgan, Ethan, or some other sour
 * UF won't reimburse for airbnb anymore, due to a state boycott. Other similar services that are still allowed: Tripping, HomeToGo, FlipKey, HomeAway, VRBO, HouseTrip, VayStays, VacayHero
 * Do not pay for gas with a P card unless you have a state vehicle or rental. Fuel in a personal vehicle can only be paid through a mileage calculation.
 * The amount of per diem you can claim is based on your actual travel times. (eg If you are flying, it is based on your actual departure and arrival times.)
-
+* You can only get reimbursed for tipping taxi/Uber/Lyft drivers up to 20%.
 
 The travel reimbursement process at UF can be broken down into 2 major steps: 1) Approval of pending travel (TAR), 2) Being reimbursed for travel (TER)
  
@@ -138,7 +138,5 @@ To submit a cost comparison, what I (Ellen) have done in the past is screenshot 
 Feel free to ask Ellen any questions you might have about this process, or you can contact Kevin Geisler (k.geisler@ufl.edu), the new WEC fiscal assistant.
 
 ***  
-Any issues or questions with the steps above can be resolved by asking [Kevin Geisler](k.geisler@ufl.edu)
+Any issues or questions with the steps above can be resolved by asking [Cassy Summerlin](csummerlin@ufl.edu)
 
-### Other Random Notes
-* You can only get reimbursed for tipping taxi/Uber/Lyft drivers up to 20%. 

@@ -456,3 +456,5 @@ if (grepl("ufhpc", Sys.getenv("HOSTNAME"))){
   local_run()
 }
 ```
+
+Only do this if you plan to run your script from an ssh session. Renata tried logic like this in a sbatch submission, and it skipped to the `local_run` section. Presumably the `HOSTNAME` is different running via SLURM - to be investigated.

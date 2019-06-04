@@ -456,5 +456,11 @@ if (grepl("ufhpc", Sys.getenv("HOSTNAME"))){
   local_run()
 }
 ```
+If you are submitting via SLURM, the hostname will not contain "ufhpc" but the nodename will. So use this logic:
 
-Only do this if you plan to run your script from an ssh session. Renata tried logic like this in a sbatch submission, and it skipped to the `local_run` section. Presumably the `HOSTNAME` is different running via SLURM - to be investigated.
+```
+nodename <- Sys.info()["nodename"]
+if(grepl("ufhpc", nodename)) {
+  print("I know I am on SLURM!")
+}
+```

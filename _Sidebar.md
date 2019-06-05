@@ -59,6 +59,7 @@
 * [Making a Poster](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-a-Poster)
 * [Manuscript Submission Process](https://github.com/weecology/lab-wiki/wiki/Manuscript-Submission-Process)
 * [Tips for Talks and Presentations](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Tips-for-talks-and-presentations)
+* [Networking](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Networking-at-Conferences-Events)
 * [Making Figures](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Making-figures-for-publication)
 * [Ally Skills](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Ally-Skills)
 * [Peer Reviews](https://github.com/weecology/lab-wiki/wiki/Career-Guidance:-Peer-Reviews)

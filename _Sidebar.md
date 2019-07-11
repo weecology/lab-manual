@@ -5,6 +5,7 @@
 * [Advisor-free Projects](https://github.com/weecology/lab-wiki/wiki/WEecology:-Advisor-free-projects)
 * [Annual Self-Assessment](https://github.com/weecology/lab-wiki/wiki/WEecology:-Annual-self-assessment)
 * [Emergency Contact Information](https://github.com/weecology/lab-wiki/wiki/WEecology:-Emergency-contact-information)
+* [Lab Tools](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Tools)
 * [Lab Meeting](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting)
 * [Lab Meeting Formats](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting-Format-Description)
 * [Letters of Recommendation](https://github.com/weecology/lab-wiki/wiki/WEecology:-Letters-of-Recommendation)

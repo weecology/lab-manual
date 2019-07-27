@@ -8,14 +8,18 @@ Is your traveling being paid for by UF (either Morgan, Ethan, or some other sour
 
 **No?** Coordinate with whomever is paying your travel.
 
+[General WEC travel page](https://wec.ifas.ufl.edu/resources/travel/)
+
 ## Important policies to know
 
-* UF won't reimburse for airbnb anymore, due to a state boycott. Other similar services that are still allowed: Tripping, HomeToGo, FlipKey, HomeAway, VRBO, HouseTrip, VayStays, VacayHero
+* ~~UF won't reimburse for airbnb anymore, due to a state boycott. Other similar services that are still allowed: Tripping, HomeToGo, FlipKey, HomeAway, VRBO, HouseTrip, VayStays, VacayHero~~ restored as of [2019-06-11](http://www.fa.ufl.edu/2019/07/updated-travel-policy-airbnb/)
 * Do not pay for gas with a P card unless you have a state vehicle or rental. Fuel in a personal vehicle can only be paid through a mileage calculation.
 * The amount of per diem you can claim is based on your actual travel times. (eg If you are flying, it is based on your actual departure and arrival times.)
 * You can only get reimbursed for tipping taxi/Uber/Lyft drivers up to 20%.
 
-The travel reimbursement process at UF can be broken down into 2 major steps: 1) Approval of pending travel (TAR), 2) Being reimbursed for travel (TER)
+The travel reimbursement process at UF can be broken down into 2 major steps:
+1) Approval of pending travel (TAR)
+2) Being reimbursed for travel (TER)
  
 ## Travel Authorization (TAR):
 
@@ -40,7 +44,7 @@ Before you start the travel authorization process, make sure you know how your t
 
 I don't know. Then go ask whomever is paying for your trip if they can use a pcard to pay for expenses so it doesn't come out of your meager earnings. 
 
-**Step 3**. Download a [TA form](https://wec.ifas.ufl.edu/media/wecifasufledu/files/travel/WEC-TRAVEL-AUTHORIZATION-FORM-3.13.19-Fillable-Reader.pdf
+**Step 3**. Download a [TAR form](https://wec.ifas.ufl.edu/pdf/travel/WEC%20TRAVEL%20AUTHORIZATION%20FORM%20TA%206.2.19%20Fillable%20Reader.pdf)
 
 **Step 4**. Fill out the TA form. Most of the form is self-explanatory. If a pcard is paying for certain things, put that in the pcard column, otherwise, list it under paid by traveler. There are complexities with the form. These are:
 
@@ -63,7 +67,7 @@ I don't know. Then go ask whomever is paying for your trip if they can use a pca
 
 You will need to submit a travel expense report after travel is completed. The process will be roughly the same for any type of travel. If you received any travel grants, however, get in touch with the WEC fiscal office for how to address that.
 
-**Step 6**: Submit a [WEC Travel expense report](https://wec.ifas.ufl.edu/media/wecifasufledu/files/travel/Travel-Expense-Report-1.2.pdf)  
+**Step 6**: Submit a [WEC Travel expense report](https://wec.ifas.ufl.edu/pdf/travel/WEC%20TRAVEL%20EXPENSE%20REPORT%20ER%206.2.19%20Fillable%20Reader.pdf)  
     Email it to Jen at WECFiscal@ifas.ufl.edu
 
 Make sure you fill in the associated TAR #. You can find this in myUFL at Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View, or on the file Jen sends you in step 5a.  

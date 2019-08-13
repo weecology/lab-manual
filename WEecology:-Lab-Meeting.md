@@ -9,7 +9,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 * Aug 21 - Morgan and Ethan
 * Aug 28 - Ben - paper review
-* Sep 4 - (Plant Census)
+* Sep 4 - No Meeting(Plant Census)
 * Sep 11 - 
 * Sep 18 - 
 * Sep 25 - 
@@ -21,7 +21,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Nov 6 - 
 * Nov 13 -
 * Nov 20 -
-* Nov 27 -
+* Nov 27 - No Meeting (University Holiday)
 * Dec 4 - 
 
 

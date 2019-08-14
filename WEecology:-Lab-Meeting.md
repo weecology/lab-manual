@@ -7,7 +7,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 ## Schedule (Fall 2019)
 
-* Aug 21 - Morgan and Ethan
+* Aug 21 - Morgan and Ethan: State of the labs
 * Aug 28 - 
 * Sep 4 - No Meeting(Plant Census)
 * Sep 11 - 

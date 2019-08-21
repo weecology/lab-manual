@@ -11,7 +11,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Aug 28 - 
 * Sep 4 - No Meeting(Plant Census)
 * Sep 11 - 
-* Sep 18 -
+* Sep 18 - Ben
 * Sep 25 - Juniper
 * Oct 2 - 
 * Oct 9 - 

@@ -10,7 +10,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Aug 21 - Morgan and Ethan: State of the labs
 * Aug 28 - 
 * Sep 4 - No Meeting(Plant Census)
-* Sep 11 - 
+* Sep 11 - Shrub Data Sprint
 * Sep 18 - Ben
 * Sep 25 - Juniper
 * Oct 2 - 

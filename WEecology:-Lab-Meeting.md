@@ -13,7 +13,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Sep 11 - Shrub Data Sprint
 * Sep 18 - Ben
 * Sep 25 - Juniper
-* Oct 2 - 
+* Oct 2 - Renata(?)
 * Oct 9 - 
 * Oct 16 - 
 * Oct 23 - 

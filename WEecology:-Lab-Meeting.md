@@ -45,11 +45,8 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Machine learning
 * Writing
 * How to work on manuscripts as a collaborator
-* Presenting (giving talks)
 * What is this Open Science business anyway?
 * How do I organize conferences / symposia?
 * Networking (not the computer-y kind)
 * Establishing your "brand" (CV, resume, website, etc.)
-* software development for research (e.g. R packages)  
-* using rstudio on serenity
-* Creating website through GitHub
+* software development for research (e.g. R packages)

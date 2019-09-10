@@ -14,7 +14,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Sep 18 - Ben
 * Sep 25 - Juniper
 * Oct 2 - Renata(?)
-* Oct 9 - 
+* Oct 9 - Hao (Open Canvas for project prototyping/planning)
 * Oct 16 - 
 * Oct 23 - 
 * Oct 30 - 

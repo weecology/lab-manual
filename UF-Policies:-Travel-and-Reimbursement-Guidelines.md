@@ -46,12 +46,12 @@ I don't know. Then go ask whomever is paying for your trip if they can use a pca
 
 **Step 3**. Download a [TAR form](https://wec.ifas.ufl.edu/pdf/travel/WEC%20TRAVEL%20AUTHORIZATION%20FORM%20TA%206.2.19%20Fillable%20Reader.pdf)
 
-**Step 4**. Fill out the TA form. Most of the form is self-explanatory. If a pcard is paying for certain things, put that in the pcard column, otherwise, list it under paid by traveler. There are complexities with the form. These are:
+**Step 4**. Fill out the TAR form. Most of the form is self-explanatory. If a pcard is paying for certain things, put that in the pcard column, otherwise, list it under paid by traveler. There are complexities with the form. These are:
 
 * Project #. You will need to get this from the UF entity paying for the trip (i.e. Ethan, Morgan, Department, SNRE, etc)
 * Registration: See the Conference travel page for tips on what you need to submit with the TA to document the registration costs.
 * Per diem: Per diem is calculated based on precisely the time you were traveling. On the first and last day of travel, you should only claim the amount that includes meals that occurred during traveling time. Your flight itinerary will determine these times. (e.g. if your departure flight is in the evening, you will not be able to claim breakfast the first day)
-* International Travel: See the International travel page for what needs to be submitted with your TA.
+* **International Travel**: You will need to fill out the [International Travel Checklist](https://wec.ifas.ufl.edu/media/wecifasufledu/files/travel/University-of-Florida-International-Travel-check-List.pdf) as well as [register your international travel](https://internationalcenter.ufl.edu/travel/online-travel-registration).
 * You need to sign it.
 
 **Step 5**: Email your completed TA and any required attachments (registration documentation etc) to: Jen at WECFiscal@ifas.ufl.edu. 

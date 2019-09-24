@@ -13,8 +13,8 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Sep 11 - Shrub Data Sprint
 * Sep 18 - Ben
 * Sep 25 - Juniper
-* Oct 2 - 
-* Oct 9 - Hao (Open Canvas for project prototyping/planning)
+* Oct 2 - Hao (Open Canvas for project prototyping/planning)
+* Oct 9 - Sergio (Feedbacks on 15 minutes talk)
 * Oct 16 - 
 * Oct 23 - 
 * Oct 30 - 

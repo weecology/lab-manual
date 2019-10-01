@@ -29,6 +29,10 @@
   * 2 water bottles
   * A headlamp + batteries
   * Toiletries as needed
+  * A sleeping bag
+  * Any medications you need
+  * Warm clothes for nights & sleeping
+
 
 You can bring electronics, although there is a risk of them getting dusty or rained on. Verizon is the only carrier that really gets service at the actual site.
 
@@ -39,6 +43,7 @@ You can bring electronics, although there is a risk of them getting dusty or rai
   * Keep track of how much you spend getting to the airport (taxi, public transit fee, or gas + a per mile reimbursement if you drive your own car). You don't need to turn in your receipt unless you go over the per diem, but it's good to keep track.
   * Keep track of how much you spend on meals while traveling. You don't need to keep the receipts, but they can be helpful for keeping track of your expenses. The per diem is $3 breakfast/$6 lunch/$12 dinner. 
   * Depending on when you arrive, the rA will pick you up in Tucson in our field truck. There is also a hotel shuttle that can pick you up. You may need to go with the RA to pick up the field truck from its storage unit. 
+  * We often have to gate check rollaboard carryons. If you gate check your bag, make sure to confirm whether to pick it up planeside or at baggage claim. Make sure you keep essential items, including medication, with you at all times.
 
 ### In Tucson
 * Generally, the RA will pay for things because it's easier to keep track of the reimbursement that way. If you need to buy something, keep track of how much it was.
@@ -47,11 +52,11 @@ You can bring electronics, although there is a risk of them getting dusty or rai
 * It's a 3 hour drive to the site from Tucson. We'll stop halfway to fill up on gas. The travel stop has good bathrooms.
 
 ## Portal
-### Alan
-Alan is Morgan's dad. He often meets us at the site and helps with the census. He brings two of his dogs. They're medium size and vocal, but they mostly interact with Alan...
 ### Safety
+* We want to maintain a field experience that is as safe and accessible as possible. Please bring any medications you will need. If you have any medical conditions that may pose a risk to your safety while in the field, please let the RA know so we can make good decisions. If anything might be exacerbated by stress, walking, heat and cold, or changes in diet, bear this in mind. If there are any accommodations we can make to improve your comfort or safety, we are more than happy to do that (and get creative!). If at any time you feel like work at the site is causing you harm, prioritize your health and safety. You can always opt out.
 * Stay hydrated! We bring lots of water, and we can go up the canyon to get more.
 * Human health is more important than data. Take breaks when you need them.
+* We have a basic first aid kit in the truck. The RAs have some first aid training, but may not be currently certified (Renata's Wilderness First Responder is expired. I - Renata - don't know about Ellen?). 
 * There are rattlesnakes, scorpions, and centipedes at the site. Be careful about sticking your hand into dense clumps of grass or under rocks. Stay alert for a rattle. We have gaiters we use to cover our ankles when we're walking around the site in the summer. Use a headlamp at night to avoid scorpions. Keep your shoes inside a tent/the truck, or make sure you shake them out before you put your feet in them. 
 * There is a large woodrat midden in the corner of the ramada (our shed). We don't really touch it.
 * Wash your hands after touching traps or rodents.
@@ -60,11 +65,21 @@ Alan is Morgan's dad. He often meets us at the site and helps with the census. H
 * There aren't any large dangerous predators at the site.
 * There is pepper spray in the driver side door of the truck.
 * We will not trap if there is > 50% chance of rain and the overnight low is goign to be < 45 degrees. This is to keep the rodents from getting too cold.
+### Alan
+Alan is Morgan's dad. He often meets us at the site and helps with the census. He brings two of his dogs. They're medium size and vocal, but they mostly interact with Alan...
+### Logistics
+* We sleep in the truck, either in the back (it is a closed bed pickup truck, so the back of the truck has room for two tall people to stretch out) or horizontally across the front and back seats. Sleeping inside the cab might be warmer. When there are many people, or personal preference, we pitch tents around the area where we park the truck.
+* We go to the bathroom in a designated area a little way away from the camping area. We pack out toilet paper, and bury waste when appropriate. We may be able to drive to flush toilets during the day on Saturday, but unfortunately there's no way for us to completely avoid having to go to the bathroom outdoors.
+* We carry several large containers of water for drinking, cooking, and washing. Use as much as you need. We can refill on Saturday if necessary.
+* There are no showers at the site.
+* Please let the RA know about dietary restrictions and preferences. We're happy to get whatever groceries we need.
+* There is no electricity at the site. We do have a solar panel, which allows us to run small electronics (LED lights, charging phones, etc). 
+
 
 ### Friday afternoon/evening
 * We'll unpack the truck and set up our living space.
-* About two hours before sunset, we'll head out to set traps.
-  * In all, we trap 12 plots per night. Alan sets traps for four plots, and we do eight.
+* About three hours before sunset, we'll head out to set traps.
+  * In all, we trap 12 plots per night. 
   * Some of the plots have 'gates', little holes to let the right set of rodents come and go. We have to close the gates before we set traps. Someone walks the perimeter of the plot and covers the gates with a bit of hardware cloth and a rock.
   * We set one trap at each of 49 stakes in each plot. Each trap gets a handful of millet and is placed facing a random direction, close to the stake.
 
@@ -81,7 +96,7 @@ Alan is Morgan's dad. He often meets us at the site and helps with the census. H
 
 ### Saturday afternoon/evening
 * Is free time. We may have some maintenance to do.
-* Two hours before sunset, we'll head out to set the second half of the traps.
+* Three hours before sunset, we'll head out to set the second half of the traps.
 
 ### Sunday morning
 * We'll get up before sunrise and have breakfast, then head out and process the second night of rodents.

@@ -41,7 +41,7 @@ You can bring electronics, although there is a risk of them getting dusty or rai
 ### Flying
   * Your travel expenses will be covered.
   * Keep track of how much you spend getting to the airport (taxi, public transit fee, or gas + a per mile reimbursement if you drive your own car). You don't need to turn in your receipt unless you go over the per diem, but it's good to keep track.
-  * Keep track of how much you spend on meals while traveling. You don't need to keep the receipts, but they can be helpful for keeping track of your expenses. The per diem is $3 breakfast/$6 lunch/$12 dinner. 
+  * Keep track of how much you spend on meals while traveling. You don't need to keep the receipts, but they can be helpful for keeping track of your expenses.
   * Depending on when you arrive, the rA will pick you up in Tucson in our field truck. There is also a hotel shuttle that can pick you up. You may need to go with the RA to pick up the field truck from its storage unit. 
   * We often have to gate check rollaboard carryons. If you gate check your bag, make sure to confirm whether to pick it up planeside or at baggage claim. Make sure you keep essential items, including medication, with you at all times.
 

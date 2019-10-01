@@ -57,14 +57,18 @@ You can bring electronics, although there is a risk of them getting dusty or rai
 * Stay hydrated! We bring lots of water, and we can go up the canyon to get more.
 * Human health is more important than data. Take breaks when you need them.
 * We have a basic first aid kit in the truck. The RAs have some first aid training, but may not be currently certified (Renata's Wilderness First Responder is expired. I - Renata - don't know about Ellen?). 
-* There are rattlesnakes, scorpions, and centipedes at the site. Be careful about sticking your hand into dense clumps of grass or under rocks. Stay alert for a rattle. We have gaiters we use to cover our ankles when we're walking around the site in the summer. Use a headlamp at night to avoid scorpions. Keep your shoes inside a tent/the truck, or make sure you shake them out before you put your feet in them. 
-* There is a large woodrat midden in the corner of the ramada (our shed). We don't really touch it.
 * Wash your hands after touching traps or rodents.
 * If any food/utensils fall on the ground, don't eat it or use them.
 * We've never had a problem with rodent-borne disease or parasites.
 * There aren't any large dangerous predators at the site.
 * There is pepper spray in the driver side door of the truck.
-* We will not trap if there is > 50% chance of rain and the overnight low is goign to be < 45 degrees. This is to keep the rodents from getting too cold.
+### Creatures
+* There are rattlesnakes, scorpions, spiders, and centipedes at the site. Look before you put your hand into anything that might be described as a crevice. 
+* *Rattlesnakes*: Stay alert for a rattle. We have gaiters we use to cover our ankles when we're walking around the site in the summer. Be especially alert moving quickly through clumps of grass and when opening/closing gates. 
+* *Scorpions*: Be careful about sticking your hand into dense clumps of grass or under rocks. Use a headlamp at night to avoid scorpions. Keep your shoes inside a tent/the truck, or make sure you shake them out before you put your feet in them. Most of the scorpions at the site probably have painful but not dangerous stings. Renata's internet research suggests the Arizona bark scorpion (https://en.wikipedia.org/wiki/Arizona_bark_scorpion) is potentially problematic, but most of the scorpions Renata has seen are Vaejovids, which are not. 
+* *Spiders*: We definitely have black widows and we might have brown recluses. 
+* There is a large woodrat midden in the corner of the ramada (our shed). We don't really touch it.
+
 ### Alan
 Alan is Morgan's dad. He often meets us at the site and helps with the census. He brings two of his dogs. They're medium size and vocal, but they mostly interact with Alan...
 ### Logistics
@@ -74,6 +78,7 @@ Alan is Morgan's dad. He often meets us at the site and helps with the census. H
 * There are no showers at the site.
 * Please let the RA know about dietary restrictions and preferences. We're happy to get whatever groceries we need.
 * There is no electricity at the site. We do have a solar panel, which allows us to run small electronics (LED lights, charging phones, etc). 
+* We will not trap if there is > 50% chance of rain and the overnight low is goign to be < 45 degrees. This is to keep the rodents from getting too cold.
 
 
 ### Friday afternoon/evening

@@ -6,7 +6,7 @@ Notes I'll be making as I move toward graduation. This will eventually complimen
 ### Course requirements (See SNRE Plan of Study form for details)
 * SNRE Seminar. Once while signed up for the 1 course credit, and once not signed up.
 * A Principles of Ecology course. (note Shawn got this waived by having a BS in ecology).
-* 1 each of Natural Science, Social Science, and Sustainability. 3 of Research/Methods. 
+* 1 each of a Natural Science, Social Science, and Sustainability course. 3 courses of Research/Methods. 
   For a list of which courses count toward these see [here](http://snre.ifas.ufl.edu/academics/graduate/courses-syllabi-and-curriculum/).
 
 ### Concentration
@@ -23,7 +23,7 @@ The UF Graduate school requires:
 - Passing the defense
 - Submitting a correctly formatted dissertation.
 
-All these steps are logged in the [Graduate Information Management Systems (GIMS)](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp)
+All these steps are logged in the [Graduate Information Management Systems (GIMS)](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp). They also have very strict deadlines outlined below. 
 
 ## Other Notes
 Start discussing defense/graduation least 2 semesters *before* you intend to finish with:

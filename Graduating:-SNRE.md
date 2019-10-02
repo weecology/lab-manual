@@ -1,15 +1,32 @@
+This document outlines the official steps required by SNRE and the UF Grad school to graduate. 
+
 Notes I'll be making as I move toward graduation. This will eventually compliment [these notes](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Graduating).
 
 ## SNRE Checklist
 ### Course requirements (See SNRE Plan of Study form for details)
 * SNRE Seminar. Once while signed up for the 1 course credit, and once not signed up.
+* A Principles of Ecology course. (note Shawn got this waived by having a BS in ecology).
 * 1 each of Natural Science, Social Science, and Sustainability. 3 of Research/Methods. 
-* Courses required for a concentration.
+  For a list of which courses count toward these see [here](http://snre.ifas.ufl.edu/academics/graduate/courses-syllabi-and-curriculum/).
+
+### Concentration
+SNRE also requires a concentration. This encompasses 12 credit hours (at the PhD level, 6 for masters) of coursework. There is essentially a concentation for each department in the university, of which any can be chosen from. You then meet the requirement by taking 12 credits from that department. See the list [here](http://snre.ifas.ufl.edu/academics/graduate/courses-syllabi-and-curriculum/) under "Standard Concentrations". Alternatively you can just concentrations which have a more varied selection of courses, see the above page under "Concentrations that require additional hours". In either case, the credit hours that count toward a concetration also count for the other SNRE degree requirements. 
+
 ### Other requirements
-* Presentation at the SNRE Seminar.
+* Presentation at the SNRE Seminar. You must present at the weekly SNRE seminar. This is no requiremnet on when this happens, but people generaly do it in their last semester and present some form of their defense. 
+
+## Grad School Checklist
+The UF Graduate school requires:
+
+- 90 graduate level credit hours. 
+- Passing the qualifying exam
+- Passing the defense
+- Submitting a correctly formatted dissertation.
+
+All these steps are logged in the [Graduate Information Management Systems (GIMS)](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp)
 
 ## Other Notes
-Start discussing defending/graduation least 2 semesters *before* you intend to finish with:
+Start discussing defense/graduation least 2 semesters *before* you intend to finish with:
 * Your advisor
 * Your committee
 * Karen Bray

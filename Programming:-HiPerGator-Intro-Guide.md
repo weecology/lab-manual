@@ -454,14 +454,6 @@ Opening your browner, go to localhost:8888
 
 and viola, we are navigating hipergator from the confines of our own laptop.
 
-# Support
-
- [Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
-
-Hipergator staff are here to support you. Our grant money pays their salary. They are friendly and eager to help. When in doubt, just ask.
-
-For more information on (job submission scripts)[https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script]
-
 ### Tensorflow and conda env
 
 To make use of the GPU machine learning environment, but also have access to your packages, creating a conda env with all your needs except tensorflow and keras and then add them to the python path after loading the tensorflow module.
@@ -478,6 +470,14 @@ echo $PYTHONPATH
 /home/b.weinstein/DeepLidar
 python train.py --mode train
 ```
+
+# Support
+
+ [Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
+
+Hipergator staff are here to support you. Our grant money pays their salary. They are friendly and eager to help. When in doubt, just ask.
+
+For more information on (job submission scripts)[https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script]
 
 ## Priority
 

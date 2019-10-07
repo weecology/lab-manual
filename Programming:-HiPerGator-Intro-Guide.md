@@ -341,7 +341,45 @@ Status for 10 jobs at 2019-05-21 14:43:03:
 
 ## Dask Parallelization
 
-To be added
+Dask can be submitted through dask-jobqueue. 
+
+```
+#################
+    # Setup dask cluster
+    #################
+    
+    from dask_jobqueue import SLURMCluster
+    from dask.distributed import Client, wait
+    
+    num_workers = 10
+    
+    #job args
+    extra_args=[
+        "--error=/home/b.weinstein/logs/dask-worker-%j.err",
+        "--account=ewhite",
+        "--output=/home/b.weinstein/logs/dask-worker-%j.out"
+    ]
+    
+    cluster = SLURMCluster(
+        processes=1,
+        queue='hpg2-compute',
+        cores=1, 
+        memory='13GB', 
+        walltime='24:00:00',
+        job_extra=extra_args,
+        local_directory="/home/b.weinstein/logs/", death_timeout=300)
+    
+    print(cluster.job_script())
+    cluster.adapt(minimum=num_workers, maximum=num_workers)
+    
+    dask_client = Client(cluster)
+        
+    #Start dask
+    dask_client.run_on_scheduler(start_tunnel)  
+    
+    futures = dask_client.map(<function you want to parallelize>,  <list of objects to run>, <additional args here>)
+    wait(futures)
+```
 
 ## Connecting through jupyter notebooks.
 
@@ -423,6 +461,23 @@ and viola, we are navigating hipergator from the confines of our own laptop.
 Hipergator staff are here to support you. Our grant money pays their salary. They are friendly and eager to help. When in doubt, just ask.
 
 For more information on (job submission scripts)[https://wiki.rc.ufl.edu/doc/Annotated_SLURM_Script]
+
+### Tensorflow and conda env
+
+To make use of the GPU machine learning environment, but also have access to your packages, creating a conda env with all your needs except tensorflow and keras and then add them to the python path after loading the tensorflow module.
+
+```
+ml git
+ml gcc
+ml geos
+ml tensorflow
+export PATH=${PATH}:/home/b.weinstein/miniconda/envs/DeepLidar/bin/
+export PYTHONPATH=${PYTHONPATH}:/home/b.weinstein/miniconda/envs/DeepLidar/lib/python3.6/site-packages/
+echo $PYTHONPATH
+
+/home/b.weinstein/DeepLidar
+python train.py --mode train
+```
 
 ## Priority
 

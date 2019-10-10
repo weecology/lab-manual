@@ -39,7 +39,7 @@
 * [Portal Volunteer Guide](https://github.com/weecology/lab-wiki/wiki/Portal-volunteer-guide)
 
 ### Programming & Computational Guides
-* [Lab Coding Guidelines](https://github.com/weecology/lab-wiki/wiki/Programming:-Lab-Coding-Practices)
+* [Lab Coding Guidelines](https://github.com/weecology/lab-wiki/wiki/Programming:-Lab-Coding-Guidelines)
 * [Style Guide for Code](https://github.com/weecology/lab-wiki/wiki/Programming:-Style-Guide-for-Code)
 * [Parallelization in R](https://github.com/weecology/lab-wiki/wiki/Programming:-Parallelization-in-R)
 * [SSH and SSH keys](https://github.com/weecology/lab-wiki/wiki/Programming:-SSH-&-SSH-keys-for-GitHub---Serenity---etc.)

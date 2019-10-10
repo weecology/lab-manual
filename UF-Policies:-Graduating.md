@@ -1,5 +1,8 @@
 There's a lot of stuff to get done in the last semester or 2 of your PhD. Here are some tips.
 
+## Are you finishing mid-semester to take a job elsewhere?
+If you are not on an RA for a full semester, it can cause major issues with tuition waivers (the university will rescind your tuition waiver and ask you to pay out of state tuition). Talk with your advisor about how to manage this well in advance (i.e. BEFORE the semester you intend to start your new job). 
+
 ## Contact Claire (or equivalent for SNRE)
 As soon as you have a date for your dissertation defense that your committee agreed to, contact Claire and she will prepare the packet of forms you will need to have your committee sign. 
 

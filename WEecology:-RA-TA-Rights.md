@@ -1,6 +1,6 @@
 As an RA/TA at the University of Florida, you are covered by the rights the graduate student union has negotiated with the university. As a note, these are rights related to your employment status with the university (as opposed to as a student). 
 
-A summary of rights is below and the full contract is [here](insert link). In cases where the language is squishy in the contract, an attempt has been made to clarify how the policy will be applied to our group. 
+A summary of rights is below, the official version of the full contract is [here](https://hr.ufl.edu/manager-resources/employee-relations/union-contracts/collective-bargaining-agreement/), and a searchable version of the contract pdf is [here](https://github.com/weecology/lab-wiki/raw/master/gau_union_contract_2017_2020_searchable.pdf). In cases where the language is squishy in the contract, an attempt has been made to clarify how the policy will be applied to our group. 
 
 ## Leaves of Absence (with pay)
 * If an injury/disability/illness prevents you from conducting your RA/TA duties you cannot be required to do them. But you should notify your supervisor immediately.    

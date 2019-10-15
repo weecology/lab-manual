@@ -55,7 +55,7 @@ Once your final dissertation is submitted the dissertation office will likely re
 **Proquest Agreement**  
 Along with the other paperwork you'll fill out after defending, you'll get a UF Publishing Agreement form. This specifies when you'd like UF to publish your dissertation and also which parts (either the full dissertation or just the abstract) UF will release to ProQuest, an online repository. Note that when you specify terms with Proquest you give them a non-exclusive licence to sell it, of which you're granted a 10% royalty (but only if the total royalty payment is > $25). If you'd like Proquest to publish it "open-access" there is a $95 fee.
 
-It's unclear exactly what Proquest provides as the UF Library will host a copy of your dissertation. If you want a bound copy of your dissertation Proquest does provide that (though several websites online do as well).
+It's unclear exactly what Proquest provides as the UF Library will host a copy of your dissertation. If you want a bound copy of your dissertation Proquest does provide that (though several websites online do as well). Regardless you must fill in your details (contact info, dissertation title/abstract) on the Proquest site and submit it for the UF dissertation office to process it, even if in the UF Publishing Agreement your makred "dissertation only". 
 
 **Graduate Survey**  
 The graduate office requires you to fill out a graduate survey administered by NSF. It's < 10 minutes and is mostly about prior schooling and future plans. All responses in this are optional. Link to survey as of 2019: [https://sed-ncses.org/](https://sed-ncses.org/).

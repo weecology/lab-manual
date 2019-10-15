@@ -51,6 +51,24 @@ You'll go thru several rounds of submission. The first must be by the 1st submis
 After your defense and the appropriate forms are submitted by Karen you can submit the full, 100% approved by your committee, version of your dissertation. This first "full" submission must be done by the "Final Submission Deadline".  
 Once your final dissertation is submitted the dissertation office will likely return it with formatting comments. You may go thru several rounds of this. You must address all their comments and have the dissertation *accepted* by their office by the Final Approval/Clearance deadline. Once it has this final approval the dissertation aspect is finished. 
 
+## Dissertation Formatting
+
+Getting your dissertation formatting correct is several *full* days worth of work at least. There are a sleugh of specific guidelines (worth noting is all the rules seem to make sure dissertations look the same as they did when typewriters were used).  
+
+**Main considerations**  
+
+Your chapters must form one cohesive work. As this is rarely the case with dissertation chapters, you'll need to make some writing adjustments to at least make them seem this way. Nobody in the editorial office will actually read yours in depth, so it's not something you should invest a lot of time in.
+
+You must have an Introduction chapter and a Conclusion chapter. These do not need to be full length chapters, just a quick introduction and outlining the contents for the intro, and a wrap up for the conclusion. Shawn's dissertation was composed of 3 already published manuscripts. The Introduction was the first 1-2 paragraphs from each paper's Intro, while the conclusion was the last paragraph from each conclusion. They were modified slightly to make them read as one, and each was only 2 pages double spaced. 
+
+You should utilize one of formatting templates here [http://helpdesk.ufl.edu/application-support-center/etd-technical-support/ms-word-and-latex-templates/](http://helpdesk.ufl.edu/application-support-center/etd-technical-support/ms-word-and-latex-templates/).   
+If you're comfortable in Latex, absolutely use that. The latex template provided can be uploaded onto Overleaf (upload *all* the files from it). 
+
+**Other Resources**    
+[Editorial Office Dissertation Format Overview](http://graduateschool.ufl.edu/about-us/offices/editorial/format-requirements/)  
+[Official Dissertation Guidelines](http://graduateschool.ufl.edu/media/graduate-school/pdf-files/Guide-for-ETDs.pdf)  
+[Other peoples dissertations](https://cms.uflib.ufl.edu/etd/department.aspx)
+
 ## Other Graduation Requirements
 **Proquest Agreement**  
 Along with the other paperwork you'll fill out after defending, you'll get a UF Publishing Agreement form. This specifies when you'd like UF to publish your dissertation and also which parts (either the full dissertation or just the abstract) UF will release to ProQuest, an online repository. Note that when you specify terms with Proquest you give them a non-exclusive licence to sell it, of which you're granted a 10% royalty (but only if the total royalty payment is > $25). If you'd like Proquest to publish it "open-access" there is a $95 fee.

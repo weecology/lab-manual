@@ -44,14 +44,14 @@ Also let Karen know your defense date as soon as you know it. They will provide 
 | Dissertation 1st Submission   | Mid semester                         | The dissertation does not have to be complete, or approved by all committee members at this point. This is mostly for a formatting check.                                                                                                                               |   |
 | Oral Defense                  | Before Final dissertation submission |  Various forms need to be signed by the committee after a successful defense.                                                                                                                                |   |
 | Dissertation Final Submission | Late in semester                     |  The dissertation must be *done* at this point and approved by all committee members.    
-| Dissertation Final Approval (aka Final clearance)   | End of semester                     |  The dissertation must be *accepted* by the dissertation office by this deadline. |   |
+| Dissertation Final Approval (aka Final clearance)   | End of semester                     |  The dissertation must be *accepted* by the editorial office by this deadline. |   |
 
 Deadlines change by a few days every semester but are generally around the same time. Official deadlines are available at the [Editorial Office](http://graduateschool.ufl.edu/about-us/offices/editorial/editorial-deadlines/) and the [Graduate School Academic Calendar](http://gradcatalog.ufl.edu/content.php?catoid=12&navoid=2681).
 
 ## Dissertation Submission
 You'll go thru several rounds of submission. The first must be by the 1st submission deadline. In this case the dissertation does *not* have to be done, a single chapter will do. It's mostly a formatting check. You'll get feedback on this version which you'll need to implement in your final version.  
 After your defense and the appropriate forms are submitted by Karen you can submit the full, 100% approved by your committee, version of your dissertation. This first "full" submission must be done by the "Final Submission Deadline".  
-Once your final dissertation is submitted the dissertation office will likely return it with formatting comments. You may go thru several rounds of this. You must address all their comments and have the dissertation *accepted* by their office by the Final Approval/Clearance deadline. Once it has this final approval the dissertation aspect is finished. 
+Once your final dissertation is submitted, the editorial office will likely return it with formatting comments. You may go thru several rounds of this. You must address all their comments and have the dissertation *accepted* by their office by the Final Approval/Clearance deadline. Once it has this final approval the dissertation aspect is finished. 
 
 ## Dissertation Formatting
 

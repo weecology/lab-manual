@@ -10,10 +10,10 @@ Notes I'll be making as I move toward graduation. This will eventually complimen
   For a list of which courses count toward these see [here](http://snre.ifas.ufl.edu/academics/graduate/courses-syllabi-and-curriculum/).
 
 ### Concentration
-SNRE also requires a concentration. This encompasses 12 credit hours (at the PhD level, 6 for masters) of coursework. There is essentially a concentation for each department in the university, of which any can be chosen from. You then meet the requirement by taking 12 credits from that department. See the list [here](http://snre.ifas.ufl.edu/academics/graduate/courses-syllabi-and-curriculum/) under "Standard Concentrations". Alternatively you can just concentrations which have a more varied selection of courses, see the above page under "Concentrations that require additional hours". In either case, the credit hours that count toward a concetration also count for the other SNRE degree requirements. 
+SNRE also requires a concentration. This encompasses 12 credit hours (at the PhD level, 6 for masters) of coursework. There is essentially a concentration for each department in the university, of which any can be chosen from. You then meet the requirement by taking 12 credits from that department. See the list [here](http://snre.ifas.ufl.edu/academics/graduate/courses-syllabi-and-curriculum/) under "Standard Concentrations". Alternatively you can choose a  concentration which has a more varied selection of courses, see the above page under "Concentrations that require additional hours". In either case, the credit hours that count toward a concentration also count for the other SNRE degree requirements. 
 
 ### Other requirements
-* Presentation at the SNRE Seminar. You must present at the weekly SNRE seminar. This is no requiremnet on when this happens, but people generaly do it in their last semester and present some form of their defense. 
+* Presentation at the SNRE Seminar. You must present at the weekly SNRE seminar. There is no requirement on when this happens, but people generally do it in their last semester and present some form of their defense. 
 
 ## Grad School Checklist
 The UF Graduate school requires:

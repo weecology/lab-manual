@@ -26,7 +26,7 @@ The UF Graduate school requires:
 - Submit the Graduate Survey
 - Submit the Proquest agreement
 
-All these steps are logged in the [Graduate Information Management Systems (GIMS)](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp). They also have very strict deadlines outlined below. 
+All these steps are logged in the [Graduate Information Management Systems (GIMS)](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp). They also have very strict deadlines outlined below. There is also an [official checklist](http://graduateschool.ufl.edu/graduate-life/graduation/graduation-checklist/).
 
 ## Other Notes
 Start discussing defense/graduation least 2 semesters *before* you intend to finish with:

@@ -19,6 +19,7 @@ SNRE also requires a concentration. This encompasses 12 credit hours (at the PhD
 The UF Graduate school requires:
 
 - 90 graduate level credit hours. 
+- Apply to graduate and be registered in your final semester.
 - Passing the qualifying exam
 - Passing the defense
 - Submit a correctly formatted dissertation.

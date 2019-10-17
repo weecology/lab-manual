@@ -544,3 +544,7 @@ if(grepl("ufhpc", nodename)) {
   print("I know I am on SLURM!")
 }
 ```
+
+# Using RStudio on the hipergator
+
+See the main Wiki page here on running gui programs. https://help.rc.ufl.edu/doc/GUI_Programs#Start_a_GUI_Session_on_HiPerGator

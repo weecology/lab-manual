@@ -18,7 +18,8 @@ SNRE also requires a concentration. This encompasses 12 credit hours (at the PhD
 ## Grad School Checklist
 The UF Graduate school requires:
 
-- 90 graduate level credit hours. 
+- 90 graduate level credit hours.
+- At least a 3.0 GPA.
 - Apply to graduate and be registered in your final semester.
 - Passing the qualifying exam
 - Passing the defense

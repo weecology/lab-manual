@@ -17,7 +17,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Oct 9 - Sergio (Feedbacks on 15 minutes talk)
 * Oct 16 - 
 * Oct 23 - 
-* Oct 30 - 
+* Oct 30 - Hao (networking, not the computer-y kind)
 * Nov 6 - 
 * Nov 13 -
 * Nov 20 -

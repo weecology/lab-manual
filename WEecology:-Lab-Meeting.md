@@ -20,7 +20,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Oct 30 - Hao (networking, not the computer-y kind)
 * Nov 6 - 
 * Nov 13 - Project Implicit (**2:30-4 pm McCarty D G001**)
-* Nov 20 -
+* Nov 20 - Hao (job talk practice + feedback)
 * Nov 27 - No Meeting (University Holiday)
 * Dec 4 - 
 

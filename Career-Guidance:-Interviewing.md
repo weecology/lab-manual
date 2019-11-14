@@ -25,3 +25,7 @@ For example, for "tell us about your qualifications in teaching":
 **This can be a challenging mindset to get into!**
 
 It can help to practice, on your own or with colleagues. The above links have some sample questions you can work from.
+
+# Asking questions of your own
+
+In many cases, you'll have some time to ask questions of your own. You can demonstrate interest by asking about aspects of the position that are unclear, or about the interview process (e.g. "when will I hear back about the next step").

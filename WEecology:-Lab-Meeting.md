@@ -22,7 +22,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Nov 13 - Project Implicit (**2:30-4 pm McCarty D G001**)
 * Nov 20 - Hao (job talk practice + feedback)
 * Nov 27 - No Meeting (University Holiday)
-* Dec 4 - 
+* Dec 4 -  Ben -> https://github.com/weecology/DeepForest DeepForest package review (bring laptops)
 
 
 ## Discussion topics

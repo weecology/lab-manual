@@ -10,7 +10,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Jan 6 - No meeting
 * Jan 13 - Morgan (Lab discussion about upcoming student interviews)
 * Jan 20 - No meeting, UF Holiday
-* Jan 27 - 
+* Jan 27 - Hao (practice talk; UF Reproducibility Librarian)
 * Feb 3 - 
 * Feb 10 - 
 * Feb 17 - 

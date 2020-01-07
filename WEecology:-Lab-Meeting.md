@@ -5,25 +5,24 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * (To be developed) [Templates]() to help you plan out your lesson/talk/presentation/sprint/etc.
   - Here is a [feedback form](https://docs.google.com/document/d/12RS_PGXJ8-pSdakyIH1WZAsR90gWCRV4KdBzii2uy8o/edit?usp=sharing) for talks. It's set so that everyone can make comments on it, but not edit it directly -- if you wish to write up your feedback on a computer, please make a copy of the document for yourself.
 
-## Schedule (Fall 2019)
+## Schedule (Spring 2020)
 
-* Aug 21 - Morgan and Ethan: State of the labs
-* Aug 28 - No Meeting (Folks traveling + sick kids)
-* Sep 4 - No Meeting(Plant Census)
-* Sep 11 - Shrub Data Sprint
-* Sep 18 - Ben
-* Sep 25 - Juniper
-* Oct 2 - Hao (Open Canvas for project prototyping/planning)
-* Oct 9 - Sergio (Feedbacks on 15 minutes talk)
-* Oct 16 - 
-* Oct 23 - 
-* Oct 30 - Hao (networking, not the computer-y kind)
-* Nov 6 - 
-* Nov 13 - Project Implicit (**2:30-4 pm McCarty D G001**)
-* Nov 20 - Hao (job talk practice + feedback)
-* Nov 27 - No Meeting (University Holiday)
-* Dec 4 -  Ben -> https://github.com/weecology/DeepForest DeepForest package review (bring laptops)
-
+* Jan 6 - No meeting
+* Jan 13 - Morgan (Lab discussion about upcoming student interviews)
+* Jan 20 - No meeting, UF Holiday
+* Jan 27 - 
+* Feb 3 - 
+* Feb 10 - 
+* Feb 17 - 
+* Feb 24 - 
+* Mar 2 - No meeting. UF Spring Break
+* Mar 9 - 
+* Mar 16 -
+* Mar 23 - 
+* Mar 30 - 
+* Apr 6 - 
+* Apr 13 - 
+* Apr 20 -  
 
 ## Discussion topics
 
@@ -32,7 +31,6 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
     * Budgets
     * Management
     * Funding Agencies/IDing solicitations
-* Academic Lineage
 * Paper submission process
 * What's the process for reviewing papers? Does it differ by journal?
 * Determining authorship

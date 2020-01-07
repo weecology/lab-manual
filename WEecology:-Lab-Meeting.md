@@ -12,8 +12,8 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Jan 20 - No meeting, UF Holiday
 * Jan 27 - Hao (practice talk; UF Reproducibility Librarian)
 * Feb 3 - 
-* Feb 10 - 
-* Feb 17 - 
+* Feb 10 - Ellen (exit seminar practice)
+* Feb 17 -  
 * Feb 24 - 
 * Mar 2 - No meeting. UF Spring Break
 * Mar 9 - 

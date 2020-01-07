@@ -19,7 +19,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Mar 9 - 
 * Mar 16 -
 * Mar 23 - 
-* Mar 30 - 
+* Mar 30 - No meeting (?) due to plant census, possibly
 * Apr 6 - 
 * Apr 13 - 
 * Apr 20 -  

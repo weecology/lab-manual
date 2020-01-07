@@ -13,7 +13,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Jan 27 - Hao (practice talk; UF Reproducibility Librarian)
 * Feb 3 - 
 * Feb 10 - Ellen (exit seminar practice)
-* Feb 17 -  
+* Feb 17 - Not sure if this is lab-meeting worthy, but my (Ellen's) exit seminar will be 1:55-2:45 and then I'm giving an Ally Skills seminar for the WEC seminar series from 3:30-4:30
 * Feb 24 - 
 * Mar 2 - No meeting. UF Spring Break
 * Mar 9 - 

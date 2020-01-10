@@ -1,5 +1,5 @@
 [WIP]
-As part of the hiring process for students, postdoc, and staff we bring people in for on-site interviews. On-site interviews give prospective weecologists the best feel for what we are about and what they might expect being in this group. It also gives us a chance to see if our work/training environment is one that will suit the needs of the potential weecologist.
+As part of the hiring process for students, postdoc, and staff we bring people in for on-site interviews. On-site interviews give prospective weecologists the best feel for what we are about and what they might expect if they join our group. It also gives us a chance to see if our work/training environment is one that will suit the needs of the potential weecologist.
 
 ## Interview Structure
 
@@ -12,14 +12,15 @@ This structure serves several  purposes. It gives the interviewee repeated acces
 The role of lab members is to provide information to the interviewee about what life working in weecology is like and provide feedback to Morgan & Ethan about their interactions with, and perceptions of, the interviewees. Here are some things to think about while interacting with interviewees:
 
 * Give them your honest feedback on the pros and cons of the group, working with Ethan and Morgan, Gainesville, UF, etc. Everyone has their own personal tradeoff landscape and we want people to make an informed decision to join us.
-* One of the biggest issues we see in hiring at all levels (students, staff, faculty) is people making decisions based on whether they can see themselves hanging out with/being buddies with an interviewee. This is not an appropriate filter (we are hiring colleagues, not friends) and it is one of the primary ways that implicit bias can influence decision making and result in biased hiring. 
+* One of the biggest issues we see in hiring at all levels (students, staff, faculty) is people making decisions based on whether they can see themselves hanging out with/being buddies with an interviewee. This is not an appropriate filter (we are hiring colleagues, not friends) and it is one of the primary ways that implicit bias can influence decision making and result in biased hiring.   
 * That said, how someone will interact professionally is important. We are a collaborative group with diverse interests and career goals. Things to look for: 
     * Do they seem supportive of diverse career pathways or dismissive of particular career goals?
     * Do they listen to you and respond in a professional manner or do they act like talking to you is a waste of time and say dismissive things about your research or other pursuits (not liking your favorite team/hobby is not the same as judging you negatively for having a hobby)?
     * Do they seem like they would work well in a collaborative environment - listen and think about different perspectives and engage proactively in discussions with you?
 * Do their research interests align well with the group/funding support?
-    * People who have done well/been happy in or group are often those with more general research interests. For example, something interested in using rodents to better understand general processes as opposed to someone  primarily interested in understanding rodents or understanding the ecology of a particular place (e.g., SE Arizona). General interests help ensure that folks feel like a part of the lab even if no one else is working in their particular area.
+    * People who have done well/been happy in our group are often those with more general research interests. For example, someone interested in using rodents to better understand general processes as opposed to someone  primarily interested in understanding rodents or understanding the ecology of a particular place (e.g., SE Arizona). General interests help ensure that folks feel like a part of the lab even if no one else is working in their particular area.
     * Are they excited about science?
     * Are they interested in interdisciplinary research and a mix of field and computational approaches?
-    * Are the comfortable with/excited about working in an open manner?
+    * Are they comfortable with/excited about working in an open manner?
     * Is there something in your interactions with the individual that makes you think our group is a particularly good fit or that they might do well with us but struggle in other workplaces/lab environments that they are more likely to run into?
+ 

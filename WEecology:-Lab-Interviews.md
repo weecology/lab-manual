@@ -23,3 +23,9 @@ The role of lab members is to provide information to the interviewee about what 
     * Are they comfortable with/excited about working in an open manner?
     * Is there something in your interactions with the individual that makes you think our group is a particularly good fit or that they might do well with us but struggle in other workplaces/lab environments that they are more likely to run into?
  
+## Feedback
+
+There are a variety of ways to provide feedback.
+1. Lab meetings: Often Ethan and Morgan will call an ad hoc lab meeting or use the beginning of regular lab meeting to have discussions about the candidates. They may have some specific questions related to things they have been pondering about the interviewees, but there will also be time for general feedback as well. These events will generally happen once all the interviews have been conducted.
+2. Written Feedback: If you would rather provide feedback in a written format, DM via slack or email are both good options. Do NOT use one of the open channels to discuss candidates as anyone who joins the group may have access to that. You may either provide feedback after each candidate or once all the candidates have interviewed.
+3. Via Glenda or other staff member: If you have something you want to convey but for whatever reason do not want us to know who the information is coming from, you may provide feedback to a staff member you feel comfortable with and have them relay your thoughts to us (or slip a note under our door). 

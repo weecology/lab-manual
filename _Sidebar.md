@@ -15,6 +15,8 @@
 * [Tool Selection and Decision Making](https://github.com/weecology/lab-wiki/wiki/WEecology:-Tool-Selection-and-Decision-Making)
 * [RA/TA Rights](https://github.com/weecology/lab-wiki/wiki/WEecology:-RA-TA-Rights)
 * [Teaching Opportunities](https://github.com/weecology/lab-wiki/wiki/WEecology:-Teaching-opportunities)
+* [Lab Interviews](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Interviews)
+
 ### UF Bureaucracy, Travel, Spending
 * [Dissertation Proposals](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Dissertation-Proposals)
 * [Qualifying Exams](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Qualifying-Exams)

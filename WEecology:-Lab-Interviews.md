@@ -22,6 +22,14 @@ The role of lab members is to provide information to the interviewee about what 
     * Are they interested in interdisciplinary research and a mix of field and computational approaches?
     * Are they comfortable with/excited about working in an open manner?
     * Is there something in your interactions with the individual that makes you think our group is a particularly good fit or that they might do well with us but struggle in other workplaces/lab environments that they are more likely to run into?
+
+## Lab Member contributions
+
+In cases where the interviewee is visiting Gainesville for the interview, there are some additional contributions expected from lab members.
+
+* We like student and post doc interviewees to stay with a lab member during their visit, rather than in a hotel. This provides more opportunities for informal interaction with the interviewee. You do not need to have a fancy guest room to host, a couch/air mattress is fine.
+* Rides to the airport. 
+* Morgan and Ethan will cover all (reasonable) expenses related to hosting the interviewee (dinner/breakfast on travel days)
  
 ## Feedback
 

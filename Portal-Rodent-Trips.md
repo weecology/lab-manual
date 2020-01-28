@@ -7,10 +7,18 @@ This page will (hopefully) remain up to date with a list of future Portal trip d
 
 Dates for trips more than 2 months in advance tend to be somewhat flexible.
 
-* *January 23-27* (Renata, Julianne Gibson?)
-* *February 20-24* (Renata, ???)
-* March - Plant census?
-* *April 23-27* (Renata, Rosalind?)
+* *494 January 23-27* (Renata)
+* *495 February 20-24* (Renata, ???)
+* *496 + plants March 28-April 5* (Glenda, Hao, Henry, Renata) 
+* *497 April 23-27* (Renata, Rosalind?)
+* *498 May 21-25* (Renata, ???)
+* *499 June 18-22* (Renata, ???)
+* *500 July 16-20* (Renata, ???)
+* *501 August 13-17* (Renata, ???)
+* *502 + plants September?*
+* *503 October 15-19* 
+* *504 November 12-16*
+* *505 December 10-14*
 
 ## Trip Description
 For those of you not familiar with the procedure, a Portal weekend consists of two nights of rodent trapping.  We fly out Thursday and stay overnight in Tucson. Friday morning, we pick up the field truck and any supplies we need and drive 3 hours to the site.  Friday night just before sunset we'll set traps on half of the site's 24 plots -- this procedure takes about 2 hours.  Saturday morning we get up just before dawn and process animals in the full traps.  The rodent RA (Ellen or Renata) will be the one actually handling the animals while the volunteer records data and assists with equipment.  Volunteers can handle "exiled" rodents if they are interested.  Saturday night, we'll set traps on the other half of the plots, and Sunday morning will be the same as Saturday morning.  Sunday afternoon, we'll break camp and head back to Tucson, stay in a hotel again, and fly back on Monday morning.  

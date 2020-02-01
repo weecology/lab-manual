@@ -39,6 +39,7 @@
 * [Portal Research Projects](https://github.com/weecology/lab-wiki/wiki/Portal-Projects)
 * [Portal Rodent Trips](https://github.com/weecology/lab-wiki/wiki/Portal-Rodent-Trips)
 * [Portal Volunteer Guide](https://github.com/weecology/lab-wiki/wiki/Portal-volunteer-guide)
+* [Portal Safety Info](https://github.com/weecology/lab-wiki/wiki/Portal-Safety-info)
 
 ### Programming & Computational Guides
 * [Lab Coding Guidelines](https://github.com/weecology/lab-wiki/wiki/Programming:-Lab-Coding-Guidelines)

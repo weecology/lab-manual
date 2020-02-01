@@ -7,6 +7,8 @@ If someone gets bitten by a rattlesnake, call 911. This will connect you to the 
 
 Drive to the hospital in Douglas.
 
+There is a Portal Search & Rescue operation, but Renata doesn't know much about it.
+
 ## Zoonoses
 
 (Renata thinks that) Nobody has ever contracted a disease because of fieldwork with the Portal rodents. 

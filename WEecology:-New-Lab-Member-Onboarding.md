@@ -18,7 +18,7 @@ See [here](https://github.com/weecology/lab-wiki/wiki/Code-of-Conduct).
 For software projects, repos should adopt a separate code of conduct for interactions with contributors. See [here](https://github.com/weecology/lab-wiki/wiki/Software-Project-Code-of-Conduct) for an example.
 
 ## Tea
-Earl grey should almost always have milk in it!
+Earl grey should almost always have milk in it! (though this is technically optional, per ISO 3103)
 
 ## Expectations / Annual Self-Assessment
 

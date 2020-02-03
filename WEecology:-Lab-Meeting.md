@@ -11,7 +11,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Jan 13 - Morgan (Lab discussion about upcoming student interviews)
 * Jan 20 - No meeting, UF Holiday
 * Jan 27 - Hao (practice talk; UF Reproducibility Librarian)
-* Feb 3 - Juniper (Super cool things I have learned to do with Docker software containers)
+* Feb 3 - Juniper ([Super cool things I have learned to do with Docker software containers](https://github.com/weecology/lab-wiki/blob/master/uploads/feb2020%20lab%20mtg.pdf))
 * Feb 10 - Ellen (exit seminar practice)
 * Feb 17 - Not sure if this is lab-meeting worthy, but my (Ellen's) exit seminar will be 1:55-2:45 and then I'm giving an Ally Skills seminar for the WEC seminar series from 3:30-4:30
 * Feb 24 - 

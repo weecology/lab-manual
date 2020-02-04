@@ -2,7 +2,7 @@
 
 ### WFR/First Aid/CPR
 
-Support is available to get WFR or first aid/CPR certified/re-certified. Let us know if you are interested or need to be reimbursed.
+Support is available to get WFR or first aid/CPR certified/re-certified. Let us know if you are interested or need to be reimbursed. There is a first aid kit in the field truck. Feel free to add to it and charge to the project.
 
 ### Snakebites
 

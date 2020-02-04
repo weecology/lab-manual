@@ -1,4 +1,9 @@
 ## Field emergencies
+
+### WFR/First Aid/CPR
+
+Support is available to get WFR or first aid/CPR certified/re-certified. Let us know if you are interested or need to be reimbursed.
+
 ### Snakebites
 
 If someone gets bitten by a rattlesnake, call 911. This will connect you to the Forest Service. You will need a helicopter to Tucson, because nearby hospitals don't carry antivenom.

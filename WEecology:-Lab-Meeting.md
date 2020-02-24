@@ -20,7 +20,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Mar 16 - Hao (auto-rendering CV using pagedown, via https://github.com/nstrayer/cv)
 * Mar 23 - 
 * Mar 30 - No meeting (due to plant census)
-* Apr 6 - 
+* Apr 6 - Plant data entering
 * Apr 13 - Positionality statements (Ellen, Juniper, Hao)
 * Apr 20 -  
 

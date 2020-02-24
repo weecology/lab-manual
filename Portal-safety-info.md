@@ -1,5 +1,7 @@
 ## Field emergencies
 
+Remember the golden rule: the safety of people first. the safety of rodents second. the safety of the data is a distant third. 
+
 ### WFR/First Aid/CPR
 
 Support is available to get WFR or first aid/CPR certified/re-certified. Let us know if you are interested or need to be reimbursed. There is a first aid kit in the field truck. Feel free to add to it and charge to the project.
@@ -16,13 +18,13 @@ There is a Portal Search & Rescue operation, but Renata doesn't know much about 
 
 ## Zoonoses
 
-(Renata thinks that) Nobody has ever contracted a disease because of fieldwork with the Portal rodents. 
+To the best of our collective knowledge, nobody has ever contracted a disease because of fieldwork with the Portal rodents. Possible diseases that could be contracted through contact with rodents are:
 
-We (Renata) assume there's risk of hantavirus, especially from the murid rodents. Don't disturb the woodrat midden, and avoid kicking up rodent-y dust.
+Hantavirus: contracted through inhalation of dried feces/urine, usually in enclosed spaces with poor ventilation. It is carried by Murid rodents. This is a severe disease with a high fatality rate but there is [little evidence that mammalogists contract this disease from handling rodents in open-air conditions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857298/). Don't disturb the woodrat midden, and avoid kicking up rodent-y dust. American society of mammalogist suggestions can be found here: https://academic.oup.com/jmammal/article/91/6/1524/892462
 
-The rodents have ectoparasites, but they don't seem to transmit to humans. 
+Rabies: This is theoretically a risk from fieldwork at the site but transmission by squirrel-sized or smaller rodents is [extremely rare](https://www.mdedge.com/emergencymedicine/article/174385/infectious-diseases/when-rodents-attack-review-rabies-and-post). More likely (though still extremely rare) would be an attack from a larger mammal such as a coyote, fox, skunk, or raccoon. If one of these species is observed behaving strangely or aggressively, care should be taken as they can and do transmit rabies. A bite from one of these animals should be reported immediately to a nearby medical facility.
 
-Rabies is theoretically a risk, but RAs are constantly being bitten and there's never been an issue. 
+Bubonic Plague or other ectoparasite carried diseases: There are no incidents of bubonic plague in humans near our field site (https://www.cdc.gov/plague/maps/index.html) so this is considered a very unlikely event. However, our animals do have ectoparasites. We have seen no evidence of these ectoparasites jumping to humans (no one becomes flea infested or has found themselves with ticks), but people should inspect themselves after being in the field.
 
 ### Humans
 

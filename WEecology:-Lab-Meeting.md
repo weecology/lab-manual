@@ -21,7 +21,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Mar 23 - 
 * Mar 30 - No meeting (due to plant census)
 * Apr 6 - 
-* Apr 13 - 
+* Apr 13 - Positionality statements (Ellen, Juniper, Hao)
 * Apr 20 -  
 
 ## Discussion topics

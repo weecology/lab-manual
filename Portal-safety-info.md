@@ -34,4 +34,4 @@ There are pepper spray guns in the driver and passenger door wells of the truck.
 
 If you feel unsafe sleeping at the site, there are other places to camp. RAs have used Rusty's RV Ranch, and there are campsites up the canyon past Portal. The lodge is an option in a pinch.
 
-There is a heavy Border Patrol presence in the area. 
+There is a heavy Border Patrol presence in the area. There have not been any negative interactions between Border Patrol and project personnel and the state vehicle provides some protections as it shows you are affiliated with governmental organizations. But everyone should be aware that at a national level there are a number of reported incidents of US citizens and legal immigrants being detained. We recommend traveling with identification and potentially your passport. We will also provide a letter on UF letterhead with the names of the project personnel as an added protection. If you would like a letter that also mentions your volunteer, contact Glenda or Morgan and they can provide one.

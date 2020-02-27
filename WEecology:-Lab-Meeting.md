@@ -16,7 +16,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Feb 17 - Not sure if this is lab-meeting worthy, but my (Ellen's) exit seminar will be 1:55-2:45 and then I'm giving an Ally Skills seminar for the WEC seminar series from 3:30-4:30
 * Feb 24 - 
 * Mar 2 - No meeting. UF Spring Break
-* Mar 9 - 
+* Mar 9 - Renata (an SADs mystery)
 * Mar 16 - Hao (auto-rendering CV using pagedown, via https://github.com/nstrayer/cv)
 * Mar 23 - 
 * Mar 30 - No meeting (due to plant census)

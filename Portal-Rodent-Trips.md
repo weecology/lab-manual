@@ -77,3 +77,11 @@ More information on travel at UF can be found [here](http://www.fa.ufl.edu/wp-co
 * Wes Boone
 * Katie Hooker
 * Lauren Trotta
+
+### Downloading tags
+
+* You need a Windows machine with BioTerm installed. The weather station laptop works.
+* Connect the scanner using the USB adapter.
+* Open BioTerm. Make sure the BAUD rate is 9600. Select Open.
+* Using the scanner, press READ, then MENU until it says "Downloaded tags". Press the down arrow, then READ. It will ask if you want to send all tags. Press READ. The tags *should* appear in the BioTerm text box. You may need to squeeze the adapter into the scanner so you get a really secure connection (the screw is really difficult to turn all the way). In theory you can also type "G" into the BioTerm text box and the tags will appear, but Renata has mixed success with this.
+* Save the newtags in the Portal dropbox. 

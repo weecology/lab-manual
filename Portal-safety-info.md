@@ -2,19 +2,40 @@
 
 Remember the golden rule: the safety of people first. the safety of rodents second. the safety of the data is a distant third. 
 
+### 9-1-1
+The site has cell phone coverage and you can call 9-1-1. Give them this information:
+Your Name
+Your county (Cochise if at the site, in the mountains, or at Portal town. Hidalgo if you are in New Mexico)
+What is your emergency.
+
+(From the [Friends of Cave Creek Canyon website](http://www.friendsofcavecreekcanyon.com/visiting/medical-emergencies/) "Portal and Rodeo both have excellent EMT, ambulance and search and rescue capabilities. Dialing 911 from a cell phone will connect you to the Hidalgo County, NM, emergency center. If you are in Arizona, ask them to transfer the call to Cochise County, AZ."
+
+### Non-Emergency Medical Services: 
+(From the [Friends of Cave Creek Canyon website](http://www.friendsofcavecreekcanyon.com/visiting/medical-emergencies/) "There is a medical clinic in Portal staffed by a Nurse Practitioner on Tuesday mornings and Thursday and Friday afternoons. There is a walk-in urgent care facility in Douglas, about 60 minutes south on Route 80. (520-364-7659). The closest hospitals are in Willcox, about 90 minutes northwest by car and in Bisbee, about 90 minutes southwest by car. Portal and Rodeo both have excellent EMT, ambulance and search and rescue capabilities."
+
+#### Urgent Care
+Copper Queen Community Hospital Douglas Rural Health Clinic: There is an "Emergency Department" which is open 24-hours a day, including weekends and holidays. It describes itself as "urgent care on steroids". Anything serious (i.e. potentially life threatening, should be a 9-1-1 call. If you get really sick or experience a non-life threatening injury, then this is probably where you want to go.
+Address: 100 E. Fifth Street Douglas, AZ 85607
+520-805-6800 https://cqch.org/cqch-clinics/copper-queen-douglas-rhc/
+
+#### Emergency Room
+While Bisbee is equally close, if you are at the site and this isn't a call 9-1-1 emergency but you think you need an emergency room, then Willcox is probably where you want to go. Wilcox is more straight forward to drive to (on the interstate) than Bisbee (up in the mountains). But if you are already in Douglas, or if you are someplace where Bisbee is closer than Wilcox, then go there!
+
+Wilcox: Northern Cochise Community Hospital. 901 W. Rex Allen Dr., Willcox, AZ 85643
+Hospital Telephone: 520-384-3541 or Toll Free: 1-844-696-3541 website: http://www.ncch.net/
+ 
+Bisbee: Copper Queen Community Hospital. 101 Cole Ave., Bisbee, AZ 85603
+Tel: 520.432.5383  https://cqch.org/
+
 ### WFR/First Aid/CPR
 
 Support is available to get WFR or first aid/CPR certified/re-certified. Let us know if you are interested or need to be reimbursed. There is a first aid kit in the field truck. Feel free to add to it and charge to the project.
 
+## Potential Hazards
+
 ### Snakebites
 
-If someone gets bitten by a rattlesnake, call 911. This will connect you to the Forest Service. You will need a helicopter to Tucson, because nearby hospitals don't carry antivenom.
-
-### Less serious injuries
-
-Drive to the hospital in Douglas.
-
-There is a Portal Search & Rescue operation, but Renata doesn't know much about it.
+If someone gets bitten by a rattlesnake, call 911. This will connect you to the NM dispatcher who will then connect you to the Cochise dispatcher. You will need a helicopter to Tucson, because nearby hospitals don't carry antivenom.
 
 ## Zoonoses
 

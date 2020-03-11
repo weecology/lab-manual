@@ -23,7 +23,9 @@ and further [instructions](https://help.github.com/en/github/authenticating-to-g
 
 ## Setup Instructions (Serenity / HiPerGator / generic)
 
-To setup an SSH key for use on Serenity, we assume you have gone through the steps described in the instructions for GitHub to create an SSH key. This creates both the key itself (usually located in `~/.ssh/id_rsa`), and a paired file that verifies that the key is correct (usually located in `~/.ssh/id_rsa.pub`). **If you are setting up an SSH key on HiPerGator, note that you probably already have one in the default location, which is used for communicating between different HiPerGator nodes. You may only need to follow the [instructions](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to enable its usage for github, as well.**
+To setup an SSH key for use on Serenity, we assume you have gone through the steps described in the instructions for GitHub to create an SSH key. This creates both the key itself (usually located in `~/.ssh/id_rsa`), and a paired file that verifies that the key is correct (usually located in `~/.ssh/id_rsa.pub`).
+
+**If you are setting up an SSH key on HiPerGator, note that you probably already have one in the default location, which is used for communicating between different HiPerGator nodes. You may only need to follow the [instructions](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to enable its usage for github, as well.**
 
 1. Log in to the server you wish to use the SSH key on.
 2. Edit the `~/.ssh/authorized_keys` file *on the server*. It may already have contents, in which case, go to a new, blank line.

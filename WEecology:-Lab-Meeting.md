@@ -18,9 +18,9 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Mar 2 - No meeting. UF Spring Break
 * Mar 9 - Renata (an SADs mystery)
 * Mar 16 - Hao (auto-rendering CV using pagedown, via https://github.com/nstrayer/cv)
-* Mar 23 - 
-* Mar 30 - No meeting (due to plant census)
-* Apr 6 - Plant data entering
+* Mar 23 - Everglades Zooniverse
+* Mar 30 - 
+* Apr 6 - 
 * Apr 13 - Positionality statements (Ellen, Juniper, Hao)
 * Apr 20 -  
 

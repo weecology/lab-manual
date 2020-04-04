@@ -2,7 +2,7 @@ If off campus, turn on the virtual private network (VPN) before connecting using
 
 **Windows:**
 
-* Follow the instructions here: http://www.wec.ufl.edu/resources/IT/network_drives.php
+* Follow the instructions here: https://wec.ifas.ufl.edu/resources/it--computer-support/mapping-your-t-and-u-drives/
 
 **Mac:**
 

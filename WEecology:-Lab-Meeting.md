@@ -20,7 +20,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Mar 16 - Hao (auto-rendering CV using pagedown, via https://github.com/nstrayer/cv)
 * Mar 23 - Everglades Zooniverse
 * Mar 30 - Portal Summer of Research (Morgan)
-* Apr 6 - 
+* Apr 6 - Ethan & Morgan TBD
 * Apr 13 - Positionality statements (Ellen, Juniper, Hao)
 * Apr 20 -  
 

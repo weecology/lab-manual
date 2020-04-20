@@ -22,7 +22,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Mar 30 - Portal Summer of Research (Morgan)
 * Apr 6 - Ethan & Morgan TBD
 * Apr 13 - Positionality statements (Ellen, Juniper, Hao)
-* Apr 20 -  
+* Apr 20 - Morgan & Ethan - Summer Plans
 
 ## Discussion topics
 

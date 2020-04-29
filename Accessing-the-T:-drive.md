@@ -7,7 +7,7 @@ If off campus, turn on the virtual private network (VPN) before connecting using
 **Mac:**
 
 * Open the Finder, and from the menu bar select **Go > Connect to Server**.
-* Enter `cifs://ad.ufl.edu/ifas/wec/groups` as the "server address.
+* Enter `smb://ad.ufl.edu/ifas/wec/groups/` as the "server address.
 * If you'd like to keep this URL stored as a "favorite", click the `+` next to the address bar
 * Click "Connect"
 * Lab materials are in the `lab-white-ernest` folder.

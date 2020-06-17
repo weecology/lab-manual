@@ -47,12 +47,12 @@ We're always trying to improve the onboarding experience, so keep track of the t
 
 #### Setting Up Your Computer
 - [ ] Choose R and/or Python (you can always change or add the other later!). People in our groups use R and/or Python as their primary programming language. Most people use R, but if you have more serious software engineering or image processing plans in mind, talk to your advisor about Python. If in doubt, talk to your advisor or other lab members. 
-    - [ ] For R: 
-        - [ ] [Download and Install R](https://cran.rstudio.com/). Site includes a windows, linux, and MacOS version. Windows users: you want the base install
-        - [ ] Download and Install [RStudio]( https://rstudio.com/products/rstudio/download/#download). This is the Individual Development Environment that we use for writing R code. Choose the free version.
-    - [ ] For Python:
-        - [ ] Download and Install the [Anaconda Scientific Python Distribution]( https://www.anaconda.com/products/individual)
-        - [ ] Download and Install [Visual Studio Code]( https://code.visualstudio.com/download) This is the Integrated Development Environment that we recommend for writing Python code. Windows users: choose ‘user installer’ and 64 bit.
+  * For R:  
+    - [ ] [Download and Install R](https://cran.rstudio.com/). Site includes a windows, linux, and MacOS version. Windows users: you want the base install
+    - [ ] Download and Install [RStudio]( https://rstudio.com/products/rstudio/download/#download). This is the Individual Development Environment that we use for writing R code. Choose the free version.
+  * For Python:
+    - [ ] Download and Install the [Anaconda Scientific Python Distribution]( https://www.anaconda.com/products/individual)
+    - [ ] Download and Install [Visual Studio Code]( https://code.visualstudio.com/download) This is the Integrated Development Environment that we recommend for writing Python code. Windows users: choose ‘user installer’ and 64 bit.
 - [ ] Install Git. Regardless of programming language you chose, do this. Git is the version control system we use for software and allows you to move things from your computer to GitHub. Follow the instructions on [Ethan’s course page]( http://datacarpentry.org/semester-biology/computer-setup/) under the section “Git”. It has instructions for all three operating systems.
 - [ ] Set up the link between your IDE and GitHub
     - [ ] [RStudio user instructions]( https://github.com/weecology/lab-wiki/wiki/Programming:-RStudio-and-GitHub-integration)
@@ -70,11 +70,11 @@ Congratulations! You have mastered the essentials of being a Weecologist! You’
 ### Stage 2: Engaging with the Science and Tools
 
 #### Learn about the Lab Intellectual Space:
-- [ ] Work through the [Weecology reading list](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-reading-list). (note: the reading list is still in development). For each of the subject areas read the overview paper
-    – [ ] Portal Project Overview
-    – [ ] Macroecology Overview
-    – [ ] Forecasting Overview
-    – [ ] {IDEA}
+- [ ] Work through the [Weecology reading list](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-reading-list). (note: the reading list is still in development). For each of the subject areas read the overview paper.  
+    - [ ] Portal Project Overview
+    - [ ] Macroecology Overview
+    - [ ] Forecasting Overview
+    - [ ] IDEA
 - [ ] Pick at least two areas that are especially interesting/relevant to you. Read all the papers listed on the reading list in that topic area
 - [ ] Are you funded by a grant? Ask the grant PI (probably Ethan or Morgan) for a copy to read. Don't know if you're funded on a grant? Ask Ethan, Morgan, or Glenda (she knows everything).
 - [ ] On the lab website, find a recent paper that looks interesting to you that is by someone currently in the group
@@ -96,6 +96,6 @@ Congratulations! You have mastered the essentials of being a Weecologist! You’
 
 ### Wrap-up
 
-** Congrats! You have completed the onboarding process!** Remember to keep checking on the lab wiki to see if it has information that might be useful to you. Pages that aren't relevant to you now may become important to you in the future as your role and skills evolve!
+**Congrats! You have completed the onboarding process!** Remember to keep checking on the lab wiki to see if it has information that might be useful to you. Pages that aren't relevant to you now may become important to you in the future as your role and skills evolve!
 
 The lab wiki belongs to everyone, so feel free to edit or add pages as you identify information that was useful to you. Maybe it just serves as a useful cheatsheet for you, but in reality, if you had to figure it out, someone else in the future will too. Help out a future Weecologist by writing it down!

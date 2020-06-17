@@ -8,11 +8,11 @@ We're always trying to improve the onboarding experience, so keep track of the t
 ### Stage 1 Onboarding: Learning about Weecology and Getting Set Up
 
 #### Get set up on Lab Communication Platforms
+- [ ] Ask Glenda to show you where your copy of the onboarding checklist is on GitHub and how to check off completed tasks. 
 - [ ] Check that Glenda has set you up on the weecology spaces for:
     - [ ] GitHub
     - [ ] Slack
     - [ ] Weecology mail/calendar
-- [ ] Ask Glenda to show you where your onboarding checklist is on GitHub and how to check off completed tasks.
 - [ ] Explore Weecology’s Slack group, sign up for any relevant channels
 - [ ] Take [Slack 101](https://slack.com/resources/slack-101) to learn slack basics
 - [ ] Read Weecology’s [Welcome to Slack]( https://github.com/weecology/lab-wiki/wiki/Welcome-to-Slack) page
@@ -58,19 +58,19 @@ Congratulations! You have basic Weecology functionality! You’re now ready for 
 ### Stage 2: Engaging with the Science and Tools
 
 #### Learn about the Lab Intellectual Space:
-- [ ] (note: the reading list is still in development). Work through the [Weecology reading list](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-reading-list). For each of the subject areas read the overview paper
+- [ ] Work through the [Weecology reading list](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-reading-list). (note: the reading list is still in development). For each of the subject areas read the overview paper
     – [ ] Portal Project Overview
     – [ ] Macroecology Overview
     – [ ] Forecasting Overview
     – [ ] IDEA
 - [ ] Pick at least two areas that are especially interesting/relevant to you. Read all the papers listed on the reading list in that topic area
 - [ ] Are you funded by a grant? Ask the grant PI (probably Ethan or Morgan) for a copy to read. Don't know if you're funded on a grant? Ask Ethan, Morgan, or Glenda (she knows everything).
-- [ ] On the lab website, find a recent paper that looks interesting to you that is by someone currently in the group (not Ethan or Morgan, because we want you to meet other people too!)
+- [ ] On the lab website, find a recent paper that looks interesting to you that is by someone currently in the group
     - [ ] Read the paper
     - [ ] Set up a meeting with that person to chat about their paper
 
 #### Learn about commonly used lab computational tools:
--[ ] Learn about Git and GitHub.  
+- [ ] Learn about Git and GitHub.  
     - [ ] Go through the [Git for Humans]( https://speakerdeck.com/alicebartlett/git-for-humans) slide show. It’s a good high-level introduction to what Git is and the jargon associated with it.
     - [ ] Read [What Is GitHub? A Beginner’s Introduction to Github](https://kinsta.com/knowledgebase/what-is-github/). This will explain the relationship between Git and GitHub.
     - [ ] Do a tutorial apply what you’ve just learned. Two good ones for practicing basic commands: [GitHub Tutorial]( https://guides.github.com/activities/hello-world/) and/or [git and github for beginners]( https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)

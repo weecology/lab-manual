@@ -6,7 +6,7 @@ If you are off campus, you may need to use the VPN into the UF network to access
 
 #### Portal Project
 
-* Overview paper: Brown, J. H. 1998. The desert granivory experiments at Portal. Pages 71–95 in W. J. Resetarits and J. Bernardo, editors. Experimental Ecology. Oxford University Press, New York. (paper can be obtained from Morgan or the Portal Project Zotero reading group. Ask Morgan for access)
+* Overview paper: [Brown, J. H. 1998. The desert granivory experiments at Portal. Pages 71–95 in W. J. Resetarits and J. Bernardo, editors. Experimental Ecology. Oxford University Press, New York](https://github.com/weecology/lab-wiki/blob/master/Brown_1998.pdf)
      * Desert Natural History: [Brown, J. H., O. J. Reichman, and D. W. Davidson. 1979. Granivory in Desert Ecosystems. Annual Review of Ecology and Systematics 10:201–227](https://www.annualreviews.org/doi/pdf/10.1146/annurev.es.10.110179.001221)
      * Rodent community change: [Ernest, S. K. M., J. H. Brown, K. M. Thibault, E. P. White, and J. R. Goheen. 2008. Zero Sum, the Niche, and Metacommunities: Long-Term Dynamics of Community Assembly. American Naturalist 172:E257–E269](https://www.jstor.org/stable/pdf/10.1086/592402.pdf)
      * Rodent impact on plants: [Valone, T. J., and M. R. Schutzenhofer. 2007. Reduced rodent biodiversity destabilizes plant populations. Ecology 88:26–31](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9658%282007%2988%5B26%3ARRBDPP%5D2.0.CO%3B2)

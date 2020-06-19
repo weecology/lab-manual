@@ -46,6 +46,7 @@
 ### Programming & Computational Guides
 * [Lab Coding Guidelines](https://github.com/weecology/lab-wiki/wiki/Programming:-Lab-Coding-Guidelines)
 * [Style Guide for Code](https://github.com/weecology/lab-wiki/wiki/Programming:-Style-Guide-for-Code)
+* [Editing Lab Website](https://github.com/weecology/lab-wiki/wiki/Editing-the-lab-website)
 * [Parallelization in R](https://github.com/weecology/lab-wiki/wiki/Programming:-Parallelization-in-R)
 * [SSH and SSH keys](https://github.com/weecology/lab-wiki/wiki/Programming:-SSH-&-SSH-keys-for-GitHub---Serenity---etc.)
 * [Collaborating in Git/GitHub](https://github.com/weecology/lab-wiki/wiki/Programming:-Collaborating-in-Git-GitHub)

@@ -1,7 +1,8 @@
 ### Lab Guide
 * [Way of Weecology (lab philosophy)](https://github.com/weecology/lab-wiki/wiki/Way-of-Weecology)
 * [Code of Conduct](https://github.com/weecology/lab-wiki/wiki/WEecology:-Code-of-Conduct)
-* [New Lab Member Onboarding](https://github.com/weecology/lab-wiki/wiki/WEecology:-New-Lab-Member-Onboarding)
+* [Onboarding To-Do list](https://github.com/weecology/lab-wiki/wiki/WEecology:-Onboarding-Checklist)
+* [Onboarding Guide](https://github.com/weecology/lab-wiki/wiki/WEecology:-New-Lab-Member-Onboarding)
 * [Lab Reading List](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-reading-list)
 * [Advisor-free Projects](https://github.com/weecology/lab-wiki/wiki/WEecology:-Advisor-free-projects)
 * [Annual Self-Assessment](https://github.com/weecology/lab-wiki/wiki/WEecology:-Annual-self-assessment)

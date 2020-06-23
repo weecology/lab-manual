@@ -64,6 +64,7 @@ We're always trying to improve the onboarding experience, so keep track of the t
 * OneDrive: students also have access to “unlimited” storage on UF’s [OneDrive](https://cloud.it.ufl.edu/collaboration-tools/office-365/).
 - [ ] Set up your computer to print to the lab printer. The lab printer is located in room 015 and accessible from the UFL network at 10.242.89.51. You may need to [download and install drivers](https://support.hp.com/us-en/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514) before adding it as a printer in order for it to function properly.
 - [ ] Set up [access to the T: drive](https://github.com/weecology/lab-wiki/wiki/Accessing-the-T:-drive). This is a shared drive for the lab, and can be used to store large files associated with your project. 
+- [ ] If the UF VPN is not already on your computer, install the [Cisco AnyConnect VPN](https://it.ufl.edu/ict/documentation/network-infrastructure/vpn/). You'll need this to do literature searches from off campus.
 
 Congratulations! You have mastered the essentials of being a Weecologist! You’re now ready for Stage 2 of Onboarding: Engaging with the Science and Tools.
 
@@ -77,7 +78,7 @@ Congratulations! You have mastered the essentials of being a Weecologist! You’
     - [ ] IDEA
 - [ ] Pick at least two areas that are especially interesting/relevant to you. Read all the papers listed on the reading list in that topic area
 - [ ] Are you funded by a grant? Ask the grant PI (probably Ethan or Morgan) for a copy to read. Don't know if you're funded on a grant? Ask Ethan, Morgan, or Glenda (she knows everything).
-- [ ] On the lab website, find a recent paper that looks interesting to you that is by someone currently in the group
+- [ ] On the [lab website](https://weecology.org), find a recent paper that looks interesting to you that is by someone currently in the group
     - [ ] Read the paper
     - [ ] Set up a meeting with that person to chat about their paper
 

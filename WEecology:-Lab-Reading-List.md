@@ -2,7 +2,7 @@
 
 The lab reading list provides a starting point for new Weecologists to become familiar with the types of questions, projects, and perspectives of the lab. Every topic contains an overview paper (i.e. if there's only one paper you read on a topic, read that one) and several "deep-dive" papers. Every new member to the lab should read all the overview papers for all the topics and the deep-dive papers for the projects relevant to them (especially if they are funded off a grant working in that area).
 
-If you are off campus, you may need to use the VPN into the UF network to access papers.
+If you are off campus, you may need to use the VPN into the UF network to access papers (if you need to [install the VPN](https://it.ufl.edu/ict/documentation/network-infrastructure/vpn/)).
 
 #### Portal Project
 

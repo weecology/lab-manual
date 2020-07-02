@@ -25,7 +25,7 @@ We're always trying to improve the onboarding experience, so keep track of the t
 - [ ] Read Weecology’s [Welcome to Slack]( https://github.com/weecology/lab-wiki/wiki/Welcome-to-Slack) page
 - [ ] Take the [Markdown tutorial](https://www.markdowntutorial.com/). Markdown is a way of writing text that the computer then adds formatting to (i.e. italics, bullet points, headers). We use markdown for our website, as part of GitHub communication, and to create RMarkdown files to help keep track of projects.
 - [ ] Set up your weecology calendar with your class schedule, when you’ll be out of town etc. You can make the names of the events public or private as you wish, this is just so others can see when you’re available for scheduling purposes.
-- [ ] Optional: Add other calendars to your calendar to stay informed on other events. This can be done by finding the + sign by “Other Calendars”. Commonly used calendars include “ethan”, “morgan”, “conference room”, “UF Weecology Seminars”, and portalproject1977@gmail.com (the portal calendar for keeping track of when trips are occurring)
+- [ ] Optional: Add other calendars to your **Weecology** calendar to stay informed on other events. This can be done by finding the + sign by “Other Calendars”. Commonly used calendars include “ethan”, “morgan”, “conference room”, “UF Weecology Seminars”, and portalproject1977@gmail.com (the portal calendar for keeping track of when trips are occurring)
  
 #### Familiarize Yourself with Lab Culture and Values:
 - [ ] Read the [Way of Weecology]( https://github.com/weecology/lab-wiki/wiki/Way-of-Weecology)
@@ -49,7 +49,7 @@ We're always trying to improve the onboarding experience, so keep track of the t
 - [ ] Choose R and/or Python (you can always change or add the other later!). People in our groups use R and/or Python as their primary programming language. Most people use R, but if you have more serious software engineering or image processing plans in mind, talk to your advisor about Python. If in doubt, talk to your advisor or other lab members. 
   * For R:  
     - [ ] [Download and Install R](https://cran.rstudio.com/). Site includes a windows, linux, and MacOS version. Windows users: you want the base install
-    - [ ] Download and Install [RStudio]( https://rstudio.com/products/rstudio/download/#download). This is the Individual Development Environment that we use for writing R code. Choose the free version.
+    - [ ] Download and Install [RStudio]( https://rstudio.com/products/rstudio/download/#download). This is the Individual Development Environment (IDE) that we use for writing R code. Choose the free version.
   * For Python:
     - [ ] Download and Install the [Anaconda Scientific Python Distribution]( https://www.anaconda.com/products/individual)
     - [ ] Download and Install [Visual Studio Code]( https://code.visualstudio.com/download) This is the Integrated Development Environment that we recommend for writing Python code. Windows users: choose ‘user installer’ and 64 bit.

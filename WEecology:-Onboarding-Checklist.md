@@ -16,6 +16,8 @@ We're always trying to improve the onboarding experience, so keep track of the t
 
 #### Get set up on Lab Communication Platforms
 - [ ] Ask Glenda to show you where your copy of the onboarding checklist is on GitHub and how to check off completed tasks. 
+- [ ] Request your computer. Every weecologist gets a computer for their work/educational responsibilities. Tell Glenda if you want a laptop or desktop, and whether you want a windows, mac, or linux machine. 
+    - [ ] If you are working remotely, check out the [Remote Working Checklist](https://github.com/weecology/lab-wiki/wiki/Remote-Working-Checklist) for additional steps on computer set-up and HR paperwork that applies to you.
 - [ ] Check that Glenda has set you up on the weecology spaces for:
     - [ ] GitHub
     - [ ] Slack
@@ -25,6 +27,9 @@ We're always trying to improve the onboarding experience, so keep track of the t
 - [ ] Read Weecology’s [Welcome to Slack]( https://github.com/weecology/lab-wiki/wiki/Welcome-to-Slack) page
 - [ ] Take the [Markdown tutorial](https://www.markdowntutorial.com/). Markdown is a way of writing text that the computer then adds formatting to (i.e. italics, bullet points, headers). We use markdown for our website, as part of GitHub communication, and to create RMarkdown files to help keep track of projects.
 - [ ] Set up your weecology calendar with your class schedule, when you’ll be out of town etc. You can make the names of the events public or private as you wish, this is just so others can see when you’re available for scheduling purposes.
+- [ ] Staff Only: Ask Glenda to set you up with a Trello account (Trello is our project management system and how Morgan and Ethan keep track of the numerous things going on in the group)
+     - [ ] Watch the [introduction to trello](https://help.trello.com/article/899-getting-started-video-demo).
+     - [ ] Have Ethan, Morgan, or Glenda assign you to the boards that are relevant to your work duties.
 - [ ] Optional: Add other calendars to your **Weecology** calendar to stay informed on other events. This can be done by finding the + sign by “Other Calendars”. Commonly used calendars include “ethan”, “morgan”, “conference room”, “UF Weecology Seminars”, and portalproject1977@gmail.com (the portal calendar for keeping track of when trips are occurring)
  
 #### Familiarize Yourself with Lab Culture and Values:
@@ -66,7 +71,7 @@ We're always trying to improve the onboarding experience, so keep track of the t
 - [ ] Set up [access to the T: drive](https://github.com/weecology/lab-wiki/wiki/Accessing-the-T:-drive). This is a shared drive for the lab, and can be used to store large files associated with your project. 
 - [ ] If the UF VPN is not already on your computer, install the [Cisco AnyConnect VPN](https://it.ufl.edu/ict/documentation/network-infrastructure/vpn/). You'll need this to do literature searches from off campus.
 
-Congratulations! You have mastered the essentials of being a Weecologist! You’re now ready for Stage 2 of Onboarding: Engaging with the Science and Tools.
+Congratulations! You have gotten yourself prepared to start working with the group! You’re now ready for Stage 2 of Onboarding: Engaging with the Science and Tools.
 
 ### Stage 2: Engaging with the Science and Tools
 
@@ -99,4 +104,9 @@ Congratulations! You have mastered the essentials of being a Weecologist! You’
 
 **Congrats! You have completed the onboarding process!** Remember to keep checking on the lab wiki to see if it has information that might be useful to you. Pages that aren't relevant to you now may become important to you in the future as your role and skills evolve!
 
-The lab wiki belongs to everyone, so feel free to edit or add pages as you identify information that was useful to you. Maybe it just serves as a useful cheatsheet for you, but in reality, if you had to figure it out, someone else in the future will too. Help out a future Weecologist by writing it down!
+This guide is really just designed to get you a basic foundation. Depending on your role and prior experience, you may feel like you need more indepth guidance on something we introduced you to here. That's ok! See if any of these guides might be useful (note: none of these exist right now, but they are planned!)
+* Graduate Student Milestones (am I on track?)
+* More R! - a lab checklist for good tutorials for learning basic R skills
+* Using GitHub for Coding - a lab guide to resources for learning about using repositories for your computer code, keeping track of changes, and working on collaborative projects.
+
+Finally, the lab wiki belongs to everyone, so feel free to edit or add pages as you identify information that was useful to you. Maybe it just serves as a useful cheatsheet for you, but in reality, if you had to figure it out, someone else in the future will too. Help out a future Weecologist by writing it down!

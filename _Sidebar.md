@@ -59,7 +59,7 @@
 * [Tensorflow and Jupyter on Hipergator](https://github.com/weecology/lab-wiki/wiki/Programming:-Tensorflow-and-Jupyter-on-Hipergator)
 * [Software Contributor Code of Conduct](https://github.com/weecology/lab-wiki/wiki/Programming:-Software-Project-Code-of-Conduct)
 * [Testing in R with Testthat](https://github.com/weecology/lab-wiki/wiki/Programming:-Software-Testing-in-R-with-Testthat)
-* [More R Resources] (https://github.com/weecology/lab-wiki/wiki/More-R-Resources)
+* [More R Resources](https://github.com/weecology/lab-wiki/wiki/More-R-Resources)
 
 
 ### Career Guidance, Conferences, Networking

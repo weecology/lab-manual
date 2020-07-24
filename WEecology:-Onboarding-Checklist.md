@@ -106,7 +106,7 @@ Congratulations! You have gotten yourself prepared to start working with the gro
 
 This guide is really just designed to get you a basic foundation. Depending on your role and prior experience, you may feel like you need more indepth guidance on something we introduced you to here. That's ok! See if any of these guides might be useful (note: none of these exist right now, but they are planned!)
 * Graduate Student Milestones (am I on track?)
-* More R! - a lab checklist for good tutorials for learning basic R skills
+* [More R!](https://github.com/weecology/lab-wiki/wiki/More-R-Resources) - a lab checklist for good tutorials for learning basic R skills
 * Using GitHub for Coding - a lab guide to resources for learning about using repositories for your computer code, keeping track of changes, and working on collaborative projects.
 
 Finally, the lab wiki belongs to everyone, so feel free to edit or add pages as you identify information that was useful to you. Maybe it just serves as a useful cheatsheet for you, but in reality, if you had to figure it out, someone else in the future will too. Help out a future Weecologist by writing it down!

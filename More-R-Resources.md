@@ -10,6 +10,7 @@ R is a powerful tool that allows you to do a lot of things such as doing simple 
 
 ## Intermediate or Advanced use of R 
 
+* [What They Forgot to Teach You about R](https://rstats.wtf/) is a set of tips on doing effective, reproducible data analysis in R (and less about actual programming)
 * [Happy Git and GitHub for the UseR](https://happygitwithr.com/) is an instructional guide to using Git, GitHub, and R, which are all tools we use in the lab
 * [Foundations of Statistics with R](https://mathstat.slu.edu/~speegle/_book/RData.html) is a course book for learning probability and statistics using R
 * [Efficient R Programming](https://csgillespie.github.io/efficientR/introduction.html) is another book that would help you increase your algorithmic and programming efficiency when using R

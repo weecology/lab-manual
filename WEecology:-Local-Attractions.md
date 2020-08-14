@@ -7,8 +7,8 @@ Entrance to the museum is free, you only have to pay for the Butterflies or temp
 La Chua trail on the East side of town is where the large alligators are. Lake access, trails, and a lookout tower are on the West side. Bison are usually on the West side.  
 * Devil's Millhopper State Park  
 Large sink hole with 200 step staircase going down into it. A short nature trail surrounding it. Worth seeing but probably not for more than an hour or so. 
-* Sweetwater Wetlands Park
-man-made wetland with boardwalk nature trails. Scarcely-shaded so ideal to visit early in the morning or late in the afternoon.
+* Sweetwater Wetlands Park  
+Man-made wetland with boardwalk nature trails. Scarcely-shaded so ideal to visit early in the morning or late in the afternoon.
 
 ## Outside of town
 * St. Augustine.  

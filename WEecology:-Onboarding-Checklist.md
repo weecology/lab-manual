@@ -14,10 +14,15 @@ We're always trying to improve the onboarding experience, so keep track of the t
 
 ### Stage 1 Onboarding: Learning about Weecology and Getting Set Up
 
+#### Physical setup
+- [ ] Ask Glenda to show you where your copy of the onboarding checklist is on GitHub and how to check off completed tasks. 
+- [ ] Request your computer. Every weecologist gets a computer for their work/educational responsibilities. Tell Glenda if you want a laptop or desktop, and whether you want a windows, mac, or linux machine. Keep in mind that this computer is university property. It's assigned to you for work/educational purposes and when you end your official association with the lab, your computer will have to stay with us.
+- [ ] (Remote People Only) If you are working remotely, check out the [Remote Working Checklist](https://github.com/weecology/lab-wiki/wiki/Remote-Working-Checklist) for additional steps on computer set-up and HR paperwork that applies to you.
+- [ ] (Local People Only) You will need a key to Building 150. Keys for new folks come from the WEC Building Manager, Cameron Carter (ccriderr@ufl.edu). Email Cameron (Cc'ing Ethan and/or Morgan, depending on who your primary supervisor is) and let him know that you're a new member of the group and ask him for a key to Building 150.
+
 #### Get set up on Lab Communication Platforms
 - [ ] Ask Glenda to show you where your copy of the onboarding checklist is on GitHub and how to check off completed tasks. 
 - [ ] Request your computer. Every weecologist gets a computer for their work/educational responsibilities. Tell Glenda if you want a laptop or desktop, and whether you want a windows, mac, or linux machine. Keep in mind that this computer is university property. It's assigned to you for work/educational purposes and when you end your official association with the lab, your computer will have to stay with us.
-    - [ ] If you are working remotely, check out the [Remote Working Checklist](https://github.com/weecology/lab-wiki/wiki/Remote-Working-Checklist) for additional steps on computer set-up and HR paperwork that applies to you.
 - [ ] Check that Glenda has set you up on the weecology spaces for:
     - [ ] GitHub
     - [ ] Slack

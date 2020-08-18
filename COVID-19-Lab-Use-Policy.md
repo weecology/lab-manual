@@ -6,4 +6,4 @@ Using/scheduling lab space: For those of you who can effectively work from home,
 4. Do not go to the labs if you are feeling even the slightest bit sick, have recently been exposed to someone with COVID-19, or are currently waiting for a COVID-19 test result to come back.
 5. Enter through the west door and exit via the east door.
 6. Run fans while using the bathrooms.
-7. Wear masks at all times while in the building.
+7. Per [UF regulations](https://policy.ufl.edu/policy/masking-and-physical-distancing/), wear masks at all times while in the building unless you are in a private office (or alone in a room with the door closed).

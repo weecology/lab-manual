@@ -6,6 +6,7 @@
 
 ## Safety
 
-* https://emergency.ufl.edu/preparedness/
-* Preparedness kit suggestions from the US government: https://www.ready.gov/build-a-kit
-    *  Suggestions about specific products/brands http://thesweethome.com/reviews/emergency-preparedness/
+* Read [UF Emergency Preparedness Guidelines](https://emergency.ufl.edu/preparedness/)
+* Preparedness [kit suggestions from the US government](https://www.ready.gov/build-a-kit)
+    *  Suggestions about [specific products/brands](http://thesweethome.com/reviews/emergency-preparedness/) 
+* Stay informed about [hurricane warnings and advisories](https://www.nhc.noaa.gov/)

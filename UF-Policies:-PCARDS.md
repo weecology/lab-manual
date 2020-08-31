@@ -1,8 +1,8 @@
 ## Rules of Use
 
 * P Card info is at [UF Procurement](https://procurement.ufl.edu/uf-departments/procurement-cards-pcards/)
-* Purchase limit of $2000
-* Monthly limit of XXXX (can't remember right now, I think $5,000)
+* Single transaction limit – The amount one single charge cannot exceed. Ours is $2,000.
+* Cycle limit – The amount that can be charged in the weekly cycle (Wed through Tue). Ours is $10,000.
 * Purchases cannot include sales tax if in Florida or with vendors with UF agreement (eg Amazon).
 * Can be used for travel costs (flights, car rentals, gas for business travel, etc)
 * Cannot be used to purchase food or drinks
@@ -57,9 +57,9 @@ So you're taking the big step and actually going to use the PCard. Not to scare 
 
 4) I have my thing, now what?
 
-> You have three, yes 3, days to submit your receipts to WEC. You need to fill out the PCard Invoice [form](http://www.wec.ufl.edu/resources/fiscal/Purchasing%20Invoice%20Record%20Form.pdf). Email it to Jen Miller at WECFiscal@ifas.ufl.edu. 
+> You have three, yes 3, days to submit your receipts to WEC. You need to fill out the PCard Invoice [form](http://www.wec.ufl.edu/resources/fiscal/Purchasing%20Invoice%20Record%20Form.pdf). Email it to Dan Deep at WECFiscal@ifas.ufl.edu. 
 
-> You can either take a picture of the receipt and email it with the invoice or hand everything in on paper to Jen Miller. If you are traveling, I would recommend taking a picture as soon as you get the receipt in your hand. You don't want to lose receipts. Trust me. 
+> You can either take a picture of the receipt and email it with the invoice or hand everything in on paper to Dan Deep. If you are traveling, I would recommend taking a picture as soon as you get the receipt in your hand. You don't want to lose receipts. Trust me. 
 
 > If you are traveling, make sure you fill in the TAR # for your trip on the Pcard invoice. This can be found in myUFL -> Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
 
@@ -70,15 +70,15 @@ Did you lose your receipt? Sigh. Proceed to step 5.
 5) Uh, I lost my receipt. 
 
 > People will be unhappy with you but it is not the end of the world. You need to fill out this [form](http://www.wec.ufl.edu/resources/fiscal/Replacement_Receipt_Form_2009-08.doc)  
-> The form requires your supervisor (Ethan or I) to sign it. You will receive the stank eye from a variety of people. You will survive. 
+> The form requires your supervisor (Ethan or Morgan) to sign it. You will receive the stank eye from a variety of people. You will survive. 
 
 6) I took longer than 3 days to submit my documentation
 
-> I have no idea what happens to you now. When this happens to someone (and it inevitably will), let us know.
+> If this happens (and it inevitably will), let Glenda, Morgan or Ethan know.
 
 ## Temporarily increasing purchasing limit
 
-It is possible to temporarily increase the purchasing limit on your card if needed. To do this contact your budget manager (I think this is Heather Bradley <hbradley@ufl.edu>) (Cc'ing the relevant PI) to get approval and then send the following information to jenimiller@ufl.edu.
+It is possible to temporarily increase the purchasing limit on your card if needed. To do this contact your budget manager (brandieseay@ufl.edu, Cc'ing the relevant PI) to get approval and then send the following information to Dan Deep (ganderindan@ufl.edu).
 
 Cardholder Name:
 Cardholder UFID:
@@ -90,4 +90,4 @@ Business Purpose:
 Fund Code (3 digits) :
 Has your budget manager approved this expense (yes or no):
 Justification for why a PO can't be done:
-PCard Approver’s Name: Jen Miller
+PCard Approver’s Name: Dan Deep

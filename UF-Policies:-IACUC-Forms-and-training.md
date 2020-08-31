@@ -7,6 +7,7 @@ Include the protocol number in the subject line of any emails to IACUC. (This ch
 Fill out the EH&S [AC Form](http://webfiles.ehs.ufl.edu/ACForm.pdf).
   * Supervisor (for Portal): Morgan
   * Fiscal Contact: Daniel Deep
+  * Check all the boxes under rodents, and specify: mice, rats, squirrels
 
 Email to Supervisor to sign and turn in (email completed form to OccMedClinic-RiskAssessment@ahc.ufl.edu).
 

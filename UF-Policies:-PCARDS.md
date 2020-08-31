@@ -1,11 +1,12 @@
 ## Rules of Use
 
+* P Card info is at [UF Procurement](https://procurement.ufl.edu/uf-departments/procurement-cards-pcards/)
 * Purchase limit of $2000
 * Monthly limit of XXXX (can't remember right now, I think $5,000)
-* Purchases cannot include sales tax
+* Purchases cannot include sales tax if in Florida or with vendors with UF agreement (eg Amazon).
 * Can be used for travel costs (flights, car rentals, gas for business travel, etc)
 * Cannot be used to purchase food or drinks
-* NEVER EVER EVER use for personal use. There is no "I'll payback the University for this". 
+* NEVER EVER EVER use for personal use. There is no "I'll payback the University for this". This includes putting gas in a non-university vehicle, even if it's for work travel.
 * When you're leaving UF, cancel your pcard by just emailing them (pcard@ufl.edu) on your last day, and they will have you shred the card yourself.
 
 ## Getting a PCARD
@@ -13,9 +14,9 @@
 * You need to go through pcard training. This involves watching a number of videos. 
 * Step 1: Go to  myUFL, then navigate to My Self Service > Training and Development > myTraining.  To search for the PCard courses, click in the Activity Search box, then enter the appropriate course name or number. 
 * As a PCARD holder, you will need to take the following courses: What Every PCard Holder Needs to Know(PST975), PCard for Travel (PST076), PCard for Commodities (PST077)
-* When you finish your training fill in the [Cardholder agreement](http://www.purchasing.ufl.edu/forms/cardholder_agreement.pdf) and the top part of the [PCard Application](http://www.purchasing.ufl.edu/forms/2014-11_PCard_Application.pdf). Fiona (or somebody else in the WEC office?) can fill in the department section. The completed forms go to the PCARD team at pcard@ufl.edu. 
+* When you finish your training fill in the [Cardholder agreement](https://procurement.ufl.edu/wp-content/uploads/2018/01/cardholder_agreement-1.pdf) and the top part of the [PCard Application](https://procurement.ufl.edu/wp-content/uploads/2018/09/2018-09-PCard-Application.pdf). Daniel Deep (or somebody else in the WEC office) can fill in the department section. The completed forms go to the PCARD team at pcard@ufl.edu. 
 * Processing should take a few weeks to a month. You'll get an email from the PCard office when it is approved. Th PCard will be delivered to the WEC office. 
-* You may need to go in and specifically ask for it. They go to Jen Miller. 
+* You may need to go in and specifically ask for it.
 * Once you receive the card, activate it and set a PIN:
   * Call 8882338855
   * Your account number is the credit card number

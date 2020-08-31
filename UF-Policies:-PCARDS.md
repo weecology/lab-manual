@@ -6,7 +6,7 @@
 * Purchases cannot include sales tax if in Florida or with vendors with UF agreement (eg Amazon).
 * Can be used for travel costs (flights, car rentals, gas for business travel, etc)
 * Cannot be used to purchase food or drinks
-* NEVER EVER EVER use for personal use. There is no "I'll payback the University for this". This includes putting gas in a non-university vehicle, even if it's for work travel.
+* NEVER EVER EVER use for personal use. There is no "I'll payback the University for this". This includes putting gas in a personal vehicle, even if it's for work travel.
 * When you're leaving UF, cancel your pcard by just emailing them (pcard@ufl.edu) on your last day, and they will have you shred the card yourself.
 
 ## Getting a PCARD

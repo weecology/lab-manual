@@ -17,7 +17,7 @@
 * Step 1: Go to  myUFL, then navigate to My Self Service > Training and Development > myTraining.  To search for the PCard courses, click in the Activity Search box, then enter the appropriate course name or number. 
 * As a PCARD holder, you will need to take the following courses: What Every PCard Holder Needs to Know(PST975), PCard for Travel (PST076), PCard for Commodities (PST077)
 * When you finish your training fill in the [Cardholder agreement](https://procurement.ufl.edu/wp-content/uploads/2018/01/cardholder_agreement-1.pdf) and the top part of the [PCard Application](https://procurement.ufl.edu/wp-content/uploads/2018/09/2018-09-PCard-Application.pdf). Daniel Deep (or somebody else in the WEC office) can fill in the department section. The completed forms go to the PCARD team at pcard@ufl.edu. 
-* Processing should take a few weeks to a month. You'll get an email from the PCard office when it is approved. Th PCard will be delivered to the WEC office. 
+* Processing should take a few weeks to a month. You'll get an email from the PCard office when it is approved. The PCard will be delivered to the WEC office. 
 * You may need to go in and specifically ask for it.
 * Once you receive the card, activate it and set a PIN:
   * Call 8882338855
@@ -32,6 +32,7 @@ This section is for general info commonly needed for PCard Purchases
 * Billing Address: University of FLorida, PO Box 110430, Gainesville FL 32611-0430
 * Billing Phone Number: 352-392-1331.
 * PCard are now Chip and Pin cards, so you may need your PIN when using the card in stores.
+* If you use with a PIN, the vendor may ask for a p number/project code/somesuch thing. You can just say the name of the project it's for, it's not a specific value.
 
 ## Using the Pcard
 
@@ -59,9 +60,16 @@ So you're taking the big step and actually going to use the PCard. Not to scare 
 
 4) I have my thing, now what?
 
-> You have three, yes 3, days to submit your receipts to WEC. You need to fill out the PCard Invoice [form](http://www.wec.ufl.edu/resources/fiscal/Purchasing%20Invoice%20Record%20Form.pdf). Email it to Dan Deep at WECFiscal@ifas.ufl.edu. 
+> You have three, yes 3, days to submit your receipts to WEC. 
+Email the receipt and the following info to Dan Deep at WECFiscal@ifas.ufl.edu. 
+  * Date: 
+  * Vendor: 
+  * Items: 
+  * Project: see [Accounts](https://github.com/weecology/lab-wiki/wiki/Accounts )for list of project numbers
+  * Amount: 
+  * Benefit to project: 
 
-> You can either take a picture of the receipt and email it with the invoice or hand everything in on paper to Dan Deep. If you are traveling, I would recommend taking a picture as soon as you get the receipt in your hand. You don't want to lose receipts. Trust me. 
+> You can either take a picture of the receipt and email it with the info or hand everything in on paper to Dan Deep. If you are traveling, I would recommend taking a picture as soon as you get the receipt in your hand. You don't want to lose receipts. Trust me. 
 
 > If you are traveling, make sure you fill in the TAR # for your trip on the Pcard invoice. This can be found in myUFL -> Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
 

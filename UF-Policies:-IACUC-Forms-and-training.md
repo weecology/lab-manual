@@ -8,7 +8,7 @@ Fill out the EH&S [AC Form](http://webfiles.ehs.ufl.edu/ACForm.pdf).
   * Supervisor (for Portal): Morgan
   * Fiscal Contact: Daniel Deep
   * Check all the boxes under rodents, and specify: mice, rats, squirrels
-  * Sign in 2 locations, Page 2 and page 3.
+  * Complete all pages, add name at top of each page, and remember to sign
 
 Email to Supervisor to sign and turn in (email completed form to OccMedClinic-RiskAssessment@ahc.ufl.edu).
 

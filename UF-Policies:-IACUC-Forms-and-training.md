@@ -6,7 +6,7 @@ Include the protocol number in the subject line of any emails to IACUC.
 
 Fill out the [AC Form](http://webfiles.ehs.ufl.edu/ACForm.pdf).
   * Supervisor (for Portal): Morgan
-  * Fiscal Contact: Fiona Hogan
+  * Fiscal Contact: Daniel Deep
 
 Email to Supervisor to sign and turn in (email completed form to OccMedClinic-RiskAssessment@ahc.ufl.edu).
 

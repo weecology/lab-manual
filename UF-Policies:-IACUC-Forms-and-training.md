@@ -39,6 +39,7 @@ Follow instructions here: https://research.ufl.edu/rcr/rcr-training/citi-rcr-tra
 ### Once Completed 
 
 Register at my.iacuc.ufl.edu/ as "study staff".
+
 Refresher courses will be required periodically.
 
 

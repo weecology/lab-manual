@@ -1,6 +1,6 @@
 *Start this process early as approval will take a few weeks.*
 
-Include the protocol number in the subject line of any emails to IACUC. (This changes periodically, you can find it in the Portal Dropbox Admin folder).
+Include the protocol number in the subject line of any emails to IACUC: 201808839
 
 ### Forms
 

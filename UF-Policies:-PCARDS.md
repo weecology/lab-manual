@@ -1,6 +1,8 @@
 ## Rules of Use
 
 * P Card info is at [UF Procurement](https://procurement.ufl.edu/uf-departments/procurement-cards-pcards/)
+  - [Travel Guidelines](https://procurement.ufl.edu/uf-departments/procurement-cards-pcards/transactions/)
+  - [List of Allowable purchases](https://procurement.ufl.edu/uf-departments/procurement-cards-pcards/procedures/allowable/)
 * Single transaction limit – The amount one single charge cannot exceed. Ours is $2,000.
 * Cycle limit – The amount that can be charged in the weekly cycle (Wed through Tue). Ours is $10,000.
 * Purchases cannot include sales tax if in Florida or with vendors with UF agreement (eg Amazon).

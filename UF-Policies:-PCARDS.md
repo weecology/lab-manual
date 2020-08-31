@@ -69,11 +69,13 @@ Email the receipt and the following info to Dan Deep at WECFiscal@ifas.ufl.edu.
   * Amount: 
   * Benefit to project: 
 
-> You can either take a picture of the receipt and email it with the info or hand everything in on paper to Dan Deep. If you are traveling, I would recommend taking a picture as soon as you get the receipt in your hand. You don't want to lose receipts. Trust me. 
+> You can either take a picture of the receipt and email it with the info or hand everything in on paper to Dan Deep. Also include the receipt in the UFReceipts Dropbox folder.
 
-> If you are traveling, make sure you fill in the TAR # for your trip on the Pcard invoice. This can be found in myUFL -> Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
+> If you are traveling, I would recommend taking a picture as soon as you get the receipt in your hand. You don't want to lose receipts. Trust me. 
 
-> If you buy fuel for a rental car, you need to put the rental agreement number on the PCard invoice.
+> If you are traveling, make sure you include the TAR # for your trip iin the email. This can be found in myUFL -> Main Menu -> My Self Service -> Travel and Expense -> Travel Authorizations -> View. 
+
+> If you buy fuel for a rental car, you need to include the rental agreement number in the email.
 
 Did you lose your receipt? Sigh. Proceed to step 5.
 

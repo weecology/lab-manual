@@ -12,7 +12,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Sep 16 - 
 * Sep 23 - 
 * Sep 30 -
-* Oct 7 -
+* Oct 7 - Pat
 * Oct 14 -
 * Oct 21 - 
 * Oct 28 - 

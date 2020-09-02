@@ -5,24 +5,23 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * (To be developed) [Templates]() to help you plan out your lesson/talk/presentation/sprint/etc.
   - Here is a [feedback form](https://docs.google.com/document/d/12RS_PGXJ8-pSdakyIH1WZAsR90gWCRV4KdBzii2uy8o/edit?usp=sharing) for talks. It's set so that everyone can make comments on it, but not edit it directly -- if you wish to write up your feedback on a computer, please make a copy of the document for yourself.
 
-## Schedule (Spring 2020)
+## Schedule (Fall 2020)
 
-* Jan 6 - No meeting
-* Jan 13 - Morgan (Lab discussion about upcoming student interviews)
-* Jan 20 - No meeting, UF Holiday
-* Jan 27 - Hao (practice talk; UF Reproducibility Librarian)
-* Feb 3 - Juniper ([Super cool things I have learned to do with Docker software containers](https://github.com/weecology/lab-wiki/blob/master/uploads/feb2020%20lab%20mtg.pdf))
-* Feb 10 - Ellen (exit seminar practice)
-* Feb 17 - Not sure if this is lab-meeting worthy, but my (Ellen's) exit seminar will be 1:55-2:45 and then I'm giving an Ally Skills seminar for the WEC seminar series from 3:30-4:30
-* Feb 24 - 
-* Mar 2 - No meeting. UF Spring Break
-* Mar 9 - Renata (an SADs mystery)
-* Mar 16 - Hao (auto-rendering CV using pagedown, via https://github.com/nstrayer/cv)
-* Mar 23 - Everglades Zooniverse
-* Mar 30 - Portal Summer of Research (Morgan)
-* Apr 6 - Ethan & Morgan TBD
-* Apr 13 - Positionality statements (Ellen, Juniper, Hao)
-* Apr 20 - Morgan & Ethan - Summer Plans
+* Sep 2 - Intro
+* Sep 9 - 
+* Sep 16 - 
+* Sep 23 - 
+* Sep 30 -
+* Oct 7 -
+* Oct 14 -
+* Oct 21 - 
+* Oct 28 - 
+* Nov 4 -
+* Nov 11 (Veterans Day, UF Holiday)
+* Nov 18 -
+* Nov 25 (UF Thanksgiving Holiday)
+* Dec 2 -
+* Dec 9 -
 
 ## Discussion topics
 

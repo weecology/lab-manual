@@ -2,8 +2,13 @@
 
 ### Important Notes:  
 Include the protocol number in the subject line of any emails to IACUC: **201808839**  
-Ask Glenda to file a modification in the protocol to have you added.   
 CC Morgan and Glenda in your communications to relevant offices.  
+
+### Register with myIACUC
+
+Go to https://my.iacuc.ufl.edu and log in with your Gatorlink username and password and register as "study staff". (If you are not on campus, you will need to use VPN to access my.iacuc.)
+You will receive a notice when you have been approved. 
+Let Glenda know you have been approved and she will file a modification in the protocol to add you.   
 
 ### Forms
 
@@ -49,8 +54,6 @@ Required for NSF sponsored projects
 Follow instructions here: https://research.ufl.edu/rcr/rcr-training/citi-rcr-training/
 
 ### Once Completed 
-
-Register at my.iacuc.ufl.edu/ as "study staff". (If you are not on campus, you will need to use VPN to access my.iacuc.)
 
 Refresher courses will be required periodically.
 

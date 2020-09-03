@@ -1,12 +1,19 @@
 *Start this process early as approval will take a few weeks.*
 
-Include the protocol number in the subject line of any emails to IACUC: 201808839
+### Important Notes:  
+Include the protocol number in the subject line of any emails to IACUC: **201808839**  
+Ask Glenda to file a modification in the protocol to have you added.   
+CC Morgan and Glenda in your communications to relevant offices.  
 
 ### Forms
 
 Fill out the EH&S [AC Form](http://webfiles.ehs.ufl.edu/ACForm.pdf).
-  * Supervisor (for Portal): Morgan
-  * Fiscal Contact: Daniel Deep
+  * Supervisor (for Portal): Morgan (352-294-2082; skmorgane@ufl.edu)
+  * Fiscal Contact: Daniel Deep  (352-846-0578; ganderindan@ufl.edu)
+  * Has the Payment Authorization Form been submitted? Choose YES (Morgan usually does this)  
+  * Type of Animal Contact: 5 (Handles, restrains, etc.)
+  * Frequency: monthly
+  * Description: rodent trapping and tagging, collection of rodent morphometric data
   * Check all the boxes under rodents, and specify: mice, rats, squirrels
   * Complete all pages, add name at top of each page, and remember to sign
 
@@ -21,7 +28,11 @@ Notify the IACUC office (iacuc@research.ufl.edu) that the form has been complete
 Complete the AALAS modules available at: http://www.aalaslearninglibrary.org. 
 * "Working with the IACUC (For Ag and Wildlife)"
 * "Working With The Laboratory Mouse" 
-* "Working With The Laboratory Rat" 
+* "Working With The Laboratory Rat"    
+
+_Note: Each training has 20 modules (~1 hour/training). Going through practice questions will help you pass the final exam at the end of each training since some practice questions are asked in the final exam._  
+
+_Optional: Download the CEU and Exam certificates for each training, for your own perusal._
 
 *If you don't already have an account:*
 1. Visit https://iacuc.ufl.edu/secure/

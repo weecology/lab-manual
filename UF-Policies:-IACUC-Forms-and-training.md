@@ -7,7 +7,9 @@ CC Morgan and Glenda in your communications to relevant offices.
 ### Register with myIACUC
 
 Go to https://my.iacuc.ufl.edu and log in with your Gatorlink username and password and register as "study staff". (If you are not on campus, you will need to use VPN to access my.iacuc.)
+
 You will receive a notice when you have been approved. 
+
 Let Glenda know you have been approved and she will file a modification in the protocol to add you.   
 
 ### Forms

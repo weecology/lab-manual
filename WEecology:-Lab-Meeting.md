@@ -8,7 +8,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 ## Schedule (Fall 2020) <img src="https://media.giphy.com/media/cilFqdx6gyoZ48CGaF/giphy.gif" width="100px">
 
 * Sep 2 - Intro
-* Sep 9 - 
+* Sep 9 - Renata (research update/help me find the :scream_cat:s in my stats)
 * Sep 16 - 
 * Sep 23 - 
 * Sep 30 -

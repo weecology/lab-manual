@@ -9,7 +9,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 
 * Sep 2 - Intro
 * Sep 9 - Renata (research update/help me find the :scream_cat:s in my stats)
-* Sep 16 - 
+* Sep 16 - Practice Talk (Computer Vision for Ecology, September 18th, iDigBio) 
 * Sep 23 - 
 * Sep 30 -
 * Oct 7 - Pat

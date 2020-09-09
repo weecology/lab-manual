@@ -6,7 +6,8 @@ R is a powerful tool that allows you to do a lot of things such as doing simple 
 * [Teacups, Giraffes, and Statistics](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html) is an interactive website that contains modules useful for learning statistics and R
 * [R for cats](https://rforcats.net/) is an introductory guide to the use of R with cat photos (this is a bonus!)
 * [R in a Nutshell](https://paulvanderlaken.files.wordpress.com/2017/08/r_in_a_nutshell.pdf) is a book that gives you a concise overview of the different things you can do in R
-* [Do More with R](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html) is a website listing video tutorials on specific topics in R (most videos are said to be < 10 minutes in length)
+* [Do More with R](https://www.infoworld.com/article/3411819/do-more-with-r-video-tutorials.html) is a website listing video tutorials on specific topics in R (most videos are said to be < 10 minutes in length)  
+* [Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/readings/R-intro/) is derived from the semester-long course taught By Dr. Ethan White that covers basic functions/use of R
 
 ## Intermediate or Advanced use of R 
 

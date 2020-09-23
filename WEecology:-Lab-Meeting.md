@@ -13,7 +13,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Sep 23 - 
 * Sep 30 -
 * Oct 7 - Pat
-* Oct 14 -
+* Oct 14 - Sergio (Exit seminar practice talk)
 * Oct 21 - 
 * Oct 28 - 
 * Nov 4 -

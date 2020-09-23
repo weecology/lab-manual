@@ -51,11 +51,13 @@ Also let Karen know your defense date as soon as you know it. They will provide 
 Deadlines change by a few days every semester but are generally around the same time. Official deadlines are available at the [Editorial Office](http://graduateschool.ufl.edu/about-us/offices/editorial/editorial-deadlines/) and the [Graduate School Academic Calendar](http://gradcatalog.ufl.edu/content.php?catoid=12&navoid=2681).
 
 ## Dissertation Submission
-You'll go thru several rounds of submission. The first must be by the 1st submission deadline. In this case the dissertation does *not* have to be done, a single chapter will do. It's mostly a formatting check. You'll get feedback on this version which you'll need to implement in your final version.  
+You'll go thru several rounds of submission. The first must be by the 1st submission deadline. In this case the dissertation does *not* have to be done, a single chapter will do. It's mostly a formatting check. You'll get feedback on this version which you'll need to implement in your final version. 
+ 
 After your defense and the appropriate forms are submitted by Karen you can submit the full, 100% approved by your committee, version of your dissertation. This first "full" submission must be done by the "Final Submission Deadline".  
 Once your final dissertation is submitted, the editorial office will likely return it with formatting comments. You may go thru several rounds of this. You must address all their comments and have the dissertation *accepted* by their office by the Final Approval/Clearance deadline. Once it has this final approval the dissertation aspect is finished. 
 
-**Clear Prior** 
+## Clear Prior
+
 See the "Clear Prior" section in the general "Graduation" page in the lab wiki. 
 
 ## Dissertation Formatting

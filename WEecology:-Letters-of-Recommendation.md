@@ -12,7 +12,7 @@ In cases where we need to write a letter up front, do the following:
 
 * Provide us plenty of time, ideally at least two weeks (but don't not ask for a letter if it has to happen at the last minute, we'll figure out how to get it done). This is particularly important if it is the first time that we are writing this type of letter for you.
 * Send a message that includes:
-    * A link to the job description
+    * A link to the job/fellowship/award description
     * The date the letter is due
     * Details on how to submit the letters (typically either a link or an email address)
     * Anything you think is particularly important about the ad and/or that you'd like us to highlight. We typically develop a general letter, but are happy to customize in cases where that is useful.

@@ -55,6 +55,9 @@ You'll go thru several rounds of submission. The first must be by the 1st submis
 After your defense and the appropriate forms are submitted by Karen you can submit the full, 100% approved by your committee, version of your dissertation. This first "full" submission must be done by the "Final Submission Deadline".  
 Once your final dissertation is submitted, the editorial office will likely return it with formatting comments. You may go thru several rounds of this. You must address all their comments and have the dissertation *accepted* by their office by the Final Approval/Clearance deadline. Once it has this final approval the dissertation aspect is finished. 
 
+**Clear Prior** 
+See the "Clear Prior" section in the general "Graduation" page in the lab wiki. 
+
 ## Dissertation Formatting
 
 Getting your dissertation formatting correct is several *full* days worth of work at least. There are a slew of specific guidelines (worth noting is all the rules seem to make sure dissertations look the same as when typewriters were still used).  
@@ -68,8 +71,7 @@ You must have an Introduction chapter and a Conclusion chapter. These do not nee
 You should utilize one of formatting templates here [http://helpdesk.ufl.edu/application-support-center/etd-technical-support/ms-word-and-latex-templates/](http://helpdesk.ufl.edu/application-support-center/etd-technical-support/ms-word-and-latex-templates/).   
 If you're comfortable in Latex, absolutely use that. There is a template on Overleaf.com titled "University of Florida Thesis Template". You can see how it was used for a dissertation [here](https://github.com/sdtaylor/dissertation). Also, Kristen Sauby has an [Rmarkdown template using thesisdown](https://github.com/ksauby/thesisdownufl).
 
-**Other Resources**  
-Questions about clear prior? See the "Clear Prior" section in the general "Graduation" page in this wiki  
+**Other Resources**   
 [Editorial Office Dissertation Format Overview](http://graduateschool.ufl.edu/about-us/offices/editorial/format-requirements/)  
 [Official Dissertation Guidelines](http://graduateschool.ufl.edu/media/graduate-school/pdf-files/Guide-for-ETDs.pdf)  
 [Other peoples dissertations](https://cms.uflib.ufl.edu/etd/department.aspx)

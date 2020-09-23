@@ -68,7 +68,8 @@ You must have an Introduction chapter and a Conclusion chapter. These do not nee
 You should utilize one of formatting templates here [http://helpdesk.ufl.edu/application-support-center/etd-technical-support/ms-word-and-latex-templates/](http://helpdesk.ufl.edu/application-support-center/etd-technical-support/ms-word-and-latex-templates/).   
 If you're comfortable in Latex, absolutely use that. There is a template on Overleaf.com titled "University of Florida Thesis Template". You can see how it was used for a dissertation [here](https://github.com/sdtaylor/dissertation). Also, Kristen Sauby has an [Rmarkdown template using thesisdown](https://github.com/ksauby/thesisdownufl).
 
-**Other Resources**    
+**Other Resources**  
+Questions about clear prior? See the "Clear Prior" section in the general "Graduation" page in this wiki  
 [Editorial Office Dissertation Format Overview](http://graduateschool.ufl.edu/about-us/offices/editorial/format-requirements/)  
 [Official Dissertation Guidelines](http://graduateschool.ufl.edu/media/graduate-school/pdf-files/Guide-for-ETDs.pdf)  
 [Other peoples dissertations](https://cms.uflib.ufl.edu/etd/department.aspx)

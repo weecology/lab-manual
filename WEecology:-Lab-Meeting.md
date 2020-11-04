@@ -15,7 +15,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Oct 7 - Pat (Practice talk for Hawk Mountain trainees and staff on 14-Oct)
 * Oct 14 - Sergio (Exit seminar practice talk)
 * Oct 21 - 
-* Oct 28 - 
+* Oct 28 - AMA Grants (Ethan & Morgan)
 * Nov 4 -
 * Nov 11 (Veterans Day, UF Holiday)
 * Nov 18 -

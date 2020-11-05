@@ -297,6 +297,8 @@ if (!"memory" %in% names(resources)) {
 ## source /etc/profile
 ## module add ...
 
+source /etc/profile
+
 ## Export value of DEBUGME environemnt var to slave
 export DEBUGME=<%= Sys.getenv("DEBUGME") %>
 

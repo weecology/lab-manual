@@ -56,7 +56,7 @@ Typical agenda is something like:
 
 [Emergency Contact Info here](https://github.com/weecology/lab-wiki/wiki/Emergency-contact-information)
 
-***TODO: General mailing address / phone number / fax number for the lab?***
+For correspondence, you can use the [WEC office contact info](https://wec.ifas.ufl.edu/about-wec/contact-information/).
 
 # Day-to-Day Operations
 

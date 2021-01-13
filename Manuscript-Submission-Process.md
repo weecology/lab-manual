@@ -84,6 +84,9 @@ Department of Wildlife Ecology and Conservation
 PO Box 110430,
 Gainesville, FL 32611-0430
 
+Phone: (352) 846-0643
+Fax: (352) 392-6984
+
 ## Managing co-authors
 
 Do not forget your co-authors through this process. You do not have to go through this on your own. They can help you brainstorm how to deal with difficult issues, help run analyses to deal with concerns, help draft language for the response letter or implement revisions to the manuscript. 

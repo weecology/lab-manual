@@ -5,23 +5,9 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * (To be developed) [Templates]() to help you plan out your lesson/talk/presentation/sprint/etc.
   - Here is a [feedback form](https://docs.google.com/document/d/12RS_PGXJ8-pSdakyIH1WZAsR90gWCRV4KdBzii2uy8o/edit?usp=sharing) for talks. It's set so that everyone can make comments on it, but not edit it directly -- if you wish to write up your feedback on a computer, please make a copy of the document for yourself.
 
-## Schedule (Fall 2020) <img src="https://media.giphy.com/media/cilFqdx6gyoZ48CGaF/giphy.gif" width="100px">
+## Schedule (Spring 2020)
 
-* Sep 2 - Intro
-* Sep 9 - Renata (research update/help me find the :scream_cat:s in my stats)
-* Sep 16 - Practice Talk (Computer Vision for Ecology, September 18th, iDigBio) 
-* Sep 23 - 
-* Sep 30 -
-* Oct 7 - Pat (Practice talk for Hawk Mountain trainees and staff on 14-Oct)
-* Oct 14 - Sergio (Exit seminar practice talk)
-* Oct 21 - 
-* Oct 28 - AMA Grants (Ethan & Morgan)
-* Nov 4 -
-* Nov 11 (Veterans Day, UF Holiday)
-* Nov 18 -
-* Nov 25 (UF Thanksgiving Holiday)
-* Dec 2 -
-* Dec 9 -
+* Jan 13 - Intro
 
 ## Discussion topics
 

@@ -59,6 +59,15 @@ Examples of Resubmission letters:
 
 - [Resubmission cover letter](https://github.com/weecology/lab-wiki/blob/master/PLoS-Revision-Cover-Letter.pdf) for [Yenni et al. 2019]( https://doi.org/10.1371/journal.pbio.3000125)
 
+## Address for correspondence
+
+Use your official university address, which is currently:
+
+Department of Wildlife Ecology and Conservation
+110 Newins-Ziegler Hall
+PO Box 110430,
+Gainesville, FL 32611-0430
+
 ## Managing co-authors
 
 Do not forget your co-authors through this process. You do not have to go through this on your own. They can help you brainstorm how to deal with difficult issues, help run analyses to deal with concerns, help draft language for the response letter or implement revisions to the manuscript. 

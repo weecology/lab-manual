@@ -41,6 +41,12 @@ Recommendation: Follow journal and funder guidelines for acknowledging funding s
 
 Discussion: Funding agencies require that when their funds are used for research that this funding is acknowledged. Journals have two general approaches to doing this: 1) listing the funding in the Acknowledgements section; 2) having a separate component of the submission process where funding sources are acknowledged. Funding agencies often have specific requirements as well. Check with your advisor & collaborators in the sources that funded the work (you may not always be aware of the different sources) and also make sure to acknowledge any support that was made directly to you (e.g., individual fellowships). Check the funders requirements for for acknowledging their funding or follow an example of a previous paper from the lab with the same funding source.
 
+## Open/Transparent Review
+
+Recommendation: Participate in open/transparent review.
+
+It is increasingly common for journals to post reviews and author responses to those reviews online with a paper if it is accepted for publication in the journal. Some journals are also exploring posting reviews even for manuscripts that aren't accepted. The goal is to increase the transparency of the overall scientific process and provide accountability for journals and authors if they have had an important issue pointed out to them that they haven't addressed. Reviewers are typically given the option to remain anonymous. Generally speaking we think open, but anonymous, review history is a positive development and recommend opting in even if it is not required, but this is still a developing area and individual lead authors are welcome to not opt-in (or opt-out if allowed) if they wish after consulting with coauthors. 
+
 ## Submission
 
 Your formatted manuscript and cover letter will get uploaded to the journal's author submission website. There will also be some web forms where they will ask for reviewer/editor suggestions, probably make you enter co-author info (that is already on your cover sheet, but try not to think about the redundancy in the process). Click submit and now you wait for the response, which is often in the 1-2 month, but sometimes closer to 3 months.

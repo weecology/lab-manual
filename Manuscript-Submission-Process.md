@@ -29,6 +29,12 @@ Here are some examples of cover letters
 - [Cover letter](https://github.com/sdtaylor/phenology_dataset_study/blob/master/manuscript/cover_letter.txt) for [Taylor et al. 2018](https://doi.org/10.1002/ecy.2568)
 - [Cover letter](https://github.com/weecology/lab-wiki/blob/master/Riemer-cover-letter.pdf) for [Riemer et al. 2018]( https://doi.org/10.7554/eLife.27166)
 
+## Data and Code Archiving
+
+Recommendation: Archive your code on [Zenodo](https://zenodo.org/) using the [GitHub-Zenodo integration](https://guides.github.com/activities/citable-code/). Archive any data that hasn't already been archived and that you have permission to archive (typically based on the license allowing "redistribution" or based on permission from the data collector) on either Zenodo (by archiving it along with the code) or separately on [Dryad](https://datadryad.org/) (linking to the relevant code through Dryad). Have your code download already archived data from the archival source instead of archiving it again.
+
+Discussion: Most journals now require the sharing of the code and data used for analyses in a paper. Even in cases where it isn't required this is good for science through supporting reproducibility and building on existing work. Availability of data and code also increases use and citation of papers. The are a variety of locations to archive data. In ecology general purpose repositories are the norm for most data. Zenodo and Dryad are both non-profits focused on the good of science with good sustainability models. They are also both common locations for archiving so choosing them will avoid any confusion about whether or not the data is properly archived. "Archive" implies that the data/code will be available in the long-term through both guarantees to maintain the infrastructure hosting the data/code and not allowing the person depositing the data/code to remove it.
+
 ## Submission
 
 Your formatted manuscript and cover letter will get uploaded to the journal's author submission website. There will also be some web forms where they will ask for reviewer/editor suggestions, probably make you enter co-author info (that is already on your cover sheet, but try not to think about the redundancy in the process). Click submit and now you wait for the response, which is often in the 1-2 month, but sometimes closer to 3 months.

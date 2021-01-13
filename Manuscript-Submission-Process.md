@@ -2,7 +2,7 @@ Congrats! You're getting ready to submit a manuscript for review at a journal. T
 
 ## Manuscript Formatting
 
-Go to the journal's website, and they should have a section called "For Authors" or "Guide to Authors" or something along those lines. They should have detailed (though sometimes contradictory or poorly organized) guidelines for citation style, section order, cover letter requirements, submission website link, etc. They will also, hopefully in the same location, have a description of the focus of the journal, which your manuscript should fall within. 
+Go to the journal's website, and they should have a section called "For Authors", "Author Instructions", "Guide to Authors" or something along those lines. They should have detailed guidelines for citation style, section order, cover letter requirements, submission website link, etc. They will also, hopefully in the same location, have a description of the focus of the journal, which your manuscript should fall within. 
 
 ## Recommending reviewers & editors
 
@@ -10,7 +10,9 @@ Journals will want you to recommend 3 - 5 people who could potentially review yo
 
 It's probably most important to recommend scientists who have similar philosophies to yours (e.g., if the paper has a macroecological approach, don't choose someone who thinks macroecology is invalid). You'll also want to avoid recommending anyone who could have a conflict of interest in reviewing, including anyone at your current institution and anyone who's been a coauthor with any of the manuscript's coauthors in the last 5 - 10 years or so. You should probably have all manuscript coauthors approve of the reviewer recommendations. 
 
-Journals will also ask for editor recommendations. There should be a page on the journal's website with the editorial board, choose 1 - 2 editors that seem most approporiate for the manuscript topic. 
+Journals will also ask for editor recommendations. There should be a page on the journal's website with the editorial board, choose 1 - 2 editors that seem most appropriate for the manuscript topic.
+
+Some journals will also allow you to designate reviewers with "conflicts" or something similar. This is not a list of people who have a conflict of interest as described above. It is an opportunity to designate people that you don't want to review the paper because they are predisposed to review it negatively because of some conflict of interest (e.g., they are directly competing with you in the research space). We basically never list people, but if you are concerned about someone chat with your advisor.
 
 ## Cover letter
 

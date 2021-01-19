@@ -8,6 +8,22 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 ## Schedule (Spring 2020)
 
 * Jan 13 - Intro
+* Jan 20 - Among Us
+* Jan 27 - McElreath Chapter 1 
+* Feb 3
+* Feb 10
+* Feb 17
+* Feb 24
+* Mar 3
+* Mar 10
+* Mar 17
+* Mar 24
+* Mar 31
+* Apr 7
+* Apr 14
+* Apr 21
+
+
 
 ## Discussion topics
 

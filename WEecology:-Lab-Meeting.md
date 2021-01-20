@@ -5,7 +5,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * (To be developed) [Templates]() to help you plan out your lesson/talk/presentation/sprint/etc.
   - Here is a [feedback form](https://docs.google.com/document/d/12RS_PGXJ8-pSdakyIH1WZAsR90gWCRV4KdBzii2uy8o/edit?usp=sharing) for talks. It's set so that everyone can make comments on it, but not edit it directly -- if you wish to write up your feedback on a computer, please make a copy of the document for yourself.
 
-## Schedule (Spring 2020)
+## Schedule (Spring 2021)
 
 * Jan 13 - Intro (Ethan & Morgan)
 * Jan 20 - Among Us (Renata)

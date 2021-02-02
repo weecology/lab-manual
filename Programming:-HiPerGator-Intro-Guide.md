@@ -206,7 +206,7 @@ Recently, the R package batchtools has made simple parallel job submissions in R
 library(batchtools)
 
 #Batchtools tmp registry
-reg = loadRegistry(file.dir = NA, seed = 1)
+reg = makeRegistry(file.dir =".")
 print(reg)
 print("registry created")
 

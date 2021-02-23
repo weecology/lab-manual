@@ -13,7 +13,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Feb 3 - AMA - Grant Proposals
 * Feb 10 - Statistical Rethinking Chapter 2
 * Feb 17 - Statistical Rethinking Chapter 3
-* Feb 24 - 
+* Feb 24 - Public dataset collection 
 * Mar 3 - Statistical Rethinking Chapter 4
 * Mar 10 - 
 * Mar 17 - Statistical Rethinking Chapter 5

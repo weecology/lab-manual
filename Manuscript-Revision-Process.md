@@ -36,7 +36,7 @@ This is where you explain in detail the changes that you have made in response t
 
 Pay attention for cases where the reviewer comment itself isn't helpful, but indicates a failure to communicate clearly in the current manuscript. In these cases you should revise the manuscript to avoid similar confusion on the part of readers.
 
-Once you have drafted this share and discuss it with your co-authors before starting the revise the manuscript itself. This will ensure that everyone agrees on how the paper will be revised (or at least that everyone has had the chance to object to your proposed approach before you do the work).
+Once you have drafted this, share and discuss it with your co-authors before starting the revise the manuscript itself. This will ensure that everyone agrees on how the paper will be revised (or at least that everyone has had the chance to object to your proposed approach before you do the work). To accomplish this the draft needs to include specific changes that you plan on making, not just general statements that you will make changes in response to a comment. 
 
 Examples of Response to Reviewers:
 

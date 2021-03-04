@@ -17,7 +17,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Mar 3 - Statistical Rethinking Chapter 4
 * Mar 10 - Lab writing approaches: consistent tools & approaches + collaborative writing approach
 * Mar 17 - Statistical Rethinking Chapter 5
-* Mar 24 -
+* Mar 24 - Weecology Spring Break
 * Mar 31 - Statistical Rethinking Chapter 6
 * Apr 7 - 
 * Apr 14 - Statistical Rethinking Chapter 7

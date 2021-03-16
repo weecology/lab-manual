@@ -67,6 +67,8 @@ If you are successful, you'll get a small message stating your job ID. Once your
 
 # Interactive work
 
+## CPU
+
 If you are running into errors, need to install a package in your local directory, or want to download some files, you should use a development server. This is good practice and nice to other people who are logged into the main head node. 
 
 ```
@@ -74,6 +76,14 @@ If you are running into errors, need to install a package in your local director
 ml ufrc
 #request a server for 3 hours with 2GB of memory
 srundev --time 3:00:00 --mem 2GB
+```
+
+## GPU
+
+To test out work involving a GPU you need to explicitly request a development node associated with a GPU. For many GPU tasks you may want a meaningful amount of memory.
+
+```sh
+srun -p gpu --gpus=1 --constraint=cuda11 --mem 20GB --pty -u bash -i
 ```
 
 # How do I know if its running?

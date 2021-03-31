@@ -20,7 +20,7 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Mar 24 - Weecology Spring Break
 * Mar 31 - Statistical Rethinking Chapter 6
 * Apr 7 - 
-* Apr 14 - Statistical Rethinking Chapter 7
+* Apr 14 - 
 * Apr 21 - 
 
 

@@ -17,5 +17,5 @@ Some time during years 2-4 of the PhD program, typically during year 3. This is 
 
 ### Proposals written by weecology students
 
-* [Renata Diaz's Proposal](uploads/dissertation-proposal-renata-diaz)
-* [Sergio Marconi's Proposal](uploads/dissertation-proposal-sergio-marconi)
+* [Renata Diaz's Proposal](https://github.com/weecology/lab-wiki/blob/main/uploads/dissertation-proposal-renata-diaz.pdf)
+* [Sergio Marconi's Proposal](https://github.com/weecology/lab-wiki/blob/main/uploads/dissertation-proposal-sergio-marconi.pdf)

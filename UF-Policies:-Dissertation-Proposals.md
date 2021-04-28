@@ -14,3 +14,8 @@ Some time during years 2-4 of the PhD program, typically during year 3. This is 
 2. Draft your proposal.
 3. At least 1 month before your qualifying exam given your draft proposal to your advisor for feedback.
 4. At least 2 weeks before your qualifying exam send your proposal to your entire committee.
+
+### Proposals written by weecology students
+
+* [Renata Diaz's Proposal](uploads/dissertation-proposal-renata-diaz)
+* [Sergio Marconi's Proposal](uploads/dissertation-proposal-sergio-marconi)

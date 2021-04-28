@@ -21,7 +21,8 @@ Lab meeting is designed to give Weecology members opportunities to gain and prac
 * Mar 31 - Statistical Rethinking Chapter 6
 * Apr 7 - Paper discussion: https://onlinelibrary.wiley.com/doi/10.1002/ece3.7365 (Pat)
 * Apr 14 - Sabbatical discussion
-* Apr 21 - 
+* Apr 21 - Cancelled
+* Apr 28 - Semester wrap-up
 
 
 

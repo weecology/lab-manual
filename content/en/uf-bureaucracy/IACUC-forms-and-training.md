@@ -1,3 +1,11 @@
+---
+title: "IACUC - Animal care & use"
+linkTitle: "IACUC"
+weight: 4
+description: >
+  How to get approval for animal care & use in lab and field work
+---
+
 *Start this process early as approval will take a few weeks.*
 
 ### Important Notes:  

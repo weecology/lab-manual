@@ -1,3 +1,9 @@
+---
+title: "Travel"
+linkTitle: "Travel"
+weight: 4
+---
+
 # Basic Travel Info
 
 _Do I need to read this?_
@@ -12,8 +18,7 @@ Is your traveling being paid for by UF (either Morgan, Ethan, or some other sour
 
 ## Important policies to know
 
-* ~~UF won't reimburse for airbnb anymore, due to a state boycott. Other similar services that are still allowed: Tripping, HomeToGo, FlipKey, HomeAway, VRBO, HouseTrip, VayStays, VacayHero~~ restored as of [2019-06-11](http://www.fa.ufl.edu/2019/07/updated-travel-policy-airbnb/)
-* Do not pay for gas with a P card unless you have a state vehicle or rental. Fuel in a personal vehicle can only be paid through a mileage calculation.
+* Do not pay for gas with a Pcard unless you have a state vehicle or rental. Fuel in a personal vehicle can only be paid through a mileage calculation.
 * The amount of per diem you can claim is based on your actual travel times. (eg If you are flying, it is based on your actual departure and arrival times.)
 * You can only get reimbursed for tipping taxi/Uber/Lyft drivers up to 20%.
 

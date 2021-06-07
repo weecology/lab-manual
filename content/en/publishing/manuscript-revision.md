@@ -1,3 +1,9 @@
+---
+title: "Revising a manuscript after review"
+linkTitle: "Manuscript Revison"
+weight: 3
+---
+
 ## Journal Decision
 
 After a manuscript has gone through the review process it will be returned with a decision. These generally fall into the following categories:

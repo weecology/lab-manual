@@ -1,3 +1,9 @@
+---
+title: "Qualifying Exams"
+linkTitle: "Qualifying Exams"
+weight: 4
+---
+
 We believe that we should not require students to do things that do not have direct training benefits and that any training benefits inherently trade-off against the time, effort, and stress associated with an activity. Therefore, we use a qualifying exam approach with direct training for real-life activities/interactions that is intended to minimize stress and wasted effort.
 
 We believe that a good assessment of having the breadth and depth of understanding necessary to be a professional scientist is the ability to hold a scientific conversation about your research with other researchers and stakeholders. Can you talk about how your research fits into the current state of the field? Can you explain the choices you've made with respect to data and analyses? Can highlight how your research differs from the current state of the field, conceptually and in its strengths and weaknesses? This mirrors real world interactions like questions during presentations, chalk talks on job interviews, and interacting with others online about your scientific products.

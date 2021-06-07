@@ -1,3 +1,9 @@
+---
+title: "Submitting a manuscript"
+linkTitle: "Manuscript submission"
+weight: 2
+---
+
 Congrats! You're getting ready to submit a manuscript for review at a journal. This guide will walk you through the various steps in the process, however, it assumes you've already decided what journal to submit to. Right now, there is no wiki page on that, so talk with Ethan or Morgan or one of the postdocs/staff for advice.
 
 ## Manuscript Formatting
@@ -10,11 +16,13 @@ Using a citation manager that can format references using Citation Style Languag
 
 ## Recommending reviewers & editors
 
-Journals will want you to recommend 3 - 5 people who could potentially review your manuscript. Those people may or may not end up being reviewers, and they might not even be asked if the handling editor has enough reviewers in mind. 
+Journals typically ask you to recommend 3 or more people who could potentially review your manuscript. Those people may or may not end up being reviewers, and they might not even be asked, but providing a good list will help increase the chance that the review process starts quickly and that you get good feedback from relevant reviewers.
 
-It's probably most important to recommend scientists who have similar philosophies to yours (e.g., if the paper has a macroecological approach, don't choose someone who thinks macroecology is invalid). You'll also want to avoid recommending anyone who could have a conflict of interest in reviewing, including anyone at your current institution and anyone who's been a (close) coauthor with any of the manuscript's coauthors in the last 5 - 10 years or so. You should probably have all manuscript coauthors approve of the reviewer recommendations. 
+It's probably most important to recommend scientists who have similar philosophies to yours (e.g., if the paper has a macroecological approach, don't choose someone who thinks fieldwork is the only way to do ecology).
 
-Journals will also ask for editor recommendations. There should be a page on the journal's website with the editorial board, choose 1 - 2 editors that seem most appropriate, based on the manuscript topic.
+Don't recommend anyone who could have a conflict of interest. The idea is that people who would be biased by personal or institutional relationships to the authors should review the paper. Typically this is considered to include anyone at your current institution and anyone who's been a (close) coauthor on a paper with any of the current manuscript's coauthors in the last 5 - 10 years or so. You should ask coauthors to check the list of reviewer recommendations to conflicts before submitting. 
+
+Some journals will also ask for editor recommendations. There should be a page on the journal's website with the editorial board, choose 1 - 2 associate editors that seem most appropriate, based on the manuscript topic.
 
 Some journals will also allow you to designate reviewers with "conflicts" or something similar. This is not a list of people who have a conflict of interest as described above. It is an opportunity to designate people that you don't want to review the paper because they are predisposed to review it negatively (e.g., they are directly competing with you in the research space, or have known objections to certain topics/approaches). We basically never list people, but if you are concerned about someone chat with your advisor.
 
@@ -57,9 +65,9 @@ Your formatted manuscript and cover letter will get uploaded to the journal's au
 
 ## Preprints
 
-Recommendation: Submit preprint to bioRxiv at time of first submission to a journal and update the preprint whenever you submit a revision of the manuscript (either as part of ongoing review or to a new journal after rejection). Check the journals preprint policy (in either the instructions to authors on on [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/)) just to make sure they are allowed (though preprints are now allowed basically everywhere) and get sign off from coauthors to post a preprint.
+Recommendation: Submit preprint to bioRxiv at time of first submission to a journal and update the preprint whenever you submit a revision of the manuscript (either as part of ongoing review or to a new journal after rejection). Check the journals preprint policy (in either the instructions to authors or on [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/)) just to make sure they are allowed (though preprints are now allowed basically everywhere) and get sign off from coauthors to post a preprint.
 
-Discussion: All major journals in ecology that we are aware of now allow posting preprints prior to submission (in part due to [Weecology efforts](https://jabberwocky.weecology.org/?s=preprint&submit=Search)). They are good for science and professionally beneficial to both early career and established scientists (e.g., [Desjardins-Proulx et al. 2013](https://doi.org/10.1371/journal.pbio.1001563), [Vale 2015](https://doi.org/10.1073/pnas.1511912112)). Benefits to putting up preprints include the possibility that more people will see your work, it will be able to influence the field sooner (as it can takes months or years for papers to be published), it can start accumulated citations (currently used as a form of academic credit, and you could get valuable feedback to improve the manuscript. Some of this depends on how actively you promote the preprint by sharing on social media, disseminating to other scientists, etc. Journals also identify preprints of interest and could reach out to you about publishing with them. 
+Discussion: All major journals in ecology that we are aware of now allow posting preprints prior to submission (in part due to [Weecology efforts](https://jabberwocky.weecology.org/?s=preprint&submit=Search)). They are good for science and professionally beneficial to both early career and established scientists (e.g., [Desjardins-Proulx et al. 2013](https://doi.org/10.1371/journal.pbio.1001563), [Vale 2015](https://doi.org/10.1073/pnas.1511912112)). Benefits to putting up preprints include the possibility that more people will see your work, it will be able to influence the field sooner (as it can takes months or years for papers to be published), it can start to accumulated citations (currently used as a form of academic credit), and you could get valuable feedback to improve the manuscript. Some of this depends on how actively you promote the preprint by sharing on social media, disseminating to other scientists, etc. Journals also identify preprints of interest and could reach out to you about publishing with them. 
 
 In addition, all of our grants include statements that we will submit preprints, so if you decide you do not want to submit a preprint or a coauthor does not want to agree to this please talk to the relevant PI of any grants that have supported you.
 
@@ -93,13 +101,13 @@ Examples of Resubmission letters:
 
 Use your official university address, which is currently:
 
-Department of Wildlife Ecology and Conservation
-110 Newins-Ziegler Hall
-PO Box 110430,
+Department of Wildlife Ecology and Conservation  
+110 Newins-Ziegler Hall  
+PO Box 110430  
 Gainesville, FL 32611-0430
 
-Phone: (352) 846-0643
-Fax: (352) 392-6984
+Phone: (352) 846-0643  
+Fax: (352) 392-6984  
 
 ## Managing co-authors
 

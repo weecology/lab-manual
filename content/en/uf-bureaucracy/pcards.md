@@ -1,3 +1,11 @@
+---
+title: "Pcards"
+linkTitle: "Pcards"
+weight: 4
+description: >
+  How to get and use a university credit card (Pcard) for making purchases
+---
+
 ## Rules of Use
 
 * P Card info is at [UF Procurement](https://procurement.ufl.edu/uf-departments/procurement-cards-pcards/)

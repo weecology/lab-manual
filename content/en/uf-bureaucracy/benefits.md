@@ -1,3 +1,9 @@
+---
+title: "University of Florida Benefits"
+linkTitle: "UF Benefits"
+weight: 4
+---
+
 ## Postdocs
 
 ### Health plans

@@ -1,3 +1,11 @@
+---
+title: "Interviewing"
+linkTitle: "Interviewing"
+date: 2017-01-05
+description: >
+  What to expect and how to prepare for a job interview.
+---
+
 # Intro
 
 Congratulations!! You're at the stage where you're being interviewed remotely (e.g. skype, zoom, phone) or in-person. Here is some info on preparing.

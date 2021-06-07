@@ -1,3 +1,11 @@
+---
+title: "Career Paths"
+linkTitle: "Career Paths"
+date: 2017-01-05
+description: >
+  Descriptions of possible career paths, their core skills, how to prepare for them, and weecologists to talk to.
+---
+
 ### Data Analyst/Scientist
 
 * **Summary:** Data analysts/scientists are involved in data manipulation, visualization, analysis, and interpretation. They work in a broad variety of environments including government, NGOs, industry, and academia.

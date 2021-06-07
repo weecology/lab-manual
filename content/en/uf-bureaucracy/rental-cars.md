@@ -1,3 +1,8 @@
+---
+title: "Rental Cars"
+weight: 4
+---
+
 You can get a discounted rate thru Enterprise by booking the care thru this website  
 
 https://procurement.ufl.edu/contracts/rental-vehicles/

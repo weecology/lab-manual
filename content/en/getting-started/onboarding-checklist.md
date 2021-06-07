@@ -1,3 +1,9 @@
+---
+title: "Onboarding Checklist"
+linkTitle: "Onboarding Checklist"
+weight: 4
+---
+
 [Page is a  Work in Progress]
 Welcome to Weecology! We are super excited that you're joining us. (We only take people into our group that we are super excited about!).
 

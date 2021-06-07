@@ -1,17 +1,22 @@
+---
+title: "WEC Rules"
+linkTitle: "WEC Rules"
+weight: 4
+---
+
 Some of this is a summary of stuff in the WEC Graduate Student Handbook, and some of it is unwritten rules that are not clear at all from reading the Handbook. 
 
-
-**Committee**
+## Committee
 
 A WEC committee needs to have 5 members total, with 2 members from WEC and 1 member from a non-WEC department. You should have a committee by the end of your second semester. 
 
 
-**Qualifying Exams**
+## Qualifying Exams
 
 You have to take quals by the end of your third semester. There's a written part (from each committee member, you'll get a set of questions you have to answer in a day) and then an oral part (could be related to written part, happens a couple weeks after written part). As soon as your quals are scheduled (probably a couple of months in advance), you should email each committee member individually to ask what topics they would like you to brush up on. They might give you a list of specific papers to read, or a general topic like "study metacommunities," or they might not tell you to study anything in particular at all. A week or two before your quals, email each committee member again to remind them of the dates of your quals, remind them what they told you to study, and ask if they have anything to add. Each committee member gives you a written exam with rules set by that member, so it may be open- or closed-book (i.e. are you allowed to look stuff up), and a time limit (i.e. 8 hours). Generally the committee will send their exams to your adviser who will dispense them to you at the beginning of each day (or whenever you choose to have them dispensed). In between the written exams and the oral exam you may or may not get any feedback from your committee on how you did. In the oral exam, your committee may ask you to clarify or expand on your answers from the written exam. 
 
 
-**Coursework**
+## Coursework
 
 See "Summary of PhD Degree Credit Requirements" section in the WEC Graduate Student Handbook [here] (http://www.wec.ufl.edu/grad/October%202014%20WEC%20Grad%20Handbook.pdf)
 

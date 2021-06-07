@@ -1,3 +1,9 @@
+---
+title: "Committee Meetings"
+linkTitle: "Committee Meetings"
+weight: 4
+---
+
 #### Scheduling a time to meet
 
 Committee meetings usually only need to be an hour long. 
@@ -12,7 +18,7 @@ It can be very tricky to find a time when all committee members are free (especi
   * Email this to all committee members, and ask them to fill it out by clicking on their available times (which will turn green).
   * After everyone has filled it out, you access the calendar with a unique code that shows how many and which members are available for each time period. If you're lucky, there will be at least one time period during which everyone is free.
 * Email all the members back letting them know what time the meeting is and where it will be held. 
-* Faculty members generally seem to appreciate reminder emails about meetings about 24 hours in advance. 
+* Send a reminder email 24-48 hours in advance that includes an agenda. 
 
 #### Rooms that can be reserved for meetings
 

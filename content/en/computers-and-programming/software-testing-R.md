@@ -1,3 +1,7 @@
+---
+title: "Software Testing in R"
+---
+
 https://github.com/weecology/rtestpackage
 
 This repo contains a description of how to setup the test environment for R.

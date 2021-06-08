@@ -1,3 +1,9 @@
+---
+title: "RStudio on Serenity"
+description: >
+  How to use RStudio remotely on the lab server
+---
+
 We have a lab server which is fairly powerful. It has 32GB of RAM and a 2 core Intel Xeon processor. This is faster and has more ram than any of our laptops. It's good for doing things that may take too long on a desktop/laptop or as a test bed for running on the hipergator.  
 
 Note you must be on campus to use serenity, or logged in via the VPN. 

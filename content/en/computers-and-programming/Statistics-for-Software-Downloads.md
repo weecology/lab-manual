@@ -1,3 +1,10 @@
+---
+title: "Statistics for Software Use"
+linkTitle: "Software Use Statistics"
+description: >
+  "How to get statistics on the number of downloads for software projects
+---
+
 It can be helpful to know how frequently your software is being downloaded to assess it's use and report on its impact. Below are instructions for how to do this for different languages. Keep in mind that downloads can be influenced by automated testing systems if they install the software from the central repository.
 
 ## R

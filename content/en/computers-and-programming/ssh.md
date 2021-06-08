@@ -1,3 +1,9 @@
+---
+title: "SSH"
+description: >
+  How to use SSH to access remote servers and GitHub 
+---
+
 ## What is SSH?
 
 SSH (short for "secure shell") is a computer protocol for encrypting access to computers over a network. Typical use cases are:

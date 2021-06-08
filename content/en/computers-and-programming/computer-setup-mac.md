@@ -1,3 +1,7 @@
+---
+title: "Computer Setup - Mac"
+---
+
 **Terminal**
 
 This is an application on Macs. It is opened by double-clicking on the icon, which should bring up a small window with a black background. The Terminal is used to move around in the file directory, rearrange files, and use git. 

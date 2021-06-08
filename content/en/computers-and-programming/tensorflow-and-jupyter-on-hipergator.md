@@ -1,3 +1,8 @@
+---
+title: "Using tensorflow and Jupyter on HiPerGator"
+linkTitle: "HiPerGator - Tensorflor & Jupyter"
+---
+
 # Starting a tensorflow session using the hipergator's GPU
 
 You can open an interactive session on the hipergator using the dedicated gpu purchased. To do so, follow these steps:

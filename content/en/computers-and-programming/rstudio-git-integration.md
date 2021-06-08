@@ -1,3 +1,8 @@
+---
+title: "Using Git From RStudio"
+linkTitle: "RStudio + Git"
+---
+
 Just a brief introduction on how to easily set up a Git/GitHub repo in RStudio:
    * Make sure Git is set up on your computer and in R (ask Ethan for help on this one)
    * Sign into your GitHub account 

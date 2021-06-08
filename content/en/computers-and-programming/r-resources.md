@@ -1,3 +1,9 @@
+---
+title: "R Resources"
+description: >
+  Links to useful R resources on the web
+---
+
 R is a powerful tool that allows you to do a lot of things such as doing simple arithmetic calculations, organizing and analyzing your data, and even developing your own software. There are several, **FREE** resources that you can use to learn R. Below is a *non-exhaustive* list of tutorials, books, and videos that you can use (most of which are useful for data analysis), whether you're just starting out or are more advanced in programming.
 
 ## R at an Introductory Level

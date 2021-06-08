@@ -1,3 +1,9 @@
+---
+title: "GitHub Actions"
+description: >
+  Setting up continuous integration using GitHub Actions
+---
+
 
 # Generic Tutorial
 

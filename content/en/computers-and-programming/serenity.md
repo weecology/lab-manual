@@ -1,3 +1,8 @@
+---
+title: "Lab Server - Serenity"
+linkTitle: "Lab Server"
+---
+
 ## Overview
 Some useful commands to help navigate and use Serenity
 

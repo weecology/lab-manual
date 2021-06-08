@@ -1,3 +1,7 @@
+---
+title: "Computer Security & Privacy"
+linkTitle: "Security & Privacy"
+---
 ## Password Managers
 
 A password manager keeps track of the various passwords you use for different websites. (And the reason to use a different password for each account, is so that if your password at one place is compromised, it does not affect your other accounts.)

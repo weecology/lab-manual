@@ -1,3 +1,8 @@
+---
+title: "Lab Style Guide for Code"
+linkTitle: "Code Style Guide"
+---
+
 # Guiding Principles
 
 This document provides a guide to code structure and formatting across languages used within the Weecology projects. Links to language-specific guides are provided below.

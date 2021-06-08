@@ -1,3 +1,8 @@
+---
+title: "Editing the Lab Website"
+linkTitle: "Lab Website"
+---
+
 # Clone the Website repo
 The website is up on github. To edit it you will need to put a local copy of the website on your computer first. Clone the [website repo](https://github.com/weecology/website)
 

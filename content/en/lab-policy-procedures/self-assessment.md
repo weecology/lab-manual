@@ -1,3 +1,7 @@
+---
+title: Self assessments
+---
+
 ## Goal
 
 In academia, it is easy to get caught up in the day to day tasks and lose sight of where you are going and why. Every year we (Ethan and Morgan) reassess our scientific and career goals and take stock of what we accomplished that year, what we had hoped to accomplish, and what we need to be doing to reach our goals. This has been enormously useful for us as it helps us to keep our eye on the ball and think strategically about how we are spending our time. We would like to encourage everyone to conduct their own yearly self assessment so that you can evaluate your progress and keep us informed about your career goals so we can help you to reach them.

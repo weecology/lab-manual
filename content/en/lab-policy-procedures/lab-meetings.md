@@ -1,3 +1,7 @@
+---
+title: Lab Meetings
+---
+
 ## Lab Meeting Purpose
 
 Lab meeting is designed to give Weecology members opportunities to gain and practice skills, obtain feedback, and interact with the broader research group. 

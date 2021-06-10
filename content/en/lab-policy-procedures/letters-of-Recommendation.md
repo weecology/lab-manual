@@ -1,3 +1,7 @@
+---
+title: Letters of Recommendation
+---
+
 One of Ethan & Morgan's jobs is writing letters of recommendation (or otherwise serving as references) for folks who have gone through the group. Your primary advisor is always happy to serve as a reference. If you'd also like a to get a reference from the other one of us just ask.
 
 ### Process

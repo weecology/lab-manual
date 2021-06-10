@@ -1,3 +1,7 @@
+---
+title: Lab Space
+---
+
 ### Conference Room
 
 Check on the conference room calendar to be sure the room will be available for your use. Add your meeting to the calendar to reserve a time.

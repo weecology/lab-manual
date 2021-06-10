@@ -1,3 +1,7 @@
+---
+title: Social Events
+---
+
 A few times each year the lab will get together for social events outside of normal work hours. Most frequently these events involve dinner at Ethan and Morgan's house and group dinners at conferences.
 
 1. These events are completely voluntary and are not important for your professional development as a weecologist.

@@ -1,3 +1,7 @@
+---
+title: Code of Conduct
+---
+
 # Lab Code of Conduct
 
 We are committed to providing a safe, inclusive, and harassment-free experience to everyone, including lab members and visitors. This code of conduct will be enforced as needed and applies to both the [Ernest Lab](http://ernestlab.weecology.org/) and the [White Lab](http://whitelab.weecology.org/).

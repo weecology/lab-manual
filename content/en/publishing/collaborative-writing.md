@@ -1,4 +1,9 @@
-<h1>Collaborative Writing</h1>
+---
+title: "Collaborative Writing Process"
+linkTitle: "Collaborative Writing Process"
+description: >
+  The weecology procedure for coordinating writing on papers with more than one author
+---
 
 Almost all scientific papers now involve multiple authors.
 Therefore having processes to engage all authors and solicit feedback in ways that improve the project, support the collaborators, and minimize wasted time are important.

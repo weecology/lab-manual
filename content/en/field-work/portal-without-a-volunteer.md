@@ -1,3 +1,9 @@
+---
+title: Portal Without a Volunteer
+---
+
+**Doing Portal without a volunteer is currently suspended since Alan is no longer going**
+
 In winter, when numbers are low, it's possible to do a Portal census without bringing a volunteer. 
 
 ## Trapping logistics

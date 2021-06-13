@@ -1,5 +1,8 @@
-## Lab Meeting discussion
-February 6, 2019
+---
+title: Selecting Scientific Tools
+---
+
+This page started as a lab meeting discussion of how to choose among different options for scientific tools (mostly focused on programming).
 
 ## Question Framing
 

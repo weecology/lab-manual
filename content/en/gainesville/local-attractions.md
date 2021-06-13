@@ -1,3 +1,7 @@
+---
+title: Things to do in Gainesville
+---
+
 # Things to do when family and friends visit Gainesville
 
 ##  In town  

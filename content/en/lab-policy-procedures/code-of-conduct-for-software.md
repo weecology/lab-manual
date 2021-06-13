@@ -1,4 +1,10 @@
-> This is intended to be a general-purpose code of conduct for lab software projects, to facilitate interactions between the lab and outside contributors. Feel free to copy this file into the repo and delete this note.
+---
+title: Software Project Code of Conduct
+linkTitle: Software Code of Conduct
+---
+
+This is the general-purpose code of conduct that we use for lab software projects, to facilitate inclusive interactions between the lab and outside contributors.
+Copy the text below into a file into software project repositories.
 
 # Contributor Code of Conduct
 

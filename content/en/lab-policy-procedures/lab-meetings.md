@@ -12,6 +12,10 @@ To make lab meeting a positive and useful experience for everyone, we have defin
 
 ## Lab Meeting Types (Alphabetical)
 
+A list of some possible lab meeting types including their purpose, format, the responsbilities of the person leading the lab meeting and the responsibilities of the group is listed below.
+
+There is also [a flowchart](lab-meeting-flowchart.png) version to help you decide what format works best for you.
+
 ### Lightening Talk Sessions
 
 * Purpose: To communicate within the lab about current research projects to encourage interactions and collaborations related to shared interests.

@@ -1,6 +1,6 @@
 ---
 title: Interviewing Propspective Lab Members
-linkTitle: Lab Interiews
+linkTitle: Lab Interviews
 ---
 
 As part of the hiring process for students, postdoc, and staff we bring people in for on-site interviews. On-site interviews give prospective weecologists the best feel for what we are about and what they might expect if they join our group. It also gives us a chance to see if our work/training environment is one that will suit the needs of the potential weecologist.

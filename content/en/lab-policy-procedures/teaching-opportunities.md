@@ -1,6 +1,29 @@
+---
+title: "Teaching Opportunities"
+---
+
+Teaching opportunities are available for folks in the group who want to develop teaching skills and experience or just like to teach others.
+
+## Carpentries training and workshops
+
+UF has an active Carpentries community originally co-founded by weecologists.
+There is typically a Carpentries Instructor Training workshop each year to receive training in how to teach workshops.
+One you've completed this training there are multiple workshops per year at UF to teach in.
+Find out more at the [UF Carpentries Club site](https://www.uf-carpentries.org/).
+Weecology will cover any costs associated with training.
+
 ## Guest Lectures
 
+Guest lectures are when someone delivers one or more lectures in someone else's course.
+Ethan and Morgan are happy to support members of the group teaching guest lectures in their courses and there are sometimes opportunities for guest lecturing in other courses.
+Just let Ethan or Morgan know that you are interested in this and they will work with you to identify the best opportunities.
+
 ## Co-teaching as instructor of record
+
+The best way to understand what developing and teaching courses is like is to co-teach a course.
+This is also useful for demonstrating real experience and committment to teaching for people interested in going into teaching focused careers.
+Morgan and Ethan are both willing to co-teach courses with folks who want to do this and have sufficient time and energy to do so.
+You will actually be an official instructor (also known as an "instructor of record") and we will work with you to learn how to teach and develop new course materials for college courses.
 
 ## UF/Santa Fe College Faculty Development Project
 

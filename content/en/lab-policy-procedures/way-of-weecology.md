@@ -1,3 +1,9 @@
+---
+title: "Way of weecology"
+description: >
+  Lab philosophy
+---
+
 Be bold, but not reckless  
 Prefer rough answers to the right questions over precise answers to the wrong ones  
 There is no one "right way" to do science, not even your way  

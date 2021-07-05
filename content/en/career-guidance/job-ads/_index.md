@@ -1,6 +1,8 @@
 ---
 title: "Example Job Advertisements"
 linkTitle: "Job Ads"
+description: >
+  Real job ads for positions that weecologists might apply for
 ---
 
 This is a collection of example job ads to give an idea of the positions possible for Weecologists, and guide the development of training/mentor plans accordingly.

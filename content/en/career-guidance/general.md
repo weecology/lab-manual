@@ -1,3 +1,10 @@
+---
+title: "Career Advice from Others"
+linkTitle: "Career Advice"
+description: >
+  Links to thoughts from others on careers and applying for jobs
+---
+
 # Intro
 
 A lot of info linked to is from a specific point of view, or has intrinsic biases, so general advice is to read broadly and take everything with a grain of salt. Usually, you can synthesize out what are the common generalities (everyone says it) vs. anecdotes.

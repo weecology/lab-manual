@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Weecology Lab Manual"
+title = "Weecology Wiki"
 
 enableRobotsTXT = true
 
@@ -53,8 +53,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Weecology Lab Manual"
-description = "Information on how weecology works"
+title = "Weecology Wiki"
+description = "Information on how weecology and the wider world works"
 languageName ="English"
 # Weight used for sorting.
 weight = 1

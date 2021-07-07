@@ -39,7 +39,7 @@ Your letter should not be longer than 1 page, including the header material and 
 Here are some examples of cover letters
 
 - [Cover letter](https://github.com/sdtaylor/phenology_dataset_study/blob/master/manuscript/cover_letter.txt) for [Taylor et al. 2018](https://doi.org/10.1002/ecy.2568)
-- [Cover letter](https://github.com/weecology/lab-wiki/blob/master/Riemer-cover-letter.pdf) for [Riemer et al. 2018]( https://doi.org/10.7554/eLife.27166)
+- [Cover letter](../cover-letter-first-submission.pdf) for [Riemer et al. 2018](https://doi.org/10.7554/eLife.27166)
 
 ## Data and Code Archiving
 

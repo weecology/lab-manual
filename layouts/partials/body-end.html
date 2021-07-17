@@ -1,0 +1,12 @@
+{{ with .Site.Params.algolia_docsearch }}
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+<script type="text/javascript">
+  algoliasearchNetlify({
+    appId: 'XDJFBAVYM8',
+    apiKey: '2354f27a9b2d292306eab5686cb8371b',
+    siteId: '8cddf1cd-7071-4dfb-b9d6-2004bca8316c',
+    branch: 'main',
+    selector: '.td-search-input',
+  });
+</script>
+{{ end }}

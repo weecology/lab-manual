@@ -6,9 +6,7 @@ description: >
   The most important skill you will learn.
 ---
 
-{{% pageinfo %}}
 IMPORTANT - READ THIS PAGE FIRST!
-{{% /pageinfo %}}
 
 
 Are ponycopters the key to long-term success? **Yes.**

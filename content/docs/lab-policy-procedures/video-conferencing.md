@@ -1,5 +1,6 @@
 ---
 title: Video Conferencing
+type: book
 ---
 
 For now, can be used as our permanent meeting room for any meeting I'm in (my account is Pro, so meetings are not capped at 40 minutes).

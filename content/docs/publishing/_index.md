@@ -1,5 +1,6 @@
 ---
 title: "Publishing"
+type: book
 weight: 4
 description: >
   How to navigate the academic publishing process.

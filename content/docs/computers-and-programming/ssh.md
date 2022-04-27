@@ -1,5 +1,6 @@
 ---
 title: "SSH"
+type: book
 description: >
   How to use SSH to access remote servers and GitHub 
 ---

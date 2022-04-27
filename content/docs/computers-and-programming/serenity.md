@@ -1,6 +1,7 @@
 ---
 title: "Lab Server - Serenity"
 linkTitle: "Lab Server"
+type: book
 ---
 
 ## Overview

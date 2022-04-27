@@ -1,5 +1,6 @@
 ---
-title: "RA/TA Rights" 
+title: "RA/TA Rights"
+type: book
 ---
 
 As an RA/TA at the University of Florida, you are covered by the rights the graduate student union has negotiated with the university. As a note, these are rights related to your employment status with the university (as opposed to as a student). 

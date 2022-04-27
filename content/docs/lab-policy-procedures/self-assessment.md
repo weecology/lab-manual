@@ -1,5 +1,6 @@
 ---
 title: Self assessments
+type: book
 ---
 
 ## Goal

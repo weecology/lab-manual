@@ -1,6 +1,7 @@
 ---
 title: "Onboarding Checklist"
 linkTitle: "Onboarding Checklist"
+type: book
 weight: 4
 ---
 

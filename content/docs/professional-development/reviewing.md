@@ -1,6 +1,7 @@
 ---
 title: Peer Reviewing Papers
 linkTitle: Reviewing
+type: book
 ---
 
 [in development]

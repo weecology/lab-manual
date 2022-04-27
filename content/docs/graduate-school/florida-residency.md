@@ -1,6 +1,7 @@
 ---
 title: "Obtaining Florida Residency"
 linkTitle: "Florida Residency"
+type: book
 weight: 4
 description: >
   The how and why for graduate students obtaining Florida residency

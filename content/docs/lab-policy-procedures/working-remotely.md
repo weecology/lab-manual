@@ -1,5 +1,6 @@
 ---
 title: "Working Remotely"
+type: book
 description: >
   Working from somewhere other than physical building (temporarily or permanently)
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Editing the Lab Website"
 linkTitle: "Lab Website"
+type: book
 ---
 
 # Clone the Website repo

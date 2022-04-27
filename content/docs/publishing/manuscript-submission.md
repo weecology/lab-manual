@@ -1,6 +1,7 @@
 ---
 title: "Submitting a manuscript"
 linkTitle: "Manuscript submission"
+type: book
 weight: 2
 ---
 

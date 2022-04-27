@@ -1,5 +1,6 @@
 ---
 title: Selecting Scientific Tools
+type: book
 ---
 
 This page started as a lab meeting discussion of how to choose among different options for scientific tools (mostly focused on programming).

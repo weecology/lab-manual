@@ -1,5 +1,6 @@
 ---
 title: Portal Rodent Sampling Trips
+type: book
 ---
 
 ### Trip Description

@@ -1,5 +1,6 @@
 ---
 title: "Lab Coding Guidelines"
+type: book
 ---
 
 This is a summary of the 2018-10-10 lab meeting where we discussed coding practices. The [full notes](https://hackmd.io/K4ARCohDQN2YTj6Reb3Vtw) are available online.

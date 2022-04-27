@@ -1,5 +1,6 @@
 ---
 title: "Accessing the T-drive"
+type: book
 ---
 
 If off campus, turn on the virtual private network (VPN) before connecting using the instructions here: https://vpn.ufl.edu/

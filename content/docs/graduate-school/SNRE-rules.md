@@ -1,6 +1,7 @@
 ---
 title: "SNRE Rules"
 linkTitle: "SNRE Rules"
+type: book
 weight: 4
 ---
 

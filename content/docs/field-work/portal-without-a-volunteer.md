@@ -1,5 +1,6 @@
 ---
 title: Portal Without a Volunteer
+type: book
 ---
 
 **Doing Portal without a volunteer is currently suspended since Alan is no longer going**

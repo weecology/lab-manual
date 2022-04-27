@@ -1,5 +1,6 @@
 ---
 title: Social Events
+type: book
 ---
 
 A few times each year the lab will get together for social events outside of normal work hours. Most frequently these events involve dinner at Ethan and Morgan's house and group dinners at conferences.

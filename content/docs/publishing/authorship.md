@@ -1,5 +1,6 @@
 ---
 title: "Authorship"
+type: book
 ---
 
 [In Progress]

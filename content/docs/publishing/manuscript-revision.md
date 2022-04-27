@@ -1,6 +1,7 @@
 ---
 title: "Revising a manuscript after review"
 linkTitle: "Manuscript Revison"
+type: book
 weight: 3
 ---
 

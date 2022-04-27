@@ -1,5 +1,6 @@
 ---
 title: Portal Volunteer Guide
+type: book
 ---
 
 # A volunteer's guide to Portal

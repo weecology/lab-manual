@@ -1,6 +1,7 @@
 ---
 title: "Dissertation & Thesis Proposals"
 linkTitle: "Proposals"
+type: book
 weight: 4
 description: >
   Weecology approach to dissertation and thesis proposals

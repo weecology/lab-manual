@@ -1,6 +1,7 @@
 ---
 title: "WEC Rules"
 linkTitle: "WEC Rules"
+type: book
 weight: 4
 ---
 

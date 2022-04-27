@@ -1,6 +1,7 @@
 ---
 title: "IACUC - Animal care & use"
 linkTitle: "IACUC"
+type: book
 weight: 4
 description: >
   How to get approval for animal care & use in lab and field work

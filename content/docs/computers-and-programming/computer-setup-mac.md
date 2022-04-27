@@ -1,5 +1,6 @@
 ---
 title: "Computer Setup - Mac"
+type: book
 ---
 
 **Terminal**

@@ -1,5 +1,6 @@
 ---
 title: Lab Hiring Processes
+type: book
 ---
 
 [in development]

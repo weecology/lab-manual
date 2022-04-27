@@ -1,6 +1,7 @@
 ---
 title: "Graduate School"
 linkTitle: "Graduate School"
+type: book
 weight: 2
 description: >
   How graduate training works at weecology + UF rules and requirements

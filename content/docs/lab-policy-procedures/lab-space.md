@@ -1,5 +1,6 @@
 ---
 title: Lab Space
+type: book
 ---
 
 ### Conference Room

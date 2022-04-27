@@ -1,6 +1,7 @@
 ---
 title: "Publication Quality Figures"
 linkTitle: "Publication Figures"
+type: book
 weight: 1
 ---
 

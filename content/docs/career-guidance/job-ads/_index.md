@@ -1,6 +1,7 @@
 ---
 title: "Example Job Advertisements"
 linkTitle: "Job Ads"
+type: book
 description: >
   Real job ads for positions that weecologists might apply for
 ---

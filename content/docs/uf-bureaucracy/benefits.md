@@ -1,6 +1,7 @@
 ---
 title: "University of Florida Benefits"
 linkTitle: "UF Benefits"
+type: book
 weight: 4
 ---
 

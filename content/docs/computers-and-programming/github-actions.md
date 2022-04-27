@@ -1,5 +1,6 @@
 ---
 title: "GitHub Actions"
+type: book
 description: >
   Setting up continuous integration using GitHub Actions
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Using tensorflow and Jupyter on HiPerGator"
 linkTitle: "HiPerGator - Tensorflor & Jupyter"
+type: book
 ---
 
 # Starting a tensorflow session using the hipergator's GPU

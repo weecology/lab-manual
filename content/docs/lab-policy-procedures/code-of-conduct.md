@@ -1,5 +1,6 @@
 ---
 title: Code of Conduct
+type: book
 ---
 
 # Lab Code of Conduct

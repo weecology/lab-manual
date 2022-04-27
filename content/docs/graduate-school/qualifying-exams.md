@@ -1,6 +1,7 @@
 ---
 title: "Qualifying Exams"
 linkTitle: "Qualifying Exams"
+type: book
 weight: 4
 ---
 

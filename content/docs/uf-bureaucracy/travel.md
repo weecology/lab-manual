@@ -1,6 +1,7 @@
 ---
 title: "Travel"
 linkTitle: "Travel"
+type: book
 weight: 4
 ---
 

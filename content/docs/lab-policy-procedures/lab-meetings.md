@@ -1,5 +1,6 @@
 ---
 title: Lab Meetings
+type: book
 ---
 
 ## Lab Meeting Purpose

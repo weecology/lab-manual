@@ -1,5 +1,6 @@
 ---
 title: Hurricane Preparedness
+type: book
 ---
 
 ## Science/lab

@@ -1,3 +1,8 @@
+---
+title: Lab Reading List
+type: book
+---
+
 [This page is still a work in progress]
 
 The lab reading list provides a starting point for new Weecologists to become familiar with the types of questions, projects, and perspectives of the lab. Every topic contains an overview paper (i.e. if there's only one paper you read on a topic, read that one) and several "deep-dive" papers. Every new member to the lab should read all the overview papers for all the topics and the deep-dive papers for the projects relevant to them (especially if they are funded off a grant working in that area).

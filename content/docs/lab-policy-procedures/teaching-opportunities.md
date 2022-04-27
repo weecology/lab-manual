@@ -1,5 +1,6 @@
 ---
 title: "Teaching Opportunities"
+type: book
 ---
 
 Teaching opportunities are available for folks in the group who want to develop teaching skills and experience or just like to teach others.

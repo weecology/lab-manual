@@ -1,5 +1,6 @@
 ---
 title: Portal Safety
+type: book
 ---
 
 ## Field emergencies

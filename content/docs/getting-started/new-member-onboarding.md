@@ -1,3 +1,8 @@
+---
+title: New member onboarding
+type: book
+---
+
 # Intro
 
 This guide is a general reference for being in the Weecology lab at UF. Some info is below, but much of it is actually located among the various lab-wiki pages, and linked to from here.

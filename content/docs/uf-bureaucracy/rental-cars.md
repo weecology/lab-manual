@@ -1,5 +1,6 @@
 ---
 title: "Rental Cars"
+type: book
 weight: 4
 ---
 

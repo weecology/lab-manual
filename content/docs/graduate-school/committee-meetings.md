@@ -1,6 +1,7 @@
 ---
 title: "Committee Meetings"
 linkTitle: "Committee Meetings"
+type: book
 weight: 4
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "myUF Market"
+type: book
 weight: 4
 ---
 

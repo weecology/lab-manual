@@ -1,3 +1,8 @@
+---
+title: Graduating - SNRE
+type: book
+---
+
 This document outlines the official steps required by SNRE and the UF Grad school to graduate. 
 
 Notes I'll be making as I move toward graduation. This will eventually compliment [these notes](https://github.com/weecology/lab-wiki/wiki/UF-Policies:-Graduating).

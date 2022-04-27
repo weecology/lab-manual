@@ -2,12 +2,12 @@
 ---
 title: "Working with Ponycopters"
 linkTitle: "Ponycopters"
+type: book
 description: >
   The most important skill you will learn.
 ---
 
 IMPORTANT - READ THIS PAGE FIRST!
-
 
 Are ponycopters the key to long-term success? **Yes.**
 

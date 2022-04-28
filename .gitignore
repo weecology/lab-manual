@@ -1,0 +1,4 @@
+resources/_gen/*
+go.sum
+.hugo_build.lock
+jsconfig.json

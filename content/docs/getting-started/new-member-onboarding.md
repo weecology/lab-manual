@@ -131,7 +131,9 @@ Offsite backup of lab computers is best done using the *T: drive*. [Access instr
 
 The lab printer is located in room 015 and accessible from the UFL network at `10.242.89.51`. You may need to [download and install drivers](https://support.hp.com/us-en/drivers/selfservice/hp-color-laserjet-pro-mfp-m478-m479-series/19202514/model/19202521) before adding it as a printer in order for it to function properly.
 
-### [Shared Spaces](https://github.com/weecology/lab-wiki/wiki/Policies-for-Shared-Spaces)
+### Shared Spaces
+
+[Learn about lab spaces and how to use them](/docs/lab-policy-procedures/lab-space)
 
 # Campus Resources
 

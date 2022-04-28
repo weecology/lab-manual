@@ -7,6 +7,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
+  - name: Wiki
     url: docs/
     weight: 20

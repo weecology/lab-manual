@@ -42,7 +42,7 @@ Support is available to get WFR or first aid/CPR certified/re-certified. Let us 
 
 If someone gets bitten by a rattlesnake, call 911. This will connect you to the NM dispatcher who will then connect you to the Cochise dispatcher. You will need a helicopter to Tucson, because nearby hospitals don't carry antivenom.
 
-## Zoonoses
+### Zoonoses
 
 To the best of our collective knowledge, nobody has ever contracted a disease because of fieldwork with the Portal rodents. Possible diseases that could be contracted through contact with rodents are:
 

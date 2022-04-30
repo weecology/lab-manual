@@ -3,11 +3,11 @@ title: "Computer Setup - Mac"
 type: book
 ---
 
-**Terminal**
+## Terminal
 
 This is an application on Macs. It is opened by double-clicking on the icon, which should bring up a small window with a black background. The Terminal is used to move around in the file directory, rearrange files, and use git. 
 
-**Python**
+## Python
 
 _IDE_
 
@@ -20,7 +20,7 @@ _Links to get started coding in Python_
 _Using git/GitHub_
 
 
-**R**
+## R
 
 _Installing R_
 
@@ -33,15 +33,14 @@ _Projects_
 _Using git/GitHub_
 
 
-**Dependencies**
+## Dependencies
 
 
-
-**Git/GitHub**
+## Git/GitHub
 
 Resources: [Software Carpentry] (http://swcarpentry.github.io/git-novice/), [Jenny Bryan's course website](http://stat545-ubc.github.io/git00_index.html), [Roger Dudler cheatsheet] (http://rogerdudler.github.io/git-guide/) 
 
-_Installing git_
+### Installing git
 
 1. Open up the Terminal, type in "git" and press enter.
 
@@ -53,21 +52,21 @@ _Installing git_
 
 5. To make sure this worked, type in "git" in the Terminal and press enter. Some information will come up, including a list of common commands. 
 
-_Configuring Git_
+### Configuring Git
 
 There's some basic info on Git setup from [software carpentry](https://swcarpentry.github.io/git-novice/02-setup/). If you are also setting up a GitHub account, be sure to use the same email address, so that when you use Git on your computer and *push* the changes to GitHub, it identifies you correctly.
 
 On a mac, browsing folders in finder also tends to generate `.DS_Store` files. You generally don't want to include those in your repositories, so here are [some instructions](https://www.jeffgeerling.com/blogs/jeff-geerling/stop-letting-dsstore-slow-you) to ignore such files globally.
 
-_Installing Xcode_
+### Installing Xcode
 
-_GitHub_
+### GitHub
 
 Create a GitHub account by going to https://github.com/ 
 
 This is a service that allows you to store your code, project management materials, etc., online. It allows for other people to look at your work (if the repo is public). It also saves all the versions of your code as you change it, which is referred to as version control. This eliminates the need for creating multiple copies of code as you change it (e.g., folder with files called "data_analysis", "data_analysis_3", "data_analysis_45", "data_analysis_final", and "data_analysis_final_really") and you can use the online GitHub interface to easily look back at previous versions of your code and see what was changed. 
 
-_Repositories_
+### Repositories
 
 A repository is where you put all of the materials related to single project. One repository per project. 
 

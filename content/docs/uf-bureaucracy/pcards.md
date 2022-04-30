@@ -35,7 +35,7 @@ description: >
   * The phone number associated with the account is 352 392 1331. 
   * This information is in the email from the PCard office that tells you your application was approved. You won't get a separate piece of mail with a PIN. 
 
-## General Info:
+## General Info
 This section is for general info commonly needed for PCard Purchases
 
 * Billing Address: University of FLorida, PO Box 110430, Gainesville FL 32611-0430

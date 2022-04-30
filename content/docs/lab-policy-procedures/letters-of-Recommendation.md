@@ -5,13 +5,13 @@ type: book
 
 One of Ethan & Morgan's jobs is writing letters of recommendation (or otherwise serving as references) for folks who have gone through the group. Your primary advisor is always happy to serve as a reference. If you'd also like a to get a reference from the other one of us just ask.
 
-### Process
+## Process
 
-#### References
+### References
 
 In cases where all that is required is contact information for references just send us a short message that tells us you're applying for the job and includes a link to the announcement. We'll use this if we get asked to provide a reference. Having it in our email is handy in case this happens on short notice. Make clear in the message that you've just listed us and that there is nothing for us to do unless contacted.
 
-#### Letters of recommendation
+### Letters of recommendation
 
 In cases where we need to write a letter up front, do the following:
 

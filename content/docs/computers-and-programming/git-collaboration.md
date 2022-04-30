@@ -156,7 +156,3 @@ Objective: I want to fix issue #1 in the https://github.com/weecology/portalr re
 9. Get the updates to the master branch [`git pull`]
 (optionally) Delete the branch on GitHub. [GitHub web interface, "Code" tab, "## branches"]
 (optionally) Delete the branch on my local machine. [`git branch -d hao-add-biomass-function`]
-
-
-
-

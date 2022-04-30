@@ -8,7 +8,7 @@ weight: 4
 [Page is a  Work in Progress]
 Welcome to Weecology! We are super excited that you're joining us. (We only take people into our group that we are super excited about!).
 
-### Overview
+## Overview
 
 This onboarding checklist is designed to help you get up to speed and integrated with our group. It is not perfect. If you get stuck or confused, make sure to reach out to someone! Good people to contact probably depend on what exactly you're confused about, but here are some suggestions:
 1) the newest member of the lab group you are joining has probably recently struggled with whatever you are struggling with. In the White lab this is Virnaliz Cruz and in the Ernest lab it is Renata Diaz.
@@ -19,15 +19,15 @@ This onboarding checklist is designed to help you get up to speed and integrated
 
 We're always trying to improve the onboarding experience, so keep track of the things that you wished there was more information on or anything confusing. You'll get a chance at this end of this checklist to suggest improvements!
 
-### Stage 1 Onboarding: Learning about Weecology and Getting Set Up
+## Stage 1 Onboarding: Learning about Weecology and Getting Set Up
 
-#### Physical setup
+### Physical setup
 - [ ] Ask Glenda to show you where your copy of the onboarding checklist is on GitHub and how to check off completed tasks. 
 - [ ] Request your computer. Every weecologist gets a computer for their work/educational responsibilities. Tell Glenda if you want a laptop or desktop, and whether you want a windows, mac, or linux machine. Keep in mind that this computer is university property. It's assigned to you for work/educational purposes and when you end your official association with the lab, your computer will have to stay with us.
 - [ ] (Remote People Only) If you are working remotely, check out the [Remote Working Checklist](https://github.com/weecology/lab-wiki/wiki/Remote-Working-Checklist) for additional steps on computer set-up and HR paperwork that applies to you.
 - [ ] (Local People Only) You will need a key to Building 150. Keys for new folks come from the WEC Building Manager, Cameron Carter (ccriderr@ufl.edu). Email Cameron (Cc'ing Ethan and/or Morgan, depending on who your primary supervisor is) and let him know that you're a new member of the group and ask him for a key to Building 150.
 
-#### Get set up on Lab Communication Platforms
+### Get set up on Lab Communication Platforms
 - [ ] Ask Glenda to show you where your copy of the onboarding checklist is on GitHub and how to check off completed tasks. 
 - [ ] Request your computer. Every weecologist gets a computer for their work/educational responsibilities. Tell Glenda if you want a laptop or desktop, and whether you want a windows, mac, or linux machine. Keep in mind that this computer is university property. It's assigned to you for work/educational purposes and when you end your official association with the lab, your computer will have to stay with us.
 - [ ] Check that Glenda has set you up on the weecology spaces for:
@@ -44,25 +44,25 @@ We're always trying to improve the onboarding experience, so keep track of the t
      - [ ] Have Ethan, Morgan, or Glenda assign you to the boards that are relevant to your work duties.
 - [ ] Optional: Add other calendars to your **Weecology** calendar to stay informed on other events. This can be done by finding the + sign by “Other Calendars”. Commonly used calendars include “ethan”, “morgan”, “conference room”, “UF Weecology Seminars”, and portalproject1977@gmail.com (the portal calendar for keeping track of when trips are occurring)
  
-#### Familiarize Yourself with Lab Culture and Values:
+### Familiarize Yourself with Lab Culture and Values:
 - [ ] Read the [Way of Weecology]( https://github.com/weecology/lab-wiki/wiki/Way-of-Weecology)
 - [ ] Read the [Lab Code of Conduct]( https://github.com/weecology/lab-wiki/wiki/WEecology:-Code-of-Conduct)
 - [ ] Read the [Software Code of Conduct]( https://github.com/weecology/lab-wiki/wiki/Programming:-Software-Project-Code-of-Conduct)
 - [ ] Read [Lab Member Rights and Responsibilities](coming soon)
 - [ ] Read the [RA/TA rights](https://github.com/weecology/lab-wiki/wiki/WEecology:-RA-TA-Rights) policy.
 
-#### Familiarize Yourself about Lab Procedures:
+### Familiarize Yourself about Lab Procedures:
 - [ ] Read lab policies about [Collaborating on GitHub ](https://github.com/weecology/lab-wiki/wiki/Programming:-Collaborating-in-Git-GitHub)
 - [ ] Read about our [self-assessment process](https://github.com/weecology/lab-wiki/wiki/WEecology:-Annual-self-assessment)
 - [ ] Read about the [Lab Meeting Overview](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting) and [Formats](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-Meeting-Format-Description) pages
 - [ ] Read the [Social Events](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-social-events) policy
  
-#### Explore and Get to Know Folks
+### Explore and Get to Know Folks
 - [ ] Look at the Personnel Page on the Weecology website. Is there anyone on the active list that you haven’t met yet? Contact them and say hi. Maybe set up a videomeeting or a coffee/tea/water break to chat.
 - [ ] Read through the Lab-Wiki sidebar. Read at least one page not linked to in the onboarding guide
 - [ ] Apply your slack knowledge by DM’ing Hao Ye (a former postdoc in the lab and current UF Reproducibility Librarian). Introduce yourself and say you’ve been sent to ask about the Weecology tea policy! (Don’t worry, he’s expecting this!)
 
-#### Setting Up Your Computer
+### Setting Up Your Computer
 - [ ] Choose R and/or Python (you can always change or add the other later!). People in our groups use R and/or Python as their primary programming language. Most people use R, but if you have more serious software engineering or image processing plans in mind, talk to your advisor about Python. If in doubt, talk to your advisor or other lab members. 
   * For R:  
     - [ ] [Download and Install R](https://cran.rstudio.com/). Site includes a windows, linux, and MacOS version. Windows users: you want the base install
@@ -85,9 +85,9 @@ We're always trying to improve the onboarding experience, so keep track of the t
 
 Congratulations! You have gotten yourself prepared to start working with the group! You’re now ready for Stage 2 of Onboarding: Engaging with the Science and Tools.
 
-### Stage 2: Engaging with the Science and Tools
+## Stage 2: Engaging with the Science and Tools
 
-#### Learn about the Lab Intellectual Space:
+### Learn about the Lab Intellectual Space:
 - [ ] Work through the [Weecology reading list](https://github.com/weecology/lab-wiki/wiki/WEecology:-Lab-reading-list). (note: the reading list is still in development). For each of the subject areas read the overview paper.  
     - [ ] Portal Project Overview
     - [ ] Macroecology Overview
@@ -99,7 +99,7 @@ Congratulations! You have gotten yourself prepared to start working with the gro
     - [ ] Read the paper
     - [ ] Set up a meeting with that person to chat about their paper
 
-#### Learn about commonly used lab computational tools:
+### Learn about commonly used lab computational tools:
 - [ ] Learn about Git and GitHub.  
     - [ ] Go through the [Git for Humans]( https://speakerdeck.com/alicebartlett/git-for-humans) slide show. It’s a good high-level introduction to what Git is and the jargon associated with it.
     - [ ] Read [What Is GitHub? A Beginner’s Introduction to Github](https://kinsta.com/knowledgebase/what-is-github/). This will explain the relationship between Git and GitHub.
@@ -112,7 +112,7 @@ Congratulations! You have gotten yourself prepared to start working with the gro
 - [ ] Identify a new page the lab wiki needs or a major change to an existing page (i.e. is there info you felt would be better moved onto one page? Something that should be added to the onboarding process? A page you wish existed?).
     - [ ] Create an issue in the [Lab Wiki](https://github.com/weecology/lab-wiki) Repo that explains your proposed change/addition.
 
-### Wrap-up
+## Wrap-up
 
 **Congrats! You have completed the onboarding process!** Remember to keep checking on the lab wiki to see if it has information that might be useful to you. Pages that aren't relevant to you now may become important to you in the future as your role and skills evolve!
 

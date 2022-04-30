@@ -31,5 +31,3 @@ There are times when your code might not seem to work. Apart from the brilliant 
 
 * [RStudio Community](https://community.rstudio.com/) for R-specific questions
 * [Stack Overflow](https://stackoverflow.com/) for programming questions
-
-

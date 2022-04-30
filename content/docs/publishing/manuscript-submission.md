@@ -115,5 +115,3 @@ Fax: (352) 392-6984
 Do not forget your co-authors through this process. You do not have to go through this on your own. They can help you brainstorm how to deal with difficult issues, help run analyses to deal with concerns, help draft language for the response letter or implement revisions to the manuscript. 
 
 Hopefully you have a good relationship with your co-authors and they are actively engaged, however often co-authors are more peripheral to a project (e.g., had a limited role in the analyses/manuscript). It can be easy to forget them as you manage all the moving parts of the review process. Professionally, however, you need to make sure they are OK with the manuscript during all the phases of this process. To do this we recommend following the [Collaborative Writing Guide](https://github.com/weecology/lab-wiki/wiki/Collaborative-writing). Regardless, you must ALWAYS have all co-authors sign off on the final version of the manuscript before submitting. 
-
-#### *(Other potential topics)*

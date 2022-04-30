@@ -3,15 +3,15 @@ title: "HiPerGator Reference"
 type: book
 ---
 
-# What is HiperGator?
+## What is HiperGator?
 
 A University of Florida super-computing cluster. 
 
-# Why should I use it?
+## Why should I use it?
 
 HiperGator gives the user access to very large processing/memory/storage. This is useful for projects which can't be run on your local laptop.
 
-# How do I access it?
+## How do I access it?
 
 0. [Request an account](http://www.rc.ufl.edu/help/account-request/)
 
@@ -24,7 +24,7 @@ Need help with command line? A good tutorial is available at [Software Carpentry
 <img src="https://github.com/weecology/lab-wiki/blob/master/uploads/Image%202018-09-19%20at%2010.03.57%20AM.png" height="400">
 
 
-# How do I run a job?
+## How do I run a job?
 
 For large analysis, you should submit a *batch script* that tells Hipergator how to run your code. Let's look at an example and walk through it. 
 
@@ -70,9 +70,9 @@ Rscript my_R_script.R
 
 If you are successful, you'll get a small message stating your job ID. Once your batch job is running, you can freely log out (or even turn off your local machine) and wait for an email telling you that it finished.  You can log back in to see the results later.
 
-# Interactive work
+## Interactive work
 
-## CPU
+### CPU
 
 If you are running into errors, need to install a package in your local directory, or want to download some files, you should use a development server. This is good practice and nice to other people who are logged into the main head node. 
 
@@ -83,7 +83,7 @@ ml ufrc
 srundev --time 3:00:00 --mem 2GB
 ```
 
-## GPU
+### GPU
 
 To test out work involving a GPU you need to explicitly request a development node associated with a GPU. For many GPU tasks you may want a meaningful amount of memory.
 
@@ -91,7 +91,7 @@ To test out work involving a GPU you need to explicitly request a development no
 srun -p gpu --gpus=1 --constraint=cuda11 --mem 20GB --pty -u bash -i
 ```
 
-# How do I know if its running?
+## How do I know if its running?
 
 Use squeue -u <username>
 
@@ -104,7 +104,7 @@ Use squeue -u <username>
 
 The column labeled "S" is your job status. You want this to be `R` for "running", but it can spend a while as `Q` (in the queue) before starting, especially if you request many cores. Sometimes (but not always) the output will explain why you're still in the queue (e.g. QOSMEMLIMIT if you're using too much memory).
 
-# How do I get my data on to HiperGator?
+## How do I get my data on to HiperGator?
 
 * Often, the easiest way to transfer files to the server is using `git clone`.
 
@@ -116,7 +116,7 @@ If you prefer a Dropbox-like interface, you can also hook GatorBox up to HiperGa
 
 [More information about storage](https://www.rc.ufl.edu/about/policies/storage/)
 
-# Storage
+## Storage
 
 There are a few locations to store files on the hipergator
 
@@ -147,13 +147,13 @@ Our current allocations as of July 2019
 
 ***
 
-# Best Practices
+## Best Practices
 
 Below are a collection of best practices by past Weecology Users. These are not the only way to do things, just some useful tools that worked for us.
 
-## R
+### R
 
-## Installing packages
+#### Installing packages
 
 HiPerGator has a lot of packages installed already, but you might need to install your own, or you might want an updated version of an existing package.
 
@@ -161,7 +161,8 @@ You can tell R to prefer your personal library of R packages over the ones maint
 
 The end result will look like this.
 
-```[b.weinstein@dev1 ~]$ cat ~/.Rprofile
+```
+[b.weinstein@dev1 ~]$ cat ~/.Rprofile
 .libPaths(c("/home/b.weinstein/R_libs", .libPaths()))
 
 print(".Rprofile loaded")
@@ -199,7 +200,7 @@ Type 'q()' to quit R.
 
 Once this is set up, you can install or update packages the usual way (e.g. with `install.packages` or `devtools::install_github`).
 
-# Re-writing your code to take advantage of multiple cores. 
+## Re-writing your code to take advantage of multiple cores. 
 By default R runs on a single processor. Most computers today have 4-8 processors. If you spread the work out to multiple processors you can decrease the amount of time it takes to run by significantly. For example: a script that takes 1 hour to run can potentially take 0.5 hours with 2 processors, or 15 minutes with 4 processors. To make your scripts run across multiple processors, you'll have to make some slight adjustments to your code.
 
 If your code uses `lapply` to run your main function to many items (e.g. fitting a model to each species), you can swap it for `mclapply` from the `parallel` package without making any substantial changes. For more details and advanced uses, here are 2 short tutorials that go over this:
@@ -212,7 +213,7 @@ Some quick notes:
 * If your code already uses functions and for loops, it should be very easy to make it parallel, unless each pass through the loop depends on the outcome from previous passes.
 * On your own computer, never set the amount of processors used to the max available. This will take away all the processing power needed to run the operating system, browser, and other programs, and could potentially crash your computer. To test out parallel code on my computer I set the number of processors to use at 2 (out of 8 available).
 
-## Batchtools
+### Batchtools
 
 Recently, the R package batchtools has made simple parallel job submissions in R much easier. No more bash scripting, just submit a set of jobs by mapping a function to a list of inputs. Here is an example.
 
@@ -345,9 +346,9 @@ Status for 10 jobs at 2019-05-21 14:43:03:
 ```
 
 
-# Python
+## Python
 
-## Installing Python Packages
+### Installing Python Packages
 
 * ssh onto HiperGator
 * Download the conda installer: `wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh`
@@ -356,7 +357,7 @@ Status for 10 jobs at 2019-05-21 14:43:03:
 * Install packages using `conda install package_name`
 * Run `conda activate` as the first step in your slurm script 
 
-## Dask Parallelization
+### Dask Parallelization
 
 Dask can be submitted through dask-jobqueue. 
 
@@ -398,7 +399,7 @@ Dask can be submitted through dask-jobqueue.
     wait(futures)
 ```
 
-## Connecting through jupyter notebooks.
+### Connecting through jupyter notebooks.
 
 Its useful to be able to interact with hipergator, without having to rely solely on the terminal. Especially when dealing with large datasets, instead of prototyping locally, then pushing to the cloud, we can connect directly using a jupyter notebook.
 
@@ -488,9 +489,9 @@ echo $PYTHONPATH
 python train.py --mode train
 ```
 
-# Support
+## Support
 
- [Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
+[Request Support](https://support.rc.ufl.edu/enter_bug.cgi).
 
 Hipergator staff are here to support you. Our grant money pays their salary. They are friendly and eager to help. When in doubt, just ask.
 
@@ -523,7 +524,7 @@ for the normal queue, and
 `sacctmgr show qos ewhite-b format="Name%-16,GrpSubmit,MaxWall,GrpTres%-45"`   
 for the "burst" queue.   
 
-# Partitions
+## Partitions
 The HiperGator consists of hundreds of servers. These a split up into several "partitions" for various reasons.
 
 The two primary partitions which you'll use the most are `hpg1-compute`, and `hpg2-compute`.
@@ -540,9 +541,11 @@ There are a few other partitions available.
 * `hpg2-dev` - These are several servers for development purposes. When you use `srundev` the jobs get sent here.
 * `gui` - For jobs where you want to run a GUI (graphical user interface). 
 
-**Selecting a partition** By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`. 
+### Selecting a partition
 
-# Check if running on HiPerGator
+By default you'll run jobs on the `hpg2-compute` partitions. If you want to change it, edit the `--partition` line in your job script, or use the `-p` command in `srun`. 
+
+## Check if running on HiPerGator
 
 Sometimes it's useful to have code execute one way on your local computer and another way on the HPC. For HiPerGator you can do this by checking the environmental variable HOSTNAME and looking to see if it contains `ufhpc`. For example, in R
 
@@ -562,6 +565,6 @@ if(grepl("ufhpc", nodename)) {
 }
 ```
 
-# Using RStudio on the hipergator
+## Using RStudio on the hipergator
 
 See the main Wiki page here on running gui programs. https://help.rc.ufl.edu/doc/GUI_Programs#Start_a_GUI_Session_on_HiPerGator

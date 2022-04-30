@@ -4,7 +4,7 @@ linkTitle: "Code Style Guide"
 type: book
 ---
 
-# Guiding Principles
+## Guiding Principles
 
 This document provides a guide to code structure and formatting across languages used within the Weecology projects. Links to language-specific guides are provided below.
 
@@ -14,21 +14,21 @@ Generally, this guide follows the principles outlined [here](http://journals.plo
 3. Use consistent, distinct, and meaningful names
 4. Employ consistent style and formatting
 
-# Structure 
+## Structure 
 
-## Modularize
+### Modularize
 
 * Break code into chunks corresponding to contained tasks 
 * Whenever possible write code into functions, even if the function isn't called repeatedly
 
-## Loops
+### Loops
 
 * Loop should be used with repeated tasks unless you actually need the indices
 * If the language allows, use vectorized functions in place of loops to speed computation and reduce code volume
 
-# Style
+## Style
 
-## Naming
+### Naming
 
 * Be concise and meaningful, but conveying meaning is more important than brevity
     * Document abbreviations if they are not common or immediately intuitive
@@ -45,19 +45,19 @@ Generally, this guide follows the principles outlined [here](http://journals.plo
         * using an established name in a language (e.g., `n` references the number of draws from a random variable in R)
 * Constants, and only constants, should be in all caps
 
-## White space
+### White space
 
 * spaces after commas
 * spaces around operators (unless inside the argument definitions in Python)
 * no spaces around parentheses
 
-## Line length
+### Line length
 
 * Lines <= 80 characters
     * But a few extra characters can be better than confusing contortions to make length
 * Parentheses/brackets/braces with breaks after commas are typically better than line break characters (but not always)
 
-## Indentation
+### Indentation
 
 * Always indent to indicate that code is inside a function, loop, etc. (Python makes you do this. Thanks Python!)
 * Use spaces, not tabs (but it's fine for you IDE to turn the tab key into spaces)
@@ -70,25 +70,25 @@ Generally, this guide follows the principles outlined [here](http://journals.plo
      more_things)
     ```
 
-## References
+### References
 
 * Magic numbers (numeric references to elements, columns, rows, etc.) should be avoided. 
 * References should be made by name or-in the case of loops-position. 
 
-# Documentation
+## Documentation
 
-## In-line commenting
+### In-line commenting
 
 * [Document what the code does and how to use it, not how it does it](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745#s8)
 
-## External documentation
+### External documentation
 
 * Use standard documentation comment styles
     * R: [roxygen](http://r-pkgs.had.co.nz/man.html)
     * Python: [docstrings](https://www.python.org/dev/peps/pep-0257/)
     * These can create formatted documentation, but they are useful visual indicators even if you don't do this
 
-# Language specific style guides
+## Language specific style guides
 
 * Follow official language style guides (within reason). This helps make your code broadly readable and makes external contributions more likely.
     * Python: [Official Python Style Guide (PEP8)](https://www.python.org/dev/peps/pep-0008/)

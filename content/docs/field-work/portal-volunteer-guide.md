@@ -3,8 +3,6 @@ title: Portal Volunteer Guide
 type: book
 ---
 
-# A volunteer's guide to Portal
-
 ## UF paperwork
   * If this is your first time volunteering, you'll need to complete this form: https://www.whitney.ufl.edu/media/wwwwhitneyufledu/images/files/UF-Record-of-Volunteer-Service.pdf
     * If you're not UF-affiliated, you'll need to get a UFID. One will be assigned to you by Dan Deep 
@@ -43,12 +41,14 @@ You can bring electronics, although there is a risk of them getting dusty or rai
 
 
 ## Traveling logistics
+
 ### Flying
-  * Your travel expenses will be covered.
-  * Keep track of how much you spend getting to the airport (taxi, public transit fee, or gas + a per mile reimbursement if you drive your own car). You don't need to turn in your receipt unless you go over the per diem, but it's good to keep track.
-  * Keep track of how much you spend on meals while traveling. You don't need to keep the receipts, but they can be helpful for keeping track of your expenses.
-  * Depending on when you arrive, the rA will pick you up in Tucson in our field truck. There is also a hotel shuttle that can pick you up. You may need to go with the RA to pick up the field truck from its storage unit. 
-  * We often have to gate check rollaboard carryons. If you gate check your bag, make sure to confirm whether to pick it up planeside or at baggage claim. Make sure you keep essential items, including medication, with you at all times.
+
+* Your travel expenses will be covered.
+* Keep track of how much you spend getting to the airport (taxi, public transit fee, or gas + a per mile reimbursement if you drive your own car). You don't need to turn in your receipt unless you go over the per diem, but it's good to keep track.
+* Keep track of how much you spend on meals while traveling. You don't need to keep the receipts, but they can be helpful for keeping track of your expenses.
+* Depending on when you arrive, the rA will pick you up in Tucson in our field truck. There is also a hotel shuttle that can pick you up. You may need to go with the RA to pick up the field truck from its storage unit. 
+* We often have to gate check rollaboard carryons. If you gate check your bag, make sure to confirm whether to pick it up planeside or at baggage claim. Make sure you keep essential items, including medication, with you at all times.
 
 ### In Tucson
 * Generally, the RA will pay for things because it's easier to keep track of the reimbursement that way. If you need to buy something, keep track of how much it was.
@@ -57,7 +57,9 @@ You can bring electronics, although there is a risk of them getting dusty or rai
 * It's a 3 hour drive to the site from Tucson. We'll stop halfway to fill up on gas. The travel stop has good bathrooms.
 
 ## Portal
+
 ### Safety
+
 * We want to maintain a field experience that is as safe and accessible as possible. Please bring any medications you will need. If you have any medical conditions that may pose a risk to your safety while in the field, please let the RA know so we can make good decisions. If anything might be exacerbated by stress, walking, heat and cold, or changes in diet, bear this in mind. If there are any accommodations we can make to improve your comfort or safety, we are more than happy to do that (and get creative!). If at any time you feel like work at the site is causing you harm, prioritize your health and safety. You can always opt out.
 * Stay hydrated! We bring lots of water, and we can go up the canyon to get more.
 * Human health is more important than data. Take breaks when you need them.
@@ -67,7 +69,9 @@ You can bring electronics, although there is a risk of them getting dusty or rai
 * We've never had a problem with rodent-borne disease or parasites.
 * There aren't any large dangerous predators at the site.
 * There is pepper spray in the driver side door of the truck.
+
 ### Creatures
+
 * There are rattlesnakes, scorpions, spiders, and centipedes at the site. Look before you put your hand into anything that might be described as a crevice. 
 * *Rattlesnakes*: Stay alert for a rattle. We have gaiters we use to cover our ankles when we're walking around the site in the summer. Be especially alert moving quickly through clumps of grass and when opening/closing gates. 
 * *Scorpions*: Be careful about sticking your hand into dense clumps of grass or under rocks. Use a headlamp at night to avoid scorpions. Keep your shoes inside a tent/the truck, or make sure you shake them out before you put your feet in them. Most of the scorpions at the site probably have painful but not dangerous stings. Renata's internet research suggests the Arizona bark scorpion (https://en.wikipedia.org/wiki/Arizona_bark_scorpion) is potentially problematic, but most of the scorpions Renata has seen are Vaejovids, which are not. 
@@ -75,7 +79,8 @@ You can bring electronics, although there is a risk of them getting dusty or rai
 * There is a large woodrat midden in the corner of the ramada (our shed). We don't really touch it.
 
 ### Alan
-Alan is Morgan's dad. He often meets us at the site and helps with the census. He brings two of his dogs. They're medium size and vocal, but they mostly interact with Alan...
+Alan is Morgan's dad. He often meets us at the site and helps with the census. He brings two of his dogs. They're medium size and vocal, but they mostly interact with Alan.
+
 ### Logistics
 * We sleep in the truck, either in the back (it is a closed bed pickup truck, so the back of the truck has room for two tall people to stretch out) or horizontally across the front and back seats. Sleeping inside the cab might be warmer. When there are many people, or personal preference, we pitch tents around the area where we park the truck.
 * We go to the bathroom in a designated area a little way away from the camping area. We pack out toilet paper, and bury waste when appropriate. We may be able to drive to flush toilets during the day on Saturday, but unfortunately there's no way for us to completely avoid having to go to the bathroom outdoors.
@@ -84,7 +89,6 @@ Alan is Morgan's dad. He often meets us at the site and helps with the census. H
 * Please let the RA know about dietary restrictions and preferences. We're happy to get whatever groceries we need.
 * There is no electricity at the site. We do have a solar panel, which allows us to run small electronics (LED lights, charging phones, etc). 
 * We will not trap if there is > 50% chance of rain and the overnight low is goign to be < 45 degrees. This is to keep the rodents from getting too cold.
-
 
 ### Friday afternoon/evening
 * We'll unpack the truck and set up our living space.

@@ -9,11 +9,11 @@ description: >
 
 *Start this process early as approval will take a few weeks.*
 
-### Important Notes:  
+## Important Notes
 Include the protocol number in the subject line of any emails to IACUC: **201808839**  
 CC Morgan and Glenda in your communications to relevant offices.  
 
-### Register with myIACUC
+## Register with myIACUC
 
 Go to https://my.iacuc.ufl.edu and log in with your Gatorlink username and password and register as "study staff". (If you are not on campus, you will need to use VPN to access my.iacuc.)
 
@@ -21,7 +21,7 @@ You will receive a notice when you have been approved.
 
 Let Glenda know you have been approved and she will file a modification in the protocol to add you.   
 
-### Forms
+## Forms
 
 Fill out the EH&S [AC Form](http://webfiles.ehs.ufl.edu/ACForm.pdf).
   * Supervisor (for Portal): Morgan (352-294-2082; skmorgane@ufl.edu)
@@ -37,9 +37,9 @@ Email to Supervisor to sign and turn in (email completed form to OccMedClinic-Ri
 
 Notify the IACUC office (iacuc@research.ufl.edu) that the form has been completed.  
 
-### Training
+## Training
 
-#### AALAS
+### AALAS
 
 Complete the AALAS modules available at: http://www.aalaslearninglibrary.org. 
 * "Working with the IACUC (For Ag and Wildlife)"
@@ -58,14 +58,12 @@ _Optional: Download the CEU and Exam certificates for each training, for your ow
  
 Once these requirements have been completed, please notify the IACUC office at iacuc@research.ufl.edu. Please make sure to include the protocol number in the subject line of any emails. If you have any questions, please contact the IACUC office at (352) 273-9535.
 
-#### Responsible Conduct of Research (RCR)
+### Responsible Conduct of Research (RCR)
 
 Required for NSF sponsored projects
 
 Follow instructions here: https://research.ufl.edu/rcr/rcr-training/citi-rcr-training/
 
-### Once Completed 
+## Once Completed 
 
 Refresher courses will be required periodically.
-
-

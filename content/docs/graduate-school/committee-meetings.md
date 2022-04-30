@@ -5,7 +5,7 @@ type: book
 weight: 4
 ---
 
-#### Scheduling a time to meet
+## Scheduling a time to meet
 
 Committee meetings usually only need to be an hour long. 
 
@@ -21,7 +21,7 @@ It can be very tricky to find a time when all committee members are free (especi
 * Email all the members back letting them know what time the meeting is and where it will be held. 
 * Send a reminder email 24-48 hours in advance that includes an agenda. 
 
-#### Rooms that can be reserved for meetings
+## Rooms that can be reserved for meetings
 
 * In Newins-Ziegler, rooms 135 or 376. Person to contact to reserve the room is Elaine Culpepper (birdrule@ufl.edu). 
 * Rooms can also be reserved in McCarty D. Person to contact to reserve is Virginia Mauldin in McCarty D 1008. 

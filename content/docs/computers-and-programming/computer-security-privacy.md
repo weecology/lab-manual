@@ -15,7 +15,7 @@ A password manager keeps track of the various passwords you use for different we
 * Apple's iCloud Keychain is another option if you have all Apple devices. Here's a [discussion](https://www.macworld.com/article/3060630/ios/why-not-pick-keychain-instead-of-1password-or-lastpass.html) on the differences with third-party password managers.
 * Since your email usually allows you to reset passwords, it can be preferable to NOT put your email password into your password manager, and instead to secure your email with another strong passphrase.
 
-### Passphrases
+## Passphrases
 
 Because password managers are secured by a single master passphrase (that unlocks all your passwords), it is recommended that you use a strong passphrase.
 * One method is to string together random words, possibly with capitalization and special characters added.

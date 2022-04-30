@@ -3,17 +3,17 @@ title: Portal Rodent Sampling Trips
 type: book
 ---
 
-### Trip Description
+## Trip Description
 
 A Portal weekend consists of two nights of rodent trapping.  We fly out Thursday and stay overnight in Tucson. Friday morning, we pick up the field truck and any supplies we need and drive 3 hours to the site.  Friday night just before sunset we'll set traps on half of the site's 24 plots -- this procedure takes about 2 hours.  Saturday morning we get up just before dawn and process animals in the full traps.  The rodent RA (Ellen or Renata) will be the one actually handling the animals while the volunteer records data and assists with equipment.  Volunteers can handle "exiled" rodents if they are interested.  Saturday night, we'll set traps on the other half of the plots, and Sunday morning will be the same as Saturday morning.  Sunday afternoon, we'll break camp and head back to Tucson, stay in a hotel again, and fly back on Monday morning.
 
-### Schedule and Volunteers
+## Schedule and Volunteers
 
 The current schedule for trips, the RA leading the trip, and both scheduled and prospective volunteers is available here (this document is private due to the names and dates):
 
 <https://example.com>
 
-### Things a volunteer should bring:
+## Things a volunteer should bring:
 
 * Sleeping bag (and sleeping pad, though we have some extras in the truck)
 * Headlamp
@@ -26,7 +26,7 @@ The current schedule for trips, the RA leading the trip, and both scheduled and 
 * Chapstick
 * Something to keep yourself occupied during down time (book, music, etc.)
 
-### Some other things to keep in mind:
+## Some other things to keep in mind:
 
 * We take care of all the food and related items (you don't need to bring coffee, snacks, plates, utensils, etc. unless you want to)
 * This is a rustic camping situation, meaning no bathroom facilities and no water supply except what we bring in (we have several large jugs we can fill for drinking and washing dishes).  
@@ -35,7 +35,7 @@ The current schedule for trips, the RA leading the trip, and both scheduled and 
 * There is somewhat limited cell reception at the site, depending on your carrier
 * If you love plants, consider coming down for our week-long plant censuses in March and August
 
-### All the forms
+## All the forms
 
 [Travel Authorization](http://www.wec.ufl.edu/resources/travel/Travel%20Authorization%201.2.pdf) - to be turned in prior to trip
 * send to the WEC fiscal team (wecfiscal@ifas.ufl.edu) at least a week before travel
@@ -64,17 +64,17 @@ The current schedule for trips, the RA leading the trip, and both scheduled and 
 
 More information on travel at UF can be found [here](http://www.fa.ufl.edu/wp-content/uploads/2018/02/2018-Travel-Brochure.pdf)
 
-### List of people interested in volunteering
+## List of people interested in volunteering
 
 * Elise Morton
 * Wes Boone
 * Katie Hooker
 * Lauren Trotta
 
-### Downloading tags
+## Downloading tags
 
 * You need a Windows machine with BioTerm installed. The weather station laptop works.
 * Connect the scanner using the USB adapter.
 * Open BioTerm. Make sure the BAUD rate is 9600. Select Open.
 * Using the scanner, press READ, then MENU until it says "Downloaded tags". Press the down arrow, then READ. It will ask if you want to send all tags. Press READ. The tags *should* appear in the BioTerm text box. You may need to squeeze the adapter into the scanner so you get a really secure connection (the screw is really difficult to turn all the way). In theory you can also type "G" into the BioTerm text box and the tags will appear, but Renata has mixed success with this.
-* Save the newtags in the Portal dropbox. 
+* Save the newtags in the Portal dropbox.

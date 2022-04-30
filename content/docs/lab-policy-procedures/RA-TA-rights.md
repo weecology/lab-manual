@@ -69,21 +69,8 @@ If you have concerns about how the university decision was made (for whatever re
 * Your supervisor cannot punish you for the time required to participate in grievance meetings (i.e. they cannot withhold pay or deny you time off to attend the meeting.
 * There is a detailed process in the contract for how to proceed with a Grievance. Long story short, contact the UFF-GAU (graduate student union) and let them help you through this process. 
 
-
-
-
-
-
-
-
-
-
-
-
 ## When can a RA/TA be terminated?
 * Continued failure to perform duties specified in the letter of appointment
 * Failure to make appropriate progress towards degree
 * Documented misconduct/incompetence (must be on record with the department)
 * Lack of funds as a result of adverse financial conditions (Unclear if this means at the university level or if the grant suddenly turns out to lack money)
-
-

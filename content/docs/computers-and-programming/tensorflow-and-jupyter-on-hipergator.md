@@ -4,7 +4,7 @@ linkTitle: "HiPerGator - Tensorflor & Jupyter"
 type: book
 ---
 
-# Starting a tensorflow session using the hipergator's GPU
+## Starting a tensorflow session using the hipergator's GPU
 
 You can open an interactive session on the hipergator using the dedicated gpu purchased. To do so, follow these steps:
 
@@ -39,7 +39,7 @@ If you need some guidance, ask Sergio (or purchase) "Deep learning with Python",
 Enjoy your Neural Networks!
 
 
-# Starting a tensorflow session and a jupyter notebook
+## Starting a tensorflow session and a jupyter notebook
 
 This script will start a jupyter notebook on the hipergator. The details of how to connect will change each time, so instructions for connecting will be saved to `jupyter.log`.
 
@@ -87,7 +87,7 @@ tail -f jupyter.log
 ```
 
 
-# Tensorboard
+## Tensorboard
 
 To launch tensorboard on the server, either start a job with the following commands or type them into a development session:
 

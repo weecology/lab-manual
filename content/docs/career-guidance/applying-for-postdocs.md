@@ -7,7 +7,7 @@ description: >
   Advice when applying to and interviewing for post doc positions.
 ---
 
-### Funding
+## Funding
 
 Allison Barner has very helpfully put together a google spreadsheet of postdoc fellowships (get your own money=freedom to do what you want):
 https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0
@@ -16,7 +16,7 @@ Beckman Postdoctoral Fellows (http://www.beckman-foundation.org/programs/beckman
 
 "Understanding Dynamic and Multi-scale Systems" at the McDonnell Foundation that might be a good fit for several folks in the group https://www.jsmf.org/apply/fellowship/index.htm 
 
-### Finding a position
+## Finding a position
 
 There are also many sites where people who may already have money for a postdoc post ads (get paid from someone else's grant = less freedom to do what you want):
 
@@ -28,9 +28,7 @@ Society for Conservation Biology http://careers.conbio.org/jobs/
 
 ESA job board https://www.esa.org/esa/careers-and-certification/job-board/
 
-### General advice
-
-### Investigate the lab
+## Investigate the lab
 
 Talk to people at different career stages who have worked in that lab (current and former students/postdocs). Current students can give you insights into what things are like now, but may feel inhibited to speak freely since their careers depend in part on their current supervisor. Former students can be more uninhibited, but may lack understanding of the current state in the lab (depending on how long ago they finished). Ask the same questions of many people and then think about those answers. Are the answers generally consistent? Are there differences in responses? Are there patterns in those differences in responses (i.e. differences between students and postdocs? Men and women? People from marginalized groups?)? Are people enthusiastic when they respond or meh? For example: "I loved working for them!" provides clear positive information. "Yeah, it was fine" may indicate the person is uncomfortable talking about their experience. One person responding negatively is not necessarily a bad sign (no one is capable of providing a universally great experience for everyone), but a pattern is not good and requires some thought about what is going on and what it may mean for you.
 

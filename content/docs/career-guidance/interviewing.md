@@ -7,11 +7,9 @@ description: >
   What to expect and how to prepare for a job interview.
 ---
 
-# Intro
-
 Congratulations!! You're at the stage where you're being interviewed remotely (e.g. skype, zoom, phone) or in-person. Here is some info on preparing.
 
-# Interview Format
+## Interview Format
 
 First, note that many places do interviews differently, so it helps to read up a bit on the format/structure of the interview process. Below are some resources relevant to academic interviews:
 
@@ -20,7 +18,7 @@ First, note that many places do interviews differently, so it helps to read up a
 * [interviewing (teaching college oriented)](https://thewayofimprovement.com/2017/07/10/how-to-interview-at-a-teaching-college)
 * [interviewing (skype)](https://xykademiqz.com/2016/12/22/skyping-your-way-into-or-out-of-a-faculty-job/)
 
-# Responding to Questions
+## Responding to Questions
 
 The format of the interview can make it challenging to give the best impression of yourself. Usually, a group of people will ask you questions, and give you time/space to give a freeform response without a back-and-forth that would usually occur in a conversation designed to reach a consensus on a topic. (One supposes this helps to keep the process fair to each applicant, and enable responses to be comparable.)
 
@@ -35,6 +33,6 @@ For example, for "tell us about your qualifications in teaching":
 
 It can help to practice, on your own or with colleagues. The above links have some sample questions you can work from.
 
-# Asking questions of your own
+## Asking questions of your own
 
 In many cases, you'll have some time to ask questions of your own. You can demonstrate interest by asking about aspects of the position that are unclear, or about the interview process (e.g. "when will I hear back about the next step").

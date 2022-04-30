@@ -13,18 +13,18 @@ The standard dissertation proposal in the lab is to write a 5 page grant proposa
 
 We also recognize that given the diverse career interests of folks in the labs that in some cases there may be different approaches to the proposal aspect of the PhD that are optimal given your interests. If you would like to discuss an alternative approach please let your advisor know.
 
-### Timing
+## Timing
 
 Some time during years 2-4 of the PhD program, typically during year 3. This is far enough into your program for you to have thought thoroughly about your research and make a plan to base the proposal on.
 
-### Steps for the Proposal
+## Steps for the Proposal
 
 1. At least 2 months before your qualifying exam discuss your plan for your proposal with your advisory.
 2. Draft your proposal.
 3. At least 1 month before your qualifying exam given your draft proposal to your advisor for feedback.
 4. At least 2 weeks before your qualifying exam send your proposal to your entire committee.
 
-### Proposals written by weecology students
+## Proposals written by weecology students
 
 * [Renata Diaz's Proposal](dissertation-proposal-renata-diaz.pdf)
 * [Sergio Marconi's Proposal](dissertation-proposal-sergio-marconi.pdf)

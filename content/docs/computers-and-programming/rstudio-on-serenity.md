@@ -9,7 +9,7 @@ We have a lab server which is fairly powerful. It has 32GB of RAM and a 2 core I
 
 Note you must be on campus to use serenity, or logged in via the VPN. 
 
-# Using RStudio
+## Using RStudio
 Open a browser and go to http://serenity.ifas.ufl.edu:8787 and login with your serenity username and password. Note this will only work when on campus. For off campus access see below.  
 This runs exactly like RStudio on your desktop. You'll have to re-install any packages that you need.
 This works great for code that takes a long time to run. You can start something, then close the browser and Rstudio will keep running on serenity. 

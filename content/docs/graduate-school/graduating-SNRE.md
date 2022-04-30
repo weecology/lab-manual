@@ -37,14 +37,14 @@ The UF Graduate school requires:
 All these steps are logged in the [Graduate Information Management Systems (GIMS)](https://gradschool.ufl.edu/gimsportal/gatorlink/portal.asp). They also have very strict deadlines outlined below. There is also an [official checklist](http://graduateschool.ufl.edu/graduate-life/graduation/graduation-checklist/).
 
 ## Other Notes
+
 Start discussing defense/graduation least 2 semesters *before* you intend to finish with:
-* Your advisor
-* Your committee
-* Karen Bray - (Karen will ensure everything outlined above completed)  
 
-Also let Karen know your defense date as soon as you know it. They will provide the set of forms which will be signed by your committee. 
+* Your advisor - tell you advisor what semester you're hoping to finish. You'll have a discussion about whether or not this is feasible and what tradeoffs, constraints might need to be dealt with. Once you have settled on a semester, you should form your time line.
+* Your committee - Once you and your advisor are happy with you timeline. Contact your committee to see if the general timing works for them. Will people be traveling/unavailable during the week you're hoping to defend?
+* Karen Bray - Make sure you're actually good to graduate. Karen will ensure your grad school requirements are complete and that you aren't missing anything vital. Do this as soon as the semester you wish to graduate is clear to you in case you are missing credits. Also let Karen know your defense date as soon as you know it. They will provide the set of forms which will be signed by your committee. 
 
-## Final Semester Timeline
+## Final Semester Milestones
 
 | Event                         | Deadline                             | Notes                                                                                                                          |   |
 |-------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---|

@@ -3,7 +3,7 @@ title: "Pcards"
 linkTitle: "Pcards"
 type: book
 weight: 4
-description: >
+summary: >
   How to get and use a university credit card (Pcard) for making purchases
 ---
 

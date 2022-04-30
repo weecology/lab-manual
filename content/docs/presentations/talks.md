@@ -3,7 +3,7 @@ title: "Talks and Other Oral Presentations"
 linkTitle: "Talks"
 type: book
 weight: 4
-description: >
+summary: >
   How to present you're work as a talk.
 ---
 

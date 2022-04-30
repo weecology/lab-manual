@@ -3,7 +3,7 @@ title: "Interviewing"
 linkTitle: "Interviewing"
 date: 2017-01-05
 type: book
-description: >
+summary: >
   What to expect and how to prepare for a job interview.
 ---
 

@@ -3,7 +3,7 @@ title: "Applying For Postdoc Positions"
 linkTitle: "Applying For Postdocs"
 date: 2017-01-05
 type: book
-description: >
+summary: >
   Advice when applying to and interviewing for post doc positions.
 ---
 

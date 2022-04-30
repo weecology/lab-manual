@@ -3,7 +3,7 @@ title: "Poster Presentations"
 linkTitle: "Posters"
 type: book
 weight: 4
-description: >
+summary: >
   How to present you're work as a poster.
 ---
 

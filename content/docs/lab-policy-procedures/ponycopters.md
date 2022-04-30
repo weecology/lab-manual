@@ -1,9 +1,8 @@
-
 ---
 title: "Working with Ponycopters"
 linkTitle: "Ponycopters"
 type: book
-description: >
+summary: >
   The most important skill you will learn.
 ---
 

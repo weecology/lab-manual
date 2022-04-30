@@ -2,7 +2,7 @@
 title: "Collaborative Writing Process"
 linkTitle: "Collaborative Writing Process"
 type: book
-description: >
+summary: >
   The weecology procedure for coordinating writing on papers with more than one author
 ---
 

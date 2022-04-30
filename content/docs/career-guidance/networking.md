@@ -1,6 +1,6 @@
 ---
 title: "Networking"
 type: book
-description: >
+summary: >
   Under Development
 ---

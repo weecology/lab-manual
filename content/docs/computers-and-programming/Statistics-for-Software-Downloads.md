@@ -2,7 +2,7 @@
 title: "Statistics for Software Use"
 linkTitle: "Software Use Statistics"
 type: book
-description: >
+summary: >
   "How to get statistics on the number of downloads for software projects
 ---
 

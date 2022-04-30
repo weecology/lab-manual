@@ -1,7 +1,7 @@
 ---
 title: "R Resources"
 type: book
-description: >
+summary: >
   Links to useful R resources on the web
 ---
 

@@ -8,12 +8,6 @@ summary: " "
 
 A Portal weekend consists of two nights of rodent trapping.  We fly out Thursday and stay overnight in Tucson. Friday morning, we pick up the field truck and any supplies we need and drive 3 hours to the site.  Friday night just before sunset we'll set traps on half of the site's 24 plots -- this procedure takes about 2 hours.  Saturday morning we get up just before dawn and process animals in the full traps.  The rodent RA (Ellen or Renata) will be the one actually handling the animals while the volunteer records data and assists with equipment.  Volunteers can handle "exiled" rodents if they are interested.  Saturday night, we'll set traps on the other half of the plots, and Sunday morning will be the same as Saturday morning.  Sunday afternoon, we'll break camp and head back to Tucson, stay in a hotel again, and fly back on Monday morning.
 
-## Schedule and Volunteers
-
-The current schedule for trips, the RA leading the trip, and both scheduled and prospective volunteers is available here (this document is private due to the names and dates):
-
-<https://example.com>
-
 ## Things a volunteer should bring:
 
 * Sleeping bag (and sleeping pad, though we have some extras in the truck)

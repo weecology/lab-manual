@@ -63,6 +63,10 @@ The current schedule for trips, the RA leading the trip, and both scheduled and 
 * only rodent RAs and volunteers who are starting projects at the site will need this form filled out
 * tetanus shot is required
 
+[Field Vehicle Log](https://wec.ifas.ufl.edu/media/wecifasufledu/files/Vehicle-Use-Record-Mileage.pdf) - All mileage logs (original, scanned, or a picture) must be submitted to WECFiscal@ifas.ufl.edu monthly. You have until the 5th of the month to provide the prior month to WECFiscal@ifas.ufl.edu. Please be sure to fill out all fields of the logs completely and accurately including the [project number to be charged](https://github.com/weecology/lab-wiki/wiki/Accounts). Use a separate sheet for each month and DO NOT combine months on the same log. Also, if the vehicle is not used during the month, we will still need the vehicle log with the latest mileage with No Use written on the log.
+
+[Vehicle Safety](https://www.facilitiesservices.ufl.edu/_library/motorpool_safety.pdf) Required annually. Do this when you get the truck serviced/oil changed. Fill out form and submit at [Motor Pool » Facilities Services](https://motorpool.facilitiesservices.ufl.edu/aspx/safetyForm.aspx).
+
 More information on travel at UF can be found [here](http://www.fa.ufl.edu/wp-content/uploads/2018/02/2018-Travel-Brochure.pdf)
 
 ## List of people interested in volunteering

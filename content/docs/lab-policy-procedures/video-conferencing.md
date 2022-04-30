@@ -1,6 +1,8 @@
 ---
 title: Video Conferencing
 type: book
+summary: >
+  UF uses Zoom. We like it. Here's how to use it.
 ---
 
 For now, can be used as our permanent meeting room for any meeting I'm in (my account is Pro, so meetings are not capped at 40 minutes).

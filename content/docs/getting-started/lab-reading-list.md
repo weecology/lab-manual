@@ -1,6 +1,9 @@
 ---
 title: Lab Reading List
 type: book
+summary: >
+  Reading lists for getting started on areas of lab research
+weight: 3
 ---
 
 [This page is still a work in progress]

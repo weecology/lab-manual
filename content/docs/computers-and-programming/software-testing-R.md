@@ -1,6 +1,7 @@
 ---
 title: "Software Testing in R"
 type: book
+summary: " "
 ---
 
 https://github.com/weecology/rtestpackage

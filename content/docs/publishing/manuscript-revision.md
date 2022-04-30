@@ -2,6 +2,8 @@
 title: "Revising a manuscript after review"
 linkTitle: "Manuscript Revison"
 type: book
+summary: >
+  How to revise a manuscript in response to peer review
 weight: 3
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Portal Volunteer Guide
 type: book
+summary: " "
 ---
 
 ## UF paperwork

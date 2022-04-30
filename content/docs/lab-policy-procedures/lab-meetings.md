@@ -1,6 +1,8 @@
 ---
 title: Lab Meetings
 type: book
+summary: >
+  How to get the most out of lab meetings you are leading
 ---
 
 ## Lab Meeting Purpose

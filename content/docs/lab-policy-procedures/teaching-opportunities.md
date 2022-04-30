@@ -1,6 +1,8 @@
 ---
 title: "Teaching Opportunities"
 type: book
+summary: >
+  Want to teach, there are lots of ways to teach, here are some options
 ---
 
 Teaching opportunities are available for folks in the group who want to develop teaching skills and experience or just like to teach others.

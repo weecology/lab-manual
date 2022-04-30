@@ -2,6 +2,8 @@
 title: Working on Projects Without Your Advisor
 linkTitle: Advisor Free Projects
 type: book
+summary: >
+  Guidelines for projects that don't involve your advisor
 ---
 
 While many labs require that all projects involve the advisors at some level, we are supportive of advisor-free projects. These projects can give you a chance to establish your independence and learn to collaborate in a non-student-advisor scenario. Many weecologists do at least one project that doesn't involve their advisor.

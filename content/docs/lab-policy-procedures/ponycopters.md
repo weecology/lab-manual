@@ -3,7 +3,7 @@ title: "Working with Ponycopters"
 linkTitle: "Ponycopters"
 type: book
 summary: >
-  The most important skill you will learn.
+  The secret to success.
 ---
 
 IMPORTANT - READ THIS PAGE FIRST!

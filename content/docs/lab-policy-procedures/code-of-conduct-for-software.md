@@ -2,6 +2,8 @@
 title: Software Project Code of Conduct
 linkTitle: Software Code of Conduct
 type: book
+summary: >
+  A standard code of conduct to be applied to group software projects
 ---
 
 This is the general-purpose code of conduct that we use for lab software projects, to facilitate inclusive interactions between the lab and outside contributors.

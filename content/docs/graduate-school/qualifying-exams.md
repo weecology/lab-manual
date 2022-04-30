@@ -2,6 +2,8 @@
 title: "Qualifying Exams"
 linkTitle: "Qualifying Exams"
 type: book
+summary: >
+  Lab philosophy and approach to running qualifying exams
 weight: 4
 ---
 

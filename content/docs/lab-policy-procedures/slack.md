@@ -1,6 +1,8 @@
 ---
 title: Slack
 type: book
+summary: >
+  Some general guidelines for using Slack for communication within the group
 ---
 
 Slack is Weecology's internal communication system. Think of it as an email/texting hybrid. It plays a vital role in our group by keeping team members informed of each other's activities, allowing weecologists to see what other groups are doing, and to leverage our breadth of knowledge and expertise to help each other. Information on  specifics of how to use Slack can be found by reading [Slack 101](https://slack.com/resources/slack-101) to learn slack basics.

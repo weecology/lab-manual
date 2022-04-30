@@ -2,7 +2,9 @@
 title: "Onboarding Checklist"
 linkTitle: "Onboarding Checklist"
 type: book
-weight: 4
+summary: >
+  A checklist to help you work through the process of onboarding step by step
+weight: 2
 ---
 
 [Page is a  Work in Progress]

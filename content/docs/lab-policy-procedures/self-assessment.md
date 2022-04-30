@@ -1,6 +1,8 @@
 ---
 title: Self assessments
 type: book
+summary: >
+  Guidelines for annual self-assessment process to help you accomplish what you want to accomplish
 ---
 
 ## Goal

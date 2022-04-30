@@ -1,6 +1,7 @@
 ---
 title: "HiPerGator Reference"
 type: book
+summary: " "
 ---
 
 ## What is HiperGator?

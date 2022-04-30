@@ -1,6 +1,8 @@
 ---
 title: "myUF Market"
 type: book
+summary: >
+  How to buy things through the myUF Market
 weight: 4
 ---
 

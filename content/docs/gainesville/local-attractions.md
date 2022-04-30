@@ -1,6 +1,8 @@
 ---
 title: Things to do in Gainesville
 type: book
+summary: >
+  Fun things to do in and around Gainesville
 ---
 
 ## Things to do when family and friends visit Gainesville

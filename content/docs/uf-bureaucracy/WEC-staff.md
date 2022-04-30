@@ -1,6 +1,8 @@
 ---
 title: WEC Staff
 type: book
+summary: >
+  Who to talk to about what for departmental staff needs
 ---
 
 If something seems is going wrong, especially if you have some scary warnings holding on your tuition and fees status, this is the page for you!

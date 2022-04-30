@@ -1,6 +1,8 @@
 ---
 title: Graduating - SNRE
 type: book
+summary: >
+  How to finish your MS or PhD if you're in the SNRE program at the University of Florida
 ---
 
 This document outlines the official steps required by SNRE and the UF Grad school to graduate. 

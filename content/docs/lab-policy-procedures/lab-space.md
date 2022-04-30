@@ -1,6 +1,8 @@
 ---
 title: Lab Space
 type: book
+summary: >
+  Information on rooms (and stuff in those rooms) and how to use them
 ---
 
 ## Conference Room

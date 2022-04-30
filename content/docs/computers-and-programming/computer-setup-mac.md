@@ -1,6 +1,7 @@
 ---
 title: "Computer Setup - Mac"
 type: book
+summary: " "
 ---
 
 ## Terminal

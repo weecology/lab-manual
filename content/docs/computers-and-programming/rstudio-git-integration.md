@@ -2,6 +2,7 @@
 title: "Using Git From RStudio"
 linkTitle: "RStudio + Git"
 type: book
+summary: " "
 ---
 
 Just a brief introduction on how to easily set up a Git/GitHub repo in RStudio:

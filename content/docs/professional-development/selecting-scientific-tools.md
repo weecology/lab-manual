@@ -1,6 +1,8 @@
 ---
 title: Selecting Scientific Tools
 type: book
+summary: >
+  There is a universe of computational and other scientific tools out there. How do you pick which ones to use?
 ---
 
 This page started as a lab meeting discussion of how to choose among different options for scientific tools (mostly focused on programming).

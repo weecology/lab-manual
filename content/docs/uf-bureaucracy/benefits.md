@@ -2,6 +2,8 @@
 title: "University of Florida Benefits"
 linkTitle: "UF Benefits"
 type: book
+summary: >
+  Links to information on benefits for UF employees
 weight: 4
 ---
 

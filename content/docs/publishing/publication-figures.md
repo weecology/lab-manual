@@ -2,6 +2,8 @@
 title: "Publication Quality Figures"
 linkTitle: "Publication Figures"
 type: book
+summary: >
+  How to make publication quality figures
 weight: 1
 ---
 

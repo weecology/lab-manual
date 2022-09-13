@@ -25,3 +25,30 @@ Align photos places the images from a single physical camera into a common refer
 
 To view the coordinate system and alignment, view the 'reference' tab in the bottom left.
 <img width="1486" alt="Screen Shot 2022-09-13 at 11 29 45 AM" src="https://user-images.githubusercontent.com/1208492/189982143-23d88091-a64b-4eed-a4df-1cd94040a3f9.png">
+
+### Set Coordinate Reference System
+
+We are confident that the Inspire knows its geospatial accuracy to about 10m, and the pitch degree to about 1m. 
+<img width="1476" alt="Screen Shot 2022-09-13 at 11 38 42 AM" src="https://user-images.githubusercontent.com/1208492/189983775-5c3d4efa-d6a2-4c92-b3fc-4492810a44f7.png">
+
+## Set Marker Points
+If we don't have ground control points we can skip this step.
+
+## Build Dense Cloud
+
+Workflow -> Build Dense Cloud
+
+The dense point cloud is required to build an elevation model to convert the 2D images into a 3d surface. 
+
+## Build Digital Elevation Model
+
+The elevation model projects the images into 3D space and is saved as a seperate .tif file.
+
+Workflow -> Build DEM
+
+## Build Orthomosaic
+
+Use the digital elevation model and the dense point cloud to create a single stitched model of the entire colony.
+
+<img width="1651" alt="image" src="https://user-images.githubusercontent.com/1208492/189990313-2fd7e259-e314-46b6-b811-e14a8e7795b2.png">
+
